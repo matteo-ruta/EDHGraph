@@ -5,7 +5,6 @@ EDHRec is a useful tool for searching Commander decks. Using web scraping, we in
 
 We first looked at the 600 most used commanders on EDHRec, getting information on related colours and common subtypes. We used these data as features for a PCA (Principal Component Analysis), which projected our data into a 2-dimensional space. From there, we used Lloyd's algorithm and k-means++ to solve a k-means clustering problem. We choose k=100, so each cluster is expected to be of size 6. From the clusters, we identified the closest point from the centroid (a "proxy" for that centroid), whose function is to represent the whole cluster for our data sample. In total, we ended up with 100 commanders (one for each cluster).
 
-### TODO
 From this list of commanders, we looked at the amount of decks $d_c$ for each commander $c$ on EDHRec. We computed the ratio between that number and the total number of possible decklists we could choose using only the commanders in our list. We call this value
 
 $$p_c=\frac{d_c}{\sum_{c'}{d_{c'}}}$$
