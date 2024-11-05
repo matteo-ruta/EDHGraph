@@ -13,3 +13,7 @@ This number represents the probability that we could get a deck for commander $c
 
 ## Graph creation
 Once we had the set of decklists, we proceed to create our graph. Each node is associated to unique card, and 2 cards are linked with an edge if and only if they appered in the same decklist at least once. Each edge is weighted with the exact amount of deckists which contains both cards.
+
+# Repository Content
+
+clusterer.pkl is a file containing the clusterer trained on data and used for the sampling of the whole dataset. It's useful to have a copy, so that if you need you can load it and work on the same exact cluster as everybody
