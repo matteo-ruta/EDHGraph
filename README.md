@@ -18,7 +18,7 @@ Once we had the set of decklists, we proceed to create our graph. Each node is a
 
 ## data_collection
 Contains all the code relative to the creation of the net, from the scraping part to the construction of the graph.
-- 'input.txt': contains the updated version of the input for 'request.py', so basically which and how many decks were downloaded. Was populated by 'dim_reduction.py'
-- 'request.py': script that downloads decks as specified in 'input.txt'
-- 'dim_reduction.py': gathered the information stored in 'top_commaders' directory and computes a PCA + clustering as specified above. It stores the output in 'input.txt'
-- 'dim_reduction_model.pkl': scikit-learn model used for the Pca + clustering part in 'dim_reduction.py' NOTE: in order to get the same result, you shall put this file in the same folder of 'dim_reduction.py' before run it on local!
+- `input.txt`: contains the updated version of the input for `request.py`, so basically which and how many decks were downloaded. Was populated by `dim_reduction.py`
+- `request.py`: script that downloads decks as specified in `input.txt`
+- `dim_reduction.py`: gathered the information stored in `top_commaders` directory and computes a PCA + clustering as specified above. It stores the output in `input.txt`
+- `dim_reduction_model.pkl`: scikit-learn model used for the Pca + clustering part in `dim_reduction.py` NOTE: in order to get the same result, you shall put this file in the same folder of `dim_reduction.py` before run it on local!
