@@ -93,4 +93,4 @@ if __name__ == "__main__":
                     print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\n")
 
                 # avoid congestion
-                time.sleep(AVG_SLEEP_TIME + round(random.uniform(0, 0.75), 2))
+                time.sleep(round(random.gauss(AVG_SLEEP_TIME, 0.5), 2))
