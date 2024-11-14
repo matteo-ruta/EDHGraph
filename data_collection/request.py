@@ -3,6 +3,7 @@ import sys
 import json
 import requests
 import time
+import random
 from bs4 import BeautifulSoup
 from save import Deck, StorageManager
 
@@ -92,4 +93,4 @@ if __name__ == "__main__":
                     print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\n")
 
                 # avoid congestion
-                time.sleep(1.75)
+                time.sleep(AVG_SLEEP_TIME + round(random.uniform(0, 0.75), 2))
