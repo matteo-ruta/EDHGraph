@@ -11,8 +11,9 @@ import matplotlib.cm as cm
 from matplotlib.colors import ListedColormap
 import mplcursors
 
-DATA_REPOSITORY = "C:\\Dati\\Università\\magistrale_pd\\II_anno_I_semestre\\Learning from Networks\\Project\\top_commanders\\"
+DATA_REPOSITORY = ".\\data_collection\\top_commanders\\"
 TARGET_EXT = ".json"
+CLUSTERER_MODEL_FILE_NAME = "dim_reduction_model.pkl"
 
 def readDataAsDictionaries() -> list:
     """
@@ -107,30 +108,43 @@ if __name__ == "__main__":
 
     data = np.asarray(list(map(lambda deck : dictToArray(deck, vocab), data_as_dicts)))
     labels = np.asarray([deck["name"] for deck in data_as_dicts])
-
-    scaler = StandardScaler()
-    data = scaler.fit(data).transform(data)
-
-    pca = PCA(n_components=2)
-    projected_data = pca.fit(data).transform(data)
-    print(projected_data.shape)
-
-    # clustering
     n_clusters = 100 # chosen so to have E[commanders per cluster] = 6
 
-    clusterer = KMeans(n_clusters).fit(projected_data)
-    cluster_labels = clusterer.labels_
+    scaler = StandardScaler()
+    pca = PCA(n_components=2)
+    clusterer = KMeans(n_clusters)
 
-    # save clusterer, so to have the same proxies once chosen
-    with open("clusterer.pkl", "wb") as f:
-        pickle.dump(clusterer, f)
+    projected_data = []
+
+    if CLUSTERER_MODEL_FILE_NAME in os.listdir():
+        with open(CLUSTERER_MODEL_FILE_NAME, "rb") as f:
+            scaler, pca, clusterer = pickle.load(f)
+        
+        data = scaler.transform(data)
+        projected_data = pca.transform(data)
+        print("Previous model found")
+    else:
+        scaler.fit(data)
+        data = scaler.transform(data)
+        
+        pca.fit(data)
+        projected_data = pca.transform(data)
+        
+        clusterer.fit(projected_data)
+        with open(f".\\data_collection\\{CLUSTERER_MODEL_FILE_NAME}", "wb") as f:
+            pickle.dump((scaler, pca, clusterer), f)
+        print("No prevoius model found, creating new model")
+
+    # clustering
     
+    assert type(projected_data) == type(data), f"Assertion error: projected_data numpy.ndarray"
+
     cluster_centroids = clusterer.cluster_centers_
-    cluster_i_am_in = clusterer.predict(projected_data)
+    cluster_labels = clusterer.predict(projected_data)
 
     proxy_indicies = []
-    for cl_label in cluster_labels:
-        cluster_elements_indexes = [index for index in range(len(cluster_i_am_in)) if cluster_i_am_in[index] == cl_label]
+    for cl_label in range(n_clusters):
+        cluster_elements_indexes = [index for index in range(len(cluster_labels)) if cluster_labels[index] == cl_label]
         centroid = cluster_centroids[cl_label]
 
         min_dist = -1
@@ -155,7 +169,7 @@ if __name__ == "__main__":
     print("Sum:", total_sum_of_quantities)
     print("Final sum after rounding:", np.sum(final_proxy_quantities))
 
-    with open("input.txt", "w", encoding="utf-8") as f:
+    with open(".\\data_collection\\input.txt", "w", encoding="utf-8") as f:
         for i in range(len(proxy_indicies)):
             line = f"{data_as_dicts[proxy_indicies[i]].get("name").replace("//", "")}-{final_proxy_quantities[i]}\n"
             f.write(line)

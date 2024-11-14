@@ -7,7 +7,7 @@ from pyedhrec import EDHRec, utils
 
 JSON_URL = "https://json.edhrec.com/pages"
 COMMANDERS_URL = "https://edhrec.com/commanders"
-STORAGE_REPOSITORY = "C:\\Dati\\Università\\magistrale_pd\\II_anno_I_semestre\\Learning from Networks\\Project\\top_commanders\\"
+STORAGE_REPOSITORY = ".\\data_collection\\top_commanders\\"
 COMMANDERS_FILE_RADIX = "commanders"
 COMMANDERS_FILE_EXT = ".json"
 RESUME_FILE = "last_page.txt"

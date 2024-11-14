@@ -1,7 +1,7 @@
 import json
 import os
 
-STORAGE_REPOSITORY = "C:\\Dati\\Università\\magistrale_pd\\II_anno_I_semestre\\Learning from Networks\\Project\\decks\\"
+STORAGE_REPOSITORY = ".\\data_collection\\decks\\"
 VOCAB_STORAGE_FILE = "vocab.txt"
 URLHASH_STORAGE_FILE = "progress.json"
 
