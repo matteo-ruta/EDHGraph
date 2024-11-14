@@ -1,0 +1,302 @@
+Infect
+Planeswalkers
+Phyrexians
++1/+1 Counters
+Counters
+Proliferate
+Sagas
+Energy
+-1/-1 Counters
+Angels
+Tokens
+Lifegain
+Artifacts
+Group Hug
+Enchantress
+Control
+Midrange
+Fungi
+Combo
+Birthing Pod
+Stax
+Historic
+Aggro
+Horrors
+Equipment
+Good Stuff
+Legends
+Hydras
+Merfolk
+Wheels
+Ramp
+Mill
+Extra Turns
+Mutants
+Voltron
+Auras
+Pillow Fort
+Snow
+Elves
+Flying
+Deathtouch
+Blink
+Mutate
+Reanimator
+X Spells
+Cantrips
+Zombies
+Lands Matter
+Clones
+Politics
+Sacrifice
+Exile
+Praetors
+Spirits
+Tempo
+Toughness Matters
+Aristocrats
+cEDH
+Card Draw
+Keywords
+Toolbox
+Group Slug
+Oozes
+Primal Surge
+Hatebears
+Humans
+Frogs
+Dragons
+Treasure
+Shapeshifters
+Big Mana
+Dragon's Approach
+Extra Combats
+Attack Triggers
+Burn
+Jegantha Companion
+Stompy
+ETB
+Commander Matters
+Multicolor Matters
+Party
+Chaos
+Power
+Zoo
+Anthems
+Land Destruction
+Ninjutsu
+Ninjas
+Topdeck
+Unblockable
+Rogues
+Counterspells
+Theft
+Ad Nauseam
+Bounce
+Delver
+Discard
+Scry
+Storm
+Monarch
+Knights
+Cycling
+Zirda Companion
+Curses
+Graveyard
+Landfall
+Forced Combat
+Dinosaurs
+Soldiers
+Nobles
+Self-Mill
+Eldrazi
+Guildgates
+Spellslinger
+Gods
+Dredge
+Cascade
+Clues
+Vehicles
+Devotion
+Robots
+Defenders
+Aikido
+Cheerios
+Obosh Companion
+Walls
+Slivers
+Morph
+Myr
+Exalted
+Umori Companion
+Dungeon
+Giants
+Goblins
+Pingers
+Donate
+Spell Copy
+Persistent Petitioners
+Rat Colony
+Wizards
+Allies
+Convoke
+Peasants
+Haste
+Tap / Untap
+Keruga Companion
+Vampires
+Lifedrain
+Madness
+Amass
+The Ring
+Orcs
+Wraiths
+Polymorph
+Samurai
+Warriors
+Demons
+Shadowborn Apostles
+Sneak Attack
+Sunforger
+Kaheera Companion
+Enrage
+Fight
+Discover
+Doctors
+Lords
+Elders
+Hand Size
+Foretell
+Cats
+Avatars
+Affinity
+Squirrels
+Food
+Eggs
+Elementals
+Tyranids
+Prowess
+Skeletons
+Populate
+Wurms
+Boars
+Beasts
+Dogs
+Clerics
+Gyruda Companion
+Sea Creatures
+Relentless Rats
+Shrines
+Rock
+Shamans
+Tron
+Constructs
+Artificers
+Halflings
+Treefolk
+Self-Damage
+Life Paying
+Necrons
+Shades
+Impulse Draw
+Bards
+Prison
+Goad
+Blue Moon
+Assassins
+Explore
+Faeries
+Unnatural
+Druids
+Rad Counters
+Insects
+Sphinxes
+Wolves
+Werewolves
+Day / Night
+Dwarves
+Astartes
+Snakes
+Flash
+Birds
+Horses
+Crabs
+Kavu
+Rats
+Golems
+Nightmares
+Advisors
+Detectives
+Lizards
+Pirates
+Turtles
+Bears
+Elephants
+Spiders
+Die Roll
+Attractions
+Apes
+Monkeys
+Modular
+Monks
+Suspend
+Extra Upkeeps
+Plants
+Foxes
+Glass Cannon
+Fling
+Connive
+Deserts
+Saprolings
+Devils
+Lurrus Companion
+Kithkin
+Adventures
+Hellbent
+Specters
+Rabbits
+Raccoons
+Weenies
+Descend
+Ogres
+Coin Flip
+Viashino
+Kor
+Stoneblade
+Blood
+Creatureless
+Centaurs
+Scarecrows
+Illusions
+Drakes
+Offspring
+Kobolds
+Serpents
+Surveil
+Berserkers
+Lhurgoyfs
+Unicorns
+Krakens
+Dryads
+Djinns
+Minotaurs
+Fish
+Rebels
+Phoenixes
+Trolls
+Rhinos
+Time Counters
+Otters
+Land Animation
+Gnomes
+Daleks
+Rooms
+Gorgons
+Spellshapers
+Bats
+Crocodiles
+Outlaws
+Mercenaries
+Vanilla
+Crime
+Moonfolk
