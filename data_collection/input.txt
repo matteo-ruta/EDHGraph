@@ -1,0 +1,600 @@
+Atraxa, Praetors' Voice-100
+The Ur-Dragon-76
+Yuriko, the Tiger's Shadow-65
+Kenrith, the Returned King-61
+Edgar Markov-58
+Chulane, Teller of Tales-21
+Miirym, Sentinel Wyrm-60
+Edgar Markov-58
+Kinnan, Bonder Prodigy-34
+Yarok, the Desecrated-30
+Kaalia of the Vast-56
+Derevi, Empyrial Tactician-21
+Gishath, Sun's Avatar-54
+Jodah, the Unifier-53
+Tayam, Luminous Enigma-16
+Esika, God of the Tree-50
+Shorikai, Genesis Engine-50
+Tayam, Luminous Enigma-16
+Kynaios and Tiro of Meletis-22
+Giada, Font of Hope-46
+Pantlaza, Sun-Favored-46
+Brago, King Eternal-23
+Pantlaza, Sun-Favored-46
+Aragorn, the Uniter-45
+Tasigur, the Golden Fang-17
+Atla Palani, Nest Tender-43
+Sliver Overlord-18
+Teysa Karlov-43
+Muldrotha, the Gravetide-43
+Go-Shintai of Life's Origin-42
+Meren of Clan Nel Toth-42
+Henzie "Toolbox" Torre-41
+Zhulodok, Void Gorger-41
+Niv-Mizzet, Parun-41
+Teysa Karlov-43
+Niv-Mizzet, Parun-41
+Edgar Markov-58
+Atraxa, Grand Unifier-40
+K'rrik, Son of Yawgmoth-39
+Prosper, Tome-Bound-39
+Nicol Bolas, the Ravager-20
+Gishath, Sun's Avatar-54
+Tom Bombadil-38
+Nicol Bolas, the Ravager-20
+Brago, King Eternal-23
+Omnath, Locus of All-36
+Jhoira, Weatherlight Captain-18
+Urza, Lord High Artificer-36
+Edgar Markov-58
+Yarok, the Desecrated-30
+Derevi, Empyrial Tactician-21
+Anikthea, Hand of Erebos-28
+Sisay, Weatherlight Captain-34
+Oloro, Ageless Ascetic-34
+Kinnan, Bonder Prodigy-34
+The Wise Mothman-34
+Kinnan, Bonder Prodigy-34
+Shalai and Hallar-25
+Anikthea, Hand of Erebos-28
+Winota, Joiner of Forces-28
+Shalai and Hallar-25
+Lord Windgrace-26
+Derevi, Empyrial Tactician-21
+Prossh, Skyraider of Kher-15
+Magda, Brazen Outlaw-31
+Go-Shintai of Life's Origin-42
+Muldrotha, the Gravetide-43
+Dihada, Binder of Wills-27
+Yarok, the Desecrated-30
+Ghave, Guru of Spores-18
+Ghave, Guru of Spores-18
+Kynaios and Tiro of Meletis-22
+Anikthea, Hand of Erebos-28
+Teysa Karlov-43
+Teysa Karlov-43
+Morophon, the Boundless-28
+Sen Triplets-14
+Anikthea, Hand of Erebos-28
+Ulalek, Fused Atrocity-28
+Prossh, Skyraider of Kher-15
+Gargos, Vicious Watcher-16
+Winota, Joiner of Forces-28
+The Gitrog Monster-17
+Falco Spara, Pactweaver-13
+Dihada, Binder of Wills-27
+Alela, Cunning Conqueror-27
+Jhoira, Weatherlight Captain-18
+Slimefoot and Squee-22
+Ghave, Guru of Spores-18
+Lord Windgrace-26
+Ixhel, Scion of Atraxa-20
+Obeka, Splitter of Seconds-26
+Imotekh the Stormlord-19
+Torbran, Thane of Red Fell-12
+Ivy, Gleeful Spellthief-20
+Oloro, Ageless Ascetic-34
+Shalai and Hallar-25
+Teysa Karlov-43
+Prosper, Tome-Bound-39
+Ramos, Dragon Engine-24
+Judith, Carnage Connoisseur-20
+Sen Triplets-14
+Sen Triplets-14
+Jodah, Archmage Eternal-23
+Obeka, Splitter of Seconds-26
+Rowan, Scion of War-23
+Brago, King Eternal-23
+Nethroi, Apex of Death-16
+Brago, King Eternal-23
+Éowyn, Shieldmaiden-22
+The Gitrog Monster-17
+Kynaios and Tiro of Meletis-22
+Niv-Mizzet, Parun-41
+Ixhel, Scion of Atraxa-20
+Ixhel, Scion of Atraxa-20
+Old Stickfingers-8
+Myrel, Shield of Argive-19
+Scion of the Ur-Dragon-8
+Slimefoot and Squee-22
+Slimefoot and Squee-22
+Lord Windgrace-26
+Edric, Spymaster of Trest-7
+Niv-Mizzet Reborn-12
+Nethroi, Apex of Death-16
+The Mycotyrant-19
+Shalai and Hallar-25
+Chulane, Teller of Tales-21
+Jhoira, Weatherlight Captain-18
+Lord Windgrace-26
+Prossh, Skyraider of Kher-15
+Derevi, Empyrial Tactician-21
+Brago, King Eternal-23
+Ixhel, Scion of Atraxa-20
+The Gitrog Monster-17
+Ivy, Gleeful Spellthief-20
+Brago, King Eternal-23
+Ghave, Guru of Spores-18
+Ivy, Gleeful Spellthief-20
+Shalai and Hallar-25
+The Gitrog Monster-17
+Old Stickfingers-8
+Ixhel, Scion of Atraxa-20
+Old Stickfingers-8
+Judith, Carnage Connoisseur-20
+Sen Triplets-14
+Prossh, Skyraider of Kher-15
+Old Stickfingers-8
+Brago, King Eternal-23
+Nicol Bolas, the Ravager-20
+Anikthea, Hand of Erebos-28
+Imotekh the Stormlord-19
+Brago, King Eternal-23
+Falco Spara, Pactweaver-13
+Brago, King Eternal-23
+Myrel, Shield of Argive-19
+The Mycotyrant-19
+Gargos, Vicious Watcher-16
+Gargos, Vicious Watcher-16
+Imotekh the Stormlord-19
+Baba Lysaga, Night Witch-16
+Yidris, Maelstrom Wielder-19
+Arahbo, Roar of the World-19
+Falco Spara, Pactweaver-13
+Gargos, Vicious Watcher-16
+Sliver Overlord-18
+Ixhel, Scion of Atraxa-20
+Falco Spara, Pactweaver-13
+Kraum, Ludevic's Opus  Tymna the Weaver-18
+Ghave, Guru of Spores-18
+Brago, King Eternal-23
+Ivy, Gleeful Spellthief-20
+Tekuthal, Inquiry Dominus-7
+Edric, Spymaster of Trest-7
+Prossh, Skyraider of Kher-15
+Edric, Spymaster of Trest-7
+Baylen, the Haymaker-18
+Yidris, Maelstrom Wielder-19
+Prossh, Skyraider of Kher-15
+Shorikai, Genesis Engine-50
+Falco Spara, Pactweaver-13
+Jhoira, Weatherlight Captain-18
+Teysa Karlov-43
+Falco Spara, Pactweaver-13
+Shilgengar, Sire of Famine-9
+Tekuthal, Inquiry Dominus-7
+Strefan, Maurer Progenitor-17
+Judith, Carnage Connoisseur-20
+Pia Nalaar, Consul of Revival-7
+Strefan, Maurer Progenitor-17
+Gargos, Vicious Watcher-16
+Baba Lysaga, Night Witch-16
+Ghave, Guru of Spores-18
+Sen Triplets-14
+Sen Triplets-14
+Zurzoth, Chaos Rider-7
+Sen Triplets-14
+Ghave, Guru of Spores-18
+Wort, the Raidmother-8
+The Gitrog Monster-17
+Prossh, Skyraider of Kher-15
+Tasigur, the Golden Fang-17
+Baylen, the Haymaker-18
+Strefan, Maurer Progenitor-17
+Torbran, Thane of Red Fell-12
+Zurzoth, Chaos Rider-7
+Edric, Spymaster of Trest-7
+Sliver Overlord-18
+Edric, Spymaster of Trest-7
+Anikthea, Hand of Erebos-28
+Yidris, Maelstrom Wielder-19
+Chulane, Teller of Tales-21
+Nethroi, Apex of Death-16
+Nethroi, Apex of Death-16
+Judith, Carnage Connoisseur-20
+Sovereign Okinec Ahau-10
+Ghen, Arcanum Weaver-7
+Sen Triplets-14
+Giada, Font of Hope-46
+Tayam, Luminous Enigma-16
+Brago, King Eternal-23
+Ivy, Gleeful Spellthief-20
+Sen Triplets-14
+Yidris, Maelstrom Wielder-19
+Ixhel, Scion of Atraxa-20
+Baba Lysaga, Night Witch-16
+Baba Lysaga, Night Witch-16
+Tekuthal, Inquiry Dominus-7
+Arahbo, Roar of the World-19
+Winota, Joiner of Forces-28
+Gargos, Vicious Watcher-16
+Myrel, Shield of Argive-19
+Old Stickfingers-8
+Reaper King-15
+Sliver Overlord-18
+Scion of the Ur-Dragon-8
+Arahbo, Roar of the World-19
+Minn, Wily Illusionist-15
+Yidris, Maelstrom Wielder-19
+Kinnan, Bonder Prodigy-34
+Judith, Carnage Connoisseur-20
+Archelos, Lagoon Mystic-10
+Falco Spara, Pactweaver-13
+Edric, Spymaster of Trest-7
+Baba Lysaga, Night Witch-16
+Edric, Spymaster of Trest-7
+Strefan, Maurer Progenitor-17
+Baba Lysaga, Night Witch-16
+Baba Lysaga, Night Witch-16
+Nethroi, Apex of Death-16
+Sen Triplets-14
+Sen Triplets-14
+Tekuthal, Inquiry Dominus-7
+Prossh, Skyraider of Kher-15
+Ivy, Gleeful Spellthief-20
+Gargos, Vicious Watcher-16
+Strefan, Maurer Progenitor-17
+Ivy, Gleeful Spellthief-20
+Tekuthal, Inquiry Dominus-7
+Sen Triplets-14
+Falco Spara, Pactweaver-13
+Nethroi, Apex of Death-16
+Falco Spara, Pactweaver-13
+Myrel, Shield of Argive-19
+Child of Alara-14
+Judith, Carnage Connoisseur-20
+Falco Spara, Pactweaver-13
+Baba Lysaga, Night Witch-16
+Sen Triplets-14
+Sen Triplets-14
+Sen Triplets-14
+Minn, Wily Illusionist-15
+Baba Lysaga, Night Witch-16
+Sen Triplets-14
+Zurzoth, Chaos Rider-7
+Minn, Wily Illusionist-15
+Baba Lysaga, Night Witch-16
+Ivy, Gleeful Spellthief-20
+Baba Lysaga, Night Witch-16
+Baba Lysaga, Night Witch-16
+The Gitrog Monster-17
+Falco Spara, Pactweaver-13
+Gargos, Vicious Watcher-16
+Gargos, Vicious Watcher-16
+Tekuthal, Inquiry Dominus-7
+Tekuthal, Inquiry Dominus-7
+Wort, the Raidmother-8
+Ghen, Arcanum Weaver-7
+Old Stickfingers-8
+Minn, Wily Illusionist-15
+Scion of the Ur-Dragon-8
+Baba Lysaga, Night Witch-16
+Ivy, Gleeful Spellthief-20
+Scion of the Ur-Dragon-8
+Strefan, Maurer Progenitor-17
+Imotekh the Stormlord-19
+Gargos, Vicious Watcher-16
+Tekuthal, Inquiry Dominus-7
+Strefan, Maurer Progenitor-17
+Jared Carthalion-13
+Gargos, Vicious Watcher-16
+Falco Spara, Pactweaver-13
+Archelos, Lagoon Mystic-10
+Arahbo, Roar of the World-19
+Tekuthal, Inquiry Dominus-7
+Shilgengar, Sire of Famine-9
+Baba Lysaga, Night Witch-16
+Tekuthal, Inquiry Dominus-7
+Shilgengar, Sire of Famine-9
+Strefan, Maurer Progenitor-17
+Morska, Undersea Sleuth-12
+Wort, the Raidmother-8
+Ivy, Gleeful Spellthief-20
+Archelos, Lagoon Mystic-10
+Ghen, Arcanum Weaver-7
+Torbran, Thane of Red Fell-12
+Scion of the Ur-Dragon-8
+Sen Triplets-14
+Ivy, Gleeful Spellthief-20
+Pia Nalaar, Consul of Revival-7
+Shilgengar, Sire of Famine-9
+Scion of the Ur-Dragon-8
+Judith, Carnage Connoisseur-20
+Sen Triplets-14
+Strefan, Maurer Progenitor-17
+Baba Lysaga, Night Witch-16
+Gargos, Vicious Watcher-16
+Ghen, Arcanum Weaver-7
+Gargos, Vicious Watcher-16
+Shilgengar, Sire of Famine-9
+Strefan, Maurer Progenitor-17
+Ghen, Arcanum Weaver-7
+Niv-Mizzet Reborn-12
+Gargos, Vicious Watcher-16
+Ghen, Arcanum Weaver-7
+Torbran, Thane of Red Fell-12
+Strefan, Maurer Progenitor-17
+Baba Lysaga, Night Witch-16
+Strefan, Maurer Progenitor-17
+Ivy, Gleeful Spellthief-20
+Scion of the Ur-Dragon-8
+Baba Lysaga, Night Witch-16
+Baba Lysaga, Night Witch-16
+Old Stickfingers-8
+Wort, the Raidmother-8
+Archelos, Lagoon Mystic-10
+Sen Triplets-14
+Myrel, Shield of Argive-19
+Myrel, Shield of Argive-19
+Ivy, Gleeful Spellthief-20
+Shilgengar, Sire of Famine-9
+Myrel, Shield of Argive-19
+Gargos, Vicious Watcher-16
+Tekuthal, Inquiry Dominus-7
+Sliver Gravemother-8
+Pia Nalaar, Consul of Revival-7
+Myrel, Shield of Argive-19
+Pia Nalaar, Consul of Revival-7
+Shilgengar, Sire of Famine-9
+Ghen, Arcanum Weaver-7
+Strefan, Maurer Progenitor-17
+Ivy, Gleeful Spellthief-20
+Prossh, Skyraider of Kher-15
+Baba Lysaga, Night Witch-16
+Wort, the Raidmother-8
+Ivy, Gleeful Spellthief-20
+Wort, the Raidmother-8
+Pia Nalaar, Consul of Revival-7
+Torbran, Thane of Red Fell-12
+Pia Nalaar, Consul of Revival-7
+Strefan, Maurer Progenitor-17
+Ivy, Gleeful Spellthief-20
+Old Stickfingers-8
+Yidris, Maelstrom Wielder-19
+Archelos, Lagoon Mystic-10
+Myrel, Shield of Argive-19
+Anikthea, Hand of Erebos-28
+Pia Nalaar, Consul of Revival-7
+Torbran, Thane of Red Fell-12
+Wort, the Raidmother-8
+General Ferrous Rokiric-10
+Minn, Wily Illusionist-15
+Old Stickfingers-8
+Tekuthal, Inquiry Dominus-7
+Wort, the Raidmother-8
+Baba Lysaga, Night Witch-16
+Ghen, Arcanum Weaver-7
+Jared Carthalion, True Heir-7
+Tekuthal, Inquiry Dominus-7
+Pia Nalaar, Consul of Revival-7
+Shilgengar, Sire of Famine-9
+Judith, Carnage Connoisseur-20
+Tekuthal, Inquiry Dominus-7
+Shilgengar, Sire of Famine-9
+Sliver Gravemother-8
+Gargos, Vicious Watcher-16
+Shilgengar, Sire of Famine-9
+Torbran, Thane of Red Fell-12
+Myrel, Shield of Argive-19
+Sen Triplets-14
+Baba Lysaga, Night Witch-16
+Shalai and Hallar-25
+Tekuthal, Inquiry Dominus-7
+Baba Lysaga, Night Witch-16
+Myrel, Shield of Argive-19
+Pia Nalaar, Consul of Revival-7
+Tekuthal, Inquiry Dominus-7
+Minn, Wily Illusionist-15
+Shilgengar, Sire of Famine-9
+Sovereign Okinec Ahau-10
+Judith, Carnage Connoisseur-20
+Archelos, Lagoon Mystic-10
+General Ferrous Rokiric-10
+Shilgengar, Sire of Famine-9
+Torbran, Thane of Red Fell-12
+Archelos, Lagoon Mystic-10
+Tekuthal, Inquiry Dominus-7
+Ghen, Arcanum Weaver-7
+Ghen, Arcanum Weaver-7
+Ivy, Gleeful Spellthief-20
+Minn, Wily Illusionist-15
+Shilgengar, Sire of Famine-9
+Gargos, Vicious Watcher-16
+The Gitrog Monster-17
+General Ferrous Rokiric-10
+Strefan, Maurer Progenitor-17
+Falco Spara, Pactweaver-13
+Zurzoth, Chaos Rider-7
+Baba Lysaga, Night Witch-16
+Sliver Gravemother-8
+Arahbo, Roar of the World-19
+Baba Lysaga, Night Witch-16
+Wort, the Raidmother-8
+Old Stickfingers-8
+Ghen, Arcanum Weaver-7
+Zurzoth, Chaos Rider-7
+Tekuthal, Inquiry Dominus-7
+Wort, the Raidmother-8
+Baba Lysaga, Night Witch-16
+Shilgengar, Sire of Famine-9
+Sliver Gravemother-8
+Pia Nalaar, Consul of Revival-7
+Strefan, Maurer Progenitor-17
+Pia Nalaar, Consul of Revival-7
+Baba Lysaga, Night Witch-16
+Ghen, Arcanum Weaver-7
+Tekuthal, Inquiry Dominus-7
+Gargos, Vicious Watcher-16
+Torbran, Thane of Red Fell-12
+Gargos, Vicious Watcher-16
+Ghen, Arcanum Weaver-7
+Jared Carthalion, True Heir-7
+Gargos, Vicious Watcher-16
+Myrel, Shield of Argive-19
+Pia Nalaar, Consul of Revival-7
+Shilgengar, Sire of Famine-9
+Sliver Gravemother-8
+Wort, the Raidmother-8
+Shilgengar, Sire of Famine-9
+Tekuthal, Inquiry Dominus-7
+Sen Triplets-14
+Ivy, Gleeful Spellthief-20
+Arahbo, Roar of the World-19
+Ghen, Arcanum Weaver-7
+Lara Croft, Tomb Raider-7
+Ivy, Gleeful Spellthief-20
+Baba Lysaga, Night Witch-16
+Myrel, Shield of Argive-19
+Scion of the Ur-Dragon-8
+Ghen, Arcanum Weaver-7
+Shilgengar, Sire of Famine-9
+Prossh, Skyraider of Kher-15
+Torbran, Thane of Red Fell-12
+Torbran, Thane of Red Fell-12
+Morska, Undersea Sleuth-12
+Wort, the Raidmother-8
+Zurzoth, Chaos Rider-7
+Tekuthal, Inquiry Dominus-7
+Baba Lysaga, Night Witch-16
+Wort, the Raidmother-8
+Torbran, Thane of Red Fell-12
+Ivy, Gleeful Spellthief-20
+Wort, the Raidmother-8
+Pia Nalaar, Consul of Revival-7
+Torbran, Thane of Red Fell-12
+Tekuthal, Inquiry Dominus-7
+Jared Carthalion, True Heir-7
+Shilgengar, Sire of Famine-9
+Shilgengar, Sire of Famine-9
+Old Stickfingers-8
+Sovereign Okinec Ahau-10
+Shalai and Hallar-25
+Torbran, Thane of Red Fell-12
+Tekuthal, Inquiry Dominus-7
+Sliver Gravemother-8
+Jared Carthalion, True Heir-7
+Old Stickfingers-8
+Ivy, Gleeful Spellthief-20
+Tekuthal, Inquiry Dominus-7
+Ghen, Arcanum Weaver-7
+Wort, the Raidmother-8
+Wort, the Raidmother-8
+Strefan, Maurer Progenitor-17
+Torbran, Thane of Red Fell-12
+Pia Nalaar, Consul of Revival-7
+Wort, the Raidmother-8
+Strefan, Maurer Progenitor-17
+Shilgengar, Sire of Famine-9
+Archelos, Lagoon Mystic-10
+Ghen, Arcanum Weaver-7
+Torbran, Thane of Red Fell-12
+Wort, the Raidmother-8
+Ivy, Gleeful Spellthief-20
+Ghen, Arcanum Weaver-7
+Aegar, the Freezing Flame-8
+Tekuthal, Inquiry Dominus-7
+Progenitus-8
+Tekuthal, Inquiry Dominus-7
+Ivy, Gleeful Spellthief-20
+Pia Nalaar, Consul of Revival-7
+Reaper King-15
+Scion of the Ur-Dragon-8
+Strefan, Maurer Progenitor-17
+Pia Nalaar, Consul of Revival-7
+Ghen, Arcanum Weaver-7
+Pia Nalaar, Consul of Revival-7
+Sliver Gravemother-8
+Ghen, Arcanum Weaver-7
+Edric, Spymaster of Trest-7
+Myrel, Shield of Argive-19
+Ivy, Gleeful Spellthief-20
+Jared Carthalion, True Heir-7
+Archelos, Lagoon Mystic-10
+Tekuthal, Inquiry Dominus-7
+Ghen, Arcanum Weaver-7
+Jared Carthalion, True Heir-7
+General Ferrous Rokiric-10
+Torbran, Thane of Red Fell-12
+Shilgengar, Sire of Famine-9
+Shilgengar, Sire of Famine-9
+Jared Carthalion, True Heir-7
+Strefan, Maurer Progenitor-17
+Shilgengar, Sire of Famine-9
+Jared Carthalion, True Heir-7
+Pia Nalaar, Consul of Revival-7
+Pia Nalaar, Consul of Revival-7
+Ghen, Arcanum Weaver-7
+Ghen, Arcanum Weaver-7
+Torbran, Thane of Red Fell-12
+Shilgengar, Sire of Famine-9
+Strefan, Maurer Progenitor-17
+Jared Carthalion, True Heir-7
+Torbran, Thane of Red Fell-12
+Myrel, Shield of Argive-19
+Ghen, Arcanum Weaver-7
+Old Stickfingers-8
+Lara Croft, Tomb Raider-7
+Sen Triplets-14
+Aegar, the Freezing Flame-8
+Pia Nalaar, Consul of Revival-7
+Pia Nalaar, Consul of Revival-7
+Ghen, Arcanum Weaver-7
+Sovereign Okinec Ahau-10
+Ivy, Gleeful Spellthief-20
+Myrel, Shield of Argive-19
+Ghen, Arcanum Weaver-7
+Pia Nalaar, Consul of Revival-7
+Ghen, Arcanum Weaver-7
+Torbran, Thane of Red Fell-12
+Wort, the Raidmother-8
+Baba Lysaga, Night Witch-16
+Sliver Gravemother-8
+Zurzoth, Chaos Rider-7
+Ghen, Arcanum Weaver-7
+Torbran, Thane of Red Fell-12
+Shilgengar, Sire of Famine-9
+Edric, Spymaster of Trest-7
+Ghen, Arcanum Weaver-7
+Ghen, Arcanum Weaver-7
+Ghen, Arcanum Weaver-7
+Strefan, Maurer Progenitor-17
+Zurzoth, Chaos Rider-7
+Pia Nalaar, Consul of Revival-7
+Ivy, Gleeful Spellthief-20
+Ghen, Arcanum Weaver-7
+Pia Nalaar, Consul of Revival-7
+Tekuthal, Inquiry Dominus-7
+Lara Croft, Tomb Raider-7
+Ghen, Arcanum Weaver-7
+Pia Nalaar, Consul of Revival-7
+Ghen, Arcanum Weaver-7
+Shilgengar, Sire of Famine-9
+Ghen, Arcanum Weaver-7
+Pia Nalaar, Consul of Revival-7
+Jared Carthalion, True Heir-7
+Ghen, Arcanum Weaver-7
+Shilgengar, Sire of Famine-9
+Ghen, Arcanum Weaver-7
+Shilgengar, Sire of Famine-9
+Tekuthal, Inquiry Dominus-7
+Myrel, Shield of Argive-19
