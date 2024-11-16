@@ -7,31 +7,38 @@ import random
 from bs4 import BeautifulSoup
 from save import Deck, StorageManager
 
-BAR_SIZE = 20
-AVG_SLEEP_TIME = 2.5
+BAR_SIZE = 50
+AVG_SLEEP_TIME = 3.5
 
 def get_decklist_from_urlhash(urlhash) -> Deck:
     url = f"https://edhrec.com/deckpreview/{urlhash}"
     response = requests.get(url)
-    response.raise_for_status()
 
-    # Parse the HTML content
-    soup = BeautifulSoup(response.text, 'html.parser')
+    if response.status_code < 400:
+        # Parse the HTML content
+        soup = BeautifulSoup(response.text, 'html.parser')
 
-    script_tag = soup.find('script', id='__NEXT_DATA__')
+        script_tag = soup.find('script', id='__NEXT_DATA__')
 
-    # Extract the content of the <script> tag (which is JSON)
-    json_data = script_tag.string
+        # Extract the content of the <script> tag (which is JSON)
+        json_data = script_tag.string
 
-    data = json.loads(json_data)
-    deck_data = data['props']['pageProps']['data']
+        data = json.loads(json_data)
+        deck_data = data['props']['pageProps']['data']
 
-    cards = deck_data.get('cards', [])
-    commanders = deck_data.get('commanders', [])
+        cards = deck_data.get('cards', [])
+        commanders = deck_data.get('commanders', [])
 
-    return Deck(urlhash, commanders, cards)
+        return Deck(urlhash, commanders, cards)
+    else:
+        return Deck.getErrorDeck()
 
 if __name__ == "__main__":
+
+    # TODO
+    # modify the script in a way that the input remains the same, but the
+    # quantity of already downloaded decks are checked before downloading others
+    # AKA add an "overwrite" mode (imo, it should be default)
 
     input_path = sys.argv[1]
     with open(input_path, "r", encoding="utf-8") as f:
@@ -42,7 +49,7 @@ if __name__ == "__main__":
     quantity_list = []
     arg_list = args.split("\n")
     for arg in arg_list:
-        commander, quantity = arg.split("-")
+        commander, quantity = arg.split("@")
         commanders_list.append(commander)
         quantity_list.append(int(quantity))
     
@@ -53,12 +60,14 @@ if __name__ == "__main__":
 
     print(f"Starting data fetching session for {len(commanders_list)} commanders")
 
+    already_seen_decks = 0
+
     with StorageManager.getStorageManager() as save:
         for i in range(len(commanders_list)):
             commander = commanders_list[i]
             quantity = quantity_list[i]
 
-            print(f"Requesting decks for \'{commander}\' - {i + 1}/{len(commanders_list)}")
+            print(f"Requesting decks for \'{commander}\' - {i + 1}/{len(commanders_list)} - {already_seen_decks}/{sum(quantity_list)}")
 
             request = edhrec.get_commander_decks(commander)
 
@@ -70,7 +79,7 @@ if __name__ == "__main__":
                 urlhash_list = [urlhash for urlhash in urlhash_list if urlhash not in already_saved_urlhash_list]
 
             # reduce the checklist to the specified size
-            urlhash_list = urlhash_list[:quantity]
+            #urlhash_list = urlhash_list[:quantity]
 
             total_decks = len(urlhash_list)
             counter = 0
@@ -78,19 +87,23 @@ if __name__ == "__main__":
             # init of the fancy progress-bar
             print(f"[{'.' * BAR_SIZE}] {0.00:.2f}%", end="\r")
 
-            for urlhash in urlhash_list:
-                decklist = get_decklist_from_urlhash(urlhash)
-                save.saveDeck(decklist)
+            for i in range(quantity):
+                decklist = get_decklist_from_urlhash(urlhash_list[i])
 
-                # fancy progress-bar
-                counter += 1
-                percentage = counter / total_decks * 100
-                if counter < total_decks:
-                    done = round(percentage / 100 * BAR_SIZE)
-                    print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\r")
-                else:
-                    done = BAR_SIZE
-                    print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\n")
+                if not decklist.isError():
+                    save.saveDeck(decklist)
 
-                # avoid congestion
-                time.sleep(round(random.gauss(AVG_SLEEP_TIME, 0.5), 2))
+                    # fancy progress-bar
+                    counter += 1
+                    percentage = counter / total_decks * 100
+                    if counter < total_decks:
+                        done = round(percentage / 100 * BAR_SIZE)
+                        print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\r")
+                    else:
+                        done = BAR_SIZE
+                        print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\n")
+
+                    # avoid congestion
+                    time.sleep(round(random.gauss(AVG_SLEEP_TIME, 1), 2))
+            
+            already_seen_decks += quantity

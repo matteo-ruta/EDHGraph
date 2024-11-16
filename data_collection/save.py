@@ -88,6 +88,10 @@ class StorageManager():
 
 class Deck():
 
+    # static methods
+    def getErrorDeck(cls):
+        return Deck("", [], [])
+
     # private methods
     def _get_name(self):
         result = f"{self.commanders[0]}"
@@ -102,3 +106,6 @@ class Deck():
         self.cards = cards
         self.has_partner = commanders[1] != None
         self.name = self._get_name()
+
+    def isError(self) -> bool:
+        return self.commanders == []

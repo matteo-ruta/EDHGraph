@@ -1,100 +1,100 @@
-Narci, Fable Singer-40
-Miirym, Sentinel Wyrm-227
-Esika, God of the Tree-192
-Morophon, the Boundless-107
-Kess, Dissident Mage-79
-Henzie "Toolbox" Torre-157
-Muldrotha, the Gravetide-163
-Ramos, Dragon Engine-93
-Don Andres, the Renegade-47
-Kenrith, the Returned King-233
-Skullbriar, the Walking Grave-70
-Galadriel, Light of Valinor-81
-The Ur-Dragon-291
-Rukarumel, Biologist-29
-Yuriko, the Tiger's Shadow-246
-Wyll, Blade of Frontiers  Sword Coast Sailor-27
-Raffine, Scheming Seer-84
-Aragorn, the Uniter-172
-Atla Palani, Nest Tender-165
-Sisay, Weatherlight Captain-131
-Caesar, Legion's Emperor-84
-Heliod, the Radiant Dawn-42
-Sefris of the Hidden Ways-95
-Jodah, the Unifier-203
-Kinnan, Bonder Prodigy-128
-Omnath, Locus of All-137
-Tom Bombadil-144
-Jodah, Archmage Eternal-89
-Emry, Lurker of the Loch-45
-Obuun, Mul Daya Ancestor-40
-Go-Shintai of Life's Origin-161
-Chulane, Teller of Tales-81
-Commodore Guff-58
-Morska, Undersea Sleuth-47
-Dina, Soul Steeper-83
-Urza, Lord High Artificer-136
-Slimefoot and Squee-82
-The Wise Mothman-128
-Totentanz, Swarm Piper-29
-Atraxa, Praetors' Voice-381
-Azusa, Lost but Seeking-45
-Edgar Markov-222
-Jenson Carthalion, Druid Exile-27
-Kaalia of the Vast-214
-Dihada, Binder of Wills-104
-Jared Carthalion-49
-The Mycotyrant-73
-Obeka, Splitter of Seconds-98
-Rin and Seri, Inseparable-164
-K'rrik, Son of Yawgmoth-148
-Charix, the Raging Isle-27
-Atraxa, Grand Unifier-151
-Narset, Enlightened Exile-100
-Progenitus-29
-Tekuthal, Inquiry Dominus-25
-General Ferrous Rokiric-36
-Kelsien, the Plague-50
-Omnath, Locus of Creation-147
-Baral, Chief of Compliance-40
-Varina, Lich Queen-76
-Vrondiss, Rage of Ancients-29
-Korvold, Fae-Cursed King-169
-Sovereign Okinec Ahau-37
-Niv-Mizzet Reborn-44
-Shelob, Child of Ungoliant-107
-Ulalek, Fused Atrocity-106
-Anikthea, Hand of Erebos-107
-Pantlaza, Sun-Favored-174
-Chatterfang, Squirrel General-179
-Zur the Enchanter-120
-Giada, Font of Hope-175
-Mayael the Anima-33
-Runo Stromkirk-50
-Sliver Hivelord-29
-Sidisi, Brood Tyrant-67
-Alela, Cunning Conqueror-103
-Tegwyll, Duke of Splendor-26
-Uril, the Miststalker-39
-Kraum, Ludevic's Opus  Tymna the Weaver-70
-Tasigur, the Golden Fang-63
-Ezuri, Claw of Progress-68
-Magda, Brazen Outlaw-119
-Myrkul, Lord of Bones-84
-Karn, Legacy Reforged-41
-Sheoldred, the Apocalypse-105
-Garth One-Eye-46
-Rowan, Scion of War-87
-Brenard, Ginger Sculptor-79
-Tinybones, Trinket Thief-56
-Ashcoat of the Shadow Swarm-35
-Karona, False God-33
-Zhulodok, Void Gorger-157
-Disa the Restless-51
-Kynaios and Tiro of Meletis-84
-Thalia and The Gitrog Monster-133
-Winota, Joiner of Forces-106
-Talion, the Kindly Lord-68
-Niv-Mizzet, Parun-156
-Sigarda, Font of Blessings-38
-Haldan, Avid Arcanist  Pako, Arcane Retriever-76
+Narci, Fable Singer@40
+Miirym, Sentinel Wyrm@227
+Esika, God of the Tree@192
+Morophon, the Boundless@107
+Kess, Dissident Mage@79
+Henzie "Toolbox" Torre@157
+Muldrotha, the Gravetide@163
+Ramos, Dragon Engine@93
+Don Andres, the Renegade@47
+Kenrith, the Returned King@233
+Skullbriar, the Walking Grave@70
+Galadriel, Light of Valinor@81
+The Ur-Dragon@291
+Rukarumel, Biologist@29
+Yuriko, the Tiger's Shadow@246
+Wyll, Blade of Frontiers  Sword Coast Sailor@27
+Raffine, Scheming Seer@84
+Aragorn, the Uniter@172
+Atla Palani, Nest Tender@165
+Sisay, Weatherlight Captain@131
+Caesar, Legion's Emperor@84
+Heliod, the Radiant Dawn@42
+Sefris of the Hidden Ways@95
+Jodah, the Unifier@203
+Kinnan, Bonder Prodigy@128
+Omnath, Locus of All@137
+Tom Bombadil@144
+Jodah, Archmage Eternal@89
+Emry, Lurker of the Loch@45
+Obuun, Mul Daya Ancestor@40
+Go-Shintai of Life's Origin@161
+Chulane, Teller of Tales@81
+Commodore Guff@58
+Morska, Undersea Sleuth@47
+Dina, Soul Steeper@83
+Urza, Lord High Artificer@136
+Slimefoot and Squee@82
+The Wise Mothman@128
+Totentanz, Swarm Piper@29
+Atraxa, Praetors' Voice@381
+Azusa, Lost but Seeking@45
+Edgar Markov@222
+Jenson Carthalion, Druid Exile@27
+Kaalia of the Vast@214
+Dihada, Binder of Wills@104
+Jared Carthalion@49
+The Mycotyrant@73
+Obeka, Splitter of Seconds@98
+Rin and Seri, Inseparable@164
+K'rrik, Son of Yawgmoth@148
+Charix, the Raging Isle@27
+Atraxa, Grand Unifier@151
+Narset, Enlightened Exile@100
+Progenitus@29
+Tekuthal, Inquiry Dominus@25
+General Ferrous Rokiric@36
+Kelsien, the Plague@50
+Omnath, Locus of Creation@147
+Baral, Chief of Compliance@40
+Varina, Lich Queen@76
+Vrondiss, Rage of Ancients@29
+Korvold, Fae-Cursed King@169
+Sovereign Okinec Ahau@37
+Niv-Mizzet Reborn@44
+Shelob, Child of Ungoliant@107
+Ulalek, Fused Atrocity@106
+Anikthea, Hand of Erebos@107
+Pantlaza, Sun-Favored@174
+Chatterfang, Squirrel General@179
+Zur the Enchanter@120
+Giada, Font of Hope@175
+Mayael the Anima@33
+Runo Stromkirk@50
+Sliver Hivelord@29
+Sidisi, Brood Tyrant@67
+Alela, Cunning Conqueror@103
+Tegwyll, Duke of Splendor@26
+Uril, the Miststalker@39
+Kraum, Ludevic's Opus  Tymna the Weaver@70
+Tasigur, the Golden Fang@63
+Ezuri, Claw of Progress@68
+Magda, Brazen Outlaw@119
+Myrkul, Lord of Bones@84
+Karn, Legacy Reforged@41
+Sheoldred, the Apocalypse@105
+Garth One-Eye@46
+Rowan, Scion of War@87
+Brenard, Ginger Sculptor@79
+Tinybones, Trinket Thief@56
+Ashcoat of the Shadow Swarm@35
+Karona, False God@33
+Zhulodok, Void Gorger@157
+Disa the Restless@51
+Kynaios and Tiro of Meletis@84
+Thalia and The Gitrog Monster@133
+Winota, Joiner of Forces@106
+Talion, the Kindly Lord@68
+Niv-Mizzet, Parun@156
+Sigarda, Font of Blessings@38
+Haldan, Avid Arcanist  Pako, Arcane Retriever@76
