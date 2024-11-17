@@ -171,5 +171,5 @@ if __name__ == "__main__":
 
     with open(".\\data_collection\\input.txt", "w", encoding="utf-8") as f:
         for i in range(len(proxy_indicies)):
-            line = f"{data_as_dicts[proxy_indicies[i]].get("name").replace("//", "")}@{final_proxy_quantities[i]}\n"
+            line = f"{data_as_dicts[proxy_indicies[i]].get("name").replace("//", "").replace("  ", " ")}@{final_proxy_quantities[i]}\n"
             f.write(line)

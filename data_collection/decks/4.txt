@@ -1,0 +1,7223 @@
+Arcane Signet
+Blasphemous Act
+Blazemire Verge
+Blightstep Pathway
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Boseiju, Who Shelters All
+Brainstorm
+Cascade Bluffs
+Castle Vantress
+Cephalid Coliseum
+Clearwater Pathway
+Command Tower
+Counterspell
+Crackle with Power
+Crosis's Charm
+Cut // Ribbons
+Cyclonic Rift
+Damnation
+Dark Petition
+Dark Ritual
+Decree of Pain
+Desolate Lighthouse
+Devastation Tide
+Dimir Aqueduct
+Dimir Signet
+Disallow
+Evacuation
+Exsanguinate
+Fact or Fiction
+Faithless Looting
+Feed the Swarm
+Fell the Profane
+Fiery Inscription
+Flame of Anor
+Gamble
+Gloomlake Verge
+Graven Cairns
+Haunted Ridge
+Insatiable Avarice
+Invert Polarity
+Island
+Izzet Boilerworks
+Izzet Signet
+Magmaquake
+Mana Drain
+Mana Geyser
+Maze of Ith
+Mountain
+Muddle the Mixture
+Mystic Confluence
+Mystic Remora
+Mystical Tutor
+Nezahal, Primal Tide
+Night's Whisper
+Painful Truths
+Perplex
+Polluted Delta
+Prismari Command
+Propaganda
+Pull from Tomorrow
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
+Relic of Sauron
+Ripples of Undeath
+Riptide Laboratory
+Riverglide Pathway
+Scalding Tarn
+Secrets of the Dead
+See the Truth
+Sensei's Divining Top
+Shipwreck Marsh
+Sink into Stupor
+Snapcaster Mage
+Sol Ring
+Solve the Equation
+Spellseeker
+Steam Vents
+Stormcarved Coast
+Sunken Ruins
+Swamp
+Swan Song
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Three Steps Ahead
+Torment of Hailfire
+Toxic Deluge
+Vandalblast
+Waterlogged Teachings
+Watery Grave
+Withering Torment
+Xander's Lounge
+
+Anticipate
+Arcane Signet
+Archmage Emeritus
+Ash Barrens
+Augur of Bolas
+Bedevil
+Blasphemous Act
+Breach the Multiverse
+Cascade Bluffs
+Chaos Warp
+Choked Estuary
+Clone Legion
+Command Tower
+Commander's Sphere
+Contingency Plan
+Cormela, Glamour Thief
+Counterspell
+Crawlspace
+Cursed Recording
+Cut // Ribbons
+Damnable Pact
+Dark Petition
+Darkwater Catacombs
+Dimir Aqueduct
+Dimir Signet
+Displacement Wave
+Doom Blade
+Double Vision
+Dualcaster Mage
+Duskmantle, House of Shadow
+Electrodominance
+Evacuation
+Exotic Orchard
+Expressive Iteration
+Faithless Looting
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Foreboding Ruins
+Frantic Search
+Geistblast
+Goblin Electromancer
+Incite Rebellion
+Invert Polarity
+Island
+Izzet Signet
+Lightning Bolt
+Maestros Charm
+Mentor's Guidance
+Mind Stone
+Mountain
+Negate
+Notion Thief
+Ob Nixilis, the Hate-Twisted
+Ponder
+Preordain
+Professor Onyx
+Rakdos Signet
+Reliquary Tower
+River of Tears
+Rootha, Mercurial Artist
+Shadowblood Ridge
+Sign in Blood
+Smoldering Marsh
+Sol Ring
+Spellbinding Soprano
+Stitch in Time
+Storm-Kiln Artist
+Sunken Hollow
+Swamp
+Syncopate
+Syphon Mind
+Thassa's Intervention
+Thought Scour
+Thought Vessel
+Thousand-Year Storm
+Thriving Bluff
+Thriving Isle
+Thriving Moor
+Toxic Deluge
+Twinning Staff
+Underground River
+Wash Away
+Windfall
+
+Angrath, the Flame-Chained
+Arcane Denial
+Arcane Signet
+Ashes to Ashes
+Ashiok, Dream Render
+Ashiok, Nightmare Muse
+Badlands
+Beseech the Mirror
+Blightstep Pathway
+Blood Crypt
+Bloodstained Mire
+Brainstorm
+Cascade Bluffs
+City of Brass
+Clearwater Pathway
+Command Tower
+Counterspell
+Cyclonic Rift
+Daretti, Ingenious Iconoclast
+Dark Ritual
+Darkwater Catacombs
+Dauthi Voidwalker
+Deepglow Skate
+Demonic Tutor
+Ensnaring Bridge
+Exotic Orchard
+Fell the Profane
+Ferrous Lake
+Fiery Islet
+Fire Covenant
+Gilded Drake
+Gitaxian Probe
+Graven Cairns
+Grim Monolith
+Grim Tutor
+Hatred
+Imperial Seal
+Imprisoned in the Moon
+Insatiable Avarice
+Island
+Jace, the Mind Sculptor
+Jeweled Amulet
+Jokulhaups
+Liliana of the Veil
+Lim-Dûl's Vault
+Luxury Suite
+Mana Drain
+Meekstone
+Mind Stone
+Morphic Pool
+Mystical Tutor
+Narset, Parter of Veils
+Nevinyrral's Disk
+Nicol Bolas, Dragon-God
+Nicol Bolas, God-Pharaoh
+Nicol Bolas, Planeswalker
+Opposition Agent
+Orcish Bowmasters
+Pact of Negation
+Polluted Delta
+Ponder
+Preordain
+Prismari Command
+Profane Tutor
+Ragavan, Nimble Pilferer
+Reflecting Pool
+Rhystic Study
+Riverglide Pathway
+Scalding Tarn
+Sensei's Divining Top
+Shadowblood Ridge
+Shipwreck Marsh
+Shivan Reef
+Sink into Stupor
+Sol Ring
+Spellskite
+Spreading Plague
+Steam Vents
+Stormcarved Coast
+Sulfurous Springs
+Sunken Ruins
+Swamp
+Swan Song
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+The Infamous Cruelclaw
+Toxic Deluge
+Training Center
+Treachery
+Treasure Nabber
+Underground River
+Urborg, Tomb of Yawgmoth
+Vampiric Tutor
+Vandalblast
+Varragoth, Bloodsky Sire
+Watery Grave
+Wishclaw Talisman
+Xander's Lounge
+
+An Offer You Can't Refuse
+Animate Dead
+Arcane Denial
+Arcane Signet
+Blazemire Verge
+Blightstep Pathway
+Blood Crypt
+Bloodchief Ascension
+Bloodsoaked Insight
+Bloodstained Mire
+Borne Upon a Wind
+Cabal Ritual
+Cascade Bluffs
+City of Brass
+Clearwater Pathway
+Command Tower
+Counterspell
+Cyclonic Rift
+Dark Deal
+Dark Ritual
+Darkness
+Deadly Rollick
+Defense Grid
+Deflecting Swat
+Demonic Consultation
+Demonic Tutor
+Dismember
+Entomb
+Exotic Orchard
+Fate Unraveler
+Fellwar Stone
+Fierce Guardianship
+Flusterstorm
+Force of Negation
+Force of Will
+Glistening Oil
+Gloomlake Verge
+Haunted Ridge
+Island
+Jace's Archivist
+Kederekt Parasite
+Lotus Petal
+Luxury Suite
+Magus of the Wheel
+Malakir Rebirth
+Mana Confluence
+Mana Drain
+Mana Vault
+Mental Misstep
+Morphic Pool
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Necromancy
+Notion Thief
+Opposition Agent
+Orcish Bowmasters
+Pact of Negation
+Polluted Delta
+Pongify
+Pyroblast
+Rapid Hybridization
+Razorkin Needlehead
+Reanimate
+Reflecting Pool
+Reforge the Soul
+Rhystic Study
+Riverglide Pathway
+Scalding Tarn
+Sheoldred, the Apocalypse
+Shipwreck Marsh
+Shivan Reef
+Sol Ring
+Steam Vents
+Stormcarved Coast
+Sulfurous Springs
+Swamp
+Swan Song
+Tainted Strike
+Talion, the Kindly Lord
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Teferi's Puzzle Box
+Thassa's Oracle
+The One Ring
+Training Center
+Underground River
+Valakut Awakening
+Vampiric Tutor
+Waterlogged Teachings
+Watery Grave
+Wheel of Misfortune
+Whispering Madness
+Windfall
+Winds of Change
+Wishclaw Talisman
+Xander's Lounge
+
+Abrade
+Alchemist's Retrieval
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Baral, Chief of Compliance
+Birgi, God of Storytelling
+Blasphemous Act
+Brainstorm
+Cephalid Coliseum
+Chaos Warp
+Choked Estuary
+Command Tower
+Consider
+Cormela, Glamour Thief
+Counterspell
+Dark Petition
+Dark Ritual
+Darkwater Catacombs
+Diabolic Tutor
+Dimir Signet
+Dispel
+Dragon's Rage Channeler
+Dramatic Reversal
+Drown in the Loch
+Dualcaster Mage
+Emergence Zone
+Eroded Canyon
+Exotic Orchard
+Faithless Looting
+Fellwar Stone
+Ferrous Lake
+Fire Covenant
+Foreboding Ruins
+Frantic Search
+Frostboil Snarl
+Ghostly Flicker
+Gitaxian Probe
+Grapeshot
+Into the Flood Maw
+Island
+Isochron Scepter
+Izzet Signet
+Jagged Barrens
+Lim-Dûl's Vault
+Malevolent Hermit
+Miscast
+Mountain
+Muddle the Mixture
+Mystic Sanctuary
+Mystical Teachings
+Narset, Parter of Veils
+Naru Meha, Master Wizard
+Negate
+Nightscape Familiar
+Notion Thief
+Opt
+Ponder
+Preordain
+Rakdos Signet
+Ringsight
+River of Tears
+Sam's Desperate Rescue
+Seething Landscape
+Shadowblood Ridge
+Shivan Reef
+Simian Spirit Guide
+Smoldering Marsh
+Snap
+Snapback
+Sol Ring
+Solve the Equation
+Soured Springs
+Spell Pierce
+Spire of Industry
+Step Through
+Storm-Kiln Artist
+Sunken Hollow
+Sunscorched Desert
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thought Scour
+Twinflame
+Vedalken Aethermage
+Wavebreak Hippocamp
+Windfall
+Wishclaw Talisman
+Yahenni's Expertise
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archaeomancer
+Archmage Emeritus
+Blasphemous Act
+Blazemire Verge
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Brainstorm
+Brass's Bounty
+Breach the Multiverse
+Cabal Ritual
+Careful Study
+Chain of Smog
+Chaos Warp
+City of Brass
+Comet Storm
+Command Tower
+Coruscation Mage
+Counterspell
+Crackle with Power
+Crumbling Necropolis
+Cyclonic Rift
+Dark Confidant
+Dark Ritual
+Dauthi Voidwalker
+Dualcaster Mage
+Emergence Zone
+Exotic Orchard
+Fact or Fiction
+Faithless Looting
+Fell the Profane
+Flame of Anor
+Force of Will
+Frantic Search
+Gloomlake Verge
+Guttersnipe
+Insatiable Avarice
+Jaya's Immolating Inferno
+Jeska's Will
+Lightning Greaves
+Luxury Suite
+Mana Confluence
+Mana Geyser
+Mizzix's Mastery
+Morphic Pool
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Nightscape Familiar
+No Mercy
+Notion Thief
+Otawara, Soaring City
+Polluted Delta
+Ponder
+Pongify
+Primal Amulet
+Professor Onyx
+Propaganda
+Pyretic Ritual
+Rakdos Charm
+Raucous Theater
+Reality Shift
+Reflecting Pool
+Reliquary Tower
+Riptide Laboratory
+Scalding Tarn
+Scalding Viper
+Secrets of the Dead
+Sedgemoor Witch
+See the Truth
+Shivan Reef
+Sink into Stupor
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Sulfurous Springs
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Terminate
+Thousand-Year Storm
+Thunderclap Drake
+Thundering Falls
+Toxic Deluge
+Training Center
+Undercity Sewers
+Underground River
+Unexpected Windfall
+Urborg, Tomb of Yawgmoth
+Vampiric Tutor
+Watery Grave
+Whispering Madness
+Windfall
+Withering Torment
+Xander's Lounge
+
+A Little Chat
+Anhelo, the Painter
+Arcane Signet
+Army of the Damned
+Ash Barrens
+Audacious Swap
+Bedevil
+Bloodsoaked Champion
+Body Count
+Call the Skybreaker
+Cascade Bluffs
+Chain Reaction
+Choked Estuary
+Clone Legion
+Command Tower
+Commander's Sphere
+Cormela, Glamour Thief
+Crumbling Necropolis
+Cryptic Pursuit
+Damnable Pact
+Darkwater Catacombs
+Deep Analysis
+Determined Iteration
+Dig Through Time
+Dimir Signet
+Dogged Detective
+Double Vision
+Drawn from Dreams
+Dread Summons
+Exotic Orchard
+Extravagant Replication
+Fact or Fiction
+Feed the Swarm
+Fellwar Stone
+Flawless Forgery
+Foreboding Ruins
+Frantic Search
+Goblin Electromancer
+Grixis Panorama
+Hex
+Island
+Izzet Signet
+Lightning Greaves
+Maestros Charm
+Maestros Confluence
+Maestros Theater
+Make an Example
+Mimic Vat
+Mountain
+Myriad Landscape
+Mystic Confluence
+Parnesse, the Subtle Brush
+Path of Ancestry
+Ponder
+Preordain
+Puppeteer Clique
+Rakdos Signet
+Reign of the Pit
+Rekindling Phoenix
+Rite of the Raging Storm
+River's Rebuke
+Sever the Bloodline
+Shadowblood Ridge
+Sinister Concierge
+Skyclave Shade
+Smoldering Marsh
+Smuggler's Buggy
+Spellbinding Soprano
+Squee, the Immortal
+Sunken Hollow
+Swamp
+Syrix, Carrier of the Flame
+Talrand's Invocation
+Temple of Epiphany
+Thriving Bluff
+Thriving Isle
+Thriving Moor
+Twinning Staff
+Undercover Operative
+Waste Management
+Wayfarer's Bauble
+Woe Strider
+Xander's Pact
+Zndrsplt's Judgment
+
+Acererak the Archlich
+Arcane Signet
+Bar the Gate
+Blade of Selves
+Blood Money
+Bloodboil Sorcerer
+Blur
+Bribery
+Caves of Chaos Adventurer
+Chromatic Lantern
+Command Tower
+Counterspell
+Cruel Ultimatum
+Crumbling Necropolis
+Dark Ritual
+Defile
+Delay
+Displace
+Displacer Beast
+Displacer Kitten
+Disrupt Decorum
+Dragonskull Summit
+Drown in the Loch
+Drowned Catacomb
+Dungeon Delver
+Dungeon Descent
+Dungeon Map
+Dungeoneer's Pack
+Eccentric Apprentice
+Evolving Wilds
+Exhaustion
+Exotic Orchard
+Exsanguinate
+Fact or Fiction
+Faithless Looting
+Fates' Reversal
+Fell the Profane
+Fellwar Stone
+Feywild Caretaker
+Fifty Feet of Rope
+Fire Covenant
+Fling
+Fly
+Frantic Search
+Ghostly Flicker
+Glimpse the Impossible
+Hive of the Eye Tyrant
+Insurrection
+Island
+Karazikar, the Eye Tyrant
+Loot Dispute
+Luxury Suite
+Morphic Pool
+Mountain
+Oubliette
+Passageway Seer
+Precipitous Drop
+Preordain
+Ravenloft Adventurer
+Rilsa Rael, Kingpin
+Ringsight
+Sarevok's Tome
+Secret Door
+Seething Landscape
+Shiny Impetus
+Sink into Stupor
+Smoldering Marsh
+Snuff Out
+Sol Ring
+Stifle
+Sulfur Falls
+Sunken Hollow
+Swamp
+Sword of the Animist
+Teferi's Time Twist
+Terminate
+Tomb of Horrors Adventurer
+Training Center
+Vicious Battlerager
+Xanathar, Guild Kingpin
+Xander's Lounge
+Yuan-Ti Malison
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Ashnod's Altar
+Baral, Chief of Compliance
+Blackcleave Cliffs
+Blood Crypt
+Bloodstained Mire
+Brainstorm
+Burning Vengeance
+Cabal Ritual
+Cascade Bluffs
+City of Brass
+Command Tower
+Culling the Weak
+Cyclonic Rift
+Cynical Loner
+Dance of the Dead
+Dark Confidant
+Dark Ritual
+Darkslick Shores
+Darkstar Augur
+Demonic Tutor
+Desperate Ritual
+Doomsday
+Dragonskull Summit
+Drowned Catacomb
+Exotic Orchard
+Exsanguinate
+Faithless Looting
+Fellwar Stone
+Flame Slash
+Flare of Denial
+Frantic Search
+Gemstone Mine
+Gilded Drake
+Grave Pact
+Grim Monolith
+Infernal Plunge
+Island
+Laboratory Maniac
+Last Chance
+Lightning Bolt
+Lightning Greaves
+Lotus Bloom
+Lotus Petal
+Magus of the Wheel
+Maze of Ith
+Mental Note
+Merchant Scroll
+Mountain
+Murmuring Mystic
+Mystic Remora
+Necropotence
+Nightscape Familiar
+Past in Flames
+Personal Tutor
+Phyrexian Arena
+Phyrexian Metamorph
+Phyrexian Tower
+Polluted Delta
+Pyretic Ritual
+Pyroclasm
+Reanimate
+Remand
+Rite of Flame
+Scroll Rack
+Shivan Reef
+Simian Spirit Guide
+Skullclamp
+Snap
+Sol Ring
+Spellseeker
+Spirebluff Canal
+Springleaf Drum
+Sulfur Falls
+Sulfurous Springs
+Swamp
+Swan Song
+Takenuma, Abandoned Mire
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Talrand, Sky Summoner
+Tendo Ice Bridge
+Third Path Iconoclast
+Thought Scour
+Underground River
+Unmarked Grave
+Vandalblast
+Wasteland
+Watery Grave
+Windfall
+Worldgorger Dragon
+Young Pyromancer
+
+Academy Ruins
+Arcane Denial
+Arcane Signet
+Arid Mesa
+Baral, Chief of Compliance
+Blasphemous Act
+Blightstep Pathway
+Bojuka Bog
+Brain Freeze
+Brainstorm
+Burning Inquiry
+Cascade Bluffs
+Cavern of Souls
+Chrome Mox
+City of Brass
+Command Tower
+Counterspell
+Cyclonic Rift
+Damnation
+Dark Deal
+Dark Ritual
+Darkwater Catacombs
+Dauthi Voidwalker
+Deflecting Swat
+Dimir Signet
+Entomb
+Exotic Orchard
+Fabled Passage
+Fellwar Stone
+Fierce Guardianship
+Fiery Islet
+Final Parting
+Flooded Strand
+Force of Will
+Frostboil Snarl
+Gamble
+Graven Cairns
+Island
+Izzet Boilerworks
+Izzet Signet
+Jace's Archivist
+Jace, the Perfected Mind
+Jeska's Will
+Library of Leng
+Lightning Greaves
+Liliana's Caress
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Memory Jar
+Merchant Scroll
+Mind Stone
+Molten Psyche
+Morphic Pool
+Mountain
+Muddle the Mixture
+Mystical Tutor
+Pact of Negation
+Polluted Delta
+Ponder
+Pongify
+Psychic Frog
+Rakdos Carnarium
+Reality Shift
+Recall
+Reforge the Soul
+Reliquary Tower
+Rhystic Study
+Scalding Tarn
+Shivan Reef
+Sol Ring
+Solve the Equation
+Spellseeker
+Stormcarved Coast
+Strip Mine
+Sunken Hollow
+Swamp
+Swan Song
+Swiftfoot Boots
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Terminate
+Thought Vessel
+Toxic Deluge
+Training Center
+Underworld Breach
+Underworld Dreams
+Vandalblast
+Waste Not
+Wheel of Fortune
+Wheel of Misfortune
+Whispering Madness
+Windfall
+Winds of Change
+
+Ad Nauseam
+Ancient Tomb
+Arcane Signet
+Barad-dûr
+Birgi, God of Storytelling
+Blood Crypt
+Bloodstained Mire
+Borne Upon a Wind
+Brain Freeze
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Counterbalance
+Cursed Totem
+Cyclonic Rift
+Dark Ritual
+Dauthi Voidwalker
+Deflecting Swat
+Demonic Consultation
+Demonic Tutor
+Dismember
+Dress Down
+Fellwar Stone
+Fierce Guardianship
+Fiery Islet
+Final Fortune
+Flesh Duplicate
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Gitaxian Probe
+Grim Monolith
+Imperial Recruiter
+Imperial Seal
+Intuition
+Island
+Jeska's Will
+Lion's Eye Diamond
+Lotus Petal
+Luxury Suite
+Mana Confluence
+Mana Drain
+Mana Vault
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mnemonic Betrayal
+Mockingbird
+Morphic Pool
+Mount Doom
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Notion Thief
+Opposition Agent
+Orcish Bowmasters
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Pongify
+Praetor's Grasp
+Prismatic Vista
+Pyroblast
+Ragavan, Nimble Pilferer
+Red Elemental Blast
+Rhystic Study
+Scalding Tarn
+Simian Spirit Guide
+Snap
+Snow-Covered Island
+Snow-Covered Swamp
+Snuff Out
+Sol Ring
+Steam Vents
+Sulfurous Springs
+Swan Song
+Tainted Pact
+Talisman of Creativity
+Talisman of Dominance
+Tarnished Citadel
+Thassa's Oracle
+The One Ring
+Toxic Deluge
+Training Center
+Underground River
+Underworld Breach
+Urborg, Tomb of Yawgmoth
+Urza's Saga
+Vampiric Tutor
+Watery Grave
+Wheel of Misfortune
+Windfall
+Wishclaw Talisman
+Yawgmoth's Will
+
+Abrade
+Alania, Divergent Storm
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Artist's Talent
+Blasphemous Act
+Blasphemous Edict
+Blazemire Verge
+Brainstorm
+Cabal Ritual
+Canyon Slough
+Cascade Bluffs
+Chaos Warp
+Chart a Course
+Command Tower
+Consider
+Consuming Tide
+Cormela, Glamour Thief
+Coruscation Mage
+Counterspell
+Crumbling Necropolis
+Dark Ritual
+Darkwater Catacombs
+Demand Answers
+Dragonskull Summit
+Drowned Catacomb
+Dualcaster Mage
+Exotic Orchard
+Expansion // Explosion
+Faithless Looting
+Feed the Swarm
+Fetid Pools
+Fiery Islet
+Finale of Promise
+Flare of Duplication
+Frantic Search
+Galvanic Iteration
+Gamble
+Gloomlake Verge
+Guttersnipe
+Haunted Ridge
+Increasing Vengeance
+Insult // Injury
+Island
+Izzet Boilerworks
+Izzet Charm
+Lightning Bolt
+Malicious Affliction
+Mind Stone
+Molten Tributary
+Mountain
+Negate
+Night's Whisper
+Opt
+Ponder
+Preordain
+Professor Onyx
+Pull from Tomorrow
+Rakdos Charm
+Refute
+Repeated Reverberation
+Return the Favor
+Reverberate
+Rewind
+Seething Song
+Serum Visions
+Shadowblood Ridge
+Shipwreck Marsh
+Shivan Reef
+Sign in Blood
+Snap
+Sol Ring
+Stormcarved Coast
+Stormcatch Mentor
+Sulfurous Springs
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thought Scour
+Thousand-Year Storm
+Thrill of Possibility
+Toxic Deluge
+Unwind
+Wild Ricochet
+Windfall
+Withering Torment
+
+Abhorrent Oculus
+Amphibian Downpour
+Arcane Denial
+Arcane Lighthouse
+Arcane Signet
+Baleful Strix
+Barrowgoyf
+Blasphemous Act
+Bloodstained Mire
+Brainstorm
+Brainsurge
+Brazen Borrower
+Breach the Multiverse
+Cling to Dust
+Coldsteel Heart
+Command Tower
+Cyclonic Rift
+Dack Fayden
+Damnation
+Dig Through Time
+Dimir Signet
+Drowned Catacomb
+Enduring Curiosity
+Faerie Mastermind
+Fallen Shinobi
+Fellwar Stone
+Fierce Guardianship
+Flame of Anor
+Flooded Strand
+Force of Negation
+Force of Will
+Gloomlake Verge
+Hullbreaker Horror
+Hydroelectric Specimen
+Island
+Izzet Signet
+Jace, the Mind Sculptor
+Kaito, Bane of Nightmares
+Kolaghan's Command
+Kroxa, Titan of Death's Hunger
+Last One Standing
+Ledger Shredder
+Lórien Revealed
+Malcolm, Alluring Scoundrel
+Memory Deluge
+Mind Stone
+Misty Rainforest
+Molten Collapse
+Morphic Pool
+Mountain
+Murmuring Mystic
+Mystic Sanctuary
+Narset, Parter of Veils
+Nicol Bolas, the Ravager
+Opposition Agent
+Orcish Bowmasters
+Otawara, Soaring City
+Overlord of the Balemurk
+Polluted Delta
+Ponder
+Preordain
+Prismatic Vista
+Psychic Frog
+Ral, Crackling Wit
+Riptide Laboratory
+Rise // Fall
+Scalding Tarn
+Sea Gate Restoration
+Serum Visions
+Shark Typhoon
+Sheoldred's Edict
+Sink into Stupor
+Sol Ring
+Steam Vents
+Stormcarved Coast
+Subtlety
+Sulfur Falls
+Swamp
+Takenuma, Abandoned Mire
+Talisman of Creativity
+Talisman of Dominance
+Terminate
+Thundering Falls
+Time Warp
+Torrential Gearhulk
+Training Center
+Undercity Sewers
+Underground Sea
+Volcanic Island
+Waterlogged Teachings
+Watery Grave
+Wayfarer's Bauble
+Winged Words
+Withering Torment
+Xander's Lounge
+
+Agadeem's Awakening
+An Offer You Can't Refuse
+Anger
+Animate Dead
+Arcane Denial
+Arcane Signet
+Archfiend of Depravity
+Archfiend of Despair
+Be'lakor, the Dark Master
+Bedevil
+Big Score
+Bitter Triumph
+Black Sun's Twilight
+Blasphemous Act
+Blood Crypt
+Bloodthirster
+Bojuka Bog
+Breach the Multiverse
+Buried Alive
+Burning-Rune Demon
+Careful Study
+Chaos Warp
+Coiling Rebirth
+Command Tower
+Counterspell
+Damnation
+Demonic Counsel
+Demonic Tutor
+Desolate Lighthouse
+Entomb
+Faithless Looting
+Feed the Swarm
+Fell the Profane
+Fellwar Stone
+Frantic Search
+Glasspool Mimic
+Gyruda, Doom of Depths
+Hagra Mauling
+Herald of Slaanesh
+Ionize
+Island
+Likeness Looter
+Liliana's Contract
+Living Death
+Long River's Pull
+Lord Xander, the Collector
+Luxury Suite
+Malakir Rebirth
+Minas Morgul, Dark Fortress
+Morphic Pool
+Mountain
+Negate
+Otawara, Soaring City
+Patriarch's Bidding
+Persist
+Rakdos, Patron of Chaos
+Rakdos, the Showstopper
+Raphael, Fiendish Savior
+Raucous Theater
+Reanimate
+Relic of Sauron
+Rise of the Dark Realms
+Rogue's Passage
+Sea Gate Restoration
+Shatterskull Smashing
+Sheoldred, Whispering One
+Sol Ring
+Stitch Together
+Swamp
+Séance Board
+Takenuma, Abandoned Mire
+Talisman of Creativity
+Talisman of Indulgence
+The Balrog of Moria
+The Black Gate
+Thought Vessel
+Thrill of Possibility
+Tomb Fortress
+Undercity Sewers
+Unexpected Windfall
+Unholy Annex // Ritual Chamber
+Valgavoth, Terror Eater
+Vandalblast
+Victimize
+Vile Entomber
+Vilis, Broker of Blood
+Watery Grave
+Windfall
+Xander's Lounge
+
+Ad Nauseam
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arid Mesa
+Badlands
+Beseech the Mirror
+Birgi, God of Storytelling
+Blood Crypt
+Bloodstained Mire
+Borne Upon a Wind
+Brain Freeze
+Brainstorm
+Cabal Ritual
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Cursed Totem
+Cyclonic Rift
+Dark Ritual
+Daze
+Deflecting Swat
+Delay
+Demonic Consultation
+Demonic Tutor
+Dress Down
+Fellwar Stone
+Fierce Guardianship
+Final Fortune
+Flooded Strand
+Flusterstorm
+Force of Will
+Gamble
+Gemstone Caverns
+Gitaxian Probe
+Imperial Seal
+Intuition
+Island
+Jace, Wielder of Mysteries
+Jeska's Will
+Lightning Bolt
+Lion's Eye Diamond
+Lotus Petal
+Luxury Suite
+Mana Confluence
+Mana Drain
+Mana Vault
+Marsh Flats
+Mental Misstep
+Mindbreak Trap
+Misty Rainforest
+Mnemonic Betrayal
+Morphic Pool
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Orcish Bowmasters
+Otawara, Soaring City
+Pact of Negation
+Polluted Delta
+Ponder
+Praetor's Grasp
+Ragavan, Nimble Pilferer
+Reanimate
+Red Elemental Blast
+Rhystic Study
+Rite of Flame
+Scalding Tarn
+Simian Spirit Guide
+Snap
+Sol Ring
+Steam Vents
+Strix Serenade
+Swamp
+Swan Song
+Tainted Pact
+Talion, the Kindly Lord
+Talisman of Creativity
+Talisman of Dominance
+Thassa's Oracle
+The One Ring
+Timetwister
+Tishana's Tidebinder
+Training Center
+Underground Sea
+Underworld Breach
+Valley Floodcaller
+Vampiric Tutor
+Verdant Catacombs
+Volcanic Island
+Watery Grave
+Wheel of Fortune
+Wheel of Misfortune
+Windfall
+Wishclaw Talisman
+Wooded Foothills
+
+An Offer You Can't Refuse
+Arcane Denial
+Archmage Emeritus
+Artist's Talent
+Ashling, Flame Dancer
+Badlands
+Baral, Chief of Compliance
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Bonus Round
+Brainstorm
+Burning Prophet
+Careful Study
+Cascade Bluffs
+Chain of Smog
+City of Brass
+Command Tower
+Consider
+Crackle with Power
+Cremate
+Deflecting Swat
+Desperate Ritual
+Disrupt
+Dragon's Rage Channeler
+Faithless Looting
+Fetid Pools
+Fierce Guardianship
+Fiery Islet
+Flooded Strand
+Forbidden Orchard
+Frantic Search
+Fury Storm
+Gale, Waterdeep Prodigy
+Gamble
+Gitaxian Probe
+Haunted Ridge
+Island
+Jeska's Will
+Mana Confluence
+Mana Drain
+Marsh Flats
+Mirrodin Avenged
+Misty Rainforest
+Morphic Pool
+Mountain
+Opt
+Overmaster
+Peek
+Plaza of Heroes
+Polluted Delta
+Ponder
+Preordain
+Pyretic Ritual
+Pyroblast
+Quicken
+Ral, Storm Conduit
+Reanimate
+Red Elemental Blast
+Reiterate
+Remand
+Rhystic Study
+Rite of Flame
+Scalding Tarn
+Scroll Rack
+Sedgemoor Witch
+Sensei's Divining Top
+Serum Visions
+Shipwreck Marsh
+Shivan Reef
+Simian Spirit Guide
+Sleight of Hand
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Sunken Ruins
+Swamp
+Swan Song
+Teferi's Ageless Insight
+Thassa's Oracle
+Thought Scour
+Training Center
+Underground River
+Underground Sea
+Underworld Breach
+Untimely Malfunction
+Verdant Catacombs
+Visions of Beyond
+Volcanic Island
+Watery Grave
+Windrider Wizard
+Winds of Change
+Wooded Foothills
+Yawgmoth's Will
+You Are Already Dead
+
+Academy Wall
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Archmage's Charm
+Baral, Chief of Compliance
+Burning Inquiry
+Call of the Ring
+Capture of Jingzhou
+Case of the Ransacked Lab
+Cathartic Reunion
+Chart a Course
+Command Tower
+Coruscation Mage
+Counterspell
+Dimir Aqueduct
+Dimir Signet
+Drowned Catacomb
+Electrostatic Field
+Erebor Flamesmith
+Exotic Orchard
+Exsanguinate
+Faithless Looting
+Fell the Profane
+Ferrous Lake
+Fiery Inscription
+Fiery Islet
+Forever Young
+Frantic Search
+Galvanic Iteration
+Glasspool Mimic
+Goblin Electromancer
+Guttersnipe
+Haunted Ridge
+Hydroelectric Specimen
+Increasing Vengeance
+Insight
+Island
+Izzet Boilerworks
+Izzet Signet
+Long River's Pull
+Maestros Charm
+Mountain
+Murmuring Mystic
+Mystic Remora
+Narset's Reversal
+Night's Whisper
+Nightscape Familiar
+Path of Ancestry
+Phyrexian Arena
+Pinnacle Monk
+Rakdos Signet
+Reforge the Soul
+Riptide Laboratory
+Rona, Sheoldred's Faithful
+Sedgemoor Witch
+See the Truth
+Shadowblood Ridge
+Shipwreck Marsh
+Shivan Reef
+Sign in Blood
+Sink into Stupor
+Snap
+Sol Ring
+Storm-Kiln Artist
+Stormcatch Mentor
+Sulfur Falls
+Sulfurous Springs
+Swamp
+Syphon Mind
+Tainted Indulgence
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Talrand, Sky Summoner
+Teach by Example
+Teferi's Ageless Insight
+Temporal Manipulation
+Thunderclap Drake
+Time Warp
+Underground River
+Walk the Aeons
+Wheel of Misfortune
+Whispering Madness
+Windfall
+Windrider Wizard
+Young Pyromancer
+
+Abrade
+Adeliz, the Cinder Wind
+Akoum Refuge
+Alania, Divergent Storm
+Ancient Excavation
+Arcane Bombardment
+Arcane Signet
+Bedevil
+Bitter Triumph
+Bojuka Bog
+Bonus Round
+Brainstorm
+Careful Consideration
+Cathartic Pyre
+Cemetery Tampering
+Channeled Force
+Choked Estuary
+Chromatic Lantern
+Command Tower
+Consider
+Contaminated Aquifer
+Cormela, Glamour Thief
+Coruscation Mage
+Counterspell
+Creeping Tar Pit
+Crumbling Necropolis
+Dakmor Salvage
+Dark Ritual
+Demand Answers
+Dimir Signet
+Double Vision
+Electrostatic Field
+Erebor Flamesmith
+Exotic Orchard
+Fact or Fiction
+Faithless Looting
+Feed the Swarm
+Forbid
+Foreboding Ruins
+Frantic Search
+Frolicking Familiar
+Frostboil Snarl
+Goblin Electromancer
+Guttersnipe
+Inalla, Archmage Ritualist
+Increasing Vengeance
+Insult // Injury
+Island
+Izzet Charm
+Izzet Signet
+Jeleva, Nephalia's Scourge
+Kaza, Roil Chaser
+Mizzix's Mastery
+Mountain
+Mudflat Village
+Nightscape Familiar
+Olivia, Mobilized for War
+Opt
+Pearl of Wisdom
+Professor Onyx
+Rakdos Charm
+Rakdos Signet
+Rona, Sheoldred's Faithful
+See the Truth
+Serum Visions
+Shivan Reef
+Sol Ring
+Solve the Equation
+Storm-Kiln Artist
+Stormcatch Mentor
+Sulfur Falls
+Swamp
+Syndicate Infiltrator
+Tainted Isle
+Tainted Peak
+Talisman of Creativity
+Talisman of Indulgence
+Teferi's Ageless Insight
+Temple of Epiphany
+Temple of Malice
+Terminate
+Thrill of Possibility
+Umara Mystic
+Valley Floodcaller
+Waterlogged Teachings
+Windrider Wizard
+
+Aetherflux Reservoir
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Ashling, Flame Dancer
+Big Score
+Birgi, God of Storytelling
+Blood Crypt
+Bloodstained Mire
+Bonus Round
+Breach the Multiverse
+Cabal Ritual
+Chain of Smog
+Chaos Warp
+Command Tower
+Dark Petition
+Dark Ritual
+Darkwater Catacombs
+Desperate Ritual
+Dimir Signet
+Dragon's Rage Channeler
+Dragonskull Summit
+Drowned Catacomb
+Eris, Roar of the Storm
+Exotic Orchard
+Exsanguinate
+Faithless Looting
+Fell the Profane
+Fiery Islet
+Flame of Anor
+Flusterstorm
+Frantic Search
+Gamble
+Gitaxian Probe
+Grapeshot
+Horizon of Progress
+Increasing Vengeance
+Island
+Izzet Boilerworks
+Izzet Signet
+Jeska's Will
+Kolaghan's Command
+Lightning Bolt
+Mizzix's Mastery
+Mountain
+Mystic Remora
+Night's Whisper
+Nightscape Familiar
+Past in Flames
+Picklock Prankster
+Ponder
+Preordain
+Prismari Command
+Professor Onyx
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
+Ral, Crackling Wit
+Ral, Monsoon Mage
+Sedgemoor Witch
+See the Truth
+Seething Song
+Seize the Spoils
+Shadowblood Ridge
+Shivan Reef
+Sink into Stupor
+Snap
+Sol Ring
+Sorcerer Class
+Steam Vents
+Stella Lee, Wild Card
+Storm-Kiln Artist
+Stormsplitter
+Sulfur Falls
+Sulfurous Springs
+Sundering Eruption
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thought Scour
+Thousand-Year Storm
+Thunderclap Drake
+Toxic Deluge
+Underground River
+Unexpected Windfall
+Urabrask
+Veyran, Voice of Duality
+Waterlogged Teachings
+Watery Grave
+
+A Little Chat
+Arcane Signet
+Archmage Emeritus
+As Foretold
+Ashling, Flame Dancer
+Bedevil
+Blustersquall
+Brainsurge
+Cascade Bluffs
+Command Beacon
+Command Tower
+Consign to Memory
+Counterspell
+Crosis's Charm
+Crumbling Necropolis
+Crypt of the Eternals
+Cryptic Command
+Crystal Grotto
+Curious Homunculus
+Cut Down
+Dark Ritual
+Darkwater Catacombs
+Demonic Tutor
+Electrodominance
+Environmental Sciences
+Eris, Roar of the Storm
+Exotic Orchard
+Expressive Iteration
+Fiery Inscription
+Fountainport Bell
+Frantic Firebolt
+Geistwave
+Gloomlake Verge
+Grapeshot
+Haughty Djinn
+Haunted Ridge
+Impulse
+Increasing Vengeance
+Insatiable Avarice
+Island
+Jace's Sanctum
+Judith, Carnage Connoisseur
+Kaya's Ghostform
+Lightning Bolt
+Live or Die
+Lórien Revealed
+Maestros Theater
+Make an Example
+Marvin, Murderous Mimic
+Memory Drain
+Metallurgic Summonings
+Mizzix's Mastery
+Molten Slagheap
+Mountain
+Negate
+Niv-Mizzet, Parun
+Not Dead After All
+Overmaster
+Path of Ancestry
+Polluted Delta
+Profane Transfusion
+Professor Onyx
+Propaganda
+Pyromancer's Goggles
+Ral, Crackling Wit
+Reconnaissance Mission
+Restless Reef
+Secrets of the Dead
+Sedgemoor Witch
+Silverbluff Bridge
+Sol Ring
+Spell Satchel
+Stitch Together
+Sulfur Falls
+Sunken Citadel
+Swamp
+Talrand, Sky Summoner
+Temple of the False God
+Thousand-Year Storm
+Thriving Bluff
+Thriving Isle
+Thriving Moor
+Unearth
+Untimely Malfunction
+Unwind
+Urza's Rebuff
+Vandalblast
+Veyran, Voice of Duality
+Victimize
+Witness the Future
+
+Accursed Marauder
+Arcane Signet
+Bastion of Remembrance
+Bitter Triumph
+Blood Artist
+Bojuka Bog
+Buried Alive
+Careful Study
+Cascade Bluffs
+Cemetery Reaper
+Choked Estuary
+Cleaver Skaab
+Coffin Queen
+Command Tower
+Crumbling Necropolis
+Deadly Dispute
+Death Baron
+Dimir Signet
+Diregraf Captain
+Dragonskull Summit
+Dread Summons
+Drivnod, Carnage Dominus
+Empty the Laboratory
+Enduring Courage
+Escape Tunnel
+Evolving Wilds
+Exhume
+Exotic Orchard
+Feldon of the Third Path
+Fellwar Stone
+Fleet Swallower
+Fleshbag Marauder
+Foreboding Ruins
+Frantic Search
+Gisa and Geralf
+God-Eternal Bontu
+Gray Merchant of Asphodel
+Hatred
+Hedron Crab
+Island
+Lich-Knights' Conquest
+Life's Finale
+Liliana's Mastery
+Liliana, Death's Majesty
+Liliana, Untouched by Death
+Living Death
+Lord of the Accursed
+Marionette Apprentice
+Mental Note
+Mindleech Mass
+Mire Triton
+Mirkwood Bats
+Mogg Infestation
+Mountain
+Open the Graves
+Overlord of the Balemurk
+Oversold Cemetery
+Persist
+Phyrexian Ghoul
+Pile On
+Pitiless Carnage
+Plumb the Forbidden
+Reanimate
+Ringsight
+Rooftop Storm
+Sepulchral Primordial
+Smoldering Marsh
+Stitcher's Supplier
+Sulfurous Mire
+Sunken Hollow
+Swamp
+Swiftwater Cliffs
+Syr Konrad, the Grim
+Tainted Adversary
+Talisman of Dominance
+Talisman of Indulgence
+Temple of Deceit
+Temple of Epiphany
+Temple of Malice
+Terramorphic Expanse
+Tormod, the Desecrator
+Unmarked Grave
+Vengeful Dead
+Victimize
+Vizier of the Scorpion
+Wilhelt, the Rotcleaver
+Zulaport Cutthroat
+
+Academy Ruins
+Act of Treason
+Aetherflux Reservoir
+Arcane Denial
+Arcane Lighthouse
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Astarion's Thirst
+Black Market Connections
+Blood Crypt
+Boltwave
+Brain Freeze
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Chromatic Lantern
+Command Tower
+Commander's Sphere
+Coruscation Mage
+Counterpoint
+Crumbling Necropolis
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Deadly Dispute
+Demonic Tutor
+Detection Tower
+Drossforge Bridge
+Elixir of Immortality
+Flame of Anor
+Frolicking Familiar
+Galvanic Iteration
+Gitaxian Probe
+Grapeshot
+Great Furnace
+Haunted Ridge
+Increasing Vengeance
+Island
+Isochron Scepter
+Judith, Carnage Connoisseur
+Lightning Bolt
+Luxury Suite
+Magnus the Red
+Mana Drain
+Mistvault Bridge
+Morphic Pool
+Mountain
+Mox Opal
+Opt
+Otawara, Soaring City
+Ponder
+Preordain
+Primal Amulet
+Ral, Crackling Wit
+Ral, Storm Conduit
+Relic of Sauron
+Reliquary Tower
+Seat of the Synod
+Sedgemoor Witch
+Shadowspear
+Shipwreck Marsh
+Silverbluff Bridge
+Slick Sequence
+Snap
+Sol Ring
+Steam Vents
+Stormcarved Coast
+Sudden Edict
+Séance Board
+Talrand, Sky Summoner
+Temple of Deceit
+Temple of Epiphany
+Temple of Malice
+Tendrils of Agony
+The Lost and the Damned
+Thought Scour
+Thought Vessel
+Thousand-Year Storm
+Thundertrap Trainer
+Time Warp
+Torment of Hailfire
+Training Center
+Unwinding Clock
+Urabrask
+Vampiric Rites
+Vault of Whispers
+Veyran, Voice of Duality
+Village Rites
+Watery Grave
+Xander's Lounge
+Young Pyromancer
+
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Archmage's Charm
+Ash Barrens
+Baral, Chief of Compliance
+Blackcleave Cliffs
+Blasphemous Act
+Brainstorm
+Brazen Borrower
+Brotherhood's End
+Cascade Bluffs
+Chandra, Torch of Defiance
+Chaos Warp
+Command Tower
+Counterspell
+Creeping Tar Pit
+Crumbling Necropolis
+Dark Ritual
+Darkslick Shores
+Delay
+Dig Through Time
+Drown in the Loch
+Exotic Orchard
+Expressive Iteration
+Fabled Passage
+Faithless Looting
+Feed the Swarm
+Fiery Inscription
+Fiery Islet
+Flame Slash
+Flame of Anor
+Foreboding Ruins
+Frantic Search
+Gamble
+Go for the Throat
+Goblin Electromancer
+Grixis Panorama
+Hall of Storm Giants
+Hard Evidence
+Heartless Act
+Impulse
+Insatiable Avarice
+Island
+Izzet Charm
+Lightning Greaves
+Lively Dirge
+Maestros Charm
+Magmaquake
+Mana Leak
+Mizzium Mortars
+Mountain
+Mystical Tutor
+Negate
+Nicol Bolas, Dragon-God
+Night's Whisper
+Opt
+Ponder
+Preordain
+Prismari Command
+Professor Onyx
+Propaganda
+Rakdos Charm
+Reality Shift
+Reanimate
+Reflecting Pool
+Relic of Sauron
+Restless Reef
+Shark Typhoon
+Sheoldred's Edict
+Shivan Reef
+Sol Ring
+Solve the Equation
+Soul Shatter
+Spirebluff Canal
+Stormcarved Coast
+Sulfur Falls
+Sulfurous Springs
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Temple of Epiphany
+Terminate
+Thunderclap Drake
+Toxic Deluge
+Training Center
+Vandalblast
+Wash Away
+Withering Torment
+Xander's Lounge
+
+Aboleth Spawn
+Ancient Copper Dragon
+Anger
+Animate Dead
+Archon of Cruelty
+Balefire Dragon
+Blasphemous Act
+Blasphemous Edict
+Blood Crypt
+Bloodstained Mire
+Bloodthirsty Conqueror
+Breach the Multiverse
+Buried Alive
+Careful Study
+Cavern-Hoard Dragon
+Cephalid Coliseum
+Chaos Warp
+Command Tower
+Consecrated Sphinx
+Consider
+Counterspell
+Cyclonic Rift
+Damnation
+Dark Ritual
+Demonic Tutor
+Dread Return
+Drowned Catacomb
+Electric Revelation
+Exhume
+Exotic Orchard
+Fabled Passage
+Faithless Looting
+Feed the Swarm
+Fell the Profane
+Forbidden Alchemy
+Frantic Search
+Glasspool Mimic
+Gloomlake Verge
+Island
+Izzet Charm
+Jin-Gitaxias, Core Augur
+Kiora, the Rising Tide
+Living Death
+Lord of Change
+Luxury Suite
+Malakir Rebirth
+Massacre Wurm
+Mikaeus, the Unhallowed
+Mission Briefing
+Mountain
+Muddle the Mixture
+Necromancy
+Negate
+Nezahal, Primal Tide
+Otherworldly Gaze
+Persist
+Phyrexian Metamorph
+Polluted Delta
+Ponder
+Prismari Command
+Propaganda
+Raucous Theater
+Reanimate
+Rune-Scarred Demon
+Sheoldred, Whispering One
+Shivan Reef
+Shizo, Death's Storehouse
+Sink into Stupor
+Snapcaster Mage
+Sol Ring
+Steam Vents
+Stitch Together
+Strix Serenade
+Sulfur Falls
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Swan Song
+The Balrog of Moria
+The Black Gate
+Three Steps Ahead
+Thrill of Possibility
+Thundering Falls
+Tomb Fortress
+Toxic Deluge
+Underground River
+Untimely Malfunction
+Urborg, Tomb of Yawgmoth
+Valgavoth, Terror Eater
+Vandalblast
+Victimize
+Volrath's Stronghold
+Watery Grave
+Wurmcoil Engine
+
+Abrade
+Aetherflux Reservoir
+Arcane Epiphany
+Arcane Signet
+Archaeomancer
+Archmage Emeritus
+Archmage of Runes
+Bedevil
+Blasphemous Act
+Blasphemous Edict
+Brainstorm
+Chaos Warp
+Choked Estuary
+Comet Storm
+Command Tower
+Consider
+Counterspell
+Crosis's Charm
+Crumbling Necropolis
+Cyclonic Rift
+Dimir Signet
+Dreadbore
+Dualcaster Mage
+Electrostatic Field
+Epic Experiment
+Exotic Orchard
+Expansion // Explosion
+Exsanguinate
+Faithless Looting
+Feed the Swarm
+Flood of Recollection
+Foreboding Ruins
+Frantic Search
+Goblin Electromancer
+Grixis Panorama
+Guttersnipe
+Haughty Djinn
+Ignite the Future
+Increasing Vengeance
+Island
+Izzet Signet
+Jace's Sanctum
+Lightning Bolt
+Maestros Charm
+Maestros Theater
+Mana Geyser
+Mizzix's Mastery
+Mountain
+Negate
+Night's Whisper
+Nightscape Familiar
+Opt
+Past in Flames
+Ponder
+Portent
+Preordain
+Primal Amulet
+Rakdos Charm
+Rakdos Signet
+River's Rebuke
+Seething Song
+Sign in Blood
+Skull Storm
+Smoldering Marsh
+Snap
+Storm-Kiln Artist
+Stormcatch Mentor
+Sunken Hollow
+Swamp
+Temple of Epiphany
+Terminate
+Thousand-Year Storm
+Thrill of Possibility
+Twinning Staff
+Vandalblast
+Windfall
+Wishing Well
+Withering Torment
+
+Altar of Bhaal
+Amethyst Dragon
+Anhelo, the Painter
+Arcane Signet
+Banefire
+Big Score
+Blasphemous Act
+Bloodfell Caves
+Bojuka Bog
+Bonecrusher Giant
+Brainstorm
+Brazen Borrower
+Buried Alive
+Callous Sell-Sword
+Candlekeep Inspiration
+Cephalid Coliseum
+Chancellor of Tales
+Chaos Warp
+Choked Estuary
+Command Tower
+Counterspell
+Cruel Somnophage
+Crumbling Necropolis
+Dark Ritual
+Deadly Dispute
+Decadent Dragon
+Desolate Lighthouse
+Dismal Backwater
+Electrostatic Field
+Faithless Looting
+Foulmire Knight
+Frolicking Familiar
+Frostboil Snarl
+Galvanic Giant
+Gamble
+Ghost Lantern
+Goblin Electromancer
+Grabby Giant
+Gray Slaad
+Hearth Elemental
+Hellish Rebuke
+Hezrou
+Horned Loch-Whale
+Illithid Harvester
+Island
+Lightning Bolt
+Lozhan, Dragons' Legacy
+Lucky Clover
+Maestros Ascendancy
+Mirrorpool
+Mountain
+Murderous Rider
+Murmuring Mystic
+Nalfeshnee
+Nicol Bolas, Planeswalker
+Night's Whisper
+Nightscape Familiar
+Order of Midnight
+Picklock Prankster
+Pongify
+Psychic Frog
+Ratcatcher Trainee
+Reanimate
+Risk Factor
+Scalding Viper
+Secrets of the Dead
+Seething Landscape
+Seize the Spoils
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Spellscorn Coven
+Storm-Kiln Artist
+Storyteller Pixie
+Sudden Spoiling
+Sunken Hollow
+Swamp
+Swiftwater Cliffs
+Sword Coast Serpent
+Temple of Deceit
+Temple of Epiphany
+Temple of Malice
+Topaz Dragon
+Unexpected Windfall
+Virtue of Courage
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Ashling, Flame Dancer
+Beseech the Mirror
+Blasphemous Act
+Blasphemous Edict
+Blazemire Verge
+Bloodstained Mire
+Bojuka Bog
+Cabal Ritual
+Chandra, Hope's Beacon
+Command Tower
+Consider
+Cormela, Glamour Thief
+Dark Petition
+Dark Ritual
+Darkslick Shores
+Dig Through Time
+Dimir Aqueduct
+Dimir Signet
+Docent of Perfection
+Dragon's Rage Channeler
+Drown in the Loch
+Exotic Orchard
+Expressive Iteration
+Exsanguinate
+Fabled Passage
+Fact or Fiction
+Faithless Looting
+Fellwar Stone
+Fiery Inscription
+Flame of Anor
+Frantic Search
+Gloomlake Verge
+Guttersnipe
+Haunted Ridge
+Horizon of Progress
+Increasing Vengeance
+Island
+Izzet Boilerworks
+Izzet Signet
+Judith, Carnage Connoisseur
+Lightning Bolt
+Lock and Load
+Lórien Revealed
+Mana Geyser
+Mind's Desire
+Mountain
+Night's Whisper
+Pinnacle Monk
+Ponder
+Preordain
+Professor Onyx
+Rakdos Charm
+Rakdos Signet
+Raucous Theater
+Reanimate
+Reflecting Pool
+Relic of Sauron
+Reliquary Tower
+Ripples of Undeath
+Sea Gate Restoration
+Sedgemoor Witch
+See the Truth
+Seething Landscape
+Seething Song
+Serum Visions
+Shipwreck Marsh
+Shivan Reef
+Silundi Vision
+Spirebluff Canal
+Storm-Kiln Artist
+Stormcarved Coast
+Sunken Hollow
+Swamp
+Tainted Indulgence
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Talrand, Sky Summoner
+Tendrils of Agony
+Thousand-Year Storm
+Thundering Falls
+Toxic Deluge
+Treasure Cruise
+Underground River
+Waterlogged Teachings
+Windfall
+Withering Torment
+Xander's Lounge
+Young Pyromancer
+
+An Offer You Can't Refuse
+Arcane Signet
+Arid Mesa
+Badlands
+Blood Crypt
+Bloodstained Mire
+Borne Upon a Wind
+Brain Freeze
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Cursed Totem
+Cyclonic Rift
+Dark Ritual
+Dauthi Voidwalker
+Deadly Rollick
+Deflecting Swat
+Demonic Consultation
+Demonic Tutor
+Dispel
+Disruptor Flute
+Dragon's Rage Channeler
+Dress Down
+Exotic Orchard
+Expressive Iteration
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Final Fortune
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Gitaxian Probe
+Into the Flood Maw
+Intuition
+Island
+Ledger Shredder
+Lion's Eye Diamond
+Luxury Suite
+Malevolent Hermit
+Mana Drain
+Marsh Flats
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Miscast
+Misty Rainforest
+Morphic Pool
+Mountain
+Mox Amber
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Necropotence
+Opposition Agent
+Orcish Bowmasters
+Otawara, Soaring City
+Pact of Negation
+Polluted Delta
+Pongify
+Pyroblast
+Rapid Hybridization
+Reanimate
+Red Elemental Blast
+Rhystic Study
+Scalding Tarn
+Sink into Stupor
+Sol Ring
+Spell Pierce
+Spell Snare
+Spellseeker
+Steam Vents
+Strix Serenade
+Swamp
+Swan Song
+Tainted Pact
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thassa's Oracle
+The One Ring
+Toxic Deluge
+Training Center
+Underground Sea
+Underworld Breach
+Untimely Malfunction
+Vampiric Tutor
+Verdant Catacombs
+Volcanic Island
+Watery Grave
+Wooded Foothills
+Yahenni's Expertise
+
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Archaeomancer
+Archmage Emeritus
+Archmage of Runes
+Baral, Chief of Compliance
+Birgi, God of Storytelling
+Blasphemous Act
+Blasphemous Edict
+Blood Crypt
+Brainstorm
+Chaos Warp
+Command Beacon
+Command Tower
+Coruscation Mage
+Counterspell
+Crumbling Necropolis
+Dark Ritual
+Displacer Kitten
+Don't Make a Sound
+Double Vision
+Dualcaster Mage
+Exotic Orchard
+Faithless Looting
+Flusterstorm
+Frantic Search
+Gamble
+Gitaxian Probe
+Grapeshot
+Guttersnipe
+Island
+Jeska's Will
+Lightning Bolt
+Lightning Greaves
+Lord of the Nazgûl
+Luxury Suite
+Mana Drain
+Mana Geyser
+Morphic Pool
+Mountain
+Murktide Regent
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Nightscape Familiar
+Perplexing Chimera
+Ponder
+Pongify
+Propaganda
+Razorkin Needlehead
+Scalding Tarn
+Seething Song
+Shark Typhoon
+Sheoldred, the Apocalypse
+Snapcaster Mage
+Sol Ring
+Sphinx of the Second Sun
+Storm King's Thunder
+Storm-Kiln Artist
+Stormcatch Mentor
+Swamp
+Swan Song
+Séance Board
+Talrand, Sky Summoner
+The Lord of Pain
+Third Path Iconoclast
+Thought Vessel
+Torment of Hailfire
+Toxic Deluge
+Training Center
+Twinflame
+Vampiric Tutor
+Watery Grave
+Windfall
+Xander's Lounge
+Young Pyromancer
+
+Aetherflux Reservoir
+All Is Dust
+An Offer You Can't Refuse
+Arcane Signet
+Artist's Talent
+Badlands
+Black Market Connections
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Bolas's Citadel
+Cascade Bluffs
+Chaos Warp
+Chart a Course
+Clearwater Pathway
+Command Tower
+Curse of the Swine
+Cyclonic Rift
+Damnation
+Dark Ritual
+Dimir Signet
+Displacer Kitten
+Drown in Dreams
+Drowned Catacomb
+Eagle Vision
+Elemental Eruption
+Feed the Swarm
+Fell the Profane
+Fellwar Stone
+Flame of Anor
+Flare of Denial
+Flooded Strand
+Haunted Ridge
+Hullbreaker Horror
+Inventors' Fair
+Island
+Izzet Signet
+Jeska's Will
+Lier, Disciple of the Drowned
+Luxury Suite
+Lórien Revealed
+Make an Example
+Mana Geyser
+Marsh Flats
+Mountain
+Mystic Confluence
+Nightscape Familiar
+No Mercy
+Otawara, Soaring City
+Painful Truths
+Polluted Delta
+Preordain
+Propaganda
+Rakdos Charm
+Rakdos Signet
+Ral, Crackling Wit
+Ral, Monsoon Mage
+Raucous Theater
+Reflecting Pool
+Relic of Sauron
+Riverglide Pathway
+Scalding Tarn
+See the Truth
+Seething Song
+Shipwreck Marsh
+Shivan Reef
+Silundi Vision
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stroke of Genius
+Struggle for Project Purity
+Sulfur Falls
+Sunken Ruins
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+The One Ring
+Third Path Iconoclast
+Thought Vessel
+Thousand-Year Storm
+Thundering Falls
+Torment of Hailfire
+Training Center
+Undercity Sewers
+Underground River
+Underground Sea
+Underworld Breach
+V.A.T.S.
+Vandalblast
+Watery Grave
+Wayfarer's Bauble
+Windfall
+Winged Words
+Withering Torment
+Xander's Lounge
+
+Arcane Denial
+Arcane Signet
+Archaeomancer
+Archmage Emeritus
+Ashiok, Dream Render
+Baral, Chief of Compliance
+Blasphemous Act
+Choked Estuary
+Comet Storm
+Command Tower
+Consuming Tide
+Coruscation Mage
+Counterspell
+Crumbling Necropolis
+Dark Ritual
+Decree of Pain
+Delayed Blast Fireball
+Desperate Ritual
+Displacer Kitten
+Dragonskull Summit
+Drowned Catacomb
+Dualcaster Mage
+Electrodominance
+Entomb
+Exalted Flamer of Tzeentch
+Fall of the Titans
+Fierce Guardianship
+Frantic Search
+Frostboil Snarl
+Ghostly Flicker
+Impact Tremors
+Infernal Grasp
+Island
+Izzet Charm
+Jwari Disruption
+Kessig Flamebreather
+Lightning Bolt
+Malakir Rebirth
+Malicious Affliction
+Mana Drain
+Mana Geyser
+Manaform Hellkite
+Metallurgic Summonings
+Mountain
+Narset's Reversal
+Narset, Parter of Veils
+Naru Meha, Master Wizard
+Nightscape Familiar
+Niv-Mizzet, Parun
+Oriq Loremage
+Pull from Tomorrow
+Resculpt
+Reverberate
+Seething Landscape
+Shark Typhoon
+Shipwreck Marsh
+Shivan Reef
+Silundi Vision
+Smoldering Marsh
+Sol Ring
+Solve the Equation
+Sorcerer Class
+Spark Double
+Sphinx of the Final Word
+Spirebluff Canal
+Storm-Kiln Artist
+Sulfur Falls
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Talrand, Sky Summoner
+Third Path Iconoclast
+Time Warp
+Torment of Hailfire
+Twinflame
+Vampiric Tutor
+Whispering Madness
+Windfall
+Windrider Wizard
+
+Abrade
+Ancient Tomb
+Animate Dead
+Arcane Signet
+Archmage Emeritus
+Archon of Cruelty
+Arid Mesa
+Badlands
+Blood Crypt
+Bloodstained Mire
+Bolas's Citadel
+Burnt Offering
+Cabal Ritual
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Culling the Weak
+Cyclonic Rift
+Dark Ritual
+Demonic Tutor
+Diabolic Intent
+Displacer Kitten
+Dream Halls
+Entomb
+Essence Flux
+Faithless Looting
+Fellwar Stone
+Finale of Promise
+Flooded Strand
+Frantic Search
+Gamble
+Grim Monolith
+Hidetsugu and Kairi
+High Tide
+Hoarding Broodlord
+Hullbreaker Horror
+Imperial Seal
+Infernal Sovereign
+Into the Flood Maw
+Island
+Jace, Vryn's Prodigy
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+March of Swirling Mist
+Marsh Flats
+Metamorphosis Fanatic
+Minamo, School at Water's Edge
+Mind's Desire
+Misty Rainforest
+Morphic Pool
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Necromancy
+Null Profusion
+Omniscience
+Otawara, Soaring City
+Persist
+Polluted Delta
+Psychic Frog
+Reanimate
+Rhystic Study
+Rona, Herald of Invasion
+Sacrifice
+Scalding Tarn
+Shallow Grave
+Show and Tell
+Sneak Attack
+Sol Ring
+Spellseeker
+Steam Vents
+Stitch Together
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Tendrils of Agony
+The One Ring
+Time Spiral
+Torrential Gearhulk
+Trench Gorger
+Undercity Sewers
+Underground Sea
+Underworld Breach
+Unmarked Grave
+Vampiric Tutor
+Verdant Catacombs
+Vohar, Vodalian Desecrator
+Volcanic Island
+Watery Grave
+Wheel of Fortune
+Wooded Foothills
+Xander's Lounge
+Yawgmoth's Will
+
+Alania, Divergent Storm
+An Offer You Can't Refuse
+Archmage Emeritus
+Archmage of Runes
+Ashling, Flame Dancer
+Baral, Chief of Compliance
+Big Score
+Birgi, God of Storytelling
+Blood Crypt
+Bloodstained Mire
+Bolas's Citadel
+Bonus Round
+Brainstorm
+Cabal Ritual
+Case of the Ransacked Lab
+Chain of Smog
+City of Brass
+Command Tower
+Dark Petition
+Dark Ritual
+Demonic Tutor
+Desperate Ritual
+Dig Through Time
+Dismember
+Displacer Kitten
+Dragon's Rage Channeler
+Elemental Eruption
+Exotic Orchard
+Fabled Passage
+Fact or Fiction
+Fell the Profane
+Fiery Islet
+Forbidden Orchard
+Frantic Search
+Gamble
+Gitaxian Probe
+Glasspool Mimic
+Glimpse the Impossible
+Goblin Electromancer
+Guttersnipe
+Island
+Jeska's Will
+Lier, Disciple of the Drowned
+Lock and Load
+Luxury Suite
+Lórien Revealed
+Mana Confluence
+Mana Geyser
+Mizzix's Mastery
+Morphic Pool
+Mountain
+Nightscape Familiar
+Otawara, Soaring City
+Past in Flames
+Pinnacle Monk
+Polluted Delta
+Ponder
+Preordain
+Prismatic Vista
+Pyretic Ritual
+Ral, Crackling Wit
+Ral, Monsoon Mage
+Raucous Theater
+Reflecting Pool
+Reiterate
+Riverglide Pathway
+Ruby Medallion
+Sapphire Medallion
+Scalding Tarn
+See the Truth
+Seething Song
+Seize the Spoils
+Serum Visions
+Shivan Reef
+Sink into Stupor
+Snap
+Sol Ring
+Solve the Equation
+Spirebluff Canal
+Steam Vents
+Step Between Worlds
+Storm-Kiln Artist
+Stormcatch Mentor
+Sundering Eruption
+Swamp
+Swan Song
+Tendrils of Agony
+Thought Scour
+Thousand-Year Storm
+Thunderclap Drake
+Thundering Falls
+Training Center
+Treasure Cruise
+Undercity Sewers
+Underground River
+Valakut Awakening
+Waterlogged Teachings
+Watery Grave
+Windfall
+
+Angel of Suffering
+Arcane Signet
+Archmage Emeritus
+Bedevil
+Blasphemous Act
+Bloodfell Caves
+Bond of Insight
+Breathe Your Last
+Chaos Warp
+Choked Estuary
+Command Tower
+Commander's Sphere
+Cormela, Glamour Thief
+Crumbling Necropolis
+Darkwater Catacombs
+Demand Answers
+Disentomb
+Dread Summons
+Drowned Catacomb
+Drownyard Temple
+Essence Scatter
+Exotic Orchard
+Exsanguinate
+Extract from Darkness
+Fact or Fiction
+Faithless Looting
+Fellwar Stone
+Fleet Swallower
+Fractured Sanity
+Frantic Search
+Glimpse the Unthinkable
+Goblin Electromancer
+Grim Discovery
+Guttersnipe
+Increasing Confusion
+Increasing Vengeance
+Island
+Maestros Charm
+Maestros Theater
+Mind Funeral
+Mind Sculpt
+Mindcrank
+Mizzix's Mastery
+Mocking Sprite
+Mountain
+Murder
+Mystic Sanctuary
+Negate
+Nemesis of Reason
+Psychic Corrosion
+Reanimate
+Repeated Reverberation
+Rise of the Dark Realms
+Ruin Crab
+See the Truth
+Seething Landscape
+Sewer Nemesis
+Shadowblood Ridge
+Shipwreck Marsh
+Sol Ring
+Solve the Equation
+Spellweaver Volute
+Sphinx of the Final Word
+Startled Awake
+Storm-Kiln Artist
+Stormcatch Mentor
+Swamp
+Swiftfoot Boots
+Swiftwater Cliffs
+Tergrid, God of Fright
+Terminate
+The Mindskinner
+Thought Collapse
+Thrill of Possibility
+Thriving Moor
+Traumatize
+Unexpected Windfall
+Unsummon
+Withering Torment
+Witness Protection
+
+An Offer You Can't Refuse
+Ancient Silver Dragon
+Apprentice Necromancer
+Arcane Signet
+Baral, Chief of Compliance
+Blightstep Pathway
+Blood Crypt
+Brainstorm
+Cabal Ritual
+Canyon Slough
+Cavalier of Flame
+Clearwater Pathway
+Command Tower
+Consider
+Coruscation Mage
+Cyclonic Rift
+Damnation
+Dark Deal
+Dark Ritual
+Docent of Perfection
+Doomed Necromancer
+Dragonskull Summit
+Dreadhorde Arcanist
+Drowned Catacomb
+Enduring Courage
+Expedite
+Faithless Looting
+Fetid Pools
+Finale of Promise
+Flame of Anor
+Frantic Search
+Guttersnipe
+Haunted Ridge
+Island
+Jace, Vryn's Prodigy
+Jori En, Ruin Diver
+Kessig Flamebreather
+Kolaghan's Command
+Lightning Bolt
+Lightning Greaves
+Likeness Looter
+Living Death
+Malakir Rebirth
+Mana Drain
+Manaform Hellkite
+Mountain
+Obsessive Search
+Octavia, Living Thesis
+Opt
+Otherworldly Gaze
+Past in Flames
+Ponder
+Preordain
+Rapid Hybridization
+Reanimate
+Riverglide Pathway
+Scalding Tarn
+See the Truth
+Shipwreck Marsh
+Shivan Reef
+Smoldering Marsh
+Snapcaster Mage
+Steam Vents
+Stitch Together
+Storm-Kiln Artist
+Stormcarved Coast
+Strix Serenade
+Sulfur Falls
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Swan Song
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Terminate
+Third Path Iconoclast
+Torment of Hailfire
+Underground River
+Unearth
+Vandalblast
+Victimize
+Visions of Beyond
+Watery Grave
+Windfall
+Withering Torment
+Xander's Lounge
+Young Pyromancer
+
+Alania, Divergent Storm
+Arcane Signet
+Archmage Emeritus
+Artist's Talent
+Baral, Chief of Compliance
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Brainstorm
+Cabal Ritual
+Chaos Warp
+Cloak of the Bat
+Command Tower
+Commander's Sphere
+Consider
+Cormela, Glamour Thief
+Counterspell
+Crumbling Necropolis
+Damnation
+Dark Ritual
+Deflecting Swat
+Dimir Signet
+Double Vision
+Dragonskull Summit
+Drowned Catacomb
+Fact or Fiction
+Faithless Looting
+Fell the Profane
+Fiery Confluence
+Fiery Inscription
+Flame of Anor
+Frantic Search
+Gitaxian Probe
+Goblin Electromancer
+Grapeshot
+Guttersnipe
+Haunted Ridge
+Island
+Izzet Signet
+Judith, Carnage Connoisseur
+Kitsa, Otterball Elite
+Lightning Bolt
+Luxury Suite
+Mana Confluence
+Morphic Pool
+Mountain
+Mystic Sanctuary
+Mystical Tutor
+Negate
+Night's Whisper
+Nightscape Familiar
+One with the Multiverse
+Opt
+Pinnacle Monk
+Polluted Delta
+Ponder
+Preordain
+Prismari Command
+Rakdos Charm
+Rakdos Signet
+Ral, Monsoon Mage
+Reanimate
+Reliquary Tower
+Scalding Tarn
+See the Truth
+Seething Landscape
+Shipwreck Marsh
+Sink into Stupor
+Sol Ring
+Spellseeker
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser's Talent
+Sulfur Falls
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Talrand, Sky Summoner
+Terminate
+Thought Vessel
+Thousand-Year Storm
+Time Warp
+Tor Wauki the Younger
+Training Center
+Twinflame
+Waterlogged Teachings
+Watery Grave
+Windfall
+Xander's Lounge
+
+Aid the Fallen
+Angel of Suffering
+Another Chance
+Arcane Signet
+Archaeomancer
+Black Market
+Blazemire Verge
+Bloodfell Caves
+Bojuka Bog
+Campfire
+Clear the Mind
+Codex Shredder
+Command Tower
+Consider
+Corpse Churn
+Cranial Archive
+Curate
+Cut Your Losses
+Dark Ritual
+Decanter of Endless Water
+Defiler of Flesh
+Deliberate
+Deranged Assistant
+Diabolic Tutor
+Dismal Backwater
+Doom Whisperer
+Doomed Necromancer
+Doomsday Excruciator
+Elixir of Immortality
+Enhanced Surveillance
+Entomber Exarch
+Feldon's Cane
+Flood of Recollection
+Frostboil Snarl
+Ghastly Conscription
+Gisa, Glorious Resurrector
+Graveshifter
+Haunting Echoes
+Hero's Downfall
+Island
+Izzet Chronarch
+Jace, Wielder of Mysteries
+Jet Medallion
+Laboratory Maniac
+Learn from the Past
+Liliana of the Dark Realms
+Magus of the Coffers
+Millstone
+Mindcrank
+Mountain
+Murder
+Nemesis of Reason
+Omniscience
+Otherworldly Gaze
+Phyrexian Obliterator
+Preordain
+Prince of Thralls
+Psychic Spiral
+Raise Dead
+Raise the Draugr
+Raucous Theater
+Recover
+Reminisce
+Ringsight
+Rise of the Dark Realms
+Rune-Scarred Demon
+Sol Ring
+Stonespeaker Crystal
+Swamp
+Swiftwater Cliffs
+Syr Konrad, the Grim
+Talisman of Dominance
+Talisman of Indulgence
+Temple of Deceit
+Temple of Epiphany
+Temple of Malice
+Traumatize
+Urborg, Tomb of Yawgmoth
+Victimize
+Xander's Lounge
+
+Abrade
+Alania's Pathmaker
+An Offer You Can't Refuse
+Appendage Amalgam
+Arcane Bombardment
+Artist's Talent
+Balmor, Battlemage Captain
+Battlewing Mystic
+Blasphemous Edict
+Calamitous Tide
+Cascade Bluffs
+Case of the Ransacked Lab
+Choked Estuary
+Coruscation Mage
+Counterspell
+Crumbling Necropolis
+Crypt of the Eternals
+Darkwater Catacombs
+Decadent Dragon
+Dimir Aqueduct
+Dimir Signet
+Diversion Specialist
+Don't Make a Sound
+Dross Skullbomb
+Dualcaster Mage
+Eerie Soultender
+Electrostatic Infantry
+Enter the Enigma
+Entomb
+Exsanguinate
+Ghitu Amplifier
+Goblin Electromancer
+Guttersnipe
+Island
+Isochron Scepter
+Izzet Boilerworks
+Izzet Signet
+Judith, Carnage Connoisseur
+Kessig Flamebreather
+Lightshell Duo
+Maestros Charm
+Miasma Demon
+Midnight Clock
+Mizzix's Mastery
+Molten Tributary
+Mountain
+Murmuring Mystic
+Mystic Sanctuary
+Mystical Tutor
+Najal, the Storm Runner
+Narset, Parter of Veils
+Negate
+Nightscape Familiar
+Opposition Agent
+Pongify
+Professor Onyx
+Quicksilver Fisher
+Rakdos Carnarium
+Ral, Crackling Wit
+Reanimate
+Rona, Sheoldred's Faithful
+Sadistic Shell Game
+Smoldering Marsh
+Sphinx of Uthuun
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser's Talent
+Swamp
+Séance Board
+Temple of Malice
+Testament Bearer
+Thunderclap Drake
+Virtue of Persistence
+Vohar, Vodalian Desecrator
+Windfall
+Withering Torment
+Xander's Lounge
+Young Pyromancer
+
+Academy Wall
+Aether Gale
+Big Score
+Blasphemous Act
+Braid of Fire
+Brainstorm
+Brainsurge
+Chaos Warp
+Cormela, Glamour Thief
+Cut Down
+Deep Analysis
+Diresight
+Discovery // Dispersal
+Electric Revelation
+Essence Scatter
+Frantic Firebolt
+Frantic Search
+Guttersnipe
+Impede Momentum
+Impulse
+Island
+Jaya, Fiery Negotiator
+Melek, Izzet Paragon
+Mindsplice Apparatus
+Mission Briefing
+Mountain
+Mystical Teachings
+Narset's Reversal
+Notion Rain
+Opt
+Phyrexian Espionage
+Phyrexian Rager
+Pirate's Pillage
+Ponder
+Pongify
+Pyretic Ritual
+Quick Study
+Radical Idea
+Reenact the Crime
+Reliquary Tower
+Resculpt
+Return the Favor
+Rona, Sheoldred's Faithful
+Sawblade Scamp
+Sedgemoor Witch
+Snap
+Snapback
+Strategic Planning
+Swamp
+Talrand, Sky Summoner
+Tempest Angler
+Thermo-Alchemist
+Think Twice
+Third Path Iconoclast
+Thought Vessel
+Thrill of Possibility
+Thunder Salvo
+Tolarian Terror
+Tormenting Voice
+Tribute to Urborg
+Tune the Narrative
+Unruly Catapult
+Virtue of Courage
+Vohar, Vodalian Desecrator
+Volshe Tideturner
+Waterlogged Teachings
+Wild Ricochet
+Zoyowa's Justice
+
+Arid Mesa
+As Foretold
+Ashiok, Dream Render
+Baral, Chief of Compliance
+Beacon of Tomorrows
+Blazemire Verge
+Blood Crypt
+Bloodstained Mire
+Brainstorm
+Cabal Ritual
+Chandra, Torch of Defiance
+Command Tower
+Counterspell
+Cyclonic Rift
+Damnation
+Dark Ritual
+Demonic Tutor
+Desperate Ritual
+Dimir Signet
+Disallow
+Discovery // Dispersal
+Dragonskull Summit
+Drowned Catacomb
+Essence Scatter
+Fabled Passage
+Faithless Looting
+Fetid Pools
+Flooded Strand
+Force Spike
+Force of Will
+Fork
+Galvanic Iteration
+Increasing Vengeance
+Island
+Isochron Scepter
+Izzet Signet
+Jace, Vryn's Prodigy
+Jace, the Mind Sculptor
+Mana Drain
+Marsh Flats
+Merchant Scroll
+Mission Briefing
+Misty Rainforest
+Mountain
+Mox Amber
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Nexus of Fate
+Nicol Bolas, Dragon-God
+Nicol Bolas, God-Pharaoh
+Nicol Bolas, the Ravager
+Opposition Agent
+Pact of Negation
+Part the Waterveil
+Personal Tutor
+Phyrexian Arena
+Polluted Delta
+Ponder
+Preordain
+Primal Amulet
+Rite of Flame
+Scalding Tarn
+Search for Azcanta
+Seething Song
+Serum Visions
+Shivan Reef
+Snapcaster Mage
+Sol Ring
+Spell Pierce
+Spell Snare
+Steam Vents
+Sulfur Falls
+Swamp
+Swarm Intelligence
+Talisman of Dominance
+Temple of the False God
+Temporal Manipulation
+Temporal Mastery
+Temporal Trespass
+Terminate
+Thousand-Year Storm
+Time Warp
+Underground River
+Unmoored Ego
+Vampiric Tutor
+Verdant Catacombs
+Walk the Aeons
+Watery Grave
+Wooded Foothills
+Xander's Lounge
+
+Ancestral Vision
+Arcane Bombardment
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+As Foretold
+Baral, Chief of Compliance
+Black Market Connections
+Blasphemous Act
+Blightstep Pathway
+Blood Crypt
+Bloodstained Mire
+Brainstorm
+Canyon Slough
+Chandra, Hope's Beacon
+Chaos Warp
+Chrome Host Seedshark
+Clearwater Pathway
+Command Tower
+Consider
+Counterspell
+Crumbling Necropolis
+Cryptic Command
+Cyclonic Rift
+Dig Through Time
+Dimir Signet
+Disallow
+Disdainful Stroke
+Double Vision
+Dragon's Rage Channeler
+Dragonskull Summit
+Dreadbore
+Drowned Catacomb
+Expressive Iteration
+Faithless Looting
+Fetid Pools
+Flooded Strand
+Frantic Search
+Gitaxian Probe
+Go for the Throat
+In Garruk's Wake
+Infernal Grasp
+Island
+Izzet Signet
+Kolaghan's Command
+Lier, Disciple of the Drowned
+Lightning Bolt
+Maestros Theater
+Mizzix of the Izmagnus
+Mizzix's Mastery
+Mountain
+Mystic Confluence
+Mystical Tutor
+Negate
+Phyrexian Arena
+Polluted Delta
+Ponder
+Poppet Stitcher
+Preordain
+Quick Study
+Rakdos Signet
+Ral, Monsoon Mage
+Reiterate
+Reliquary Tower
+Rite of the Dragoncaller
+Riverglide Pathway
+Scalding Tarn
+Sedgemoor Witch
+Shivan Reef
+Skullclamp
+Smoldering Marsh
+Snapcaster Mage
+Steam Vents
+Storm-Kiln Artist
+Sulfur Falls
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Talrand, Sky Summoner
+Terminate
+Thought Scour
+Thought Vessel
+Treasure Cruise
+Underground River
+Verdant Catacombs
+Wandering Fumarole
+Wash Away
+Watery Grave
+Windfall
+Wooded Foothills
+Xander's Lounge
+
+Ad Nauseam
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arid Mesa
+Badlands
+Blood Crypt
+Bloodchief Ascension
+Bloodstained Mire
+Bolas's Citadel
+Brain Freeze
+Brainstorm
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Cyclonic Rift
+Damnation
+Dark Ritual
+Dauthi Voidwalker
+Deadly Rollick
+Deflecting Swat
+Delay
+Demonic Consultation
+Demonic Tutor
+Dispel
+Dress Down
+Faerie Mastermind
+Fell the Profane
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Gitaxian Probe
+Island
+Jeska's Will
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Drain
+Mana Vault
+Marsh Flats
+Mental Misstep
+Mindbreak Trap
+Misty Rainforest
+Morphic Pool
+Mountain
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Necropotence
+Null Elemental Blast
+Opposition Agent
+Orcish Bowmasters
+Otawara, Soaring City
+Pact of Negation
+Peer into the Abyss
+Polluted Delta
+Pongify
+Powerbalance
+Ragavan, Nimble Pilferer
+Raucous Theater
+Rhystic Study
+Scalding Tarn
+Sensei's Divining Top
+Sheoldred, the Apocalypse
+Sink into Stupor
+Sol Ring
+Spell Pierce
+Steam Vents
+Stubborn Denial
+Sunken Ruins
+Swamp
+Swan Song
+Talisman of Creativity
+Talisman of Dominance
+Thassa's Oracle
+The One Ring
+Toxic Deluge
+Training Center
+Undercity Sewers
+Underground Sea
+Underworld Breach
+Urza's Saga
+Valakut Awakening
+Vampiric Tutor
+Verdant Catacombs
+Volatile Stormdrake
+Volcanic Island
+Watery Grave
+Wheel of Fortune
+Windfall
+Wishclaw Talisman
+
+Alania, Divergent Storm
+Arcane Signet
+Artist's Talent
+Balor
+Bottomless Pit
+Braingeyser
+Burning Inquiry
+Careful Consideration
+Cephalid Broker
+Choked Estuary
+Command Tower
+Commander's Sphere
+Counterpoint
+Coveted Jewel
+Creeping Dread
+Cruel Ultimatum
+Crumbling Necropolis
+Demonic Tutor
+Dimir Charm
+Dragon Mage
+Evolving Wilds
+Exotic Orchard
+Fade Away
+Ferrous Lake
+Foreboding Ruins
+Frostboil Snarl
+Geth's Grimoire
+Go for the Throat
+Gravebreaker Lamia
+Guttersnipe
+Howling Mine
+Island
+Kolaghan's Command
+Library of Leng
+Liliana's Caress
+Lively Dirge
+Lórien Revealed
+Maestros Charm
+Megrim
+Millikin
+Mountain
+Nightscape Familiar
+Noggle Ransacker
+Ob Nixilis, the Hate-Twisted
+Perpetual Timepiece
+Port of Karfell
+Prosperity
+Psychosis Crawler
+Pyretic Rebirth
+Raiders' Wake
+Reliquary Tower
+Seething Landscape
+Seizan, Perverter of Truth
+Shadowblood Ridge
+Shivan Reef
+Smoldering Marsh
+Sol Ring
+Spinerock Knoll
+Spiteful Visions
+Stormcatch Mentor
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Syphon Mind
+Tainted Isle
+Tainted Peak
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Temple of Deceit
+Tergrid, God of Fright
+Thought Vessel
+Thundertrap Trainer
+Time Spiral
+Underground River
+Underworld Dreams
+Urza's Guilt
+Veyran, Voice of Duality
+Vile Entomber
+Waste Not
+Waterlogged Teachings
+Wheel of Fortune
+Whirlpool Rider
+Whirlpool Warrior
+Windfall
+Words of War
+Words of Waste
+
+Ad Nauseam
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arid Mesa
+Badlands
+Beseech the Mirror
+Blood Crypt
+Bloodstained Mire
+Borne Upon a Wind
+Brain Freeze
+Brainstorm
+Cabal Ritual
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Cyclonic Rift
+Dark Ritual
+Dauthi Voidwalker
+Demonic Consultation
+Demonic Tutor
+Dispel
+Dramatic Reversal
+Exotic Orchard
+Fellwar Stone
+Final Fortune
+Flooded Strand
+Flusterstorm
+Forbidden Orchard
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Gitaxian Probe
+Grim Monolith
+Imperial Seal
+Intuition
+Lim-Dûl's Vault
+Lion's Eye Diamond
+Lotus Petal
+Luxury Suite
+Mana Confluence
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Marsh Flats
+Mental Misstep
+Mindbreak Trap
+Miscast
+Misty Rainforest
+Morphic Pool
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Necrodominance
+Necropotence
+Notion Thief
+Opposition Agent
+Orcish Bowmasters
+Otawara, Soaring City
+Pact of Negation
+Polluted Delta
+Praetor's Grasp
+Pyroblast
+Ragavan, Nimble Pilferer
+Reanimate
+Red Elemental Blast
+Rhystic Study
+Rite of Flame
+Scalding Tarn
+Simian Spirit Guide
+Sol Ring
+Spire of Industry
+Steal Enchantment
+Steam Vents
+Swan Song
+Tainted Pact
+Talisman of Dominance
+Talisman of Indulgence
+Thassa's Oracle
+The One Ring
+Toxic Deluge
+Underground Sea
+Underworld Breach
+Urza's Saga
+Valley Floodcaller
+Vampiric Tutor
+Verdant Catacombs
+Volcanic Island
+Voltaic Key
+Warrior's Oath
+Watery Grave
+Wheel of Fortune
+Windfall
+Wishclaw Talisman
+Wooded Foothills
+Yawgmoth's Will
+
+Arcane Signet
+Archmage Emeritus
+Badlands
+Baral, Chief of Compliance
+Blasphemous Act
+Blasphemous Edict
+Blightstep Pathway
+Blood Crypt
+Brainstorm
+Cabal Ritual
+Capture of Jingzhou
+Chromatic Lantern
+Command Tower
+Counterspell
+Cyclonic Rift
+Dark Petition
+Dark Ritual
+Demonic Tutor
+Dimir Signet
+Dramatic Reversal
+Echo of Eons
+Exotic Orchard
+Expressive Iteration
+Fabled Passage
+Fabricate
+Faithless Looting
+Fierce Guardianship
+Fiery Islet
+Flooded Strand
+Force of Will
+Frantic Search
+Gamble
+Goblin Electromancer
+God-Eternal Kefnet
+Grim Tutor
+Guttersnipe
+Haunted Ridge
+Intuition
+Island
+Isochron Scepter
+Izzet Signet
+Jace, the Mind Sculptor
+Jeska's Will
+Luxury Suite
+Mana Drain
+Morphic Pool
+Mountain
+Mystic Remora
+Mystical Tutor
+Nexus of Fate
+Nicol Bolas, Dragon-God
+Nicol Bolas, God-Pharaoh
+Nicol Bolas, the Ravager
+Past in Flames
+Polluted Delta
+Poppet Stitcher
+Preordain
+Primal Amulet
+Pyretic Ritual
+Rakdos Signet
+Ral, Storm Conduit
+Rhystic Study
+Riverglide Pathway
+Saheeli, Sublime Artificer
+Shipwreck Marsh
+Shivan Reef
+Snap
+Sol Ring
+Solve the Equation
+Steam Vents
+Stormcatch Mentor
+Sulfur Falls
+Sulfurous Springs
+Swamp
+Talisman of Creativity
+Talisman of Indulgence
+Talrand, Sky Summoner
+Temporal Manipulation
+Third Path Iconoclast
+Time Warp
+Training Center
+Undercity Sewers
+Underground River
+Urborg, Tomb of Yawgmoth
+Vampiric Tutor
+Volcanic Island
+Watery Grave
+Windfall
+Xander's Lounge
+Yawgmoth's Will
+Young Pyromancer
+
+Aquatic Alchemist
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Artist's Talent
+Blazemire Verge
+Brainstorm
+Cabal Ritual
+Calculated Dismissal
+Case of the Ransacked Lab
+Command Tower
+Consider
+Cormela, Glamour Thief
+Coruscation Mage
+Crumbling Necropolis
+Dark Ritual
+Deadly Rollick
+Decadent Dragon
+Deep Analysis
+Diabolic Tutor
+Elemental Eruption
+Evolving Wilds
+Exotic Orchard
+Exsanguinate
+Feed the Swarm
+Fell the Profane
+Fierce Guardianship
+Fiery Inscription
+Flame of Anor
+Frantic Search
+Gale, Waterdeep Prodigy
+Gloomlake Verge
+Goblin Electromancer
+Grixis Charm
+Guttersnipe
+Haze of Rage
+Ignite Memories
+Insatiable Avarice
+Island
+Jeska's Will
+Lightning Greaves
+Live or Die
+Maestros Charm
+Maestros Theater
+Mind's Desire
+Mithril Coat
+Mizzix's Mastery
+Mountain
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nightscape Familiar
+Opt
+Past in Flames
+Ponder
+Preordain
+Primal Amulet
+Quick Study
+Ral, Crackling Wit
+Reliquary Tower
+Riptide Laboratory
+Sadistic Shell Game
+Sedgemoor Witch
+Seething Song
+Sink into Stupor
+Smoldering Marsh
+Sol Ring
+Solve the Equation
+Stormcarved Coast
+Stormcatch Mentor
+Sunken Hollow
+Swamp
+Sword Coast Serpent
+Sword of Wealth and Power
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Talrand, Sky Summoner
+Tendrils of Agony
+Thought Vessel
+Thousand-Year Storm
+Three Steps Ahead
+Unexpected Windfall
+Vandalblast
+Xander's Lounge
+
+Abrade
+Alania, Divergent Storm
+An Offer You Can't Refuse
+Arcane Signet
+Ash Barrens
+Baleful Mastery
+Baleful Strix
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Brainstorm
+Brainsurge
+Chain of Smog
+Chandra, Hope's Beacon
+Chromatic Lantern
+Command Tower
+Consider
+Counterspell
+Damnation
+Darkwater Catacombs
+Demonic Tutor
+Diabolic Vision
+Dig Through Time
+Dispel
+Double Vision
+Dragonskull Summit
+Drowned Catacomb
+Evacuation
+Exalted Flamer of Tzeentch
+Exotic Orchard
+Fact or Fiction
+Fatal Push
+Feed the Cycle
+Flooded Strand
+Haunted Ridge
+Increasing Vengeance
+Island
+Jace, Vryn's Prodigy
+Jace, Wielder of Mysteries
+Kolaghan's Command
+Ledger Shredder
+Lightning Bolt
+Lim-Dûl's Vault
+Long Goodbye
+Lórien Revealed
+Mana Drain
+Marsh Flats
+Metallurgic Summonings
+Misty Rainforest
+Mountain
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Opt
+Polluted Delta
+Ponder
+Preordain
+Prismatic Vista
+Professor Onyx
+Rakdos Charm
+Ral, Storm Conduit
+Reflecting Pool
+Reliquary Tower
+Rhystic Study
+River of Tears
+Scalding Tarn
+Season of Weaving
+Sedgemoor Witch
+See the Truth
+Seething Landscape
+Shark Typhoon
+Shipwreck Marsh
+Shivan Reef
+Sink into Stupor
+Smoldering Marsh
+Snapcaster Mage
+Snow-Covered Island
+Snow-Covered Mountain
+Snow-Covered Swamp
+Sol Ring
+Steam Vents
+Stormcarved Coast
+Subtlety
+Sulfur Falls
+Sunken Hollow
+Swamp
+Tainted Pact
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Terminate
+Three Steps Ahead
+Underground River
+Vampiric Tutor
+Vandalblast
+Waterlogged Teachings
+Watery Grave
+Xander's Lounge
+
+Arcane Signet
+Archmage Emeritus
+Armillary Sphere
+Bedevil
+Bloodfell Caves
+Cancel
+Command Tower
+Consuming Vapors
+Cormela, Glamour Thief
+Coronation of Chaos
+Counterspell
+Dark Petition
+Diabolic Tutor
+Docent of Perfection
+Double Vision
+Dramatic Reversal
+Environmental Sciences
+Eroded Canyon
+Evolving Wilds
+Exsanguinate
+Faithless Looting
+Forbidden Alchemy
+Frantic Search
+Gale's Redirection
+Gandalf the Grey
+Grapeshot
+Grixis Panorama
+High Tide
+Howl from Beyond
+Increasing Vengeance
+Invert // Invent
+Island
+Izzet Locket
+Jace's Sanctum
+Judith, Carnage Connoisseur
+Maestros Charm
+Mana Geyser
+Mercurial Spelldancer
+Mindsplice Apparatus
+Mob Rule
+Mountain
+Multiple Choice
+Murder
+Murmuring Mystic
+Mystic Sanctuary
+Nowhere to Run
+Opt
+Oriq Loremage
+Polymorphist's Jest
+Prismari Campus
+Purphoros's Intervention
+Rakdos Locket
+Relic Amulet
+Secrets of the Dead
+See the Truth
+Seething Landscape
+Smoldering Marsh
+Sol Ring
+Solve the Equation
+Storm-Kiln Artist
+Stormcatch Mentor
+Swamp
+Sword Coast Serpent
+Talisman of Creativity
+Talisman of Dominance
+Talrand, Sky Summoner
+Temple of Malice
+Temple of the False God
+Terminate
+Third Path Iconoclast
+Thriving Isle
+Untimely Malfunction
+Vandalblast
+Vhal, Candlekeep Researcher
+Whirlwind Denial
+Wizard's Lightning
+Wizards of Thay
+Young Pyromancer
+
+Ad Nauseam
+Apprentice Necromancer
+Arcane Signet
+Arena of Glory
+Atsushi, the Blazing Sky
+Blood Crypt
+Blue Elemental Blast
+Boggart Trawler
+Buried Alive
+Cephalid Coliseum
+Chain of Smog
+Chainer, Nightmare Adept
+Command Tower
+Counterspell
+Cyclonic Rift
+Cynical Loner
+Dark Deal
+Dark Ritual
+Deflecting Swat
+Demonic Bargain
+Demonic Counsel
+Diabolic Intent
+Diabolic Tutor
+Dragonskull Summit
+Echoing Truth
+Entomb
+Exotic Orchard
+Faithless Looting
+Fatestitcher
+Fiery Islet
+Final Fortune
+Footsteps of the Goryo
+Force of Will
+Frantic Search
+Gamble
+Grim Tutor
+Island
+Izzet Charm
+Kiki-Jiki, Mirror Breaker
+Lightning Bolt
+Lose Focus
+Lotus Petal
+Malakir Rebirth
+Mayhem Devil
+Molten Gatekeeper
+Mountain
+Muddle the Mixture
+Mystical Tutor
+Narset, Parter of Veils
+Necromancy
+Necropotence
+Negate
+Nightscape Familiar
+Paradise Mantle
+Peer into the Abyss
+Psychic Frog
+Ragavan, Nimble Pilferer
+Red Elemental Blast
+Reliquary Tower
+Ripples of Undeath
+Sedgemoor Witch
+See the Truth
+Shipwreck Marsh
+Shivan Reef
+Sink into Stupor
+Snapcaster Mage
+Sol Ring
+Steam Vents
+Stitch Together
+Storm-Kiln Artist
+Stormcatch Mentor
+Strix Serenade
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Talion, the Kindly Lord
+Talisman of Creativity
+Talisman of Dominance
+Terminate
+Toxic Deluge
+Training Center
+Vandalblast
+Victimize
+Vilis, Broker of Blood
+Waste Not
+Wheel of Fortune
+Windfall
+
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Bedevil
+Birgi, God of Storytelling
+Bonus Round
+Brain Freeze
+Brainstorm
+Breach the Multiverse
+Case of the Ransacked Lab
+Command Tower
+Consider
+Coruscation Mage
+Counterspell
+Crumbling Necropolis
+Dark Petition
+Dark Ritual
+Dimir Aqueduct
+Dimir Signet
+Dragon's Rage Channeler
+Dragonskull Summit
+Drowned Catacomb
+Electrostatic Field
+Exotic Orchard
+Expressive Iteration
+Faithless Looting
+Feed the Swarm
+Fellwar Stone
+Frantic Search
+Guttersnipe
+Insatiable Avarice
+Island
+Izzet Boilerworks
+Izzet Charm
+Izzet Signet
+Jace, Wielder of Mysteries
+Kitsa, Otterball Elite
+Lightning Bolt
+Maestros Charm
+Mana Geyser
+Mind Stone
+Mizzix's Mastery
+Mountain
+Nightscape Familiar
+Niv-Mizzet, Parun
+Past in Flames
+Ponder
+Preordain
+Professor Onyx
+Propaganda
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
+Ral, Monsoon Mage
+Ral, Storm Conduit
+Reliquary Tower
+See the Truth
+Shivan Reef
+Smoldering Marsh
+Sol Ring
+Solve the Equation
+Storm-Kiln Artist
+Stormcatch Mentor
+Sulfur Falls
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Talisman of Dominance
+Talisman of Indulgence
+Tendrils of Agony
+Thought Scour
+Thought Vessel
+Thousand-Year Storm
+Underground River
+Underworld Breach
+Untimely Malfunction
+Urabrask
+Waterlogged Teachings
+Windfall
+Withering Torment
+
+Abrade
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Badlands
+Birgi, God of Storytelling
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Brain Freeze
+Cast into the Fire
+Command Tower
+Counterspell
+Cyclonic Rift
+Damnation
+Dark Ritual
+Deadly Rollick
+Decaying Time Loop
+Deep Analysis
+Deflecting Swat
+Demonic Tutor
+Dismember
+Displacer Kitten
+Doomsday
+Dragon's Rage Channeler
+Dress Down
+Entomb
+Expansion // Explosion
+Fact or Fiction
+Faithless Looting
+Feed the Swarm
+Fell the Profane
+Flooded Strand
+Force of Negation
+Force of Will
+Frantic Search
+Gitaxian Probe
+Go for the Throat
+Gush
+Infernal Grasp
+Island
+Izzet Signet
+Jace, Vryn's Prodigy
+Jeska's Will
+Jet Medallion
+Lotus Petal
+Luxury Suite
+Lórien Revealed
+March of Swirling Mist
+Mindbreak Trap
+Misty Rainforest
+Morphic Pool
+Mountain
+Mystic Remora
+Negate
+Opposition Agent
+Orcish Bowmasters
+Otawara, Soaring City
+Polluted Delta
+Pyroblast
+Rakdos Charm
+Rakdos Signet
+Ravenform
+Reality Shift
+Resculpt
+Rhystic Study
+Ruby Medallion
+Scalding Tarn
+Shivan Reef
+Sol Ring
+Steam Vents
+Stroke of Genius
+Sulfurous Springs
+Swamp
+Swan Song
+Talisman of Creativity
+Talisman of Indulgence
+Thassa's Oracle
+The One Ring
+Toxic Deluge
+Undercity Sewers
+Underground Sea
+Underworld Breach
+Valley Floodcaller
+Verdant Catacombs
+Volcanic Island
+Wasteland
+Watery Grave
+Wizard's Retort
+Wooded Foothills
+Yawgmoth's Will
+
+Ancient Tomb
+Arcane Signet
+Archfiend of Ifnir
+Arid Mesa
+Blasted Landscape
+Bloodstained Mire
+Cabal Ritual
+Canyon Slough
+Chrome Mox
+City of Brass
+Cloud of Faeries
+Constricting Tendrils
+Countervailing Winds
+Dark Ritual
+Dimir Signet
+Disciple of Malice
+Drannith Stinger
+Drifting Djinn
+Easy Prey
+Eldrazi Ravager
+Expunge
+Fetid Pools
+Fierce Guardianship
+Flooded Strand
+Fluctuator
+Force of Negation
+Force of Will
+Frostveil Ambush
+Granitic Titan
+Hollow One
+Igneous Pouncer
+Island
+Izzet Signet
+Jhessian Zombies
+Keeneye Aven
+Lava Serpent
+Lotus Petal
+Mana Confluence
+Marsh Flats
+Miscalculation
+Misty Rainforest
+Moaning Wall
+Morphic Pool
+Mox Amber
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Neutralize
+Pact of Negation
+Pendrell Drake
+Polluted Delta
+Polluted Mire
+Power Taint
+Primoc Escapee
+Rakdos Signet
+Reaping the Graves
+Rebuild
+Remote Isle
+Rescind
+Reshape
+Restless Dreams
+Rhystic Study
+Ridge Rannet
+Rooting Moloch
+Sandbar Merfolk
+Sandbar Serpent
+Scalding Tarn
+Scrap
+Shadow of the Grave
+Shimmerscale Drake
+Smoldering Crater
+Sol Ring
+Songs of the Damned
+Startling Development
+Steam Vents
+Street Wraith
+Suffocating Fumes
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thundering Falls
+Training Center
+Transmute Artifact
+Troll of Khazad-dûm
+Twisted Abomination
+Undercity Sewers
+Underground Sea
+Unearth
+Verdant Catacombs
+Vile Manifestation
+Violent Impact
+Viscera Dragger
+Volcanic Island
+Wasteland Scorpion
+Watery Grave
+Whir of Invention
+Wooded Foothills
+Xander's Lounge
+
+Aetherflux Reservoir
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Aria of Flame
+Arid Mesa
+Badlands
+Black Market Connections
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Boggart Trawler
+Bolas's Citadel
+Bonus Round
+Brainstorm
+Cabal Ritual
+Case of the Ransacked Lab
+Chaos Warp
+Command Tower
+Coruscation Mage
+Counterspell
+Crumbling Necropolis
+Crypt Ghast
+Damnation
+Dimir Signet
+Docent of Perfection
+Drowned Catacomb
+Exsanguinate
+Fact or Fiction
+Faithless Looting
+Fellwar Stone
+Fiery Inscription
+Flame of Anor
+Flooded Strand
+Frantic Search
+Gamble
+Gitaxian Probe
+Guttersnipe
+Impulse
+Island
+Isochron Scepter
+Izzet Signet
+Luxury Suite
+Mana Geyser
+Marsh Flats
+Misty Rainforest
+Morphic Pool
+Mountain
+Mystic Confluence
+Mystic Remora
+Mystical Tutor
+Nightscape Familiar
+Polluted Delta
+Ponder
+Pongify
+Preordain
+Primal Amulet
+Reality Shift
+Reanimate
+Reiterate
+Reliquary Tower
+Reverberate
+Rite of Replication
+Scalding Tarn
+See the Truth
+Seething Song
+Sink into Stupor
+Sol Ring
+Song-Mad Treachery
+Steam Vents
+Storm-Kiln Artist
+Sulfur Falls
+Sundering Eruption
+Swamp
+Swan Song
+Swarm Intelligence
+Séance Board
+Terminate
+Thought Scour
+Thousand-Year Storm
+Tor Wauki the Younger
+Torment of Hailfire
+Toxic Deluge
+Treasure Cruise
+Underground Sea
+Urborg, Tomb of Yawgmoth
+Vandalblast
+Verdant Catacombs
+Volcanic Island
+Waterlogged Teachings
+Watery Grave
+Windfall
+Wooded Foothills
+Yawgmoth's Will
+
+Arcane Lighthouse
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Big Score
+Black Sun's Twilight
+Blue Sun's Twilight
+Boseiju, Who Shelters All
+Brainstorm
+Cascade Bluffs
+Command Tower
+Crumbling Necropolis
+Crypt of the Eternals
+Curse of the Swine
+Cut // Ribbons
+Cyclonic Rift
+Dark Ritual
+Diabolic Tutor
+Docent of Perfection
+Dragonskull Summit
+Drawn from Dreams
+Drowned Catacomb
+Electrodominance
+Exotic Orchard
+Expansion // Explosion
+Exsanguinate
+Fabled Passage
+Fiery Islet
+Filter Out
+Finale of Revelation
+Foresee
+Frantic Search
+Fury Storm
+Graven Cairns
+Grixis Panorama
+Halimar Depths
+Haughty Djinn
+Increasing Vengeance
+Insidious Will
+Invert Polarity
+Island
+Jace's Sanctum
+Lier, Disciple of the Drowned
+Luxury Suite
+Maestros Theater
+Mana Geyser
+Mishra's Command
+Mountain
+Multiple Choice
+Myriad Landscape
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Nightscape Familiar
+Oriq Loremage
+Ponder
+Pore Over the Pages
+Primal Amulet
+Psychic Rebuttal
+Ral, Storm Conduit
+Reverberate
+Rewind
+Rite of Replication
+Sedgemoor Witch
+Seething Landscape
+Seething Song
+Sensei's Divining Top
+Shivan Reef
+Sink into Stupor
+Sol Ring
+Stolen by the Fae
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Sulfur Falls
+Sulfurous Springs
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thousand-Year Storm
+Torment of Hailfire
+Turnabout
+Twincast
+Underground River
+Unwind
+Vandalblast
+Veyran, Voice of Duality
+Wizards of Thay
+
+An Offer You Can't Refuse
+Ancient Tomb
+Anvil of Bogardan
+Arcane Denial
+Arcane Signet
+Arid Mesa
+Baleful Mastery
+Blood Crypt
+Bloodstained Mire
+Brain Freeze
+Burning Inquiry
+Cabal Coffers
+Cabal Ritual
+Cavern of Souls
+Chain of Smog
+Chain of Vapor
+Chaos Warp
+Chrome Mox
+City of Brass
+Command Tower
+Dark Deal
+Dark Ritual
+Deadly Rollick
+Deflecting Swat
+Demonic Consultation
+Demonic Tutor
+Displacer Kitten
+Echo of Eons
+Faithless Looting
+Fate Unraveler
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Incendiary Command
+Irenicus's Vile Duplication
+Island
+Jeska's Will
+Kederekt Parasite
+Lotus Petal
+Mana Confluence
+Mana Drain
+Mana Vault
+Marsh Flats
+Misty Rainforest
+Mnemonic Betrayal
+Mockingbird
+Molten Psyche
+Mountain
+Mystic Remora
+Mystical Tutor
+Necropotence
+Nightscape Familiar
+Orcish Bowmasters
+Peer into the Abyss
+Polluted Delta
+Pollywog Prodigy
+Ragavan, Nimble Pilferer
+Raucous Theater
+Razorkin Needlehead
+Reanimate
+Rhystic Study
+Rite of Flame
+Scalding Tarn
+Scrawling Crawler
+Sheoldred, the Apocalypse
+Snapcaster Mage
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Swamp
+Swan Song
+Tainted Pact
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Teferi's Puzzle Box
+Thassa's Oracle
+The One Ring
+Thundering Falls
+Time Reversal
+Undercity Sewers
+Underworld Breach
+Underworld Dreams
+Untimely Malfunction
+Urborg, Tomb of Yawgmoth
+Urza's Saga
+Vampiric Tutor
+Verdant Catacombs
+Watery Grave
+Wheel and Deal
+Wheel of Fortune
+Whispering Madness
+Windfall
+Winds of Change
+Withering Torment
+Wooded Foothills
+
+Abhorrent Oculus
+Addle
+Aether Tide
+Ancestral Memories
+Ancient Brass Dragon
+Ancient Excavation
+Angel of Suffering
+Anger
+Animate Dead
+Another Chance
+Anvil of Bogardan
+Apocalypse Demon
+Apprentice Necromancer
+Arcane Heist
+Ashen Powder
+Avatar of Woe
+Awaken the Erstwhile
+Ayara, Widow of the Realm
+Balthor the Defiled
+Barrowgoyf
+Battlefield Butcher
+Beacon Bolt
+Black Sun's Twilight
+Blight Titan
+Blood Speaker
+Bloodbraid Marauder
+Bloodsoaked Champion
+Bloodsworn Squire
+Bonehoard
+Boneyard Mycodrax
+Brass's Tunnel-Grinder
+Breach the Multiverse
+Bringer of the Last Gift
+Buried Alive
+Burning Vengeance
+Cabal Initiate
+Cabal Ritual
+Calculated Dismissal
+Call to the Netherworld
+Campfire
+Carrion Grub
+Case of the Gorgon's Kiss
+Case of the Shifting Visage
+Cauldron's Gift
+Cellar Door
+Cemetery Tampering
+Circular Logic
+Codex Shredder
+Coiling Rebirth
+Come Back Wrong
+Command Tower
+Consuming Aberration
+Corpse Appraiser
+Corrupted Grafstone
+Crackling Drake
+Crucible of Worlds
+Cruel Somnophage
+Crumbling Necropolis
+Dark Ritual
+Deep Goblin Skulltaker
+Defossilize
+Deluge of Doom
+Demoralize
+Dragonskull Summit
+Dreadwing Scavenger
+Drowned Catacomb
+Enterprising Scallywag
+Exotic Orchard
+Forgotten Creation
+Island
+Maestros Charm
+Marchesa, Dealer of Death
+Merfolk Secretkeeper
+Mind Drill Assailant
+Mindwhisker
+Molten Collapse
+Mortivore
+Mountain
+Necrogoyf
+Nethergoyf
+Putrid Imp
+Pyrogoyf
+Sedris, the Traitor King
+Sewer Nemesis
+Shoreline Looter
+Smoldering Marsh
+Stalactite Stalker
+Starving Revenant
+Sunken Hollow
+Swamp
+The Ancient One
+The Everflowing Well
+Wail of the Forgotten
+Xander's Lounge
+Zoyowa Lava-Tongue
+
+Anhelo, the Painter
+Arcane Signet
+Archmage Emeritus
+Army of the Damned
+Baral and Kari Zev
+Bedevil
+Big Score
+Black Sun's Twilight
+Blasphemous Act
+Blasphemous Edict
+Brass's Bounty
+Burning Vengeance
+Chandra, Hope's Beacon
+Command Tower
+Consider
+Coruscation Mage
+Counterspell
+Cruel Ultimatum
+Crumbling Necropolis
+Dark Salvation
+Darkwater Catacombs
+Desolate Lighthouse
+Dimir Signet
+Double Vision
+Dragonskull Summit
+Drowned Catacomb
+Evolving Wilds
+Feed the Swarm
+Ferrous Lake
+Final Parting
+Firebrand Archer
+Frantic Search
+Grixis Panorama
+Guttersnipe
+Hex
+Ionize
+Island
+Izzet Signet
+Jace, Wielder of Mysteries
+Judith, Carnage Connoisseur
+Kessig Flamebreather
+Lightning Greaves
+Maestros Theater
+Marchesa, Dealer of Death
+Mountain
+Nicol Bolas, Dragon-God
+Nightscape Familiar
+Oriq Loremage
+Pitiless Plunderer
+Professor Onyx
+Rakdos Signet
+Reanimate
+Secrets of the Dead
+Sedgemoor Witch
+Seething Landscape
+Seize the Spoils
+Shadowblood Ridge
+Snap
+Sol Ring
+Sorcerer Class
+Storm Skreelix
+Storm-Kiln Artist
+Stormcatch Mentor
+Strategic Planning
+Sulfur Falls
+Swamp
+Swiftfoot Boots
+Talrand, Sky Summoner
+Terminate
+Terramorphic Expanse
+Torment of Hailfire
+Toxic Deluge
+Undermine
+Unexpected Windfall
+Untimely Malfunction
+Vandalblast
+Veyran, Voice of Duality
+Wayfarer's Bauble
+Withering Torment
+
+Agent of Treachery
+Anger
+Animate Dead
+Araumi of the Dead Tide
+Arcane Signet
+Archon of Cruelty
+Archpriest of Shadows
+Big Score
+Breach the Multiverse
+Bribery
+Buried Alive
+Burning-Rune Demon
+Call Forth the Tempest
+Careful Study
+Chaos Warp
+Charnel Serenade
+Choked Estuary
+Coiling Rebirth
+Command Tower
+Crypt of Agadeem
+Desolate Lighthouse
+Diluvian Primordial
+Dimir Signet
+Dragonskull Summit
+Entomb
+Etali, Primal Storm
+Exotic Orchard
+Faithless Looting
+Feed the Swarm
+Feldon of the Third Path
+Fevered Suspicion
+Foreboding Ruins
+Frantic Search
+Frostboil Snarl
+Geier Reach Sanitarium
+Gyruda, Doom of Depths
+Hellkite Tyrant
+Hoarding Broodlord
+Island
+Izzet Signet
+Likeness Looter
+Living Death
+Massacre Wurm
+Mnemonic Deluge
+Mountain
+Nightscape Familiar
+Notion Thief
+Obsessive Stitcher
+Panharmonicon
+Path of Ancestry
+Patron of the Arts
+Persist
+Prince of Thralls
+Prismari Command
+Prisoner's Dilemma
+Quasiduplicate
+Rakdos Signet
+Reanimate
+Rise of the Dark Realms
+Rite of Replication
+Rogue's Passage
+Saw in Half
+Scholar of the Lost Trove
+Sepulchral Primordial
+Smoldering Marsh
+Sneak Attack
+Sol Ring
+Steal Enchantment
+Sulfur Falls
+Sunken Hollow
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Toxic Deluge
+Treasure Nabber
+Unexpected Windfall
+Unmarked Grave
+Victimize
+Windfall
+Withering Torment
+Worst Fears
+
+Ad Nauseam
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arid Mesa
+Badlands
+Beseech the Mirror
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Brain Freeze
+Brainstorm
+Cabal Ritual
+Chrome Mox
+City of Brass
+Command Tower
+Counterspell
+Crumbling Necropolis
+Cyclonic Rift
+Dark Ritual
+Dauthi Voidwalker
+Demonic Consultation
+Demonic Tutor
+Dimir Signet
+Drowned Catacomb
+Exotic Orchard
+Faithless Looting
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Frantic Search
+Gamble
+Gemstone Caverns
+Gitaxian Probe
+Imperial Seal
+Island
+Izzet Signet
+Jace, Wielder of Mysteries
+Laboratory Maniac
+Ledger Shredder
+Lotus Petal
+Luxury Suite
+Mana Confluence
+Mana Drain
+Marsh Flats
+Misty Rainforest
+Morphic Pool
+Mountain
+Mox Diamond
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Notion Thief
+Opposition Agent
+Orcish Bowmasters
+Otawara, Soaring City
+Polluted Delta
+Ponder
+Ragavan, Nimble Pilferer
+Reanimate
+Reliquary Tower
+Rhystic Study
+Scalding Tarn
+Sensei's Divining Top
+Shivan Reef
+Simian Spirit Guide
+Snap
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Sulfur Falls
+Swamp
+Swan Song
+Tainted Pact
+Talion, the Kindly Lord
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thassa's Oracle
+The One Ring
+Thought Vessel
+Toxic Deluge
+Training Center
+Undercity Sewers
+Underground River
+Underground Sea
+Underworld Breach
+Urborg, Tomb of Yawgmoth
+Urza's Saga
+Valley Floodcaller
+Vampiric Tutor
+Verdant Catacombs
+Volcanic Island
+Watery Grave
+Windfall
+Wishclaw Talisman
+Xander's Lounge
+
+Alrund's Epiphany
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Blasphemous Act
+Blightstep Pathway
+Blood Crypt
+Cabal Ritual
+Chandra, Hope's Beacon
+Choked Estuary
+Command Tower
+Counterspell
+Crackle with Power
+Cursed Recording
+Dark Ritual
+Deadly Tempest
+Dig Through Time
+Double Vision
+Entomb
+Exsanguinate
+Fact or Fiction
+Faithless Looting
+Feed the Swarm
+Fiery Inscription
+Fiery Islet
+Flame of Anor
+Galvanic Iteration
+Goblin Electromancer
+Haunted Ridge
+Increasing Vengeance
+Insurrection
+Island
+Izzet Signet
+Jaya's Immolating Inferno
+Jeska's Will
+Ledger Shredder
+Lier, Disciple of the Drowned
+Mana Drain
+Mana Geyser
+Morphic Pool
+Mountain
+Mystic Remora
+Mystical Tutor
+Night's Whisper
+Oriq Loremage
+Past in Flames
+Polluted Delta
+Primal Amulet
+Prismari Command
+Rakdos Charm
+Ral, Storm Conduit
+Reforge the Soul
+Relic of Legends
+Resculpt
+Riverglide Pathway
+Scalding Tarn
+Secrets of the Dead
+Sedgemoor Witch
+Seething Landscape
+Seething Song
+Shark Typhoon
+Shipwreck Marsh
+Shivan Reef
+Smoldering Marsh
+Sol Ring
+Solve the Equation
+Spellseeker
+Steam Vents
+Storm-Kiln Artist
+Sulfur Falls
+Sulfurous Springs
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Time Warp
+Training Center
+Twinning Staff
+Underworld Breach
+Valakut Awakening
+Vandalblast
+Watery Grave
+Wayfarer's Bauble
+Windfall
+Xander's Lounge
+
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Anger
+Animate Dead
+Arcane Signet
+Badlands
+Blood Crypt
+Bloodstained Mire
+Boggart Trawler
+Bojuka Bog
+Bolas's Citadel
+Brain Freeze
+Brainstorm
+Buried Alive
+Cabal Ritual
+Careful Study
+Cephalid Coliseum
+Chrome Mox
+City of Traitors
+Command Tower
+Consecrated Sphinx
+Control of the Court
+Counterspell
+Cyclonic Rift
+Damnation
+Dark Ritual
+Darkwater Catacombs
+Dauthi Voidwalker
+Demonic Consultation
+Demonic Tutor
+Dragon Mage
+Dragonskull Summit
+Drowned Catacomb
+Echo of Eons
+Entomb
+Exotic Orchard
+Faithless Looting
+Fierce Guardianship
+Flare of Duplication
+Force of Will
+Frantic Search
+Gamble
+Gitaxian Probe
+Gush
+Island
+Lethal Scheme
+Lion's Eye Diamond
+Lórien Revealed
+Mental Note
+Mountain
+Mox Diamond
+Mystic Remora
+Mystical Tutor
+Necromancy
+Orcish Bowmasters
+Polluted Delta
+Ponder
+Preordain
+Psychic Frog
+Raucous Theater
+Reanimate
+Reliquary Tower
+Rhystic Study
+Ripples of Undeath
+Scalding Tarn
+Seething Landscape
+Sensei's Divining Top
+Shadowblood Ridge
+Sheoldred, the Apocalypse
+Sink into Stupor
+Snow-Covered Island
+Snow-Covered Mountain
+Snow-Covered Swamp
+Sol Ring
+Steam Vents
+Stitch Together
+Strip Mine
+Sulfur Falls
+Swamp
+Tainted Pact
+Thassa's Oracle
+The One Ring
+Thundering Falls
+Treasure Cruise
+Turnabout
+Undercity Sewers
+Underground Sea
+Underworld Breach
+Valley Floodcaller
+Visions of Beyond
+Volcanic Island
+Waste Not
+Waterlogged Teachings
+Watery Grave
+Wheel of Fortune
+Windfall
+Wishclaw Talisman
+Withering Torment
+Xander's Lounge
+
+Academy Ruins
+Ancient Tomb
+Arcane Signet
+Arid Mesa
+Badlands
+Blood Crypt
+Bloodstained Mire
+Boseiju, Who Shelters All
+Brain Freeze
+Cabal Ritual
+Cavern of Souls
+Chain of Vapor
+Chrome Mox
+City of Brass
+City of Traitors
+Command Tower
+Counterspell
+Cursed Totem
+Cyclonic Rift
+Dark Petition
+Dark Ritual
+Darkslick Shores
+Dauthi Voidwalker
+Deflecting Swat
+Delay
+Demonic Consultation
+Demonic Tutor
+Entomb
+Exotic Orchard
+Faerie Mastermind
+Faithless Looting
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Glimmervoid
+Imperial Seal
+Intuition
+Lion's Eye Diamond
+Lotus Petal
+Luxury Suite
+Lórien Revealed
+Mana Confluence
+Mana Drain
+Mana Vault
+Mental Misstep
+Mindbreak Trap
+Mockingbird
+Morphic Pool
+Mox Amber
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Necropotence
+Opposition Agent
+Orcish Bowmasters
+Pact of Negation
+Phantasmal Image
+Polluted Delta
+Praetor's Grasp
+Prismatic Vista
+Pyroblast
+Ragavan, Nimble Pilferer
+Raucous Theater
+Reanimate
+Red Elemental Blast
+Reliquary Tower
+Rhystic Study
+Ripples of Undeath
+Simian Spirit Guide
+Skirge Familiar
+Sol Ring
+Spellseeker
+Steam Vents
+Swan Song
+Tainted Pact
+Talisman of Creativity
+Talisman of Dominance
+Thassa's Oracle
+The One Ring
+Thought Scour
+Thundering Falls
+Toxic Deluge
+Undercity Sewers
+Underground Sea
+Underworld Breach
+Urza's Saga
+Vampiric Tutor
+Volcanic Island
+Watery Grave
+Wheel of Fortune
+Windfall
+Wishclaw Talisman
+Xander's Lounge
+
+Anger
+Arcane Signet
+Archfiend of Ifnir
+Baral, Chief of Compliance
+Blasphemous Act
+Blood Crypt
+Bone Miser
+Buried Alive
+Burning Inquiry
+Canyon Slough
+Collective Defiance
+Command Tower
+Crosis's Catacombs
+Crumbling Necropolis
+Crypt of the Eternals
+Cyclonic Rift
+Dark Deal
+Dark Ritual
+Dauthi Voidwalker
+Dimir Signet
+Dragonskull Summit
+Dream Halls
+Entomb
+Exhume
+Exsanguinate
+Fetid Pools
+Fiery Islet
+Frantic Search
+Gamble
+Geier Reach Sanitarium
+Glint-Horn Buccaneer
+Goblin Electromancer
+Grixis Panorama
+Island
+Izzet Signet
+Jace's Archivist
+Laboratory Maniac
+Library of Leng
+Liliana's Caress
+Lim-Dûl's Vault
+Magus of the Wheel
+Mana Drain
+Mausoleum Secrets
+Megrim
+Mind Stone
+Mnemonic Betrayal
+Mountain
+Mystical Tutor
+Negate
+Nightscape Familiar
+No One Left Behind
+Orcish Bowmasters
+Persist
+Polluted Delta
+Profane Memento
+Profane Tutor
+Psychosis Crawler
+Rakdos Signet
+Read the Runes
+Reanimate
+Reliquary Tower
+Renegade Map
+Rielle, the Everwise
+Riverglide Pathway
+Saw It Coming
+Seething Landscape
+Shadow of the Grave
+Shivan Reef
+Sol Ring
+Stitch Together
+Stubborn Denial
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Talisman of Creativity
+Terminate
+Underground River
+Underworld Breach
+Underworld Dreams
+Unearth
+Unmarked Grave
+Urborg, Tomb of Yawgmoth
+Waste Not
+Wayfarer's Bauble
+Whispering Madness
+Windfall
+Xander's Lounge
+
+An Offer You Can't Refuse
+Arcane Signet
+Ashiok, Dream Render
+Baleful Mastery
+Bedevil
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Brainstorm
+Brazen Borrower
+Choked Estuary
+Clearwater Pathway
+Command Tower
+Compulsive Research
+Consider
+Counterspell
+Crumbling Necropolis
+Cyclonic Rift
+Dark Petition
+Deadly Rollick
+Dimir Signet
+Dispel
+Displacer Kitten
+Dragonskull Summit
+Drowned Catacomb
+Entomb
+Exsanguinate
+Fact or Fiction
+Faithless Looting
+Fellwar Stone
+Flame of Anor
+Frantic Search
+Frostboil Snarl
+Gamble
+Geistwave
+Ghostly Pilferer
+Increasing Vengeance
+Island
+Izzet Signet
+Jeska's Will
+Lightning Greaves
+Mana Geyser
+Metallurgic Summonings
+Mind Stone
+Mountain
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Nightscape Familiar
+Notion Rain
+Opposition Agent
+Otawara, Soaring City
+Painful Truths
+Polluted Delta
+Primal Amulet
+Rakdos Charm
+Rakdos Signet
+Recurring Insight
+Rhystic Study
+Sauron's Ransom
+Scalding Tarn
+Search for Azcanta
+See the Truth
+Shark Typhoon
+Shivan Reef
+Smoldering Marsh
+Sol Ring
+Steam Vents
+Stormcatch Mentor
+Sulfur Falls
+Sulfurous Springs
+Sunken Hollow
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Terminate
+Thought Vessel
+Thousand-Year Storm
+Thrill of Possibility
+Torment of Hailfire
+Toxic Deluge
+Underworld Breach
+Vampiric Tutor
+Verdant Catacombs
+Visions of Beyond
+Voracious Greatshark
+Watery Grave
+Withering Torment
+Xander's Lounge
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Artist's Talent
+Ashling, Flame Dancer
+Badlands
+Baral, Chief of Compliance
+Blood Crypt
+Bloodstained Mire
+Bonus Round
+Brainstorm
+Burning Prophet
+Careful Study
+Cascade Bluffs
+Chain of Smog
+City of Brass
+Command Tower
+Consider
+Crackle with Power
+Crypt of the Eternals
+Deflecting Swat
+Disrupt
+Dragon's Rage Channeler
+Entomb
+Faithless Looting
+Fetid Pools
+Fierce Guardianship
+Fiery Islet
+Flooded Strand
+Forbidden Orchard
+Frantic Search
+Fury Storm
+Gamble
+Gitaxian Probe
+Haunted Ridge
+Imperial Seal
+Island
+Jeska's Will
+Mana Confluence
+Mana Drain
+Mana Leak
+Marsh Flats
+Misty Rainforest
+Morphic Pool
+Mountain
+Mystical Tutor
+Negate
+Opt
+Overmaster
+Past in Flames
+Peek
+Personal Tutor
+Plaza of Heroes
+Polluted Delta
+Ponder
+Preordain
+Professional Face-Breaker
+Quicken
+Ral, Storm Conduit
+Reanimate
+Red Elemental Blast
+Reiterate
+Remand
+Rite of Flame
+Scalding Tarn
+Scroll Rack
+Sedgemoor Witch
+Seething Song
+Sensei's Divining Top
+Serum Visions
+Shipwreck Marsh
+Shivan Reef
+Simian Spirit Guide
+Sleight of Hand
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Sunken Ruins
+Swamp
+Swan Song
+Talon Gates of Madara
+Teferi's Ageless Insight
+Thassa's Oracle
+Tibalt's Trickery
+Training Center
+Underground River
+Underground Sea
+Underworld Breach
+Untimely Malfunction
+Vampiric Tutor
+Verdant Catacombs
+Volcanic Island
+Watery Grave
+Windrider Wizard
+Wooded Foothills
+Yawgmoth's Will
+
+Anhelo, the Painter
+Annul
+Arcane Signet
+Balmor, Battlemage Captain
+Bloodfell Caves
+Bone Shards
+Burrog Befuddler
+Burst Lightning
+Canyon Slough
+Cecily, Haunted Mage
+Chain Assassination
+Cinder Barrens
+Command Tower
+Commander's Sphere
+Contact Other Plane
+Cormela, Glamour Thief
+Cruel Ultimatum
+Crypt Incursion
+Defabricate
+Demand Answers
+Demon Bolt
+Diabolic Vision
+Dimir Aqueduct
+Dimir Guildgate
+Dismal Backwater
+Eaten Alive
+Enigma Drake
+Essence Scatter
+Fact or Fiction
+Feed the Swarm
+Fetid Pools
+Fleeting Distraction
+Foul Play
+Gandalf's Sanction
+Ghitu Lavarunner
+Great Intelligence's Plan
+Grim Bounty
+Heartfire Immolator
+Hero's Downfall
+Highland Lake
+Hostage Taker
+Into the Roil
+Island
+Izzet Signet
+Maelstrom Muse
+Maestros Charm
+Maestros Confluence
+Marchesa, Dealer of Death
+Micromancer
+Mind Stone
+Mischievous Mystic
+Mocking Sprite
+Mountain
+Murder
+Murky Sewer
+Mystical Teachings
+Negate
+Opt
+Psychosis Crawler
+Rakdos Guildgate
+Reality Shift
+Repulse
+River of Tears
+Royal Assassin
+Rumbling Rockslide
+Shadowblood Ridge
+Shadowmage Infiltrator
+Shipwreck Dowser
+Slice from the Shadows
+Smoldering Marsh
+Sol Ring
+Spectral Sailor
+Submerged Boneyard
+Swamp
+Swiftwater Cliffs
+Temple of Deceit
+Temple of Malice
+Thermo-Alchemist
+Think Twice
+Thrill of Possibility
+Thriving Moor
+Tolarian Terror
+Uncharted Haven
+Unruly Catapult
+Unsummon
+Voracious Greatshark
+Waterfront District
+You See a Guard Approach
+
+An Offer You Can't Refuse
+Arcane Denial
+Archmage Emeritus
+Archmage of Runes
+Artist's Talent
+Ashling, Flame Dancer
+Badlands
+Baral, Chief of Compliance
+Blood Crypt
+Bloodstained Mire
+Bonus Round
+Brainstorm
+Burning Prophet
+Careful Study
+Cascade Bluffs
+Chain of Smog
+City of Brass
+Command Tower
+Consider
+Crackle with Power
+Crypt of the Eternals
+Deflecting Swat
+Disrupt
+Dragon's Rage Channeler
+Entomb
+Faithless Looting
+Fetid Pools
+Fierce Guardianship
+Fiery Islet
+Flooded Strand
+Forbidden Orchard
+Frantic Search
+Fury Storm
+Gale, Waterdeep Prodigy
+Gamble
+Gitaxian Probe
+Haunted Ridge
+Imperial Seal
+Island
+Jeska's Will
+Mana Confluence
+Mana Drain
+Mana Leak
+Marsh Flats
+Misty Rainforest
+Morphic Pool
+Mountain
+Mystic Remora
+Mystical Tutor
+Necropotence
+Negate
+Opt
+Overmaster
+Past in Flames
+Peek
+Personal Tutor
+Plaza of Heroes
+Polluted Delta
+Ponder
+Preordain
+Pyroblast
+Quicken
+Ral, Storm Conduit
+Reanimate
+Red Elemental Blast
+Reiterate
+Remand
+Rhystic Study
+Scalding Tarn
+Scroll Rack
+Sedgemoor Witch
+Seething Song
+Sensei's Divining Top
+Serum Visions
+Shipwreck Marsh
+Shivan Reef
+Sleight of Hand
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Sunken Ruins
+Swamp
+Swan Song
+Talon Gates of Madara
+Teferi's Ageless Insight
+Thassa's Oracle
+Tibalt's Trickery
+Training Center
+Underground River
+Underground Sea
+Untimely Malfunction
+Vampiric Tutor
+Verdant Catacombs
+Volcanic Island
+Watery Grave
+Windrider Wizard
+Wooded Foothills
+Yawgmoth's Will
+
+Ancient Excavation
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Baral, Chief of Compliance
+Brainstorm
+Cabal Ritual
+Cancel
+Clout of the Dominus
+Comet Storm
+Command Beacon
+Command Tower
+Counterspell
+Crackle with Power
+Crumbling Necropolis
+Damnable Pact
+Dark Ritual
+Desperate Ritual
+Disallow
+Faithless Looting
+Fiery Islet
+Frantic Search
+Galvanic Iteration
+Gamble
+Goblin Electromancer
+Haughty Djinn
+Haunted Ridge
+Increasing Vengeance
+Island
+Jeska's Will
+Kira, Great Glass-Spinner
+Lightning Greaves
+Lim-Dûl's Vault
+Luxury Suite
+Mana Geyser
+Mizzix's Mastery
+Mocking Sprite
+Morphic Pool
+Mountain
+Mystical Tutor
+Narset's Reversal
+Night's Whisper
+Nightscape Familiar
+Opt
+Ponder
+Preordain
+Primal Amulet
+Pyretic Ritual
+Ral, Monsoon Mage
+Raucous Theater
+Reflecting Pool
+Refute
+Reliquary Tower
+Riptide Laboratory
+See the Truth
+Seething Song
+Shipwreck Marsh
+Shivan Reef
+Snapcaster Mage
+Sol Ring
+Solve the Equation
+Spellseeker
+Storm King's Thunder
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Sulfurous Springs
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Temple of Deceit
+Temple of Epiphany
+Temple of Malice
+Thousand-Year Storm
+Thunderclap Drake
+Thundering Falls
+Torment of Hailfire
+Training Center
+Twinferno
+Undercity Sewers
+Underground River
+Wheel of Misfortune
+Windfall
+Winged Words
+Wizard's Retort
+Wizards of Thay
+
+Abrade
+Ancient Tomb
+Anger
+Animate Dead
+Arcane Signet
+Archon of Cruelty
+Ashiok, Dream Render
+Baleful Mastery
+Blood Crypt
+Bloodstained Mire
+Bone Shards
+Buried Alive
+Cabal Ritual
+Cathartic Pyre
+City of Brass
+Command Tower
+Consecrated Sphinx
+Consider
+Counterspell
+Cyclonic Rift
+Dark Ritual
+Dauthi Voidwalker
+Deadly Rollick
+Deflecting Swat
+Demonic Tutor
+Drowned Catacomb
+Entomb
+Exhume
+Faithless Looting
+Feed the Swarm
+Fierce Guardianship
+Flooded Strand
+Force of Negation
+Force of Will
+Frantic Search
+Gamble
+Ghouls' Night Out
+Gitaxian Probe
+Hullbreaker Horror
+Incarnation Technique
+Island
+It That Betrays
+Izzet Charm
+Jace, Vryn's Prodigy
+Jeska's Will
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Ledger Shredder
+Living Death
+Luxury Suite
+Mana Confluence
+Mana Drain
+Marsh Flats
+Misty Rainforest
+Morphic Pool
+Mountain
+Mystical Tutor
+Orcish Bowmasters
+Polluted Delta
+Prismari Command
+Psychic Frog
+Ragavan, Nimble Pilferer
+Reanimate
+Rhystic Study
+Ripples of Undeath
+Rona, Herald of Invasion
+Scalding Tarn
+Shivan Reef
+Sol Ring
+Steam Vents
+Stitch Together
+Sunken Ruins
+Swamp
+Tainted Indulgence
+Talisman of Dominance
+Talisman of Indulgence
+The One Ring
+Thirst for Knowledge
+Thrill of Possibility
+Toxic Deluge
+Toxrill, the Corrosive
+Training Center
+Underground Sea
+Urborg, Tomb of Yawgmoth
+Valgavoth, Terror Eater
+Vampiric Tutor
+Vilis, Broker of Blood
+Void Winnower
+Watery Grave
+Xander's Lounge
+
+An Offer You Can't Refuse
+Animate Dead
+Arcane Signet
+Archmage Emeritus
+Ashling, Flame Dancer
+Baral, Chief of Compliance
+Blood Crypt
+Bloodstained Mire
+Bolas's Citadel
+Borne Upon a Wind
+Brainstorm
+Cascade Bluffs
+Chaos Warp
+Command Tower
+Crumbling Necropolis
+Cyclonic Rift
+Dark Ritual
+Desperate Ritual
+Displacer Kitten
+Dualcaster Mage
+Expressive Iteration
+Faithless Looting
+Feed the Swarm
+Fellwar Stone
+Flare of Duplication
+Flusterstorm
+Frantic Search
+Ghostly Flicker
+Gitaxian Probe
+Goblin Electromancer
+Grapeshot
+Haze of Rage
+Island
+Liliana's Triumph
+Liquimetal Torque
+Mind Stone
+Mnemonic Betrayal
+Mountain
+Mystic Remora
+Necromancy
+Negate
+Nightscape Familiar
+Notion Thief
+Past in Flames
+Polluted Delta
+Ponder
+Pongify
+Preordain
+Rakdos Charm
+Ral, Storm Conduit
+Rapid Hybridization
+Reality Shift
+Reanimate
+Reiterate
+Reverberate
+Ruby Medallion
+Scalding Tarn
+Seething Song
+Sensei's Divining Top
+Serum Visions
+Sheoldred's Edict
+Snap
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Stormcatch Mentor
+Sunken Ruins
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thousand-Year Storm
+Thunderclap Drake
+Toxic Deluge
+Underworld Breach
+Vandalblast
+Watery Grave
+Whispering Madness
+Windfall
+Withering Torment
+
+Abhorrent Oculus
+Agadeem's Awakening
+Angel of Suffering
+Anger
+Arcane Signet
+Archon of Cruelty
+Archpriest of Shadows
+Beacon of Unrest
+Bladewing, Deathless Tyrant
+Blasphemous Act
+Breach the Multiverse
+Buried Alive
+Chainer, Nightmare Adept
+Chaos Warp
+Choked Estuary
+Command Tower
+Connive // Concoct
+Crumbling Necropolis
+Cut // Ribbons
+Deep Analysis
+Demand Answers
+Desolate Lighthouse
+Dimir Signet
+Dragonskull Summit
+Drowned Catacomb
+Entomb
+Ever After
+Extract from Darkness
+Fact or Fiction
+Faithless Looting
+Feed the Swarm
+Field of Ruin
+Foreboding Ruins
+Frantic Search
+Frostboil Snarl
+Grave Titan
+Grave Upheaval
+Gravebreaker Lamia
+Island
+Jin-Gitaxias, Progress Tyrant
+Junji, the Midnight Sky
+Knollspine Dragon
+Lazotep Plating
+Liliana, Death's Majesty
+Living Death
+Lord Xander, the Collector
+Lord of the Forsaken
+Massacre Wurm
+Mind Stone
+Moria Scavenger
+Mountain
+Obsessive Stitcher
+Persist
+Rakdos Signet
+Reanimate
+Relic of Sauron
+Rogue's Passage
+Rona, Herald of Invasion
+Sage of the Beyond
+Sauron, Lord of the Rings
+Seething Landscape
+Sepulchral Primordial
+Smoldering Marsh
+Sol Ring
+Sulfur Falls
+Sulfurous Springs
+Summons of Saruman
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Tarrian's Journal
+Terror Tide
+The Black Gate
+Thirst for Discovery
+Thran Dynamo
+Thrill of Possibility
+Tomb Fortress
+Too Greedily, Too Deep
+Underground River
+Victimize
+Vohar, Vodalian Desecrator
+Whispering Madness
+Wonder
+Xander's Lounge
+Yawgmoth's Vile Offering
+Zombify
+
+Arcane Denial
+Arcane Signet
+Badlands
+Baral, Chief of Compliance
+Birgi, God of Storytelling
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Bonus Round
+Brainstorm
+Cabal Coffers
+Cathartic Reunion
+Chaos Warp
+City of Brass
+Command Tower
+Consider
+Coruscation Mage
+Counterspell
+Damnation
+Dark Ritual
+Deflecting Swat
+Dimir Signet
+Exotic Orchard
+Exsanguinate
+Fact or Fiction
+Faithless Looting
+Feed the Swarm
+Fellwar Stone
+Fierce Guardianship
+Fiery Inscription
+Frantic Search
+Gitaxian Probe
+Gloomlake Verge
+Goblin Electromancer
+Grapeshot
+Guttersnipe
+Increasing Vengeance
+Island
+Izzet Signet
+Jace's Sanctum
+Jeska's Will
+Lightning Bolt
+Luxury Suite
+Mana Confluence
+Mana Geyser
+Mindsplice Apparatus
+Morphic Pool
+Mountain
+Mystic Sanctuary
+Narset's Reversal
+Negate
+Nicol Bolas, God-Pharaoh
+Nicol Bolas, the Deceiver
+Opt
+Otawara, Soaring City
+Polluted Delta
+Ponder
+Preordain
+Rakdos Charm
+Rakdos Signet
+Raucous Theater
+Reflecting Pool
+Reliquary Tower
+Reverberate
+Scalding Tarn
+See the Truth
+Seething Song
+Shivan Reef
+Smoldering Marsh
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Sulfur Falls
+Sulfurous Springs
+Swamp
+Swan Song
+Séance Board
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Terminate
+Thought Vessel
+Thrill of Possibility
+Thundering Falls
+Torment of Hailfire
+Toxic Deluge
+Training Center
+Undercity Sewers
+Underground River
+Underground Sea
+Underworld Breach
+Urborg, Tomb of Yawgmoth
+Vandalblast
+Volcanic Island
+Watery Grave
+Windfall
+Withering Torment
+Xander's Lounge
+
+Arcane Bombardment
+Arcane Signet
+Archmage Emeritus
+Baral, Chief of Compliance
+Big Score
+Birgi, God of Storytelling
+Bloodfell Caves
+Brainstorm
+By Force
+Chain of Smog
+Chaos Warp
+Chromatic Lantern
+Command Tower
+Contaminated Aquifer
+Counterspell
+Crumbling Necropolis
+Crypt of the Eternals
+Dark Petition
+Dark Ritual
+Demolition Field
+Desolate Lighthouse
+Dimir Guildgate
+Disdainful Stroke
+Dismal Backwater
+Double Vision
+Dreadbore
+Electrodominance
+Epiphany at the Drownyard
+Evolving Wilds
+Expansion // Explosion
+Fact or Fiction
+Faithless Looting
+Fervent Mastery
+Final Parting
+Frantic Search
+Geothermal Bog
+Highland Lake
+Ignite the Future
+Immolating Gyre
+Increasing Vengeance
+Inspired Tinkering
+Island
+Izzet Charm
+Izzet Guildgate
+Kellogg, Dangerous Mind
+Liliana's Triumph
+Mana Geyser
+Mizzium Mortars
+Mizzix's Mastery
+Molten Tributary
+Mountain
+Mystic Retrieval
+Mystical Teachings
+Negate
+Nightscape Familiar
+Opt
+Past in Flames
+Path of Ancestry
+Pirate's Prize
+Prismari Campus
+Professor Onyx
+Pyretic Ritual
+Ral, Storm Conduit
+Reiterate
+Runaway Steam-Kin
+Searing Touch
+See the Truth
+Seething Song
+Seize the Spoils
+Shark Typhoon
+Silverbluff Bridge
+Snap
+Sol Ring
+Spiteful Banditry
+Spiteful Repossession
+Storm's Wrath
+Storm-Kiln Artist
+Structural Assault
+Submerged Boneyard
+Swamp
+Swiftwater Cliffs
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Thought Vessel
+Tramway Station
+Unwind
+Vadrik, Astral Archmage
+Veyran, Voice of Duality
+Vivid Crag
+Vivid Creek
+Waterfront District
+
+Acidic Soil
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Black Market Connections
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Blue Sun's Zenith
+By Force
+Command Tower
+Counterspell
+Crux of Fate
+Curse of the Swine
+Cyclonic Rift
+Dark Ritual
+Deadly Rollick
+Dimir Signet
+Docent of Perfection
+Dragonskull Summit
+Drowned Catacomb
+Earthquake
+Electrostatic Field
+Erebor Flamesmith
+Exotic Orchard
+Exsanguinate
+Faithless Looting
+Fierce Guardianship
+Fiery Confluence
+Fiery Inscription
+Firebrand Archer
+Flame of Anor
+Frantic Search
+Go for the Throat
+Guttersnipe
+Haunted Ridge
+Insurrection
+Island
+Izzet Signet
+Kessig Flamebreather
+Luxury Suite
+Magmaquake
+Mana Geyser
+Morphic Pool
+Mountain
+Mystic Remora
+Negate
+Neheb, the Eternal
+Night's Whisper
+Polluted Delta
+Price of Progress
+Primal Amulet
+Propaganda
+Rakdos Charm
+Rakdos Signet
+Reflecting Pool
+Revel in Riches
+Rise of the Dark Realms
+Scalding Tarn
+Seething Song
+Shipwreck Marsh
+Shivan Reef
+Sol Ring
+Steam Vents
+Stormcarved Coast
+Sulfur Falls
+Swamp
+Swan Song
+Syphon Mind
+Talisman of Creativity
+Talisman of Indulgence
+Tectonic Hazard
+Terminate
+Thermo-Alchemist
+Thought Scour
+Thought Vessel
+Torment of Hailfire
+Tormenting Voice
+Training Center
+Unruly Catapult
+Vandalblast
+Watery Grave
+Young Pyromancer
+
+Animate Dead
+Arcane Signet
+Bedevil
+Bitter Reunion
+Bitter Triumph
+Black Market Connections
+Blasphemous Act
+Blood Crypt
+Blood for the Blood God!
+Bloodstained Mire
+Bojuka Bog
+Canyon Slough
+Combustible Gearhulk
+Command Tower
+Compulsive Research
+Consecrated Sphinx
+Cormela, Glamour Thief
+Counterspell
+Crackle with Power
+Crumbling Necropolis
+Cyclonic Rift
+Dark Petition
+Dark Ritual
+Darkslick Shores
+Deadly Rollick
+Deflecting Swat
+Dimir Signet
+Dogged Detective
+Dragonskull Summit
+Dreadwing Scavenger
+Drowned Catacomb
+Expropriate
+Fact or Fiction
+Faithless Looting
+Feed the Swarm
+Fierce Guardianship
+Forbidden Alchemy
+Frantic Search
+Haunted Ridge
+Island
+Izzet Signet
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Lord of the Forsaken
+Luxury Suite
+Maestros Charm
+Mana Drain
+Master of Death
+Mizzix's Mastery
+Mountain
+Narset's Reversal
+Necromancy
+Necron Deathmark
+Nezahal, Primal Tide
+Ovika, Enigma Goliath
+Past in Flames
+Polluted Delta
+Ponder
+Primal Amulet
+Rakdos Signet
+Raucous Theater
+Reality Shift
+Reanimate
+Reenact the Crime
+Sauron, the Dark Lord
+Scalding Tarn
+Sheoldred
+Sheoldred, the Apocalypse
+Shipwreck Marsh
+Shivan Reef
+Slickshot Lockpicker
+Smoldering Marsh
+Snapcaster Mage
+Sol Ring
+Spelltwine
+Spirebluff Canal
+Steam Vents
+Stitch Together
+Sulfur Falls
+Sunken Hollow
+Swamp
+Terminate
+Thrill of Possibility
+Thundering Falls
+Time Stretch
+Time Warp
+Toxic Deluge
+Training Center
+Undercity Sewers
+Unexpected Windfall
+Unmarked Grave
+Vandalblast
+Victimize
+Watery Grave
+Windfall
+Xander's Lounge
+
+Ancient Brass Dragon
+Ancient Tomb
+Anger
+Animate Dead
+Arcane Denial
+Arcane Signet
+Archon of Cruelty
+Archpriest of Shadows
+Arid Mesa
+Badlands
+Blood Crypt
+Bloodstained Mire
+Brainstorm
+Breach the Multiverse
+Buried Alive
+Cabal Ritual
+Careful Study
+City of Brass
+Command Tower
+Counterspell
+Curtains' Call
+Cyclonic Rift
+Damnation
+Dance of the Dead
+Dark Ritual
+Deadly Rollick
+Demonic Tutor
+Dimir Signet
+Displacer Kitten
+Dread Return
+Entomb
+Exhume
+Exotic Orchard
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Force of Negation
+Force of Will
+Gyruda, Doom of Depths
+Imperial Seal
+Incarnation Technique
+Infernal Grasp
+Izzet Signet
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Junji, the Midnight Sky
+Kokusho, the Evening Star
+Luxury Suite
+Mana Confluence
+Mana Drain
+Marsh Flats
+Mental Note
+Misty Rainforest
+Morphic Pool
+Necromancy
+Negate
+Otawara, Soaring City
+Persist
+Polluted Delta
+Ponder
+Preordain
+Rakdos Signet
+Reanimate
+Rhystic Study
+Rise of the Dark Realms
+Scalding Tarn
+Sepulchral Primordial
+Sheoldred
+Sheoldred, Whispering One
+Sire of Insanity
+Sneak Attack
+Snow-Covered Island
+Snow-Covered Mountain
+Snow-Covered Swamp
+Sol Ring
+Steam Vents
+Stitch Together
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Terminate
+Thought Scour
+Toxic Deluge
+Training Center
+Underground Sea
+Unmarked Grave
+Urborg, Tomb of Yawgmoth
+Vampiric Tutor
+Vandalblast
+Verdant Catacombs
+Volcanic Island
+Watery Grave
+Wheel of Fortune
+Windfall
+Wooded Foothills
+Xander's Lounge
+Yahenni's Expertise
+
+An Offer You Can't Refuse
+Ancient Tomb
+Aquatic Alchemist
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Beluna's Gatekeeper
+Big Score
+Blood Crypt
+Bloodstained Mire
+Bonecrusher Giant
+Brain Freeze
+Brazen Borrower
+Chancellor of Tales
+Chandra's Ignition
+Command Tower
+Counterspell
+Cruel Somnophage
+Cyclonic Rift
+Decadent Dragon
+Deflecting Swat
+Delayed Blast Fireball
+Demonic Tutor
+Dragonskull Summit
+Drowned Catacomb
+Embereth Shieldbreaker
+Exotic Orchard
+Faithless Looting
+Fierce Guardianship
+Force of Negation
+Frantic Search
+Gamble
+Gloomlake Verge
+Gray Slaad
+Haunted Ridge
+Hearth Elemental
+Horned Loch-Whale
+Hypnotic Sprite
+Illithid Harvester
+Island
+Lotus Petal
+Lucky Clover
+Luxury Suite
+Mana Drain
+Merchant Scroll
+Merchant of the Vale
+Merfolk Secretkeeper
+Morphic Pool
+Mountain
+Muddle the Mixture
+Murderous Rider
+Mystical Tutor
+Negate
+Order of Midnight
+Past in Flames
+Picklock Prankster
+Pirate's Pillage
+Polluted Delta
+Prismari Command
+Professor Onyx
+Rhystic Study
+Sapphire Dragon
+Scalding Tarn
+Scalding Viper
+Seize the Spoils
+Shipwreck Marsh
+Smoldering Marsh
+Sol Ring
+Solve the Equation
+Spellscorn Coven
+Spellseeker
+Steam Vents
+Stormcarved Coast
+Storyteller Pixie
+Sulfur Falls
+Sunken Hollow
+Swamp
+Swan Song
+Sword Coast Serpent
+Sword of Once and Future
+Thrill of Possibility
+Topaz Dragon
+Training Center
+Underworld Breach
+Unexpected Windfall
+Vampiric Tutor
+Vedalken Orrery
+Watery Grave
+Windfall
+
+Alandra, Sky Dreamer
+Anvil of Bogardan
+Arcane Denial
+Arcane Signet
+Baleful Mastery
+Blood Crypt
+Bloodstained Mire
+Boggart Trawler
+Breathstealer's Crypt
+Chainer, Nightmare Adept
+Command Tower
+Curse of Fool's Wisdom
+Damnation
+Dark Deal
+Demonic Tutor
+Dimir Signet
+Dragonskull Summit
+Drowned Catacomb
+Echo of Eons
+Entomb
+Faerie Mastermind
+Fate Unraveler
+Fell the Profane
+Fierce Guardianship
+Font of Mythos
+Gamble
+Geier Reach Sanitarium
+Geth's Grimoire
+Graven Cairns
+Howling Mine
+Intuition
+Island
+Izzet Signet
+Kederekt Parasite
+Liliana's Caress
+Magus of the Wheel
+Mana Confluence
+Mana Drain
+Megrim
+Memory Jar
+Mindcrank
+Molten Psyche
+Mountain
+Mystical Tutor
+Nekusar, the Mindrazer
+Orcish Bowmasters
+Past in Flames
+Phyrexian Tyranny
+Pinnacle Monk
+Polluted Delta
+Rakdos Signet
+Rapid Hybridization
+Razorkin Needlehead
+Reforge the Soul
+Scrawling Crawler
+Sheoldred, the Apocalypse
+Sink into Stupor
+Smoldering Marsh
+Sol Ring
+Spiteful Visions
+Steam Vents
+Sulfur Falls
+Sunken Hollow
+Swamp
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Teferi's Puzzle Box
+Toxic Deluge
+Underworld Breach
+Underworld Dreams
+Unexpected Windfall
+Vampiric Tutor
+Venser's Journal
+Waste Not
+Watery Grave
+Wheel of Fate
+Wheel of Fortune
+Wheel of Misfortune
+Windfall
+Winds of Change
+Xander's Lounge
+
+Abhorrent Oculus
+Arcane Signet
+Archmage of Runes
+Blazemire Verge
+Blazing Volley
+Bloodchief Ascension
+Bloodstained Mire
+Boiling Earth
+Brainstorm
+Bruvac the Grandiloquent
+Capture of Jingzhou
+Chaos Warp
+Command Tower
+Consuming Aberration
+Counterflux
+Counterspell
+Dark Deal
+Dark Ritual
+Decanter of Endless Water
+Diabolic Tutor
+Dragonskull Summit
+Electrostatic Field
+End the Festivities
+Eroded Canyon
+Evolving Wilds
+Fate Unraveler
+Firebrand Archer
+Foreboding Ruins
+Fractured Sanity
+Generous Plunderer
+Ghyrson Starn, Kelermorph
+Gleeful Arsonist
+Grim Servant
+Insatiable Avarice
+Island
+Jace's Archivist
+Judith, Carnage Connoisseur
+Kami of the Crescent Moon
+Kederekt Parasite
+Lightning Bolt
+Lively Dirge
+Maddening Cacophony
+Magus of the Wheel
+Mary Read and Anne Bonny
+Mesmeric Orb
+Mindcrank
+Mountain
+Negate
+Nekusar, the Mindrazer
+Nightscape Familiar
+Niv-Mizzet, Parun
+Ob Nixilis, Captive Kingpin
+Path of Ancestry
+Polluted Delta
+Propaganda
+Psychic Frog
+Raucous Theater
+Razorkin Needlehead
+Reliquary Tower
+Sakashima the Impostor
+Scrawling Crawler
+Serum Visions
+Smash to Dust
+Sol Ring
+Spark Double
+Spiked Corridor // Torture Pit
+Spirebluff Canal
+Spiteful Visions
+Steam Vents
+Storm-Kiln Artist
+Swamp
+Syr Konrad, the Grim
+Tectonic Hazard
+Temple of Deceit
+Temple of Malice
+Terramorphic Expanse
+The Lord of Pain
+Thought Scour
+Thought Vessel
+Thundering Falls
+Underworld Dreams
+Unstoppable Slasher
+Victimize
+Waste Not
+Watery Grave
+Whispering Madness
+Windfall
+Wooded Foothills
+Xander's Lounge
+

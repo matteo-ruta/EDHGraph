@@ -7,6 +7,8 @@ import random
 from bs4 import BeautifulSoup
 from save import Deck, StorageManager
 
+APPEND_MODE = 0 # default
+FILL_MODE = 1
 BAR_SIZE = 50
 AVG_SLEEP_TIME = 3.5
 
@@ -41,6 +43,10 @@ if __name__ == "__main__":
     # AKA add an "overwrite" mode (imo, it should be default)
 
     input_path = sys.argv[1]
+    mode = APPEND_MODE
+    if len(sys.argv) == 3:
+        if sys.argv[2] == "fill":
+            mode = FILL_MODE
     with open(input_path, "r", encoding="utf-8") as f:
         args = f.read()
 
@@ -59,6 +65,7 @@ if __name__ == "__main__":
     # partners must be written in sequential order (no separators)
 
     print(f"Starting data fetching session for {len(commanders_list)} commanders")
+    print(f"Detected mode: {mode}")
 
     already_seen_decks = 0
 
@@ -69,9 +76,10 @@ if __name__ == "__main__":
 
             print(f"Requesting decks for \'{commander}\' - {i + 1}/{len(commanders_list)} - {already_seen_decks}/{sum(quantity_list)}")
 
-            request = edhrec.get_commander_decks(commander)
+            request = edhrec.get_commander_decks(commander.replace("\"", "").replace("  ", " "))
 
             urlhash_list = [deck["urlhash"] for deck in request["table"]]
+            already_saved_urlhash_list = []
 
             # removing already saved decks from the checklist
             if commander in save.history.keys():
@@ -81,29 +89,40 @@ if __name__ == "__main__":
             # reduce the checklist to the specified size
             #urlhash_list = urlhash_list[:quantity]
 
-            total_decks = len(urlhash_list)
-            counter = 0
+            # checking the mode
+            if mode == APPEND_MODE or already_saved_urlhash_list == []:
+                downloaded_counter = 0
+            elif mode == FILL_MODE:
+                downloaded_counter = len(already_saved_urlhash_list)
 
             # init of the fancy progress-bar
             print(f"[{'.' * BAR_SIZE}] {0.00:.2f}%", end="\r")
 
-            for i in range(quantity):
-                decklist = get_decklist_from_urlhash(urlhash_list[i])
+            if downloaded_counter < quantity:
+                while downloaded_counter < quantity:
+                    decklist = get_decklist_from_urlhash(urlhash_list[downloaded_counter])
 
-                if not decklist.isError():
-                    save.saveDeck(decklist)
+                    if not decklist.isError():
+                        save.saveDeck(decklist)
 
-                    # fancy progress-bar
-                    counter += 1
-                    percentage = counter / total_decks * 100
-                    if counter < total_decks:
-                        done = round(percentage / 100 * BAR_SIZE)
-                        print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\r")
-                    else:
-                        done = BAR_SIZE
-                        print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\n")
+                        # fancy progress-bar
+                        downloaded_counter += 1
+                        percentage = downloaded_counter / quantity * 100
+                        if downloaded_counter < quantity:
+                            done = round(percentage / 100 * BAR_SIZE)
+                            print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\r")
+                        else:
+                            done = BAR_SIZE
+                            print(f"[{'=' * done}{'.' * (BAR_SIZE - done)}] {percentage:.2f}%", end="\n")
 
-                    # avoid congestion
-                    time.sleep(round(random.gauss(AVG_SLEEP_TIME, 1), 2))
+                        # avoid congestion
+                        delay = random.gauss(AVG_SLEEP_TIME, 1) 
+                        time.sleep(round(delay if delay > 0 else AVG_SLEEP_TIME, 2))
+                    # else
+                    # we must request another deck, since the previous request returned an error
+                    # => another iteration => no increase downloaded_counter at this round
+            else:
+                # still let a completed bar appear for comprehension
+                print(f"[{'=' * BAR_SIZE}] 100%", end="\n")
             
             already_seen_decks += quantity

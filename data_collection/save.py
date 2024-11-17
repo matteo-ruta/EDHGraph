@@ -44,7 +44,7 @@ class StorageManager():
             self.history = {}
             print("History not found or wrongly formatted, new empty on just created")
 
-        print(self.vocab, self.history)
+        #print(self.vocab, self.history)
         # XOR to see if there are incoherences
         assert bool(self.vocab) == bool(self.history), "AssertionError: incoherence found with your saved state. Please backup your progresses and clear history.json and vocab.txt before restarting"
 
