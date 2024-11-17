@@ -1,0 +1,11016 @@
+Academy Loremaster
+Aether Barrier
+Aether Gale
+Aether Spellbomb
+Arena of the Ancients
+Bane's Contingency
+Caltrops
+Chill
+Counterspell
+Damping Engine
+Damping Matrix
+Damping Sphere
+Darksteel Citadel
+Dispel
+Dramatic Reversal
+Emry, Lurker of the Loch
+Etherium Sculptor
+Fatespinner
+Foundry Inspector
+Frozen Aether
+God-Pharaoh's Statue
+Grafdigger's Cage
+High Seas
+Howling Mine
+Intruder Alarm
+Island
+Karn, Living Legacy
+Lodestone Golem
+Mana Breach
+Master Transmuter
+Master of Etherium
+Memnite
+Mindlock Orb
+Muzzio, Visionary Architect
+Mystic Forge
+Orb of Dreams
+Ornithopter
+Padeem, Consul of Innovation
+Pithing Needle
+Portcullis
+Propaganda
+Reality Shift
+Rising Waters
+Sai, Master Thopterist
+Sakashima's Will
+Sapphire Medallion
+Shimmer Myr
+Silver Myr
+Spell Pierce
+Spellbook
+Squeeze
+Stasis Field
+Storage Matrix
+Thopter Spy Network
+Thorn of Amethyst
+Thoughtcast
+Tormod's Crypt
+Torpor Orb
+Treasure Mage
+Treasure Vault
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Voltaic Key
+Weathered Runestone
+Witness Protection
+Wrath of Marit Lage
+
+Academy Ruins
+All Is Dust
+Archway of Innovation
+Arcum Dagsson
+Artificer's Assistant
+Blightsteel Colossus
+Campfire
+Castle Vantress
+Chief Engineer
+Clock of Omens
+Counterspell
+Crawlspace
+Darksteel Colossus
+Darksteel Forge
+Disallow
+Drafna's Restoration
+Drafna, Founder of Lat-Nam
+Drift of Phantasms
+Dust Bowl
+Emry, Lurker of the Loch
+Etherium Sculptor
+Fabricate
+Field of Ruin
+Flusterstorm
+Fomori Vault
+Forensic Gadgeteer
+Forsaken Monument
+Fountainport
+Gerrard's Hourglass Pendant
+Giggling Skitterspike
+Hydroelectric Specimen
+Inventors' Fair
+Island
+Jin-Gitaxias, Progress Tyrant
+Kappa Cannoneer
+Karn's Sylex
+Kuldotha Forgemaster
+Liberator, Urza's Battlethopter
+Lux Cannon
+Lórien Revealed
+March of Swirling Mist
+Marvin, Murderous Mimic
+Master Transmuter
+Merchant's Dockhand
+Mind Stone
+Muzzio, Visionary Architect
+Mystic Forge
+Negate
+Neurok Stealthsuit
+Padeem, Consul of Innovation
+Planar Bridge
+Proteus Staff
+Ravenform
+Relic of Progenitus
+Reliquary Tower
+Reshape
+Retrofitter Foundry
+Rings of Brighthearth
+Rivendell
+Sai, Master Thopterist
+Scrap Trawler
+Seat of the Synod
+Shadowspear
+Simulacrum Synthesizer
+Sol Ring
+Soldevi Excavations
+Solemn Simulacrum
+Spellskite
+Staff of Domination
+Stoic Rebuttal
+Tezzeret the Seeker
+Tezzeret, Artifice Master
+The One Ring
+Thought Monitor
+Tolaria West
+Trading Post
+Trinket Mage
+Trophy Mage
+Ugin, the Spirit Dragon
+Urza's Cave
+Urza's Saga
+Vedalken Archmage
+Vedalken Humiliator
+War Room
+Whir of Invention
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Archway of Innovation
+Basalt Monolith
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Codex Shredder
+Consecrated Sphinx
+Copy Artifact
+Counterbalance
+Crystal Vein
+Cyclonic Rift
+Dispel
+Dramatic Reversal
+Emergence Zone
+Etherium Sculptor
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gilded Drake
+Grafdigger's Cage
+Grim Monolith
+Hullbreaker Horror
+Imposter Mech
+Into the Flood Maw
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mindbreak Trap
+Mishra's Bauble
+Misty Rainforest
+Mnemonic Sphere
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Pithing Needle
+Polluted Delta
+Pollywog Prodigy
+Power Artifact
+Prismatic Vista
+Reshape
+Rhystic Study
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spellskite
+Steal Enchantment
+Strix Serenade
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Urza's Bauble
+Urza's Saga
+Volatile Stormdrake
+Voltaic Key
+Whir of Invention
+Witching Well
+
+Accorder's Shield
+Alchemist's Vial
+Arcane Signet
+Artificer's Assistant
+Basalt Monolith
+Bident of Thassa
+Bone Saw
+Burnished Hart
+Chrome Host Seedshark
+Clever Conjurer
+Codex Shredder
+Darksteel Citadel
+Deadeye Navigator
+Dispel
+Efficient Construction
+Elixir of Immortality
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Evolving Wilds
+Forensic Gadgeteer
+Foundry Inspector
+Genesis Chamber
+Grand Architect
+Guild Globe
+Howling Mine
+Ichor Wellspring
+Island
+Leyline of Anticipation
+Mana Leak
+Manifold Key
+Master Transmuter
+Memnite
+Mind Stone
+Mishra's Bauble
+Myr Battlesphere
+Myr Retriever
+Myriad Landscape
+Narset, Parter of Veils
+Negate
+Ornithopter
+Padeem, Consul of Innovation
+Paradise Mantle
+Paradoxical Outcome
+Pithing Needle
+Sai, Master Thopterist
+Scrap Trawler
+Sculpting Steel
+Seat of the Synod
+Shimmer Myr
+Silver Myr
+Simulacrum Synthesizer
+Solemn Simulacrum
+Spell Pierce
+Spellbook
+Stasis
+Steel Overseer
+Swiftfoot Boots
+Thopter Spy Network
+Thought Monitor
+Thought Vessel
+Tormod's Crypt
+Torpor Orb
+Trail of Evidence
+Unctus, Grand Metatect
+Unwind
+Vedalken Archmage
+Verity Circle
+Worldwalker Helm
+
+Aetherflux Reservoir
+Aetherize
+All Is Dust
+Archetype of Imagination
+Ashnod's Altar
+Back to Basics
+Blightsteel Colossus
+Chrome Mox
+Command Beacon
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Displacer Kitten
+Echoes of Eternity
+Emry, Lurker of the Loch
+Encroaching Mycosynth
+Etherium Sculptor
+Fabricate
+Fierce Guardianship
+Flusterstorm
+Force of Negation
+Force of Will
+Foundry Inspector
+Gilded Lotus
+God-Pharaoh's Statue
+Haven of the Spirit Dragon
+Howling Mine
+Island
+Karn, Legacy Reforged
+Karn, the Great Creator
+Kasmina, Enigmatic Mentor
+Lazotep Plating
+Lotus Petal
+Mana Drain
+Manifold Key
+Memnarch
+Metalworker
+Mishra's Bauble
+Monastery Siege
+Mox Opal
+Mycosynth Lattice
+Mystic Forge
+Mystic Sanctuary
+Narset, Parter of Veils
+Nim Deathmantle
+One with the Machine
+Ornithopter of Paradise
+Padeem, Consul of Innovation
+Palladium Myr
+Propaganda
+Reliquary Tower
+Rhystic Study
+River's Rebuke
+Rogue's Passage
+Sapphire Medallion
+Scourge of Fleets
+Sculpting Steel
+Seat of the Synod
+Semblance Anvil
+Sensei's Divining Top
+Shimmer Myr
+Sol Ring
+Soul of New Phyrexia
+Staff of Domination
+Static Orb
+Storage Matrix
+Strix Serenade
+Tezzeret, Betrayer of Flesh
+Thought Vessel
+Torpor Orb
+Ugin's Binding
+Ugin, the Spirit Dragon
+Unwinding Clock
+Winter Moon
+Winter Orb
+
+Aether Spellbomb
+Arcane Denial
+Artificer's Assistant
+Basalt Monolith
+Basilisk Collar
+Bone Saw
+Brainstorm
+Buried Ruin
+Cathar's Shield
+Commander's Plate
+Counterspell
+Curse of the Swine
+Darksteel Citadel
+Darksteel Colossus
+Darksteel Relic
+Desert of the Mindful
+Dramatic Reversal
+Drift of Phantasms
+Emergence Zone
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fact or Fiction
+Foreboding Statue
+Forensic Gadgeteer
+Foundry Inspector
+Future Sight
+Golem's Heart
+Guardian Idol
+Hall of Storm Giants
+Hedron Archive
+Herbal Poultice
+Hullbreaker Horror
+Ichor Wellspring
+Inventors' Fair
+Island
+Kasmina's Transmutation
+Labyrinth of Skophos
+Lightning Greaves
+Lonely Sandbar
+Mass Manipulation
+Master Transmuter
+Master of Etherium
+Mind Stone
+Mirrodin Besieged
+Mirrorworks
+Mishra's Self-Replicator
+Myr Battlesphere
+Negate
+Ornithopter
+Otawara, Soaring City
+Phyrexian Walker
+Pongify
+Precursor Golem
+Ravenform
+Rings of Brighthearth
+Saheeli's Artistry
+Sai, Master Thopterist
+Sapphire Medallion
+Saw It Coming
+Scene of the Crime
+Seat of the Synod
+Sentinel Totem
+Shimmer Dragon
+Silver Myr
+Sol Ring
+Spidersilk Net
+Steel Hellkite
+Steel Overseer
+Stoic Rebuttal
+Stone of Erech
+Sword of Forge and Frontier
+Tezzeret, Artifice Master
+Thassa, Deep-Dwelling
+Thopter Spy Network
+Ugin, the Ineffable
+Unwinding Clock
+Urza's Command
+
+Academy Ruins
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Blue Sun's Zenith
+Capsize
+Cavern of Souls
+Cephalid Coliseum
+Chrome Mox
+Copy Artifact
+Counterspell
+Crystal Shard
+Cyclonic Rift
+Deadeye Navigator
+Displacer Kitten
+Dramatic Reversal
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Force of Negation
+Force of Will
+Gilded Drake
+Gitaxian Probe
+Grafdigger's Cage
+Grand Architect
+Grim Monolith
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Merchant Scroll
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Pact of Negation
+Phyrexian Metamorph
+Pili-Pala
+Polluted Delta
+Pongify
+Power Artifact
+Preordain
+Prismatic Vista
+Rapid Hybridization
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Sol Ring
+Spellseeker
+Spellskite
+Static Orb
+Strip Mine
+Swan Song
+Tezzeret the Seeker
+Thassa's Oracle
+Thoughtcast
+Thran Dynamo
+Time Spiral
+Tolaria West
+Torpor Orb
+Training Grounds
+Transmute Artifact
+Tribute Mage
+Trinisphere
+Trophy Mage
+Urza's Saga
+Voltaic Key
+Walking Ballista
+Wasteland
+Whir of Invention
+Windfall
+Winter Orb
+
+Academy Ruins
+Aether Spellbomb
+Aetherflux Reservoir
+Ancient Tomb
+Arcane Signet
+Archmage's Charm
+Back to Basics
+Blightsteel Colossus
+Blue Sun's Twilight
+Brainstorm
+Buried Ruin
+Castle Vantress
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Dissipation Field
+Don't Make a Sound
+Drafna, Founder of Lat-Nam
+Dramatic Reversal
+Emry, Lurker of the Loch
+Etherium Sculptor
+Expedition Map
+Expropriate
+Fabricate
+Faerie Mechanist
+Fierce Guardianship
+Force of Will
+Foundry Inspector
+Gilded Lotus
+Inventors' Fair
+Island
+Isochron Scepter
+Jin-Gitaxias, Progress Tyrant
+Karn, the Great Creator
+Krark-Clan Ironworks
+Lightning Greaves
+Lotus Petal
+Mana Drain
+Master Transmuter
+Maze of Ith
+Midnight Clock
+Mirran Spy
+Mycosynth Lattice
+Myriad Landscape
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Otawara, Soaring City
+Phyrexian Metamorph
+Ponder
+Pongify
+Preordain
+Reality Shift
+Reliquary Tower
+Rhystic Study
+Seat of the Synod
+Sensei's Divining Top
+Shimmer Myr
+Silent Arbiter
+Sol Ring
+Spellskite
+Swan Song
+Swiftfoot Boots
+Tezzeret the Seeker
+Thought Monitor
+Thought Vessel
+Thoughtcast
+Thran Dynamo
+Time Spiral
+Time Warp
+Traxos, Scourge of Kroog
+Twinning Staff
+Unwinding Clock
+Whir of Invention
+Wurmcoil Engine
+
+An Offer You Can't Refuse
+Arcane Denial
+Archmage's Charm
+Back to Basics
+Basalt Monolith
+Brainstorm
+Chrome Mox
+Collector's Vault
+Counterspell
+Cyclonic Rift
+Day's Undoing
+Daze
+Delay
+Displacer Kitten
+Drift of Phantasms
+Etherium Sculptor
+Fabricate
+Fierce Guardianship
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Foundry Inspector
+Gitaxian Probe
+Grand Architect
+Grim Monolith
+Howling Mine
+Impulse
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Laboratory Maniac
+Liberator, Urza's Battlethopter
+Lotus Petal
+Loyal Inventor
+Mana Drain
+Mana Vault
+Manifold Key
+Mindbreak Trap
+Miscast
+Mox Amber
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Padeem, Consul of Innovation
+Pili-Pala
+Plague Myr
+Ponder
+Pongify
+Remand
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Sensei's Divining Top
+Silver Myr
+Sol Ring
+Stoic Rebuttal
+Swan Song
+Tezzeret the Seeker
+Thassa's Oracle
+The One Ring
+The Reality Chip
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Urza's Bauble
+Whir of Invention
+Winter Orb
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Blast Zone
+Cephalid Coliseum
+Chrome Mox
+Codex Shredder
+Copy Artifact
+Counterspell
+Cyclonic Rift
+Dramatic Reversal
+Echo of Eons
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Grafdigger's Cage
+Grim Monolith
+Hullbreaker Horror
+Imposter Mech
+Intuition
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Machine Over Matter
+Malevolent Hermit
+Mana Drain
+Mana Vault
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pongify
+Power Artifact
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sensei's Divining Top
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Spellseeker
+Spellskite
+Static Orb
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Tormod's Crypt
+Transmute Artifact
+Trickbind
+Trinisphere
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Wandering Archaic
+War Room
+Whir of Invention
+Windfall
+Winter Orb
+Witching Well
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Borne Upon a Wind
+Brainstorm
+Codex Shredder
+Disallow
+Dispel
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Fellwar Stone
+Force of Will
+Gitaxian Probe
+Grafdigger's Cage
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jeweled Amulet
+Karn, the Great Creator
+Legacy's Allure
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mindbreak Trap
+Mirrormade
+Miscast
+Mishra's Bauble
+Mox Amber
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Pact of Negation
+Personal Tutor
+Plaza of Heroes
+Polymorph
+Ponder
+Pongify
+Proteus Staff
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spell Pierce
+Static Orb
+Steal Enchantment
+Swan Song
+Telepathy
+Temporal Mastery
+Tezzeret the Seeker
+Time Reversal
+Tormod's Crypt
+Unwinding Clock
+Urza's Saga
+Voltaic Key
+War Room
+Whir of Invention
+Windfall
+Winter Moon
+Winter Orb
+
+Abstruse Archaic
+Arcane Denial
+Archetype of Imagination
+Artisan of Kozilek
+Benthic Anomaly
+Blasted Landscape
+Blinding Drone
+Bonders' Enclave
+Brainstorm
+Breaker of Armies
+Calamity of the Titans
+Cliffhaven Kitesail
+Cloud Key
+Conduit of Ruin
+Consider
+Counterspell
+Crashing Drawbridge
+Darksteel Citadel
+Deepfathom Skulker
+Echoes of Eternity
+Eldrazi Conscription
+Eldrazi Mimic
+Eldrazi Ravager
+Eldrazi Temple
+Endbringer
+Endless One
+Gilded Lotus
+Glaring Fleshraker
+Hedron Archive
+Idol of False Gods
+Island
+It That Betrays
+It That Heralds the End
+Kozilek's Channeler
+Kozilek's Unsealing
+Kozilek, Butcher of Truth
+Lightning Greaves
+Lonely Sandbar
+Lotus Bloom
+Matter Reshaper
+Mind Stone
+Mystic Forge
+Nulldrifter
+Palladium Myr
+Pathrazer of Ulamog
+Planar Bridge
+Ponder
+Preordain
+Prophet of Distortion
+Quicksilver Amulet
+Radiant Fountain
+Reality Smasher
+Rogue's Passage
+Ruination Guide
+Ruins of Oran-Rief
+Sanctum of Ugin
+Serum Visions
+Shrine of the Forsaken Gods
+Skittering Cicada
+Sol Ring
+Solemn Simulacrum
+Spawnbed Protector
+Spawning Bed
+Strionic Resonator
+Swiftfoot Boots
+Thought-Knot Seer
+Thran Dynamo
+Titan's Presence
+Tomb of the Spirit Dragon
+Treasure Cruise
+Ulamog's Dreadsire
+Ulamog, the Defiler
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Walking Atlas
+Warping Wail
+Whispersilk Cloak
+Worn Powerstone
+Zhalfirin Void
+
+Academy Ruins
+Aether Spellbomb
+Amulet of Safekeeping
+An Offer You Can't Refuse
+Ancient Tomb
+Annul
+Anticognition
+Arcane Denial
+Arcane Signet
+Assert Authority
+Basalt Monolith
+Borne Upon a Wind
+Chrome Mox
+Clash of Wills
+Cloud Key
+Codex Shredder
+Copy Artifact
+Curse of the Swine
+Deadeye Navigator
+Dispersal Shield
+Disrupt
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Finale of Revelation
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gilded Drake
+Gitaxian Probe
+Grand Architect
+Grim Monolith
+Harbinger of the Seas
+Hullbreaker Horror
+Imposter Mech
+Intruder Alarm
+Island
+Isochron Scepter
+Leveler
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Merchant Scroll
+Metalworker
+Minamo, School at Water's Edge
+Mindbreak Trap
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystic Sanctuary
+Narset's Reversal
+Narset, Parter of Veils
+Otawara, Soaring City
+Phantasmal Image
+Phyrexian Metamorph
+Pili-Pala
+Polluted Delta
+Power Artifact
+Prismatic Vista
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spellskite
+Strix Serenade
+Swan Song
+Thassa's Oracle
+The One Ring
+The Reality Chip
+Training Grounds
+Transmute Artifact
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Valley Floodcaller
+Volatile Stormdrake
+Voltaic Key
+Whir of Invention
+Worldwalker Helm
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Borne Upon a Wind
+Cavern of Souls
+Chain of Vapor
+Chrome Mox
+Consecrated Sphinx
+Counterbalance
+Counterspell
+Cyclonic Rift
+Delay
+Dispel
+Dramatic Reversal
+Emergence Zone
+Ensnaring Bridge
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gilded Drake
+Grafdigger's Cage
+Grim Monolith
+Harbinger of the Seas
+Hullbreaker Horror
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mission Briefing
+Misty Rainforest
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Nexus of Fate
+Otawara, Soaring City
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Polluted Delta
+Pongify
+Power Artifact
+Prismatic Vista
+Rapid Hybridization
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Scalding Tarn
+Sensei's Divining Top
+Sink into Stupor
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Spell Snare
+Spellskite
+Static Orb
+Strix Serenade
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Timetwister
+Transmute Artifact
+Trickbind
+Trinisphere
+Unwinding Clock
+Urza's Saga
+Volatile Stormdrake
+Whir of Invention
+Winter Orb
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Arcane Signet
+Basalt Monolith
+Battered Golem
+Buried Ruin
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Codex Shredder
+Copy Artifact
+Counterspell
+Crystal Vein
+Cyclonic Rift
+Dramatic Reversal
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Imposter Mech
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Mind Stone
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pongify
+Power Artifact
+Prismatic Vista
+Prized Statue
+Resculpt
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellseeker
+Spellskite
+Strix Serenade
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Valley Floodcaller
+Voltaic Key
+War Room
+Whir of Invention
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Arcane Signet
+Archmage's Charm
+Back to Basics
+Blast Zone
+Blue Sun's Zenith
+Brainstorm
+Buried Ruin
+Capsize
+Castle Vantress
+Chain of Vapor
+Codex Shredder
+Conjurer's Bauble
+Counterbalance
+Counterspell
+Cyclonic Rift
+Delay
+Dig Through Time
+Dispel
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Fellwar Stone
+Flusterstorm
+Future Sight
+Gitaxian Probe
+Hullbreaker Horror
+Impulse
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Legacy's Allure
+Mana Leak
+Mental Misstep
+Merchant Scroll
+Misdirection
+Mishra's Bauble
+Muddle the Mixture
+Mystic Remora
+Mystical Dispute
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Negate
+Personal Tutor
+Polymorph
+Ponder
+Pongify
+Preordain
+Prismatic Lens
+Proteus Staff
+Rapid Hybridization
+Recurring Insight
+Reshape
+Rhystic Study
+Sapphire Medallion
+Snap
+Sol Ring
+Static Orb
+Steal Enchantment
+Swan Song
+Tangle Wire
+Tezzeret the Seeker
+Tidespout Tyrant
+Tormod's Crypt
+Torpor Orb
+Trail of Evidence
+Trinisphere
+Urza's Bauble
+Vedalken Shackles
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Aphetto Alchemist
+Basalt Monolith
+Cloud Key
+Combat Courier
+Compass Gnome
+Counterspell
+Cyclonic Rift
+Dispel
+Emry, Lurker of the Loch
+Energy Refractor
+Etherium Sculptor
+Everflowing Chalice
+Expedition Map
+Fall from Favor
+Flusterstorm
+Forensic Gadgeteer
+Forsaken Monument
+Foundry Inspector
+Hedron Crawler
+High Tide
+Hullbreaker Horror
+Intruder Alarm
+Island
+Karn, Scion of Urza
+Key to the City
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Lotus Blossom
+Lotus Petal
+Memnite
+Mind's Dilation
+Mirage Mockery
+Mishra's Bauble
+Mox Opal
+Mystic Sanctuary
+Mystical Tutor
+Negate
+Ornithopter
+Palladium Myr
+Propaganda
+Prophetic Prism
+Quench
+Rhystic Study
+Sai, Master Thopterist
+Sensei's Divining Top
+Sharding Sphinx
+Shrine of the Forsaken Gods
+Skittering Surveyor
+Sol Ring
+Soul-Guide Lantern
+Steel Overseer
+Stone of Erech
+Surge Engine
+Surgical Skullbomb
+Swiftfoot Boots
+Tamiyo's Logbook
+Tenacious Tomeseeker
+The One Ring
+Tidespout Tyrant
+Training Grounds
+Trinket Mage
+Unwinding Clock
+Urza's Bauble
+Urza's Command
+Urza's Saga
+Urza, Powerstone Prodigy
+Wayfarer's Bauble
+Whir of Invention
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arcum's Astrolabe
+Astral Cornucopia
+Basalt Monolith
+Borne Upon a Wind
+Brainstorm
+Candelabra of Tawnos
+Cavern of Souls
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Cloud Key
+Codex Shredder
+Crystal Vein
+Cyclonic Rift
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Expedition Map
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Force of Will
+Gemstone Caverns
+Grim Monolith
+Hullbreaker Horror
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Lithoform Engine
+Lotus Petal
+Magosi, the Waterveil
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mishra's Bauble
+Mishra's Workshop
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Orochi Hatchery
+Otawara, Soaring City
+Personal Tutor
+Polluted Delta
+Polymorph
+Ponder
+Power Artifact
+Prismatic Vista
+Prized Statue
+Proteus Staff
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Staff of Compleation
+Static Orb
+Stifle
+Swan Song
+Talon Gates of Madara
+Tezzeret the Seeker
+The One Ring
+The Tabernacle at Pendrell Vale
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Voltaic Key
+Welding Jar
+Whir of Invention
+Winter Orb
+
+Arcane Denial
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Buried Ruin
+Cloud Key
+Counterspell
+Deadeye Navigator
+Dispel
+Dramatic Reversal
+Emry, Lurker of the Loch
+Fabricate
+Flusterstorm
+Forsaken Monument
+Foundry Inspector
+Future Sight
+Genesis Chamber
+Gitaxian Probe
+Grand Architect
+Harbinger of the Seas
+Herbal Poultice
+Howling Mine
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jhoira's Familiar
+Lightning Greaves
+Liquimetal Torque
+Master Transmuter
+Memnarch
+Mind Stone
+Mirage Mirror
+Mirrodin Besieged
+Muddle the Mixture
+Mystic Forge
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Negate
+Opt
+Ornithopter
+Padeem, Consul of Innovation
+Paradoxical Outcome
+Phyrexian Metamorph
+Ponder
+Pongify
+Propaganda
+Rapid Hybridization
+Recurring Insight
+Reliquary Tower
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sensei's Divining Top
+Sol Ring
+Solemn Simulacrum
+Solve the Equation
+Spellbook
+Static Orb
+Swiftfoot Boots
+The One Ring
+Thought Vessel
+Thoughtcast
+Tormod's Crypt
+Torpor Orb
+Treasure Vault
+Trinket Mage
+Trophy Mage
+Unsummon
+Unwinding Clock
+Volatile Stormdrake
+Winter Orb
+Zuran Orb
+
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Basalt Monolith
+Cephalid Coliseum
+Chain of Vapor
+Chromatic Orrery
+Chrome Mox
+City of Traitors
+Cloud Key
+Codex Shredder
+Conqueror's Flail
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Dramatic Reversal
+Emergence Zone
+Emry, Lurker of the Loch
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Foundry Inspector
+Gemstone Caverns
+Grafdigger's Cage
+Grim Monolith
+High Fae Trickster
+Imposter Mech
+Into the Flood Maw
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Karn, the Great Creator
+Liberator, Urza's Battlethopter
+Lotus Petal
+Mana Vault
+Manifold Key
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Miscast
+Misdirection
+Mishra's Workshop
+Misty Rainforest
+Mockingbird
+Moonsilver Key
+Moonsnare Prototype
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pollywog Prodigy
+Power Artifact
+Prismatic Vista
+Resculpt
+Rhystic Study
+Rings of Brighthearth
+Scalding Tarn
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Spell Pierce
+Spellskite
+Steal Enchantment
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Timetwister
+Transmute Artifact
+Treasure Vault
+Trickbind
+Unwinding Clock
+Urza's Saga
+Vexing Bauble
+Walking Ballista
+Whir of Invention
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Borne Upon a Wind
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Codex Shredder
+Copy Artifact
+Counterbalance
+Cyclonic Rift
+Displacer Kitten
+Dramatic Reversal
+Emergence Zone
+Fabricate
+Faerie Mastermind
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gilded Drake
+Grafdigger's Cage
+Grim Monolith
+Harbinger of the Seas
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Island
+Isochron Scepter
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mishra's Workshop
+Misty Rainforest
+Moonsnare Prototype
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Pithing Needle
+Polluted Delta
+Pollywog Prodigy
+Power Artifact
+Prismatic Vista
+Resculpt
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Spellskite
+Static Orb
+Stifle
+Strix Serenade
+Talon Gates of Madara
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Trickbind
+Trinisphere
+Unwinding Clock
+Urza's Saga
+Valley Floodcaller
+Volatile Stormdrake
+Voltaic Key
+Whir of Invention
+Winter Orb
+
+Aether Spellbomb
+Ancient Tomb
+Back to Basics
+Blast Zone
+Boseiju, Who Shelters All
+Brainstorm
+Buried Ruin
+Cephalid Coliseum
+Chrome Mox
+Copy Artifact
+Counterbalance
+Counterspell
+Crystal Vein
+Cyclonic Rift
+Dig Through Time
+Dispel
+Dramatic Reversal
+Everflowing Chalice
+Expedition Map
+Fabricate
+Fierce Guardianship
+Flood of Recollection
+Flooded Strand
+Force of Negation
+Force of Will
+Gitaxian Probe
+Grim Monolith
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Personal Tutor
+Pithing Needle
+Polluted Delta
+Polymorph
+Ponder
+Pongify
+Power Artifact
+Prismatic Vista
+Propaganda
+Proteus Staff
+Reconstruction
+Resculpt
+Rhystic Study
+Sapphire Medallion
+Scalding Tarn
+Sensei's Divining Top
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Static Orb
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Tabernacle at Pendrell Vale
+Timetwister
+Tormod's Crypt
+Torpor Orb
+Transmute Artifact
+Trinisphere
+Urza's Bauble
+Urza's Saga
+Voltaic Key
+War Room
+Welding Jar
+Whir of Invention
+Winter Orb
+
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Basalt Monolith
+Cloud Key
+Commander's Sphere
+Counterspell
+Crawlspace
+Disallow
+Dramatic Reversal
+Dreamstone Hedron
+Enter the Infinite
+Etherium Sculptor
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Forensic Gadgeteer
+Foundry Inspector
+Gilded Lotus
+Glaring Spotlight
+Gonti's Aether Heart
+Grand Architect
+Heartstone
+Howling Mine
+Inventors' Fair
+Island
+Kappa Cannoneer
+Karn's Temporal Sundering
+Laboratory Maniac
+Leyline of Anticipation
+Liberator, Urza's Battlethopter
+Lighthouse Chronologist
+Lightning Greaves
+Mana Drain
+Mind Stone
+Mirage Mirror
+Mirrodin Besieged
+Mystic Forge
+Padeem, Consul of Innovation
+Pili-Pala
+Pithing Needle
+Planar Bridge
+Propaganda
+Reality Shift
+Reliquary Tower
+Rings of Brighthearth
+Sai, Master Thopterist
+Shimmer Myr
+Silent Gravestone
+Simulacrum Synthesizer
+Sol Ring
+Spellbook
+Swiftfoot Boots
+Tamiyo's Journal
+Tezzeret, Betrayer of Flesh
+Thassa's Oracle
+The Antiquities War
+The One Ring
+The Reality Chip
+Thought Vessel
+Thran Dynamo
+Torpor Orb
+Training Grounds
+Unwinding Clock
+Vedalken Archmage
+Vedalken Orrery
+Voltaic Key
+Whir of Invention
+Winter Orb
+
+Aether Gale
+Aether Spellbomb
+Ancient Tomb
+Arcane Lighthouse
+Arcane Signet
+Blast Zone
+Brainstorm
+Brazen Borrower
+Chrome Mox
+Codex Shredder
+Consecrated Sphinx
+Copy Artifact
+Counterspell
+Cyclonic Rift
+Delay
+Dramatic Reversal
+Everflowing Chalice
+Expedition Map
+Fabricate
+Faerie Mastermind
+Fatespinner
+Fellwar Stone
+Flooded Strand
+Force of Will
+Gemstone Caverns
+Gilded Drake
+Grim Monolith
+Howling Mine
+Hullbreaker Horror
+Into the Flood Maw
+Inventors' Fair
+Jin-Gitaxias, Progress Tyrant
+Karn, Scion of Urza
+Ledger Shredder
+Lotus Petal
+Machine Over Matter
+Mana Drain
+Mana Vault
+Mind Stone
+Mirrodin Besieged
+Mishra's Bauble
+Moonsilver Key
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Nezahal, Primal Tide
+Otawara, Soaring City
+Personal Tutor
+Phyrexian Metamorph
+Ponder
+Portal to Phyrexia
+Resculpt
+Rhystic Study
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Silent Hallcreeper
+Sink into Stupor
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Spellseeker
+Spellskite
+Strix Serenade
+Tezzeret the Seeker
+The Reality Chip
+Thought Monitor
+Tidespout Tyrant
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Urza's Bauble
+Urza's Saga
+War Room
+Windfall
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Codex Shredder
+Copy Artifact
+Counterbalance
+Counterspell
+Crystal Vein
+Cyclonic Rift
+Displacer Kitten
+Dramatic Reversal
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gilded Drake
+Grafdigger's Cage
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Imposter Mech
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Oboro, Palace in the Clouds
+Otawara, Soaring City
+Pact of Negation
+Phantasmal Image
+Phyrexian Metamorph
+Polluted Delta
+Power Artifact
+Prismatic Vista
+Resculpt
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Snow-Covered Island
+Sol Ring
+Spellseeker
+Spellskite
+Strix Serenade
+Stubborn Denial
+Swan Song
+Talon Gates of Madara
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Urza's Saga
+Valley Floodcaller
+Vexing Bauble
+Volatile Stormdrake
+Voltaic Key
+Whir of Invention
+
+An Offer You Can't Refuse
+Arcane Signet
+Archway of Innovation
+Arcum Dagsson
+Basalt Monolith
+Buried Ruin
+Cloud Key
+Consign to Memory
+Counterspell
+Cyberdrive Awakener
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Drafna, Founder of Lat-Nam
+Dramatic Reversal
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Forensic Gadgeteer
+Foundry Inspector
+Grand Architect
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jin-Gitaxias, Progress Tyrant
+Karn, Legacy Reforged
+Karn, the Great Creator
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Lotus Petal
+Mana Drain
+Master Transmuter
+Memnarch
+Merchant Scroll
+Mishra's Bauble
+Mycosynth Lattice
+Myr Retriever
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Negate
+Otawara, Soaring City
+Pact of Negation
+Padeem, Consul of Innovation
+Rapid Hybridization
+Reality Shift
+Reliquary Tower
+Reshape
+Rhystic Study
+Riddlesmith
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Scrap Trawler
+Seat of the Synod
+Sensei's Divining Top
+Shimmer Myr
+Simulacrum Synthesizer
+Sol Ring
+Soulless Jailer
+Swan Song
+The One Ring
+The Reality Chip
+Thought Vessel
+Thoughtcast
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Unwinding Clock
+Walking Ballista
+War Room
+Welding Jar
+Winter Orb
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Codex Shredder
+Copy Artifact
+Crystal Vein
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gold Pan
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Imposter Mech
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Oboro, Palace in the Clouds
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pollywog Prodigy
+Power Artifact
+Prized Statue
+Rapid Hybridization
+Resculpt
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellskite
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Valley Floodcaller
+Voltaic Key
+Whir of Invention
+Witching Well
+
+Aether Spellbomb
+Aetherflux Reservoir
+Arcane Signet
+Bone Saw
+Buried Ruin
+Chimeric Mass
+Counterspell
+Cyberdrive Awakener
+Darksteel Citadel
+Deadeye Navigator
+Disdainful Stroke
+Dramatic Reversal
+Efficient Construction
+Emry, Lurker of the Loch
+Endless Evil
+Etherium Sculptor
+Everflowing Chalice
+Fellwar Stone
+Fierce Guardianship
+Finale of Revelation
+Forensic Gadgeteer
+Foundry Inspector
+Giant's Amulet
+Howling Mine
+Hullbreaker Horror
+Island
+Kappa Cannoneer
+Liberator, Urza's Battlethopter
+Liquimetal Torque
+Lonely Sandbar
+Lux Cannon
+Manifold Key
+Master Transmuter
+Master of Etherium
+Meteor Golem
+Mind Stone
+Mirrodin Besieged
+Mishra's Bauble
+Myr Battlesphere
+Negate
+Noble's Purse
+Ornithopter
+Padeem, Consul of Innovation
+Prismatic Lens
+Ravenform
+Reality Shift
+Resculpt
+Riddlesmith
+River's Rebuke
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Sentinel Totem
+Shimmer Myr
+Silver Myr
+Sky Diamond
+Sol Ring
+Solemn Simulacrum
+Steel Overseer
+Swiftfoot Boots
+The One Ring
+The Reality Chip
+Thopter Spy Network
+Thoughtcast
+Tormod's Crypt
+Unctus, Grand Metatect
+Wash Away
+Welding Jar
+Whir of Invention
+
+Akroma's Memorial
+All Is Dust
+Archetype of Imagination
+Ashnod's Altar
+Blade of Selves
+Blur
+Buried Ruin
+Cackling Counterpart
+Claws of Gix
+Clever Impersonator
+Clone
+Commander's Plate
+Conjurer's Closet
+Cyberdrive Awakener
+Dark Sphere
+Darksteel Citadel
+Deadeye Navigator
+Displacer Kitten
+Essence Flux
+Genesis Chamber
+Ghostly Flicker
+Hangarback Walker
+Identity Thief
+Illusionist's Stratagem
+Imposter Mech
+Island
+Karn, Living Legacy
+Karn, Scion of Urza
+Lightning Greaves
+Lonely Sandbar
+Lotus Petal
+March of Progress
+Mass Manipulation
+Memnite
+Mishra's Bauble
+Mox Opal
+Myr Battlesphere
+Mystic Reflection
+Ornithopter
+Panharmonicon
+Pentavus
+Perplexing Test
+Phyrexian Metamorph
+Phyrexian Walker
+Planar Incision
+Ponder
+Reliquary Tower
+Rite of Replication
+Seat of the Synod
+See Double
+Shield Sphere
+Skullclamp
+Soul-Guide Lantern
+Spark Double
+Spellbook
+Stone of Erech
+Stunt Double
+Sublime Epiphany
+Swiftfoot Boots
+Synthetic Destiny
+Teferi's Time Twist
+Thassa, Deep-Dwelling
+Thopter Spy Network
+Thran Dynamo
+Tormod's Crypt
+Urza's Bauble
+Wonder
+
+Academy Ruins
+Bone Saw
+Cancel
+Cathar's Shield
+Cathodion
+Chief of the Foundry
+Cobbled Wings
+Commander's Sphere
+Crystalline Crawler
+Darksteel Ingot
+Darksteel Juggernaut
+Dramatic Reversal
+Elixir of Immortality
+Emry, Lurker of the Loch
+Endless Atlas
+Etherium Sculptor
+Feldon's Cane
+Foundry Inspector
+Gadwick, the Wizened
+Glacian, Powerstone Engineer
+Helm of the Host
+Ingenuity Engine
+Inventor's Goggles
+Island
+Lightning Greaves
+Magnifying Glass
+Mana Severance
+Mass Manipulation
+Mechanized Production
+Merchant Scroll
+Mind Stone
+Myr Battlesphere
+Myr Retriever
+Nezahal, Primal Tide
+Overflowing Insight
+Paradise Plume
+Pentavus
+Pilgrim's Eye
+Platinum Angel
+Pongify
+Powerstone Shard
+Prototype Portal
+Sai, Master Thopterist
+Scrapyard Recombiner
+Scuttling Doom Engine
+Search for Azcanta
+Seat of the Synod
+Seer's Lantern
+Shimmer Dragon
+Sisay's Ring
+Skullclamp
+Snapcaster Mage
+Spellbook
+Static Orb
+Steel Hellkite
+Swiftfoot Boots
+Thopter Assembly
+Thopter Spy Network
+Thought Vessel
+Traveler's Amulet
+Traxos, Scourge of Kroog
+Treasure Mage
+Tribute Mage
+Trinket Mage
+Triskelavus
+Trophy Mage
+Ur-Golem's Eye
+Vedalken Orrery
+Verity Circle
+Whirler Rogue
+Witching Well
+Workshop Assistant
+Worn Powerstone
+
+Academy Ruins
+Aether Spellbomb
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Brainstorm
+Cephalid Coliseum
+Chrome Mox
+Commander's Plate
+Copy Artifact
+Counterbalance
+Counterspell
+Crystal Vein
+Emry, Lurker of the Loch
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Grim Monolith
+Grindstone
+Hullbreaker Horror
+Imposter Mech
+Into the Flood Maw
+Inventors' Fair
+Jeweled Amulet
+Lightning Greaves
+Lotus Petal
+Machine Over Matter
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Minamo, School at Water's Edge
+Mind Stone
+Miscast
+Misdirection
+Mishra's Bauble
+Misty Rainforest
+Mockingbird
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Nexus of Fate
+Oboro, Palace in the Clouds
+Otawara, Soaring City
+Painter's Servant
+Phantasmal Image
+Phyrexian Metamorph
+Polluted Delta
+Pongify
+Power Artifact
+Prismatic Vista
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellskite
+Static Orb
+Strix Serenade
+Swan Song
+Temporal Mastery
+Tezzeret the Seeker
+The One Ring
+Tormod's Crypt
+Transmute Artifact
+Tribute Mage
+Trickbind
+Trinisphere
+Urza's Saga
+Vedalken Shackles
+Whir of Invention
+Winter Orb
+Witching Well
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Borne Upon a Wind
+Chrome Mox
+City of Traitors
+Codex Shredder
+Copy Artifact
+Crystal Vein
+Dispel
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Gitaxian Probe
+Grim Monolith
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Machine Over Matter
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Personal Tutor
+Polluted Delta
+Polymorph
+Pongify
+Power Artifact
+Prismatic Vista
+Proteus Staff
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spell Pierce
+Static Orb
+Swan Song
+Tezzeret the Seeker
+The One Ring
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Trinisphere
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Voltaic Key
+Whir of Invention
+Windfall
+Winter Moon
+Winter Orb
+
+Academy Ruins
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Ancient Tomb
+Archmage's Charm
+Basalt Monolith
+Blightsteel Colossus
+Burnished Hart
+Cephalid Coliseum
+Chrome Mox
+Counterspell
+Crystal Vein
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Dramatic Reversal
+Efficient Construction
+Elixir of Immortality
+Emry, Lurker of the Loch
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flusterstorm
+Force of Negation
+Force of Will
+Foundry Inspector
+Grim Monolith
+Howling Mine
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jeweled Amulet
+Journeyer's Kite
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Master Transmuter
+Maze of Ith
+Mechanized Production
+Mirage Mirror
+Mirrodin Besieged
+Mishra's Bauble
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mycosynth Lattice
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Oblivion Stone
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Pithing Needle
+Platinum Emperion
+Propaganda
+Reliquary Tower
+Reshape
+Retrofitter Foundry
+Rings of Brighthearth
+Sai, Master Thopterist
+Saprazzan Skerry
+Scroll Rack
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Sol Ring
+Spark Double
+Spellskite
+Static Orb
+Stroke of Genius
+Tezzeret the Seeker
+Trading Post
+Ugin, the Ineffable
+Ugin, the Spirit Dragon
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Walking Ballista
+Whir of Invention
+Windfall
+Winter Orb
+
+Academy Ruins
+Aetherflux Reservoir
+Arcane Denial
+Arcane Signet
+Basalt Monolith
+Brainsurge
+Chief of the Foundry
+Consecrated Sphinx
+Counterspell
+Cryptic Command
+Crystal Skull, Isu Spyglass
+Darksteel Citadel
+Dramatic Reversal
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Explorer's Scope
+Fabricate
+Faerie Mastermind
+Fierce Guardianship
+Flare of Denial
+Forensic Gadgeteer
+Foundry Inspector
+Frantic Search
+Gilded Lotus
+Gitaxian Probe
+Island
+Karn Liberated
+Karn, Scion of Urza
+Karn, the Great Creator
+Lightning Greaves
+Lotus Blossom
+Mana Drain
+Minds Aglow
+Moonsilver Key
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Omniscience
+Pact of Negation
+Ponder
+Pongify
+Propaganda
+Rhystic Study
+Sapphire Medallion
+Scroll Rack
+Sea Gate Restoration
+Seat of the Synod
+Sentinel Totem
+Shimmer Myr
+Simulacrum Synthesizer
+Sol Ring
+Solemn Simulacrum
+Staff of the Mind Magus
+Steel Overseer
+Swan Song
+The Key to the Vault
+The One Ring
+The Reality Chip
+Thopter Spy Network
+Thought Vessel
+Thran Dynamo
+Trading Post
+Treasure Vault
+Tribute Mage
+Ugin, the Ineffable
+Ugin, the Spirit Dragon
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Walking Ballista
+Welding Jar
+
+Akal Pakal, First Among Equals
+Ambassador Laquatus
+An Offer You Can't Refuse
+Arcane Signet
+Basalt Monolith
+Beyeen Veil
+Blast Zone
+Cephalid Coliseum
+Commandeer
+Counterspell
+Cryptic Command
+Curse of the Swine
+Dive Down
+Drafna's Restoration
+Drift of Phantasms
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Fountain of Youth
+Grand Architect
+Howling Mine
+Hullbreaker Horror
+Imprisoned in the Moon
+Inventors' Fair
+Island
+Jwari Disruption
+Kappa Cannoneer
+Lightning Greaves
+Lotus Petal
+Mana Drain
+Memnite
+Metallic Rebuke
+Mind Stone
+Mishra's Bauble
+Moonsnare Prototype
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Pact of Negation
+Padeem, Consul of Innovation
+Paradoxical Outcome
+Phyrexian Walker
+Pili-Pala
+Pithing Needle
+Pongify
+Rapid Hybridization
+Reality Shift
+Reshape
+Retrofitter Foundry
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sea Gate Restoration
+Seat of the Synod
+Shield Sphere
+Sol Ring
+Spell Pierce
+Springleaf Drum
+Staff of Domination
+Swan Song
+Tezzeret the Seeker
+The Enigma Jewel
+The Reality Chip
+Thought Monitor
+Thought Vessel
+Tidespout Tyrant
+Time Stretch
+Treasure Vault
+Tribute Mage
+Ugin, the Ineffable
+Urza's Bauble
+Urza's Saga
+Welding Jar
+Winter Orb
+
+Aether Spellbomb
+Aetherflux Reservoir
+Arcane Signet
+Barbed Sextant
+Battered Golem
+Buried Ruin
+Chain of Vapor
+Codex Shredder
+Commander's Sphere
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Darksteel Citadel
+Delay
+Disallow
+Dramatic Reversal
+Efficient Construction
+Etherium Sculptor
+Fellwar Stone
+Fierce Guardianship
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Foundry Inspector
+Glaring Spotlight
+Golem Foundry
+Golem's Heart
+Herbal Poultice
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jhoira's Familiar
+Karn, the Great Creator
+Laboratory Maniac
+Lotus Petal
+Mana Drain
+Mind Stone
+Mirrodin Besieged
+Mishra's Bauble
+Mycosynth Lattice
+Mystic Forge
+Mystical Tutor
+Pact of Negation
+Padeem, Consul of Innovation
+Paradoxical Outcome
+Pillar of Origins
+Prismatic Lens
+Rhystic Study
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Silver Myr
+Sol Ring
+Spell Swindle
+Spellbook
+Spellskite
+Staff of the Mind Magus
+Static Orb
+Storage Matrix
+Temporal Fissure
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Tormod's Crypt
+Torpor Orb
+Unwinding Clock
+Urza's Bauble
+Voyager Staff
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+
+Academy Ruins
+Access Denied
+All Is Dust
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Back to Basics
+Blightsteel Colossus
+Buried Ruin
+Cityscape Leveler
+Commander's Plate
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Deadeye Navigator
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fellwar Stone
+Harbinger of the Seas
+Howling Mine
+Imposter Mech
+Inventors' Fair
+Island
+Karn, Scion of Urza
+Kuldotha Forgemaster
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Liquimetal Torque
+Lonely Sandbar
+Loxodon Warhammer
+Memnarch
+Midnight Clock
+Mind Stone
+Mishra's Factory
+Myriad Landscape
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Pongify
+Portal to Phyrexia
+Prismatic Lens
+Rapid Hybridization
+Reality Shift
+Rogue's Passage
+Sai, Master Thopterist
+Seat of the Synod
+Sensei's Divining Top
+Shadowspear
+Shimmer Myr
+Skullclamp
+Sol Ring
+Spell Swindle
+Steel Hellkite
+Swiftfoot Boots
+Sword of Fire and Ice
+Sword of Forge and Frontier
+Sword of Hearth and Home
+Sword of the Animist
+Tectonic Edge
+Tezzeret the Seeker
+Thassa, Deep-Dwelling
+The Millennium Calendar
+Thought Vessel
+Threefold Thunderhulk
+Tolaria West
+Training Grounds
+Transmogrifying Wand
+Treasure Mage
+Trinket Mage
+Ugin, the Spirit Dragon
+Unwinding Clock
+Urza's Saga
+Whir of Invention
+Wurmcoil Engine
+
+Academy Manufactor
+Academy Ruins
+Altar of Dementia
+An Offer You Can't Refuse
+Arcane Signet
+Archmage's Charm
+Artificer Class
+Brainstorm
+Buried Ruin
+Chief of the Foundry
+Crystal Skull, Isu Spyglass
+Cybermen Squadron
+Darksteel Forge
+Desynchronization
+Drafna, Founder of Lat-Nam
+Emry, Lurker of the Loch
+Enter the Infinite
+Etherium Sculptor
+Fabricate
+Filigree Attendant
+Five Hundred Year Diary
+Forensic Gadgeteer
+Foundry Inspector
+Grinding Station
+Heraldic Banner
+High Tide
+Inventors' Fair
+Jin-Gitaxias, Progress Tyrant
+Kappa Cannoneer
+Karn, Legacy Reforged
+Master Transmuter
+Master of Etherium
+Mechanized Production
+Metalwork Colossus
+Mirran Spy
+Mirrodin Besieged
+Mishra's Workshop
+Mist-Syndicate Naga
+Mox Amber
+Mox Opal
+Mox Tantalite
+Muzzio, Visionary Architect
+Nick Valentine, Private Eye
+Omniscience
+One with the Machine
+Padeem, Consul of Innovation
+Pondering Mage
+Pongify
+Research Thief
+Sapphire Medallion
+Scrap Trawler
+Seat of the Synod
+Senator Peacock
+Sharding Sphinx
+Silver Myr
+Simulacrum Synthesizer
+Snow-Covered Island
+Sol Ring
+Steel Overseer
+Stream of Thought
+Tamiyo's Journal
+Tezzeret the Seeker
+Tezzeret, Betrayer of Flesh
+Thought Vessel
+Thran Dynamo
+Threefold Thunderhulk
+Tormod's Crypt
+Transmutation Font
+Tribute Mage
+Unwinding Clock
+Vedalken Archmage
+Whir of Invention
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Back to Basics
+Basalt Monolith
+Brainstorm
+Cephalid Coliseum
+Chrome Mox
+Codex Shredder
+Copy Artifact
+Counterbalance
+Counterspell
+Cyclonic Rift
+Dramatic Reversal
+Echo of Eons
+Emergence Zone
+Everflowing Chalice
+Fabled Passage
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Gitaxian Probe
+Grim Monolith
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Machine Over Matter
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Personal Tutor
+Polluted Delta
+Polymorph
+Ponder
+Pongify
+Power Artifact
+Prismatic Vista
+Proteus Staff
+Resculpt
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sensei's Divining Top
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Static Orb
+Stern Scolding
+Strix Serenade
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Tabernacle at Pendrell Vale
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Trinisphere
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Voltaic Key
+Whir of Invention
+Windfall
+Winter Orb
+
+Academy Ruins
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Arcane Signet
+Basalt Monolith
+Brainstorm
+Buried Ruin
+Chrome Mox
+Counterspell
+Cryptic Command
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Displacer Kitten
+Dramatic Reversal
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Foundry Inspector
+Ghost Quarter
+Gitaxian Probe
+Grafdigger's Cage
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jin-Gitaxias, Progress Tyrant
+Karn, the Great Creator
+Leveler
+Lotus Petal
+Mana Drain
+Mana Vault
+Mental Misstep
+Mind Stone
+Mindbreak Trap
+Mishra's Bauble
+Misty Rainforest
+Mox Opal
+Mycosynth Lattice
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Reliquary Tower
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Saprazzan Skerry
+Seat of the Synod
+Sensei's Divining Top
+Sol Ring
+Spellskite
+Stasis
+Static Orb
+Strix Serenade
+Swan Song
+Tangle Wire
+Tezzeret, Artifice Master
+Thassa's Oracle
+Thought Monitor
+Tormod's Crypt
+Torpor Orb
+Unwinding Clock
+Urza's Saga
+Vedalken Orrery
+Voltaic Key
+Walking Ballista
+Wash Away
+Welding Jar
+Winter Orb
+
+Academy Ruins
+Acquire
+Ancient Tomb
+Azure Beastbinder
+Back to Basics
+Basalt Monolith
+Brainstorm
+Capsize
+Chain of Vapor
+Codex Shredder
+Copy Artifact
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Day's Undoing
+Delay
+Discover the Impossible
+Dispel
+Dramatic Reversal
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flusterstorm
+Folio of Fancies
+Force of Negation
+Force of Will
+Frantic Search
+Gitaxian Probe
+Grafdigger's Cage
+Grim Monolith
+Inventors' Fair
+Island
+Isochron Scepter
+Lotus Petal
+Mana Drain
+Mana Vault
+Merchant Scroll
+Metallurgic Summonings
+Mox Opal
+Mox Tantalite
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Negate
+Pact of Negation
+Pendrell Mists
+Ponder
+Power Depot
+Reliquary Tower
+Replicating Ring
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Shrine of the Forsaken Gods
+Sol Ring
+Spell Pierce
+Spellseeker
+Spellskite
+Static Orb
+Swan Song
+Tezzeret the Seeker
+Thassa's Oracle
+The Everflowing Well
+Time Spiral
+Trail of Evidence
+Treasure Vault
+Tribute Mage
+Trinisphere
+Unwinding Clock
+Vexing Puzzlebox
+Voltaic Key
+Voodoo Doll
+Walking Ballista
+Windfall
+Winter Orb
+
+Aether Spellbomb
+Aetherflux Reservoir
+Amphibian Downpour
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Borne Upon a Wind
+Bribery
+Chimil, the Inner Sun
+Chrome Mox
+Consecrated Sphinx
+Copy Artifact
+Cyclonic Rift
+Delay
+Dispel
+Dramatic Reversal
+Everflowing Chalice
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Foundry Inspector
+Gemstone Caverns
+Glasses of Urza
+Grafdigger's Cage
+High Fae Trickster
+Homeward Path
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Island
+Isochron Scepter
+Karn, the Great Creator
+Leyline of Anticipation
+Lotus Petal
+Machine God's Effigy
+Mana Drain
+Mana Vault
+Mental Misstep
+Mindbreak Trap
+Mishra's Bauble
+Misty Rainforest
+Mockingbird
+Mox Amber
+Mox Opal
+Mycosynth Lattice
+Mystic Remora
+Mystical Tutor
+Ornithopter
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Pithing Needle
+Prismatic Vista
+Rhystic Study
+Sapphire Medallion
+Semblance Anvil
+Sensei's Divining Top
+Sol Ring
+Spellbook
+Spellskite
+Springleaf Drum
+Static Orb
+Stifle
+Strix Serenade
+Swan Song
+Talon Gates of Madara
+Tezzeret the Seeker
+Thassa's Oracle
+The Mycosynth Gardens
+The One Ring
+The Reality Chip
+Tormod's Crypt
+Unwinding Clock
+Urza's Saga
+Valley Floodcaller
+Volatile Stormdrake
+Wandering Archaic
+Whir of Invention
+Winter Moon
+
+Academy Ruins
+Arcane Denial
+Blightsteel Colossus
+Buried Ruin
+Collector's Vault
+Command Beacon
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Colossus
+Deadeye Navigator
+Dramatic Reversal
+Etherium Sculptor
+Everflowing Chalice
+Extraplanar Lens
+Fabricate
+Force of Negation
+Forensic Gadgeteer
+Foundry Inspector
+Frantic Search
+Gilded Lotus
+Hall of Tagsin
+Howling Mine
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jin-Gitaxias, Progress Tyrant
+Kappa Cannoneer
+Karn, Legacy Reforged
+Karn, Scion of Urza
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Mana Drain
+Master Transmuter
+Mechanized Production
+Memnarch
+Metalwork Colossus
+Misleading Signpost
+Mithril Coat
+Myr Retriever
+Mystic Forge
+Mystic Sanctuary
+Nettlecyst
+Ornithopter
+Otawara, Soaring City
+Padeem, Consul of Innovation
+Pithing Needle
+Preordain
+Reality Shift
+Reliquary Tower
+Rhystic Study
+Sai, Master Thopterist
+Scalding Tarn
+Scrap Trawler
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Simulacrum Synthesizer
+Sol Ring
+Spell Swindle
+Spellbook
+Spellskite
+Storage Matrix
+Swan Song
+The One Ring
+The Reality Chip
+Thopter Spy Network
+Torrential Gearhulk
+Training Grounds
+Treasure Vault
+Tribute Mage
+Trinisphere
+Trinket Mage
+Trophy Mage
+Unwinding Clock
+Urza's Command
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Urza's Workshop
+War Room
+Winter Orb
+Wurmcoil Engine
+
+Arcane Signet
+Blackblade Reforged
+Cloud Key
+Clown Car
+Commander's Plate
+Cosima, God of the Voyage
+Cultivator's Caravan
+Cyberdrive Awakener
+Darksteel Citadel
+Deluxe Dragster
+Etherium Sculptor
+Foundry Inspector
+Gilded Lotus
+Golden Argosy
+Haunted Cloak
+Howling Mine
+Hydroelectric Specimen
+Imposter Mech
+Inventors' Fair
+Island
+Jhoira's Familiar
+Knight Paladin
+Liberator, Urza's Battlethopter
+Liquimetal Torque
+Master of Etherium
+Mechtitan Core
+Midnight Clock
+Mighty Servant of Leuk-o
+Mind Stone
+Mind's Eye
+Mirrormade
+Moonsilver Key
+Myriad Landscape
+Mystic Forge
+Otawara, Soaring City
+Phyrexian Metamorph
+Propaganda
+Reaver Titan
+Reckoner Bankbuster
+Rhystic Study
+Sai, Master Thopterist
+Sceptre of Eternal Glory
+Seat of the Synod
+Semblance Anvil
+Simulacrum Synthesizer
+Sink into Stupor
+Skysovereign, Consul Flagship
+Smuggler's Copter
+Sol Ring
+Solemn Simulacrum
+Surgehacker Mech
+Sword of Feast and Famine
+Sword of Fire and Ice
+Sword of Forge and Frontier
+Sword of Hearth and Home
+Sword of Sinew and Steel
+Sword of Truth and Justice
+Sword of War and Peace
+Sword of Wealth and Power
+Sword of the Animist
+The One Ring
+The Reality Chip
+Thought Monitor
+Thought Vessel
+Thran Dynamo
+Throne of Eldraine
+Thunderhawk Gunship
+Unwinding Clock
+Vexing Puzzlebox
+Wayfarer's Bauble
+Weatherlight
+Whirler Rogue
+
+Academy Ruins
+Acid Rain
+Aetherflux Reservoir
+Agent of Treachery
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Laboratory
+Arcane Signet
+Back to Basics
+Barl's Cage
+Blightsteel Colossus
+Bribery
+Capture of Jingzhou
+Cavern of Souls
+Cephalid Coliseum
+Chrome Mox
+Consecrated Sphinx
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Decree of Silence
+Embargo
+Emrakul, the Promised End
+Expropriate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Intruder Alarm
+Inventors' Fair
+Island
+It That Betrays
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Karn, the Great Creator
+Kozilek, Butcher of Truth
+Kozilek, the Great Distortion
+Lotus Petal
+Mana Breach
+Mana Drain
+Mana Maze
+Mana Vapors
+Mana Vault
+Mana Vortex
+Mana Web
+Mindslaver
+Misty Rainforest
+Mox Amber
+Mox Opal
+Mystic Remora
+Mystic Sanctuary
+Narset, Parter of Veils
+Nexus of Fate
+Null Rod
+Omniscience
+Otawara, Soaring City
+Overburden
+Pact of Negation
+Palinchron
+Polluted Delta
+Possessed Portal
+Prismatic Vista
+Reliquary Tower
+Rhystic Study
+Rising Waters
+Sapphire Medallion
+Scalding Tarn
+Seat of the Synod
+Snow-Covered Island
+Sol Ring
+Stasis
+Static Orb
+Storage Matrix
+Storm Cauldron
+Sunder
+Swan Song
+Temporal Manipulation
+Temporal Mastery
+The Mycosynth Gardens
+Time Stretch
+Time Warp
+Timesifter
+Torpor Orb
+Trinisphere
+Ugin, the Spirit Dragon
+Ulamog, the Ceaseless Hunger
+Ulamog, the Defiler
+Ulamog, the Infinite Gyre
+Urza's Saga
+Void Winnower
+Volatile Stormdrake
+Winter Orb
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arcum's Astrolabe
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Borne Upon a Wind
+Cephalid Coliseum
+Chromatic Orrery
+Chrome Mox
+Consecrated Sphinx
+Copy Artifact
+Cyber Conversion
+Cyclonic Rift
+Displacer Kitten
+Disruptor Flute
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Expedition Map
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gilded Drake
+Grafdigger's Cage
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Imposter Mech
+Inventors' Fair
+Jeweled Amulet
+Kozilek, the Great Distortion
+Llawan, Cephalid Empress
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Misty Rainforest
+Moonsnare Prototype
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Nexus of Fate
+Of One Mind
+Otawara, Soaring City
+Paradoxical Outcome
+Phyrexian Metamorph
+Polluted Delta
+Pollywog Prodigy
+Power Artifact
+Prismatic Vista
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Snow-Covered Island
+Sol Ring
+Sonic Screwdriver
+Staff of Compleation
+Swan Song
+Thada Adel, Acquisitor
+The Mightstone and Weakstone
+The One Ring
+Transmute Artifact
+Unwinding Clock
+Urza's Saga
+Valley Floodcaller
+Vexing Bauble
+Voltaic Key
+Whir of Invention
+Windfall
+Worldwalker Helm
+
+Academy Ruins
+Aether Spellbomb
+Amphibian Downpour
+Arcane Denial
+Arcane Signet
+Archway of Innovation
+Brainstorm
+Chrome Host Seedshark
+Codex Shredder
+Counterspell
+Cyclonic Rift
+Deadeye Navigator
+Displacer Kitten
+Dramatic Reversal
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Eye of Vecna
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Fomori Vault
+Forensic Gadgeteer
+Fortune Teller's Talent
+Foundry Inspector
+Frantic Search
+Howling Mine
+Hullbreaker Horror
+Island
+Jace, Wielder of Mysteries
+Jhoira's Familiar
+Karn's Temporal Sundering
+Lembas
+Lightning Greaves
+Lotus Petal
+Mind Stone
+Mirrodin Besieged
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Nezahal, Primal Tide
+Otawara, Soaring City
+Pithing Needle
+Polluted Delta
+Ponder
+Rapid Hybridization
+Reality Shift
+Reliquary Tower
+Resculpt
+Reshape
+Rhystic Study
+Rogue's Passage
+Sai, Master Thopterist
+Sapphire Medallion
+Scroll Rack
+Sensei's Divining Top
+Sol Ring
+Spellbook
+Spellskite
+Static Orb
+Steal Enchantment
+Sunder
+Swan Song
+Swiftfoot Boots
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Thought Vessel
+Thran Dynamo
+Urza's Cave
+Walking Ballista
+Wedding Invitation
+Whir of Invention
+Windfall
+Winter Moon
+Winter Orb
+Worldwalker Helm
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage's Charm
+Archway of Innovation
+Back to Basics
+Basalt Monolith
+Blast Zone
+Buried Ruin
+Cephalid Coliseum
+Codex Shredder
+Commandeer
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Darksteel Citadel
+Desynchronization
+Displacer Kitten
+Disruptor Flute
+Dramatic Reversal
+Emergence Zone
+Etherium Sculptor
+Everflowing Chalice
+Extraplanar Lens
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Flusterstorm
+Foil
+Forensic Gadgeteer
+High Tide
+Hullbreaker Horror
+Imposter Mech
+Island
+Isochron Scepter
+Lightning Greaves
+Liquimetal Torque
+Lunar Insight
+Mana Leak
+Manifold Key
+Merchant Scroll
+Mind Stone
+Mishra's Bauble
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Negate
+Peek
+Pongify
+Preordain
+Rapid Hybridization
+Reality Shift
+Resculpt
+Rings of Brighthearth
+Sapphire Medallion
+Sensei's Divining Top
+Sink into Stupor
+Snap
+Sol Ring
+Solve the Equation
+Spell Pierce
+Static Orb
+Strix Serenade
+Swan Song
+Teferi, Master of Time
+The One Ring
+The Reality Chip
+Thought Vessel
+Tidespout Tyrant
+Tormod's Crypt
+Unwinding Clock
+Vedalken Archmage
+Volatile Stormdrake
+War Room
+Welding Jar
+Whir of Invention
+Winter Moon
+Winter Orb
+Witching Well
+
+Academy Ruins
+Akroma's Memorial
+Ancient Tomb
+Arcbound Ravager
+Arcum Dagsson
+Basalt Monolith
+Blightsteel Colossus
+Buried Ruin
+Champion's Helm
+Commander's Plate
+Conduit of Ruin
+Copy Artifact
+Darksteel Citadel
+Darksteel Forge
+Darksteel Monolith
+Dramatic Reversal
+Eldrazi Conscription
+Eldrazi Temple
+Emergence Zone
+Emrakul, the Promised End
+Etherium Sculptor
+Eye of Ugin
+Flayer of Loyalties
+Foundry Inspector
+Grim Monolith
+Inkmoth Nexus
+Inventors' Fair
+Island
+It That Betrays
+Jin-Gitaxias, Progress Tyrant
+Karn Liberated
+Karn, Legacy Reforged
+Karn, Scion of Urza
+Kozilek, Butcher of Truth
+Lightning Greaves
+Lotus Petal
+Mana Vault
+Memnarch
+Metalworker
+Mishra's Workshop
+Mithril Coat
+Mox Opal
+Mycosynth Lattice
+Myr Retriever
+Ornithopter
+Otawara, Soaring City
+Palladium Myr
+Phyrexian Metamorph
+Platinum Emperion
+Portal to Phyrexia
+Power Artifact
+Rings of Brighthearth
+Rise of the Eldrazi
+Rishadan Port
+Scorched Ruins
+Seat of the Synod
+Silver Myr
+Simulacrum Synthesizer
+Sol Ring
+Steel Overseer
+Sting, the Glinting Dagger
+Swiftfoot Boots
+Tezzeret the Seeker
+Tezzeret, Artifice Master
+Tezzeret, Betrayer of Flesh
+The One Ring
+The Reality Chip
+Training Grounds
+Ugin's Binding
+Ugin's Labyrinth
+Ugin, the Ineffable
+Ulamog, the Ceaseless Hunger
+Ulamog, the Defiler
+Ulamog, the Infinite Gyre
+Unwinding Clock
+Urza's Saga
+Vedalken Archmage
+Void Winnower
+Wurmcoil Engine
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Bonders' Enclave
+Borne Upon a Wind
+Brainstorm
+Codex Shredder
+Command Beacon
+Command Tower
+Counterspell
+Demolition Field
+Devious Cover-Up
+Dissipate
+Don't Make a Sound
+Dramatic Reversal
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Forensic Gadgeteer
+Foundry Inspector
+Get Out
+Gitaxian Probe
+Gold Pan
+High Tide
+Howling Mine
+Hullbreaker Horror
+Ice Out
+Island
+Isochron Scepter
+Jin-Gitaxias, Core Augur
+Karn, Legacy Reforged
+Lightning Greaves
+Lotus Petal
+Loyal Inventor
+Machine Over Matter
+Mana Drain
+Manifold Key
+March of Swirling Mist
+Marvin, Murderous Mimic
+Merchant Scroll
+Mind Stone
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Negate
+Ornithopter
+Phyrexian Metamorph
+Polymorph
+Reliquary Tower
+Rhystic Study
+Rogue's Passage
+Sandstorm Verge
+Sapphire Medallion
+Sensei's Divining Top
+Sol Ring
+Spellskite
+Static Orb
+Stormtide Leviathan
+Swan Song
+Temple of the False God
+Tezzeret the Seeker
+The Reality Chip
+Tormod's Crypt
+Tribute Mage
+Trinket Mage
+Unwinding Clock
+Vedalken Archmage
+Whir of Invention
+Winter Orb
+
+All Is Dust
+Arcane Denial
+Arcane Signet
+Artificer's Assistant
+Basalt Monolith
+Blightsteel Colossus
+Blue Sun's Zenith
+Brainstorm
+Buried Ruin
+Capsize
+Chimil, the Inner Sun
+Chrome Host Seedshark
+Cloud Key
+Counterbalance
+Counterspell
+Curse of the Swine
+Cyclonic Rift
+Decanter of Endless Water
+Displacer Kitten
+Efficient Construction
+Elixir of Immortality
+Etherium Sculptor
+Everflowing Chalice
+Forensic Gadgeteer
+Forsaken Monument
+Foundry Inspector
+Gilded Lotus
+Gitaxian Probe
+Glaring Fleshraker
+High Tide
+Hullbreaker Horror
+Island
+Jin-Gitaxias, Progress Tyrant
+Laboratory Maniac
+Leyline of Anticipation
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Lonely Sandbar
+Mirrorworks
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Negate
+Ornithopter
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Ponder
+Pongify
+Propaganda
+Sai, Master Thopterist
+Sapphire Medallion
+Scrawling Crawler
+Seat of the Synod
+Sensei's Divining Top
+Sol Ring
+Spark Double
+Sun Quan, Lord of Wu
+Swiftfoot Boots
+Sword of Feast and Famine
+Sword of Light and Shadow
+Tezzeret the Seeker
+The Millennium Calendar
+The Mycosynth Gardens
+Thopter Spy Network
+Training Grounds
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Welding Jar
+Witness Protection
+
+Academy Ruins
+Arcane Denial
+Arcane Signet
+Archway of Innovation
+Basalt Monolith
+Brainstorm
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Darksteel Citadel
+Dramatic Reversal
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Force of Will
+Foundry Inspector
+Gitaxian Probe
+High Tide
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Lightning Greaves
+Lotus Petal
+Mana Drain
+Mana Vault
+Merchant Scroll
+Mind Stone
+Mishra's Bauble
+Muddle the Mixture
+Myr Battlesphere
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Ponder
+Pongify
+Propaganda
+Reliquary Tower
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Sky Diamond
+Smelting Vat
+Solemn Simulacrum
+Spellskite
+Static Orb
+Strix Serenade
+Swiftfoot Boots
+Tezzeret the Seeker
+Thassa's Oracle
+The One Ring
+The Reality Chip
+The Temporal Anchor
+Thopter Assembly
+Thought Vessel
+Tormod's Crypt
+Trinket Mage
+Unwinding Clock
+Urza's Saga
+Whir of Invention
+Windfall
+Winter Orb
+
+Academy Ruins
+Arcane Denial
+Archway of Innovation
+Arcum Dagsson
+Buried Ruin
+Chasm Skulker
+Chief Engineer
+Conjurer's Closet
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Darksteel Relic
+Deadeye Navigator
+Displacer Kitten
+Dramatic Reversal
+Efficient Construction
+Etherium Sculptor
+Extraplanar Lens
+Fabricate
+Foundry Inspector
+Fountain of Youth
+Grafdigger's Cage
+Grand Architect
+Howling Mine
+Isochron Scepter
+Jace's Archivist
+Jin-Gitaxias, Progress Tyrant
+Karn, Scion of Urza
+Lightning Greaves
+Master Transmuter
+Mechanized Production
+Memnarch
+Memnite
+Minamo, School at Water's Edge
+Mirrodin Besieged
+Myr Retriever
+Myriad Landscape
+Mystical Tutor
+Ornithopter
+Otawara, Soaring City
+Padeem, Consul of Innovation
+Peregrine Drake
+Phyrexian Revoker
+Rapid Hybridization
+Reliquary Tower
+Resculpt
+Rhystic Study
+Riddlesmith
+Sapphire Medallion
+Scrap Trawler
+Seat of the Synod
+Snow-Covered Island
+Sol Ring
+Sorcerous Spyglass
+Spellbook
+Static Orb
+Storage Matrix
+Swan Song
+Swiftfoot Boots
+Teferi's Puzzle Box
+Tezzeret, Artifice Master
+Thassa, Deep-Dwelling
+Thopter Spy Network
+Thought Vessel
+Training Grounds
+Transmutation Font
+Trinket Mage
+Trophy Mage
+Unwinding Clock
+Urza's Saga
+Vedalken Archmage
+Welding Jar
+Windfall
+Winter Orb
+Wurmcoil Engine
+
+Academy Ruins
+Ancient Silver Dragon
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Blightsteel Colossus
+Capture of Jingzhou
+Cavern of Souls
+Cephalid Coliseum
+Chrome Mox
+Commander's Plate
+Copy Artifact
+Counterspell
+Cyclonic Rift
+Dispel
+Dramatic Reversal
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Force of Negation
+Force of Will
+Giggling Skitterspike
+Gilded Lotus
+Gitaxian Probe
+Grafdigger's Cage
+Grand Architect
+Grim Monolith
+Inventors' Fair
+Island
+Isochron Scepter
+Kozilek, Butcher of Truth
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Merchant Scroll
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mycosynth Lattice
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Nexus of Fate
+Of One Mind
+Phyrexian Metamorph
+Polluted Delta
+Portal to Phyrexia
+Power Artifact
+Preordain
+Prismatic Vista
+Propaganda
+Reshape
+Rhystic Study
+Sapphire Medallion
+Scalding Tarn
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Sol Ring
+Spellseeker
+Spellskite
+Static Orb
+Strip Mine
+Teferi, Master of Time
+Temporal Manipulation
+Temporal Mastery
+Tezzeret the Seeker
+Thassa's Oracle
+Thoughtcast
+Thran Dynamo
+Tolaria West
+Training Grounds
+Transmute Artifact
+Tribute Mage
+Trophy Mage
+Ugin, the Spirit Dragon
+Ulamog, the Defiler
+Urza's Saga
+Walking Ballista
+Wasteland
+Whir of Invention
+Winter Orb
+
+Aminatou's Augury
+Amphibian Downpour
+As Foretold
+Blightsteel Colossus
+Bone Saw
+Brainstorm
+Buried Ruin
+Capture of Jingzhou
+Chief of the Foundry
+Chrome Mox
+Cogwork Assembler
+Coretapper
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Darksteel Forge
+Decanter of Endless Water
+Everflowing Chalice
+Extraplanar Lens
+Filigree Attendant
+Force of Negation
+Force of Will
+Frantic Search
+Golem Artisan
+Heartstone
+Hinder
+Ioreth of the Healing House
+Iron Bully
+Iron League Steed
+Island
+Jhoira's Familiar
+Kasmina's Transmutation
+Mage-Ring Responder
+Mana Drain
+Mana Vault
+Memnite
+Meteor Golem
+Mishra's Bauble
+Mishra's Factory
+Mishra's Self-Replicator
+Mithril Coat
+Mox Opal
+Muddle the Mixture
+Narcolepsy
+Omen
+Omniscience
+Oracle's Vault
+Personal Tutor
+Pithing Needle
+Planar Bridge
+Ponder
+Pongify
+Preordain
+Rivendell
+Sai, Master Thopterist
+Sapphire Medallion
+Sensei's Divining Top
+Sift
+Skyscanner
+Sol Ring
+Spellseeker
+Storm of Saruman
+The One Ring
+Torrential Gearhulk
+Voltaic Servant
+Walking Ballista
+Welding Jar
+Yggdrasil, Rebirth Engine
+
+Academy Ruins
+Access Denied
+Akroma's Memorial
+Arcane Denial
+Arcane Signet
+Blast Zone
+Blightsteel Colossus
+Blinkmoth Urn
+Buried Ruin
+Chimil, the Inner Sun
+Cityscape Leveler
+Cloud Key
+Counterspell
+Cryptic Command
+Cryptothrall
+Cyber Conversion
+Cyberdrive Awakener
+Cybermen Squadron
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Darksteel Plate
+Desynchronization
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Fomori Vault
+Forensic Gadgeteer
+Foundry Inspector
+Genesis Chamber
+Howling Mine
+Inventors' Fair
+Island
+Kappa Cannoneer
+Karn, Legacy Reforged
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Liquimetal Torque
+Mana Drain
+Mind Stone
+Mirage Mirror
+Mithril Coat
+Myr Battlesphere
+Neurok Hoversail
+Neurok Stealthsuit
+Ominous Cemetery
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Platinum Angel
+Platinum Emperion
+Plaza of Heroes
+Reliquary Tower
+Reshape
+Rogue's Passage
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Shadowspear
+Sharding Sphinx
+Shimmer Myr
+Sicarian Infiltrator
+Simulacrum Synthesizer
+Sink into Stupor
+Sol Ring
+Spell Swindle
+Spellskite
+Stone of Erech
+Stroke of Genius
+Swan Song
+Swiftfoot Boots
+The Mycosynth Gardens
+Tomb of the Spirit Dragon
+Tormod's Crypt
+Treasure Vault
+Underdark Rift
+Unwinding Clock
+Urza's Saga
+War Room
+Welding Jar
+Whir of Invention
+
+Academy Ruins
+Akroma's Memorial
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arcum Dagsson
+Basalt Monolith
+Blinkmoth Urn
+Borne Upon a Wind
+Cavern of Souls
+Chimil, the Inner Sun
+Chrome Mox
+Commander's Plate
+Copy Artifact
+Cryptothrall
+Cyberdrive Awakener
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Plate
+Displacer Kitten
+Emry, Lurker of the Loch
+Fabricate
+Fierce Guardianship
+Flatline
+Force of Negation
+Force of Will
+Gilded Drake
+Grim Monolith
+Inventors' Fair
+Island
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Kappa Cannoneer
+Lightning Greaves
+Lithoform Engine
+Lotus Petal
+Mana Drain
+Mana Vault
+Masterful Replication
+Metalworker
+Mirrormade
+Mithril Coat
+Mox Opal
+Mystic Forge
+Narset, Parter of Veils
+Neurok Stealthsuit
+Nykthos, Shrine to Nyx
+Panharmonicon
+Phyrexian Metamorph
+Power Artifact
+Reshape
+Rhystic Study
+Rings of Brighthearth
+River Song's Diary
+Sai, Master Thopterist
+Sculpting Steel
+Seat of the Synod
+Simulacrum Synthesizer
+Snapcaster Mage
+Sol Ring
+Sonic Screwdriver
+Swan Song
+Tezzeret the Seeker
+Tezzeret, Artifice Master
+The One Ring
+Trinket Mage
+Trophy Mage
+Umbral Mantle
+Unctus, Grand Metatect
+Unwinding Clock
+Urza's Cave
+Urza's Factory
+Urza's Fun House
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Urza's Workshop
+Vedalken Humiliator
+Vedalken Orrery
+Vedalken Shackles
+Vexing Puzzlebox
+Whir of Invention
+Whispersilk Cloak
+Windfall
+
+Academy Ruins
+Aether Spellbomb
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Basalt Monolith
+Buried Ruin
+Chain of Vapor
+Chrome Mox
+Copy Artifact
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Displacer Kitten
+Dramatic Reversal
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Grim Monolith
+Howling Mine
+Hullbreaker Horror
+Hydroelectric Specimen
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lightning Greaves
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Merchant Scroll
+Metalworker
+Mindbreak Trap
+Mishra's Bauble
+Misty Rainforest
+Moonsilver Key
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pollywog Prodigy
+Power Artifact
+Prismatic Vista
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Rivendell
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spellskite
+Static Orb
+Strix Serenade
+Swan Song
+Tezzeret the Seeker
+The Millennium Calendar
+The Mycosynth Gardens
+The One Ring
+The Reality Chip
+Transmute Artifact
+Trickbind
+Unwinding Clock
+Urza's Saga
+Vedalken Archmage
+Volatile Stormdrake
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+
+Abstergo Entertainment
+Academy Ruins
+Aether Spellbomb
+Archmage's Charm
+Archway of Innovation
+Artificer's Assistant
+Bane's Contingency
+Blast Zone
+Buried Ruin
+Cloud Key
+Cogwork Assembler
+Concentrate
+Counterspell
+Crystal Skull, Isu Spyglass
+Darksteel Citadel
+Darksteel Forge
+Darksteel Plate
+Desynchronization
+Dissolve
+Drafna, Founder of Lat-Nam
+Elixir of Immortality
+Emergence Zone
+Emry, Lurker of the Loch
+Encroaching Mycosynth
+Etherium Sculptor
+Fabricate
+Foundry Inspector
+Gilded Lotus
+Hangarback Walker
+Hedron Archive
+Island
+Jhoira's Familiar
+Karn's Sylex
+Liberator, Urza's Battlethopter
+Manifold Key
+Master Transmuter
+Master of Etherium
+Mechanized Production
+Memnarch
+Metalwork Colossus
+Meteor Golem
+Mind Stone
+Mindslaver
+Mystic Sanctuary
+Ornithopter of Paradise
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Pithing Needle
+Platinum Angel
+Platinum Emperion
+Ratchet Bomb
+Reliquary Tower
+Rewind
+Rivendell
+Sai, Master Thopterist
+Saw It Coming
+Scrap Trawler
+Sea Gate Wreckage
+Seat of the Synod
+Sensei's Divining Top
+Silver Myr
+Sisay's Ring
+Sol Ring
+Soul of New Phyrexia
+Staff of Domination
+Steel Hellkite
+Swiftfoot Boots
+The Mightstone and Weakstone
+The Mycosynth Gardens
+Thought Monitor
+Thoughtcast
+Thran Dynamo
+Treasure Mage
+Universal Surveillance
+Unwinding Clock
+Ur-Golem's Eye
+Urza's Armor
+Urza's Command
+Vedalken Archmage
+Walking Ballista
+War Room
+Welding Jar
+
+Academy Ruins
+Aether Spellbomb
+Ancient Tomb
+Arcane Proxy
+Archmage's Charm
+Archway of Innovation
+Basalt Monolith
+Brainstorm
+Chrome Mox
+Cloud Key
+Counterspell
+Court of Vantress
+Coveted Jewel
+Cryptic Command
+Cyclonic Rift
+Darksteel Citadel
+Displacer Kitten
+Drafna, Founder of Lat-Nam
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Expedition Map
+Fierce Guardianship
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Foundry Inspector
+Grim Monolith
+Hullbreaker Horror
+Hurkyl's Recall
+Hydroelectric Specimen
+Island
+Jace, the Mind Sculptor
+Jhoira's Familiar
+Karn, the Great Creator
+Krark-Clan Ironworks
+Lion's Eye Diamond
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mirran Spy
+Mishra's Bauble
+Mox Amber
+Mox Diamond
+Mox Opal
+Mycosynth Lattice
+Myr Retriever
+Mystic Forge
+Narset, Parter of Veils
+Otawara, Soaring City
+Paradoxical Outcome
+Ponder
+Power Artifact
+Preordain
+Remand
+Retrofitter Foundry
+Rings of Brighthearth
+Sai, Master Thopterist
+Scrap Trawler
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Serum Visions
+Sink into Stupor
+Skullclamp
+Snapcaster Mage
+Sol Ring
+Soul-Guide Lantern
+Strix Serenade
+Subtlety
+Swan Song
+Sword of the Meek
+The One Ring
+The Reality Chip
+Thought Monitor
+Time Spiral
+Tormod's Crypt
+Turnabout
+Urza's Saga
+Voltaic Key
+Walking Ballista
+Windfall
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Buried Ruin
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+Counterspell
+Crystal Vein
+Cyclonic Rift
+Darksteel Citadel
+Displacer Kitten
+Dramatic Reversal
+Elixir of Immortality
+Eluge, the Shoreless Sea
+Emergence Zone
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Grafdigger's Cage
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Imposter Mech
+Island
+Isochron Scepter
+Karn, the Great Creator
+Liberator, Urza's Battlethopter
+Liquimetal Torque
+Lotus Petal
+Mana Vault
+Merchant Scroll
+Minamo, School at Water's Edge
+Mindbreak Trap
+Minor Misstep
+Mishra's Bauble
+Mockingbird
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Paradise Mantle
+Phantasmal Image
+Phyrexian Walker
+Polluted Delta
+Pollywog Prodigy
+Pongify
+Power Artifact
+Rapid Hybridization
+Reliquary Tower
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Rishadan Footpad
+Sapphire Medallion
+Saprazzan Skerry
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spellskite
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Tormod's Crypt
+Training Grounds
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Valley Floodcaller
+Voltaic Key
+Wandering Archaic
+Whir of Invention
+Witching Well
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Blast Zone
+Borne Upon a Wind
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Codex Shredder
+Copy Artifact
+Counterbalance
+Cyclonic Rift
+Dramatic Reversal
+Drown in Dreams
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Gitaxian Probe
+Grim Monolith
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Polluted Delta
+Polymorph
+Pongify
+Power Artifact
+Prismatic Vista
+Prized Statue
+Proteus Staff
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Scroll Rack
+Seat of the Synod
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Spell Pierce
+Static Orb
+Swan Song
+Tangle Wire
+Tezzeret the Seeker
+The One Ring
+Tidespout Tyrant
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Trickbind
+Trinisphere
+Unwinding Clock
+Urza's Saga
+Whir of Invention
+Winter Orb
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Archive Trap
+Basalt Monolith
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+Codex Shredder
+Copy Artifact
+Crystal Vein
+Cyclonic Rift
+Dramatic Reversal
+Dress Down
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gitaxian Probe
+High Fae Trickster
+High Tide
+Hullbreaker Horror
+Hydroelectric Specimen
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Oboro, Palace in the Clouds
+Otawara, Soaring City
+Personal Tutor
+Phyrexian Metamorph
+Polluted Delta
+Pongify
+Prismatic Vista
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellskite
+Stifle
+Swan Song
+Tezzeret the Seeker
+The Reality Chip
+Thought Vessel
+Time Spiral
+Tormod's Crypt
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Voltaic Key
+Whir of Invention
+Windfall
+
+Academy Ruins
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Ancestral Statue
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Blightsteel Colossus
+Commandeer
+Conjurer's Bauble
+Counterspell
+Cyclonic Rift
+Displacer Kitten
+Drafna, Founder of Lat-Nam
+Dramatic Reversal
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flesh Duplicate
+Foresee
+Foundry Inspector
+Future Sight
+Grand Architect
+Howling Mine
+Hullbreaker Horror
+Island
+Isochron Scepter
+Krark-Clan Ironworks
+Ledger Shredder
+Lightning Greaves
+Master Transmuter
+Metalworker
+Mindbreak Trap
+Mishra's Bauble
+Narset, Parter of Veils
+Negate
+Ornithopter
+Otawara, Soaring City
+Override
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Pili-Pala
+Ponder
+Pongify
+Reliquary Tower
+Rhystic Study
+Riddlesmith
+Sai, Master Thopterist
+Sapphire Medallion
+Sensei's Divining Top
+Simulacrum Synthesizer
+Sol Ring
+Spellskite
+Swan Song
+Temple of the False God
+Thassa's Oracle
+Thought Vessel
+Thoughtcast
+Threefold Thunderhulk
+Tormod's Crypt
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Umbral Mantle
+Unctus, Grand Metatect
+Unwinding Clock
+Urza's Cave
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Walking Ballista
+Wayfarer's Bauble
+Welding Jar
+Winter Orb
+
+An Offer You Can't Refuse
+Ancient Tomb
+Archive Trap
+Astral Cornucopia
+Basalt Monolith
+Bone Saw
+Borne Upon a Wind
+Brainstorm
+Capture of Jingzhou
+Chrome Mox
+Codex Shredder
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Deadeye Navigator
+Dispel
+Disruptor Flute
+Dramatic Reversal
+Etherium Sculptor
+Everflowing Chalice
+Extraplanar Lens
+Flusterstorm
+Harbinger of the Seas
+Hullbreaker Horror
+Island
+Isochron Scepter
+Karn's Sylex
+Karn, the Great Creator
+Lightning Greaves
+Lotus Petal
+Mana Vault
+Memnite
+Mental Misstep
+Mindbreak Trap
+Mishra's Bauble
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Negate
+Ornithopter
+Otawara, Soaring City
+Pact of Negation
+Palinchron
+Phyrexian Metamorph
+Pithing Needle
+Rhystic Study
+Ring of Three Wishes
+Rings of Brighthearth
+Sapphire Medallion
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Spell Pierce
+Spell Snare
+Static Orb
+Strix Serenade
+Suspend
+Swan Song
+Tezzeret the Seeker
+Thassa's Oracle
+The One Ring
+Tidespout Tyrant
+Time Stretch
+Tishana's Tidebinder
+Tolaria West
+Tormod's Crypt
+Unwinding Clock
+Urza's Bauble
+Valley Floodcaller
+Vexing Bauble
+Volatile Fault
+Volatile Stormdrake
+Whir of Invention
+Windfall
+Winter Moon
+Winter Orb
+Zuran Orb
+
+Arcane Signet
+Basalt Monolith
+Brainstorm
+Bribery
+Chrome Host Seedshark
+Command Tower
+Counterspell
+Cryptic Command
+Crystal Skull, Isu Spyglass
+Cyberdrive Awakener
+Darksteel Colossus
+Desynchronization
+Dispel
+Fortune Teller's Talent
+Foundry Inspector
+Gitaxian Probe
+Ichor Wellspring
+Island
+Jace, Wielder of Mysteries
+Jhoira's Familiar
+Jin-Gitaxias, Progress Tyrant
+Karn, Living Legacy
+Karn, Scion of Urza
+Karn, the Great Creator
+Liberator, Urza's Battlethopter
+Lórien Revealed
+Mana Leak
+March of Progress
+Marvin, Murderous Mimic
+Narset, Parter of Veils
+Negate
+One with the Machine
+Opt
+Ornithopter
+Pollywog Prodigy
+Polymorph
+Portal to Phyrexia
+Propaganda
+Rhystic Study
+Sai, Master Thopterist
+Sapphire Medallion
+Sculpting Steel
+Season of Weaving
+Shimmer Myr
+Simulacrum Synthesizer
+Sky Diamond
+Snap
+Sol Ring
+Solemn Simulacrum
+Spellskite
+Stone of Erech
+Tezzeret the Seeker
+Tezzeret, Artifice Master
+Tezzeret, Betrayer of Flesh
+The Millennium Calendar
+Thought Vessel
+Thoughtcast
+Training Grounds
+Ugin, the Ineffable
+Ugin, the Spirit Dragon
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Vedalken Archmage
+Worldwalker Helm
+Wurmcoil Engine
+
+An Offer You Can't Refuse
+Ancient Tomb
+Back to Basics
+Basalt Monolith
+Blightsteel Colossus
+Brainstorm
+Command Tower
+Counterbalance
+Cyclonic Rift
+Darksteel Forge
+Displacer Kitten
+Dramatic Reversal
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Grafdigger's Cage
+Hullbreaker Horror
+Imposter Mech
+Island
+Isochron Scepter
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Mana Leak
+Mana Vault
+Manifold Key
+Maze of Ith
+Mental Misstep
+Merchant Scroll
+Mindbreak Trap
+Mishra's Bauble
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Ornithopter
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Planar Nexus
+Ponder
+Proteus Staff
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Sensei's Divining Top
+Sol Ring
+Spell Pierce
+Spellbook
+Spellseeker
+Spellskite
+Static Orb
+Stifle
+Swan Song
+Talon Gates of Madara
+Temporal Manipulation
+Tezzeret the Seeker
+Thassa's Oracle
+The One Ring
+The Reality Chip
+Tidespout Tyrant
+Tormod's Crypt
+Unwinding Clock
+Urza's Bauble
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Vexing Bauble
+Voltaic Key
+Walking Ballista
+War Room
+Wasteland
+Whir of Invention
+Winter Orb
+
+Arcane Denial
+Arcanis the Omnipotent
+Aura Flux
+Back to Basics
+Baral, Chief of Compliance
+Basalt Monolith
+Bident of Thassa
+Brainstorm
+Capsize
+Counterbalance
+Counterspell
+Cyclonic Rift
+Dramatic Reversal
+Ertai, Wizard Adept
+Etherium Sculptor
+Exclude
+Flusterstorm
+Force of Will
+Foundry Inspector
+Future Sight
+Helm of Awakening
+Howling Mine
+Island
+Isochron Scepter
+Karn, Legacy Reforged
+Karn, the Great Creator
+Laboratory Maniac
+Lightning Greaves
+Lithoform Engine
+Long-Term Plans
+Mana Drain
+Mind Over Matter
+Mind Stone
+Mishra's Bauble
+Mox Amber
+Mycosynth Lattice
+Myr Battlesphere
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Opt
+Padeem, Consul of Innovation
+Propaganda
+Remand
+Rewind
+Rhystic Study
+Sapphire Medallion
+Semblance Anvil
+Sensei's Divining Top
+Skullclamp
+Sol Ring
+Soldevi Excavations
+Solemn Simulacrum
+Soothsaying
+Stasis
+Static Orb
+Thought Vessel
+Tidespout Tyrant
+Time Spiral
+Tribute Mage
+Trinket Mage
+Ulamog, the Defiler
+Unwinding Clock
+Urza's Saga
+Whirler Rogue
+Winter Orb
+Wurmcoil Engine
+
+Ancient Tomb
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Borne Upon a Wind
+Chrome Host Seedshark
+Chrome Mox
+Cloud Key
+Codex Shredder
+Copy Artifact
+Delay
+Dramatic Reversal
+Emergence Zone
+Etherium Sculptor
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Final-Word Phantom
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Fortune Teller's Talent
+Foundry Inspector
+Future Sight
+Gemstone Caverns
+Glaring Fleshraker
+Gold Pan
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Island
+Isochron Scepter
+Jeweled Amulet
+Leyline of Anticipation
+Lotus Petal
+Magus of the Future
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mindbreak Trap
+Minor Misstep
+Misdirection
+Misty Rainforest
+Moonsilver Key
+Moonsnare Prototype
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Otawara, Soaring City
+Pact of Negation
+Polluted Delta
+Power Artifact
+Prismatic Lens
+Prismatic Vista
+Prized Statue
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Swan Song
+The One Ring
+The Reality Chip
+Transmute Artifact
+Trinket Mage
+Unwinding Clock
+Urza's Saga
+Valley Floodcaller
+Voltaic Key
+Voltaic Servant
+Whir of Invention
+Worldwalker Helm
+
+Academy Ruins
+Aetherflux Reservoir
+Ancient Tomb
+Arcum's Astrolabe
+Back to Basics
+Basalt Monolith
+Boseiju, Who Shelters All
+Brainstorm
+Cavern of Souls
+Chain of Vapor
+Chrome Mox
+Copy Artifact
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Delay
+Dig Through Time
+Dispel
+Dramatic Reversal
+Drift of Phantasms
+Echo of Eons
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fact or Fiction
+Fierce Guardianship
+Finale of Revelation
+Flusterstorm
+Force of Negation
+Force of Will
+Gitaxian Probe
+Grafdigger's Cage
+Impulse
+Inventors' Fair
+Isochron Scepter
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Mana Vault
+Memnarch
+Mental Misstep
+Merchant Scroll
+Mox Opal
+Mycosynth Lattice
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Opt
+Pact of Negation
+Paradoxical Outcome
+Ponder
+Power Artifact
+Recurring Insight
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Scroll Rack
+Sensei's Divining Top
+Snapcaster Mage
+Snow-Covered Island
+Sol Ring
+Spell Pierce
+Spellskite
+Staff of Domination
+Static Orb
+Stifle
+Strip Mine
+Swan Song
+Tezzeret the Seeker
+Thassa's Oracle
+Trail of Evidence
+Trinisphere
+Trinket Mage
+Unwinding Clock
+Urza's Bauble
+Vexing Bauble
+Whir of Invention
+Windfall
+Winter Orb
+
+Arcane Denial
+Arcanis the Omnipotent
+Aura Flux
+Back to Basics
+Baral, Chief of Compliance
+Basalt Monolith
+Bident of Thassa
+Black Vise
+Brainstorm
+Capsize
+Counterbalance
+Counterspell
+Cyclonic Rift
+Dramatic Reversal
+Ertai, Wizard Adept
+Etherium Sculptor
+Exclude
+Flusterstorm
+Force of Will
+Forsaken City
+Foundry Inspector
+Future Sight
+Helm of Awakening
+Howling Mine
+Island
+Isochron Scepter
+Karn, Legacy Reforged
+Karn, the Great Creator
+Laboratory Maniac
+Lightning Greaves
+Lithoform Engine
+Long-Term Plans
+Mana Drain
+Mind Over Matter
+Mind Stone
+Mishra's Bauble
+Mox Amber
+Mycosynth Lattice
+Myr Battlesphere
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Opt
+Padeem, Consul of Innovation
+Propaganda
+Remand
+Rewind
+Rhystic Study
+Sapphire Medallion
+Semblance Anvil
+Sensei's Divining Top
+Skullclamp
+Sol Ring
+Soldevi Excavations
+Solemn Simulacrum
+Soothsaying
+Stasis
+Static Orb
+Thought Vessel
+Tidespout Tyrant
+Time Spiral
+Tribute Mage
+Trinket Mage
+Ulamog, the Defiler
+Unwinding Clock
+Urza's Saga
+Whirler Rogue
+Winter Orb
+Wurmcoil Engine
+
+Alrund's Epiphany
+Ancient Tomb
+Arcane Denial
+Archmage Emeritus
+Archmage's Charm
+Baral, Chief of Compliance
+Blast Zone
+Blinkmoth Urn
+Blue Sun's Zenith
+Body of Knowledge
+Buried Ruin
+Castle Vantress
+Coastal Breach
+Command Beacon
+Counterspell
+Darksteel Citadel
+Disallow
+Dramatic Reversal
+Enter the Infinite
+Etherium Sculptor
+Everflowing Chalice
+Foundry Inspector
+Hullbreaker Horror
+Ichor Wellspring
+Inventors' Fair
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jhoira's Familiar
+Jin-Gitaxias, Progress Tyrant
+Kami of the Crescent Moon
+Karn, the Great Creator
+Kuldotha Forgemaster
+Laboratory Maniac
+Malevolent Hermit
+Mana Drain
+Memory Lapse
+Mental Misstep
+Mind Spring
+Minds Aglow
+Mirrormade
+Mycosynth Lattice
+Mycosynth Wellspring
+Mystic Confluence
+Negate
+Opt
+Otawara, Soaring City
+Pact of Negation
+Padeem, Consul of Innovation
+Preordain
+Psychosis Crawler
+Remand
+Reshape
+Sai, Master Thopterist
+Seat of the Synod
+Sensei's Divining Top
+Shimmer Myr
+Sol Ring
+Solemn Simulacrum
+Spell Swindle
+Spellskite
+Staff of Domination
+Strip Mine
+Swan Song
+Tezzeret, Betrayer of Flesh
+Thassa's Oracle
+Thopter Spy Network
+Thought Monitor
+Thought Vessel
+Time Warp
+Tormod's Crypt
+Treasure Vault
+Tribute Mage
+Trinisphere
+Trinket Mage
+Triskaidekaphile
+Ugin, the Ineffable
+Unwinding Clock
+Urza's Saga
+Vedalken Archmage
+Vedalken Engineer
+Vedalken Orrery
+Wasteland
+Whir of Invention
+Winter Orb
+
+Academy Ruins
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Arcane Signet
+Archmage's Charm
+Basalt Monolith
+Brainstorm
+Buried Ruin
+Castle Vantress
+Chimil, the Inner Sun
+Chromatic Orrery
+Chrome Mox
+Codex Shredder
+Counterbalance
+Counterspell
+Crystal Vein
+Darksteel Citadel
+Darksteel Forge
+Dispel
+Dramatic Reversal
+Dreamstone Hedron
+Elixir of Immortality
+Everflowing Chalice
+Fabricate
+Force of Will
+Forsaken Monument
+Gemstone Caverns
+Hedron Archive
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jeweled Amulet
+Karn, Living Legacy
+Leyline of Anticipation
+Lithoform Engine
+Lonely Sandbar
+Lotus Petal
+Mana Drain
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mirrodin Besieged
+Mishra's Bauble
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Nevinyrral's Disk
+Oboro, Palace in the Clouds
+Otawara, Soaring City
+Pact of Negation
+Personal Tutor
+Polymorph
+Proteus Staff
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Sol Ring
+Solve the Equation
+Static Orb
+Strionic Resonator
+Swan Song
+Swiftfoot Boots
+Tezzeret, Artifice Master
+Tezzeret, Betrayer of Flesh
+Thran Dynamo
+Tolaria West
+Tormod's Crypt
+Torpor Orb
+Trickbind
+Trinisphere
+Urza's Bauble
+Voltaic Key
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+
+Academy Ruins
+Arcane Signet
+Aviation Pioneer
+Blur
+Borne Upon a Wind
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Deadeye Navigator
+Displacer Kitten
+Dramatic Reversal
+Efficient Construction
+Emry, Lurker of the Loch
+Essence Flux
+Fierce Guardianship
+Fomori Vault
+Foundry Inspector
+Frantic Search
+Ghostly Flicker
+Hullbreaker Horror
+Island
+Isochron Scepter
+Lonely Sandbar
+Long River's Pull
+Loyal Inventor
+Mana Drain
+March of Progress
+Mechanized Production
+Memnite
+Mirrormade
+Mishra's Bauble
+Mystic Confluence
+Negate
+Nexus of Fate
+Nick Valentine, Private Eye
+Omniscience
+Ornithopter
+Pact of Negation
+Padeem, Consul of Innovation
+Paradoxical Outcome
+Phyrexian Walker
+Ponder
+Preordain
+Press the Enemy
+Propaganda
+Rings of Brighthearth
+Rivendell
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Simulacrum Synthesizer
+Sol Ring
+Solemn Simulacrum
+Solve the Equation
+Splash Portal
+Static Orb
+Sword of Hearth and Home
+Synth Infiltrator
+Tezzeret the Seeker
+Tezzeret, Artifice Master
+The Key to the Vault
+Time Stretch
+Training Grounds
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Walking Ballista
+War Room
+Winter Moon
+Winter Orb
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Arcane Signet
+Archway of Innovation
+Basalt Monolith
+Blue Sun's Zenith
+Buried Ruin
+Castle Vantress
+Counterbalance
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Darksteel Citadel
+Defabricate
+Dispel
+Disruptor Flute
+Drafna, Founder of Lat-Nam
+Dramatic Reversal
+Emry, Lurker of the Loch
+Etherium Sculptor
+Fabricate
+Ghost Vacuum
+Hullbreaker Horror
+Hydroelectric Specimen
+Imposter Mech
+Inkmoth Nexus
+Inventors' Fair
+Island
+Isochron Scepter
+Karn's Sylex
+Karn, the Great Creator
+Lightning Greaves
+Lotus Petal
+Mind Stone
+Mycosynth Lattice
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Negate
+Ornithopter
+Otawara, Soaring City
+Phyrexian Metamorph
+Pongify
+Rapid Hybridization
+Reality Shift
+Reliquary Tower
+Resculpt
+Retraction Helix
+Rings of Brighthearth
+Sapphire Medallion
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Simulacrum Synthesizer
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Sorcerous Spyglass
+Soul-Guide Lantern
+Static Orb
+Strix Serenade
+Swan Song
+Tezzeret the Seeker
+The One Ring
+Thought Vessel
+Torpor Orb
+Trinket Mage
+Unwinding Clock
+Urza's Cave
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Valley Floodcaller
+Vexing Bauble
+Walking Ballista
+Wandering Archaic
+Whir of Invention
+Winter Moon
+Winter Orb
+
+Aetherize
+Amphibian Downpour
+An Offer You Can't Refuse
+Arcane Signet
+Blightsteel Colossus
+Blue Sun's Zenith
+Campus Guide
+Cancel
+Command Beacon
+Command Tower
+Counterspell
+Cyberdrive Awakener
+Darksteel Relic
+Desynchronization
+Displacer Kitten
+Disruptor Flute
+Distorting Wake
+Emergence Zone
+Everflowing Chalice
+Exhaustion
+Faerie Mastermind
+Flesh Duplicate
+Foundry Inspector
+Frantic Search
+Ghostly Flicker
+Hullbreaker Horror
+Inspiring Refrain
+Island
+Jace, Unraveler of Secrets
+Jeweled Amulet
+Jin-Gitaxias, Progress Tyrant
+Kappa Cannoneer
+Lodestone Bauble
+Lunar Insight
+March of Swirling Mist
+Marvin, Murderous Mimic
+Master Transmuter
+Master of Etherium
+Masterful Replication
+Mechanized Production
+Mockingbird
+Myr Sire
+Mystic Remora
+Mystic Sanctuary
+Negate
+Ornithopter
+Padeem, Consul of Innovation
+Pathrazer of Ulamog
+Phyrexian Metamorph
+Pongify
+Reality Shift
+Refute
+Reliquary Tower
+Run Away Together
+Sai, Master Thopterist
+Shimmer Myr
+Shore Up
+Sink into Stupor
+Sol Ring
+Solemn Simulacrum
+Spellseeker
+Stonecoil Serpent
+Sword of the Animist
+Temple of the False God
+Think Twice
+Thopter Spy Network
+Tormod's Crypt
+Training Grounds
+Ulamog, the Ceaseless Hunger
+Unwinding Clock
+Urza's Saga
+Vizier of Tumbling Sands
+Whirler Rogue
+Witness Protection
+
+Academy Ruins
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Basalt Monolith
+Blue Sun's Zenith
+Bribery
+Command Tower
+Counterbalance
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Drafna, Founder of Lat-Nam
+Dramatic Reversal
+Efficient Construction
+Everflowing Chalice
+Extraplanar Lens
+Fabricate
+Flooded Strand
+Flusterstorm
+Foundry Inspector
+Grim Monolith
+Grindstone
+Hangarback Walker
+Island
+Isochron Scepter
+Jhoira's Familiar
+Junk Diver
+Karn, Legacy Reforged
+Machine Over Matter
+Mana Drain
+Mana Vault
+Master Transmuter
+Memnarch
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Misty Rainforest
+Myr Retriever
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Negate
+Ornithopter of Paradise
+Painter's Servant
+Polluted Delta
+Power Artifact
+Prismatic Vista
+Reshape
+Rhystic Study
+Sai, Master Thopterist
+Sapphire Medallion
+Scalding Tarn
+Scrap Trawler
+Sensei's Divining Top
+Skullclamp
+Snapcaster Mage
+Sol Ring
+Spell Pierce
+Spellseeker
+Stonecoil Serpent
+Tezzeret the Seeker
+Tezzeret, Artifice Master
+The One Ring
+The Reality Chip
+Thopter Spy Network
+Thought Vessel
+Timetwister
+Torrential Gearhulk
+Transmute Artifact
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Unwinding Clock
+Urza's Saga
+Walking Ballista
+Whir of Invention
+Wurmcoil Engine
+
+Aether Spellbomb
+Artificer's Assistant
+Artificer's Epiphany
+Basalt Monolith
+Blinkmoth Infusion
+Blinkmoth Urn
+Blue Sun's Twilight
+Brainstorm
+Buried Ruin
+Chief of the Foundry
+Counterspell
+Darksteel Citadel
+Darksteel Relic
+Deadeye Navigator
+Disruption Protocol
+Drafna, Founder of Lat-Nam
+Dramatic Reversal
+Efficient Construction
+Etherium Sculptor
+Fabricate
+Forensic Gadgeteer
+Foundry Inspector
+Fountainport Bell
+Grafdigger's Cage
+Heartstone
+Howling Mine
+Hullbreaker Horror
+Island
+Jhoira's Familiar
+Leyline of Anticipation
+Lightning Greaves
+Lithoform Engine
+Machine Over Matter
+Mana Leak
+Memnarch
+Mirrodin Besieged
+Myr Retriever
+Mystic Forge
+Negate
+Opt
+Ornithopter
+Padeem, Consul of Innovation
+Pili-Pala
+Reconstruction
+Reliquary Tower
+Rings of Brighthearth
+Sai, Master Thopterist
+Scrap Trawler
+Seat of the Synod
+Snap
+Sol Ring
+Spellbook
+Stone of Erech
+Swiftfoot Boots
+Tamiyo's Logbook
+The Reality Chip
+Thopter Spy Network
+Thought Monitor
+Thought Vessel
+Thoughtcast
+Tormod's Crypt
+Training Grounds
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Unwinding Clock
+Vedalken Orrery
+Welding Jar
+Whir of Invention
+Workshop Assistant
+
+Academy Ruins
+Ancient Tomb
+Arcane Proxy
+Archway of Innovation
+Basalt Monolith
+Brainstorm
+Candelabra of Tawnos
+Chrome Mox
+Cloud Key
+Command Tower
+Counterspell
+Court of Vantress
+Coveted Jewel
+Cryptic Command
+Cyclonic Rift
+Darksteel Citadel
+Displacer Kitten
+Drafna, Founder of Lat-Nam
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Expedition Map
+Fabricate
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Grim Monolith
+Hurkyl's Recall
+Inventors' Fair
+Island
+Jace, the Mind Sculptor
+Jhoira's Familiar
+Karn, Scion of Urza
+Karn, the Great Creator
+Krark-Clan Ironworks
+Lion's Eye Diamond
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mirran Spy
+Mishra's Bauble
+Mishra's Workshop
+Mox Amber
+Mox Diamond
+Mox Opal
+Mycosynth Lattice
+Myr Retriever
+Mystic Forge
+Narset, Parter of Veils
+Nexus of Fate
+Otawara, Soaring City
+Paradoxical Outcome
+Ponder
+Power Artifact
+Preordain
+Remand
+Reshape
+Retrofitter Foundry
+Rings of Brighthearth
+Sai, Master Thopterist
+Scrap Trawler
+Seat of the Synod
+Sensei's Divining Top
+Serum Visions
+Skullclamp
+Snapcaster Mage
+Sol Ring
+Soul-Guide Lantern
+Strix Serenade
+Subtlety
+Swan Song
+Sword of the Meek
+The One Ring
+The Reality Chip
+Time Spiral
+Timetwister
+Tormod's Crypt
+Trinket Mage
+Turnabout
+Urza's Saga
+Walking Ballista
+Winter Orb
+
+Academy Ruins
+Access Denied
+Acquire
+An Offer You Can't Refuse
+Arcane Signet
+Blightsteel Colossus
+Blinkmoth Urn
+Blue Sun's Zenith
+Brainstorm
+Buried Ruin
+Castle Vantress
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Dramatic Reversal
+Enter the Infinite
+Etherium Sculptor
+Fabricate
+Force of Negation
+Force of Will
+Foundry Inspector
+Halimar Depths
+Hangarback Walker
+Howling Mine
+Imprisoned in the Moon
+Inventors' Fair
+Island
+Isochron Scepter
+Jin-Gitaxias, Progress Tyrant
+Kaldra Compleat
+Karn, Legacy Reforged
+Liberator, Urza's Battlethopter
+Lonely Sandbar
+Mana Drain
+Master Transmuter
+Master of Etherium
+Maze of Ith
+Mechanized Production
+Memnarch
+Mirrodin Besieged
+Mycosynth Golem
+Mycosynth Lattice
+Mystic Sanctuary
+Negate
+Nevinyrral's Disk
+Omniscience
+One with the Machine
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Planar Bridge
+Platinum Angel
+Platinum Emperion
+Reliquary Tower
+Reshape
+Rhystic Study
+Seat of the Synod
+Simulacrum Synthesizer
+Sol Ring
+Spellbook
+Spellskite
+Steel Hellkite
+Steel Overseer
+The Magic Mirror
+The Millennium Calendar
+The Reality Chip
+Thopter Spy Network
+Thought Monitor
+Thought Vessel
+Thoughtcast
+Time Warp
+Tolaria West
+Transmutation Font
+Treasure Vault
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Walking Ballista
+Welding Jar
+Whir of Invention
+Worldwalker Helm
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Archmage's Charm
+Artificer Class
+Astral Dragon
+Chrome Host Seedshark
+Claws of Gix
+Cryptothrall
+Crystal Shard
+Darksteel Citadel
+Darksteel Relic
+Desynchronization
+Displacer Kitten
+Echo of Eons
+Emry, Lurker of the Loch
+Etherium Sculptor
+Eye of Vecna
+Forensic Gadgeteer
+Helm of the Host
+Hope of Ghirapur
+Howling Mine
+Ichor Wellspring
+Inventors' Fair
+Island
+Jhoira's Familiar
+K-9, Mark I
+Kappa Cannoneer
+Karn, Scion of Urza
+Lightning Greaves
+Lotus Petal
+March of Progress
+Memnite
+Midnight Clock
+Mind Stone
+Mirage Mirror
+Mishra's Bauble
+Mycosynth Wellspring
+Mystic Confluence
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Narset's Reversal
+Nettlecyst
+Ornithopter
+Panharmonicon
+Paradoxical Outcome
+Phyrexian Walker
+Pollywog Prodigy
+Rogue's Passage
+Shield Sphere
+Shimmer Dragon
+Sol Ring
+Spellbook
+Sublime Epiphany
+Swan Song
+Swiftfoot Boots
+Teferi's Time Twist
+Thought Monitor
+Tormod's Crypt
+Traxos, Scourge of Kroog
+Tribute Mage
+Trinket Mage
+Ugin, the Ineffable
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Vedalken Orrery
+Voyager Staff
+War Room
+Wayfarer's Bauble
+Welding Jar
+Windfall
+Worldwalker Helm
+
+Academy Manufactor
+All Is Dust
+Archmage's Charm
+Buried Ruin
+C.A.M.P.
+Command Beacon
+Counterspell
+Cryptic Command
+Cyberdrive Awakener
+Darksteel Citadel
+Darksteel Forge
+Darksteel Garrison
+Disallow
+Displacer Kitten
+Dramatic Reversal
+Echoes of Eternity
+Eldrazi Temple
+Emrakul, the Promised End
+Eye of Ugin
+Fabricate
+Fierce Guardianship
+Five Hundred Year Diary
+Flare of Denial
+Force of Negation
+Forensic Gadgeteer
+Hangarback Walker
+Island
+Isochron Scepter
+It That Betrays
+It That Heralds the End
+James, Wandering Dad
+Jin-Gitaxias, Progress Tyrant
+Kappa Cannoneer
+Karn, Scion of Urza
+Kozilek's Command
+Kozilek, the Broken Reality
+Kozilek, the Great Distortion
+Krark-Clan Ironworks
+Mana Drain
+Mana Vault
+Memnite
+Mental Misstep
+Mycosynth Lattice
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Nuka-Cola Vending Machine
+Null Elemental Blast
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Reset
+Rhystic Study
+Sapphire Medallion
+Scene of the Crime
+Sensei's Divining Top
+Sol Ring
+Strix Serenade
+Swan Song
+Tale's End
+Tangletrove Kelp
+Temple of the False God
+Tezzeret the Seeker
+Thopter Spy Network
+Thought Monitor
+Time Stop
+Tormod's Crypt
+Trail of Evidence
+Ugin's Binding
+Ulamog, the Ceaseless Hunger
+Unwinding Clock
+Void Winnower
+Wastes
+
+Ancient Stone Idol
+Arcane Signet
+Arcum Dagsson
+Basalt Monolith
+Blightsteel Colossus
+Blur
+Canoptek Scarab Swarm
+Canoptek Spyder
+Chief of the Foundry
+Commander's Sphere
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Darksteel Relic
+Dazzling Denial
+Desynchronization
+Dramatic Reversal
+Emry, Lurker of the Loch
+Etherium Sculptor
+Fabricate
+Forensic Gadgeteer
+Foundry Inspector
+Ghostly Flicker
+Golden Guardian
+Guildless Commons
+Inventors' Fair
+Island
+Jhoira's Familiar
+Karn, Legacy Reforged
+Mana Drain
+Master Transmuter
+Memnarch
+Mishra's Self-Replicator
+Muzzio, Visionary Architect
+Mycosynth Lattice
+Mystic Forge
+Nick Valentine, Private Eye
+Nuka-Cola Vending Machine
+Ornithopter
+Padeem, Consul of Innovation
+Pongify
+Rapid Hybridization
+Reliquary Tower
+Roadside Reliquary
+Sai, Master Thopterist
+Sculpting Steel
+Seat of the Synod
+Sharding Sphinx
+Shimmer Myr
+Simulacrum Synthesizer
+Sol Ring
+Solemn Simulacrum
+Swiftfoot Boots
+Syr Ginger, the Meal Ender
+Tamiyo's Journal
+Tempting Contract
+Tezzeret the Seeker
+Thassa, Deep-Dwelling
+Thopter Spy Network
+Thought Vessel
+Transmutation Font
+Triplicate Titan
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Walking Atlas
+Walking Ballista
+Wurmcoil Engine
+
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Archway of Innovation
+Ashnod's Altar
+Basalt Monolith
+Cavern of Souls
+Counterspell
+Darksteel Citadel
+Displacer Kitten
+Dramatic Reversal
+Emry, Lurker of the Loch
+Encroaching Mycosynth
+Fabled Passage
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Will
+Forensic Gadgeteer
+Forging the Anchor
+Foundry Inspector
+Grim Monolith
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Jhoira's Familiar
+Leyline of Anticipation
+Liberator, Urza's Battlethopter
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Marvin, Murderous Mimic
+Mental Misstep
+Metalworker
+Minamo, School at Water's Edge
+Mirrodin Besieged
+Mishra's Bauble
+Misty Rainforest
+Mox Amber
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Nim Deathmantle
+Ornithopter
+Otawara, Soaring City
+Phyrexian Metamorph
+Phyrexian Walker
+Polluted Delta
+Portent of Calamity
+Power Artifact
+Reality Heist
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Scroll Rack
+Seat of the Synod
+Semblance Anvil
+Sensei's Divining Top
+Sol Ring
+Spellbook
+Spellskite
+Staff of Domination
+Surgical Skullbomb
+Thassa's Oracle
+The One Ring
+The Reality Chip
+Transmute Artifact
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Unctus, Grand Metatect
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Voltaic Key
+Walking Ballista
+Welding Jar
+Whir of Invention
+Windfall
+
+Aetherflux Reservoir
+Ancient Tomb
+Arcane Signet
+Archmage's Charm
+Archway of Innovation
+Arcum Dagsson
+Basalt Monolith
+Blinkmoth Infusion
+Brainstorm
+Capture of Jingzhou
+Chrome Host Seedshark
+Commander's Sphere
+Counterspell
+Cyberdrive Awakener
+Desynchronization
+Dramatic Reversal
+Everflowing Chalice
+Expropriate
+Fabricate
+Fellwar Stone
+Flusterstorm
+Forensic Gadgeteer
+Foundry Inspector
+Ghost Vacuum
+Grand Architect
+Harbinger of the Seas
+Howling Mine
+Inventors' Fair
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jhoira's Familiar
+Laboratory Maniac
+Liberator, Urza's Battlethopter
+Lotus Petal
+Mana Drain
+Mindbreak Trap
+Mishra's Bauble
+Mystic Forge
+Mystic Remora
+Ornithopter
+Padeem, Consul of Innovation
+Pili-Pala
+Pongify
+Rapid Hybridization
+Relic of Progenitus
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Scroll Rack
+Sensei's Divining Top
+Shimmer Myr
+Simulacrum Synthesizer
+Sink into Stupor
+Sol Ring
+Solemn Simulacrum
+Spell Pierce
+Static Orb
+Tezzeret the Seeker
+Thassa's Oracle
+The Reality Chip
+Thran Dynamo
+Traxos, Scourge of Kroog
+Treasure Vault
+Tribute Mage
+Unwinding Clock
+Urza's Bauble
+Vedalken Archmage
+Vexing Puzzlebox
+Walking Ballista
+Winter Moon
+
+Academy Ruins
+Arcane Denial
+Arcane Signet
+Artificer Class
+Auton Soldier
+Brainstorm
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyberdrive Awakener
+Cybermen Squadron
+Cyclonic Rift
+Darksteel Forge
+Desynchronization
+Ensnaring Bridge
+Etherium Sculptor
+Expedition Map
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Fomori Vault
+Force of Negation
+Force of Will
+Grafdigger's Cage
+Howling Mine
+Inventors' Fair
+Island
+Jin-Gitaxias, Progress Tyrant
+Karn Liberated
+Karn, Legacy Reforged
+Karn, Scion of Urza
+Liberator, Urza's Battlethopter
+Lórien Revealed
+Mana Drain
+March of Progress
+Metalworker
+Midnight Clock
+Misty Rainforest
+Mox Opal
+Mycosynth Lattice
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nexus of Becoming
+Nykthos, Shrine to Nyx
+Otawara, Soaring City
+Phyrexian Metamorph
+Planar Nexus
+Polluted Delta
+Portal to Phyrexia
+Research Thief
+Rhystic Study
+Rise and Shine
+Rivendell
+Sai, Master Thopterist
+Sapphire Medallion
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Shimmer Dragon
+Shimmer Myr
+Simulacrum Synthesizer
+Sol Ring
+Tezzeret the Seeker
+Tezzeret, Betrayer of Flesh
+The Enigma Jewel
+The Mycosynth Gardens
+The One Ring
+The Reality Chip
+Thran Dynamo
+Ugin's Binding
+Ugin, the Ineffable
+Ugin, the Spirit Dragon
+Unwinding Clock
+Urza's Cave
+Urza's Factory
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Urza's Workshop
+Vedalken Orrery
+Whir of Invention
+Wurmcoil Engine
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Chain of Vapor
+Chalice of the Void
+Chrome Mox
+City of Traitors
+Codex Shredder
+Copy Artifact
+Counterbalance
+Counterspell
+Cyclonic Rift
+Displacer Kitten
+Dramatic Reversal
+Echo of Eons
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gilded Drake
+Grafdigger's Cage
+Grim Monolith
+Harbinger of the Seas
+Hullbreaker Horror
+Hydroelectric Specimen
+Imposter Mech
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Mana Leak
+Mana Vault
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Pithing Needle
+Pollywog Prodigy
+Ponder
+Power Artifact
+Reshape
+Rhystic Study
+Sapphire Medallion
+Saprazzan Skerry
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Spell Pierce
+Spellskite
+Static Orb
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Tormod's Crypt
+Transmute Artifact
+Trinisphere
+Urza's Saga
+Vexing Bauble
+Volatile Stormdrake
+Whir of Invention
+Winter Orb
+
+Aether Spellbomb
+Alchemist's Retrieval
+Arcane Signet
+Astral Cornucopia
+Basalt Monolith
+Brainstorm
+Buried Ruin
+Cloud Key
+Codex Shredder
+Cogwork Assembler
+Counterspell
+Crystal Vein
+Darksteel Relic
+Daze
+Dispel
+Drafna, Founder of Lat-Nam
+Dramatic Reversal
+Drawn from Dreams
+Drift of Phantasms
+Eaten by Piranhas
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fellwar Stone
+Forensic Gadgeteer
+Foundry Inspector
+Glaring Fleshraker
+Goblin Cannon
+Herbal Poultice
+Hullbreaker Horror
+Island
+Isochron Scepter
+Liquimetal Torque
+Machine Over Matter
+Mana Leak
+Memory Lapse
+Mindshrieker
+Miscast
+Moonsilver Key
+Muddle the Mixture
+Mystic Sanctuary
+Narset, Parter of Veils
+Negate
+Ornithopter
+Phyrexian Walker
+Ponder
+Preordain
+Prismatic Lens
+Prized Statue
+Resculpt
+Reshape
+Rings of Brighthearth
+Sai, Master Thopterist
+Saprazzan Skerry
+Sculpting Steel
+Shimmer Myr
+Sky Diamond
+Sol Ring
+Spell Pierce
+Stoic Rebuttal
+Suspend
+Thoughtcast
+Tidespout Tyrant
+Tormod's Crypt
+Trophy Mage
+Ugin, the Ineffable
+Utter Insignificance
+Volatile Stormdrake
+Welding Jar
+Whir of Invention
+Winds of Rebuke
+Winter Orb
+Witching Well
+Zuran Orb
+
+An Offer You Can't Refuse
+Ancestral Vision
+Arcane Signet
+Arcum Dagsson
+Arid Archway
+Ash Barrens
+Beast of Burden
+Beguiler of Wills
+Bident of Thassa
+Brainstorm
+Buried Ruin
+Cancel
+Careful Study
+Chief of the Foundry
+Chimil, the Inner Sun
+Coastal Piracy
+Confiscate
+Control Magic
+Counterspell
+Dark Depths
+Darksteel Citadel
+Darksteel Colossus
+Darksteel Juggernaut
+Deduce
+Deluxe Dragster
+Dispersal Shield
+Disrupt
+Dominate
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Exclude
+Fabricate
+Filigree Attendant
+Fomori Vault
+Fractured Powerstone
+High Fae Trickster
+Island
+Keep Watch
+Kiora, the Rising Tide
+Lavaspur Boots
+Leonardo da Vinci
+Lightning Greaves
+Logic Knot
+Lose Focus
+Loyal Inventor
+Mana Vault
+Master of Etherium
+Mind Stone
+Miscalculation
+Negate
+Nullify
+Oracle's Vault
+Out of Air
+Preordain
+Prismatic Lens
+Refute
+Reverse Engineer
+Rites of Refusal
+Sai, Master Thopterist
+Saprazzan Skerry
+Seat of the Synod
+Sharding Sphinx
+Shifting Grift
+Sire of Seven Deaths
+Sol Ring
+Steel Overseer
+Take Possession
+Temple of the False God
+The Key to the Vault
+The Mindskinner
+Think Twice
+Thopter Spy Network
+Thought Monitor
+Transplant Theorist
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Vedalken Humiliator
+
+Aether Spellbomb
+Aetherize
+Alchemist's Retrieval
+Assert Authority
+Aura Flux
+Brackish Blunder
+Buried Ruin
+Codex Shredder
+Collector's Vault
+Commander's Sphere
+Confirm Suspicions
+Counterspell
+Deduce
+Disdainful Stroke
+Disruption Protocol
+Efficient Construction
+Elixir of Immortality
+Endless Atlas
+Everflowing Chalice
+Flatline
+Forensic Gadgeteer
+Ghostly Flicker
+Goblin Cannon
+Grafdigger's Cage
+Hullbreaker Horror
+Illusionist's Gambit
+Island
+Lantern of the Lost
+Learn from the Past
+Machinate
+Machine Over Matter
+Midnight Clock
+Mind Stone
+Mishra's Bauble
+Negate
+Nimble Obstructionist
+Override
+Planar Incision
+Portcullis
+Pulse of the Grid
+Reality Shift
+Resculpt
+Riddlesmith
+Sai, Master Thopterist
+Saprazzan Skerry
+Slip Out the Back
+Snap
+Sol Ring
+Soulless Jailer
+Stubborn Denial
+Swiftfoot Boots
+Tezzeret, Betrayer of Flesh
+Thirst for Knowledge
+Thought Monitor
+Tidespout Tyrant
+Tormod's Crypt
+Trail of Evidence
+Turn Aside
+Unsubstantiate
+Unsummon
+Unwinding Clock
+Urza's Command
+Vedalken Archmage
+Vexing Bauble
+Voyager Staff
+Wash Away
+Wash Out
+Weathered Runestone
+Welding Jar
+Whirlwind Denial
+
+Aether Spellbomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Bonders' Enclave
+Brainstorm
+Buried Ruin
+Chain of Vapor
+Claws of Gix
+Codex Shredder
+Counterbalance
+Counterspell
+Curfew
+Cyclonic Rift
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Expedition Map
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Flusterstorm
+Fountain of Youth
+Frantic Search
+Hullbreaker Horror
+Imposter Mech
+Island
+Isochron Scepter
+Juntu Stakes
+Lavaspur Boots
+Merchant Scroll
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Opt
+Personal Tutor
+Polymorph
+Ponder
+Pongify
+Preordain
+Prized Statue
+Proteus Staff
+Reality Shift
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Secrets of the Key
+Sensei's Divining Top
+Snap
+Sol Ring
+Solve the Equation
+Spell Pierce
+Static Orb
+Stone of Erech
+Tezzeret the Seeker
+Tidespout Tyrant
+Time Spiral
+Tormod's Crypt
+Trickbind
+Trinisphere
+Urza's Bauble
+Urza's Saga
+War Room
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+Zuran Orb
+
+Akroma's Memorial
+An Offer You Can't Refuse
+Arcane Signet
+Back to Basics
+Cancel
+Counterspell
+Cyberdrive Awakener
+Cyclonic Rift
+Desynchronization
+Displacer Kitten
+Dramatic Reversal
+Eaten by Piranhas
+Etherium Sculptor
+Fellwar Stone
+Fierce Guardianship
+Force of Will
+Forensic Gadgeteer
+Foundry Inspector
+Grafdigger's Cage
+Harbinger of the Seas
+Hullbreaker Horror
+Hydroelectric Specimen
+Ichor Wellspring
+Inventors' Fair
+Island
+Isochron Scepter
+Kappa Cannoneer
+Laboratory Maniac
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Mana Drain
+Manifold Key
+Minamo, School at Water's Edge
+Mind Stone
+Mithril Coat
+Moonsilver Key
+Mystic Forge
+Narset, Parter of Veils
+Negate
+Ornithopter of Paradise
+Otawara, Soaring City
+Overburden
+Padeem, Consul of Innovation
+Pongify
+Rapid Hybridization
+Reality Shift
+Reshape
+Rhystic Study
+Rise and Shine
+Rising Waters
+Sai, Master Thopterist
+Sapphire Medallion
+Sensei's Divining Top
+Shimmer Dragon
+Silver Myr
+Sol Ring
+Solemn Simulacrum
+Static Orb
+Swan Song
+Swiftfoot Boots
+The One Ring
+The Reality Chip
+Tormod's Crypt
+Unable to Scream
+Unctus, Grand Metatect
+Unwinding Clock
+Urza's Saga
+Vedalken Archmage
+Winter Moon
+Winter Orb
+
+Aether Gale
+Alchemist's Retrieval
+An Offer You Can't Refuse
+Arcane Denial
+Blightsteel Colossus
+Boomerang
+Buried Ruin
+Capsize
+Champion's Helm
+Collector's Vault
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Plate
+Deadeye Navigator
+Desynchronization
+Disperse
+Displacer Kitten
+Drift of Phantasms
+Etherium Sculptor
+Fabricate
+Forensic Gadgeteer
+High Tide
+Howling Mine
+Hulking Metamorph
+Hullbreaker Horror
+Island
+Kuldotha Forgemaster
+Memnarch
+Merchant Scroll
+Metalwork Colossus
+Midnight Clock
+Mind Stone
+Mirage Mirror
+Mirror Shield
+Mithril Coat
+Muddle the Mixture
+Mystic Remora
+Negate
+One with the Multiverse
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Platinum Angel
+Reshape
+Rhystic Study
+River's Rebuke
+Rogue's Passage
+Sapphire Medallion
+Seat of the Synod
+Sicarian Infiltrator
+Silundi Vision
+Sink into Stupor
+Siren Stormtamer
+Sol Ring
+Spellskite
+Stalking Stones
+Static Orb
+Steel Hellkite
+Storage Matrix
+Swiftfoot Boots
+The One Ring
+Transplant Theorist
+Treasure Mage
+Tribute Mage
+Trophy Mage
+Unwinding Clock
+Vedalken Shackles
+War Room
+Weathered Runestone
+Whir of Invention
+Winter Moon
+Winter Orb
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcum's Astrolabe
+Ashnod's Altar
+Back to Basics
+Basalt Monolith
+Brainstorm
+Chromatic Lantern
+City of Brass
+Commander's Plate
+Consecrated Sphinx
+Counterspell
+Darksteel Citadel
+Deadeye Navigator
+Dispel
+Dramatic Reversal
+Efficient Construction
+Everflowing Chalice
+Expropriate
+Fabricate
+Fellwar Stone
+Genesis Chamber
+Gitaxian Probe
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Jin-Gitaxias, Progress Tyrant
+Karn, Scion of Urza
+Lotus Petal
+Mana Drain
+Maze of Ith
+Merchant Scroll
+Mind Stone
+Miscast
+Mishra's Bauble
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Negate
+Ponder
+Preordain
+Proteus Staff
+Quicksilver Fountain
+Recurring Insight
+Reliquary Tower
+Rhystic Study
+Rising Waters
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Snow-Covered Island
+Sol Ring
+Solemn Simulacrum
+Spellskite
+Static Orb
+Sunder
+Swan Song
+Tangle Wire
+Tezzeret the Seeker
+Thought Vessel
+Tidespout Tyrant
+Tormod's Crypt
+Training Grounds
+Trinisphere
+Unwinding Clock
+Urza's Bauble
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+War Room
+Welding Jar
+Windfall
+Winter Orb
+
+Academy Ruins
+Aether Spellbomb
+Aetherflux Reservoir
+Amphibian Downpour
+Arcane Signet
+Arcum's Astrolabe
+Back to Basics
+Basalt Monolith
+Blast Zone
+Blue Sun's Zenith
+Brainstorm
+Buried Ruin
+Codex Shredder
+Conjurer's Bauble
+Counterspell
+Dig Through Time
+Dispel
+Dramatic Reversal
+Emergence Zone
+Exotic Orchard
+Eye of Vecna
+Fabricate
+Fellwar Stone
+Gitaxian Probe
+Hullbreaker Horror
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+March of Swirling Mist
+Merchant Scroll
+Metallic Rebuke
+Mirrormade
+Miscast
+Misdirection
+Mishra's Bauble
+Moonsilver Key
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Pithing Needle
+Polymorph
+Ponder
+Preordain
+Proteus Staff
+Reality Shift
+Recurring Insight
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Static Orb
+Strix Serenade
+Suspend
+Swan Song
+Tezzeret the Seeker
+The Phasing of Zhalfir
+Tormod's Crypt
+Torpor Orb
+Trail of Evidence
+Verity Circle
+War Room
+Wash Away
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Back to Basics
+Bone Saw
+Borne Upon a Wind
+Codex Shredder
+Counterspell
+Crawlspace
+Cyclonic Rift
+Dramatic Reversal
+Drawn from Dreams
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Fomori Vault
+Force of Negation
+Forensic Gadgeteer
+Grafdigger's Cage
+Harbinger of the Seas
+Howling Mine
+Hullbreaker Horror
+Hydroelectric Specimen
+Ichor Wellspring
+Island
+Isochron Scepter
+Liquimetal Torque
+Lotus Petal
+Machine Over Matter
+Mana Leak
+Merchant Scroll
+Mind Stone
+Mishra's Bauble
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Negate
+Ornithopter
+Paradoxical Outcome
+Planar Incision
+Pull from Tomorrow
+Rapid Hybridization
+Reality Shift
+Reshape
+Rhystic Study
+Riddlesmith
+Sapphire Medallion
+Sea Gate Restoration
+Sink into Stupor
+Sol Ring
+Spectral Deluge
+Spellbook
+Swan Song
+Swiftfoot Boots
+Thought Monitor
+Throne of Eldraine
+Tormod's Crypt
+Tribute Mage
+Trinket Mage
+Unwinding Clock
+Welding Jar
+Whir of Invention
+Winter Moon
+Winter Orb
+Zenith Chronicler
+
+Academy Ruins
+Arcane Denial
+Arcum Dagsson
+Back to Basics
+Basalt Monolith
+Buried Ruin
+Chief Engineer
+Conjurer's Closet
+Counterspell
+Cyclonic Rift
+Deadeye Navigator
+Defabricate
+Dramatic Reversal
+Etherium Sculptor
+Extraplanar Lens
+Fabricate
+Foundry Inspector
+Grafdigger's Cage
+Grand Architect
+Howling Mine
+Hullbreaker Horror
+Isochron Scepter
+Jace's Archivist
+Jin-Gitaxias, Core Augur
+Karn Liberated
+Karn, Legacy Reforged
+Karn, Scion of Urza
+Karn, Silver Golem
+Karn, the Great Creator
+Liberator, Urza's Battlethopter
+Master Transmuter
+Memnarch
+Myr Retriever
+Narset, Parter of Veils
+Negate
+One with the Multiverse
+Ornithopter
+Ornithopter of Paradise
+Padeem, Consul of Innovation
+Pithing Needle
+Polymorph
+Proteus Staff
+Reality Shift
+Sai, Master Thopterist
+Smokestack
+Snow-Covered Island
+Sol Ring
+Solemn Simulacrum
+Spellbook
+Static Orb
+Storage Matrix
+Swan Song
+Swiftfoot Boots
+The Mycosynth Gardens
+Tidespout Tyrant
+Tormod's Crypt
+Training Grounds
+Tribute Mage
+Trinisphere
+Trinket Mage
+Trophy Mage
+Urza's Bauble
+Vedalken Archmage
+Welding Jar
+Whir of Invention
+Whispersilk Cloak
+Windfall
+Winter Orb
+Wurmcoil Engine
+
+Academy Ruins
+Aether Spellbomb
+Archway of Innovation
+Basalt Monolith
+Blightsteel Colossus
+Buried Ruin
+Codex Shredder
+Counterspell
+Darksteel Citadel
+Darksteel Forge
+Desynchronization
+Drafna, Founder of Lat-Nam
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fomori Vault
+Forensic Gadgeteer
+Foundry Inspector
+Grafdigger's Cage
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Jhoira's Familiar
+Jin-Gitaxias, Progress Tyrant
+Kappa Cannoneer
+Karn, Legacy Reforged
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Manifold Key
+Marvin, Murderous Mimic
+Master Transmuter
+Mechanized Production
+Memnarch
+Mirrodin Besieged
+Mycosynth Lattice
+Myr Battlesphere
+Myr Retriever
+Mystic Forge
+Negate
+Otawara, Soaring City
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Pithing Needle
+Pongify
+Propaganda
+Reliquary Tower
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Sculpting Steel
+Seat of the Synod
+Simulacrum Synthesizer
+Sol Ring
+Spellbook
+Spellskite
+Swiftfoot Boots
+The Millennium Calendar
+The Mycosynth Gardens
+The One Ring
+The Reality Chip
+Thopter Spy Network
+Thought Monitor
+Thought Vessel
+Tormod's Crypt
+Unwinding Clock
+Urza's Cave
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Urza's Workshop
+Vedalken Archmage
+Vexing Bauble
+Voltaic Key
+Walking Ballista
+War Room
+Winter Moon
+Winter Orb
+
+Academy Ruins
+Aether Spellbomb
+Ancient Tomb
+Arcum's Astrolabe
+Blast Zone
+Brainstorm
+Chain of Vapor
+Chrome Mox
+Codex Shredder
+Copy Artifact
+Counterspell
+Crystal Vein
+Cursed Totem
+Cyclonic Rift
+Dig Through Time
+Dramatic Reversal
+Dress Down
+Echo of Eons
+Fabled Passage
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Gitaxian Probe
+Grim Monolith
+Hullbreaker Horror
+Impulse
+Intuition
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Lion's Eye Diamond
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Memory Deluge
+Mental Misstep
+Merchant Scroll
+Mindbreak Trap
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Otawara, Soaring City
+Pact of Negation
+Pithing Needle
+Polluted Delta
+Ponder
+Preordain
+Prismatic Vista
+Reality Shift
+Rhystic Study
+Sai, Master Thopterist
+Sapphire Medallion
+Scalding Tarn
+Sensei's Divining Top
+Snow-Covered Island
+Sol Ring
+Static Orb
+Swan Song
+Tangle Wire
+The One Ring
+The Tabernacle at Pendrell Vale
+Timetwister
+Tolaria West
+Tormod's Crypt
+Transmute Artifact
+Trinisphere
+Urza's Bauble
+Urza's Saga
+Voltaic Key
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+
+Aether Spellbomb
+Aetherize
+Amulet of Kroog
+Arcane Signet
+Ashnod's Transmogrant
+Avarice Totem
+Battering Ram
+Brainsurge
+Buried Ruin
+Burnished Hart
+Cephalid Coliseum
+Clay Statue
+Conjurer's Bauble
+Contact Other Plane
+Corrupted Shapeshifter
+Darksteel Juggernaut
+Darksteel Myr
+Drownyard Lurker
+Efficient Construction
+Eldrazi Devastator
+Energy Tap
+Etched Champion
+Field Creeper
+Fishliver Oil
+Floodhound
+Foundry Inspector
+Glasses of Urza
+Grapeshot Catapult
+Haunted Cloak
+Hedron Crawler
+Hexavus
+Island
+Kozilek's Channeler
+Latch Seeker
+Loxodon Warhammer
+Lumengrid Gargoyle
+Machine Over Matter
+Maelstrom Colossus
+Manakin
+Marauding Sphinx
+Mask of Memory
+Metallic Sliver
+Mind Stone
+Myriad Landscape
+Opt
+Ornithopter
+Palladium Myr
+Peek
+Perilous Myr
+Petrifying Meddler
+Remove Soul
+Resculpt
+Ring of Renewal
+Runesword
+Sandstone Oracle
+Serum Visionary
+Shimmer Dragon
+Silver Myr
+Sky Diamond
+Soul Net
+Steel Hellkite
+Traveler's Amulet
+Trinket Mage
+Ulamog's Crusher
+Unerring Sling
+Wayfarer's Bauble
+Witching Well
+Workshop Assistant
+Yotian Soldier
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Blightsteel Colossus
+Brainstorm
+Capsize
+Collector's Vault
+Consider
+Counterspell
+Cyclonic Rift
+Delay
+Dig Through Time
+Dispel
+Dramatic Reversal
+Efficient Construction
+Etherium Sculptor
+Everflowing Chalice
+Forensic Gadgeteer
+Grafdigger's Cage
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Leak
+Manifold Key
+Midnight Clock
+Mind Stone
+Miscast
+Mishra's Bauble
+Mystic Remora
+Mystical Dispute
+Narset, Parter of Veils
+Negate
+Of One Mind
+Paradoxical Outcome
+Phyrexian Metamorph
+Pithing Needle
+Ponder
+Pongify
+Preordain
+Rapid Hybridization
+Recurring Insight
+Resculpt
+Reshape
+Rhystic Study
+Rogue's Passage
+Sai, Master Thopterist
+Sapphire Medallion
+Saprazzan Skerry
+Sculpting Steel
+Sol Ring
+Spell Pierce
+Spellskite
+Static Orb
+Storage Matrix
+Thought Monitor
+Thoughtcast
+Thran Dynamo
+Tormod's Crypt
+Tribute Mage
+Trophy Mage
+Vedalken Orrery
+Voltaic Key
+Welding Jar
+Windfall
+Winter Orb
+Witching Well
+
+Access Denied
+Aether Spellbomb
+Ancestral Vision
+Arcane Denial
+Basalt Monolith
+Brainstorm
+Buried Ruin
+Cancel
+Cephalid Coliseum
+Commander's Sphere
+Counterspell
+Cursed Totem
+Cyberdrive Awakener
+Damping Sphere
+Disruption Protocol
+Dramatic Reversal
+Emergence Zone
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Foundry Inspector
+Ghost Vacuum
+Grafdigger's Cage
+Howling Mine
+Hullbreaker Horror
+Hydroelectric Specimen
+Imposter Mech
+Island
+Kappa Cannoneer
+Mechanized Production
+Metallic Rebuke
+Mishra's Bauble
+Mishra's Factory
+Myr Battlesphere
+Mystic Remora
+Mystical Tutor
+Orb of Dreams
+Ornithopter
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Phyrexian Walker
+Pithing Needle
+Ponder
+Propaganda
+Reality Shift
+Reshape
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Scarecrone
+Sol Ring
+Sorcerous Spyglass
+Spell Pierce
+Spellbook
+Static Orb
+Supreme Will
+Swiftfoot Boots
+The Reality Chip
+Thopter Spy Network
+Thought Monitor
+Thoughtcast
+Tormod's Crypt
+Treasure Map
+Trophy Mage
+Unwind
+Unwinding Clock
+Urza's Cave
+Urza's Command
+Winter Moon
+Winter Orb
+Zuran Orb
+
+Academy Ruins
+Acquire
+Arcbound Reclaimer
+Ashnod's Altar
+Blinkmoth Infusion
+Castle Vantress
+Chief Engineer
+Chief of the Foundry
+Contagion Clasp
+Contagion Engine
+Crystal Skull, Isu Spyglass
+Desert of the Mindful
+Efficient Construction
+Encroaching Mycosynth
+Energy Chamber
+Etched Champion
+Etherium Sculptor
+Etherium Spinner
+Evolving Wilds
+Field of Ruin
+Flooded Strand
+Forensic Gadgeteer
+Geology Enthusiast
+Grand Architect
+Halimar Depths
+Howling Mine
+Inventors' Fair
+Island
+Jetfire, Ingenious Scientist
+Kappa Cannoneer
+Kuldotha Forgemaster
+Leonardo da Vinci
+Lightning Greaves
+Liquimetal Torque
+Lodestone Golem
+Lonely Sandbar
+Manifold Key
+Marvin, Murderous Mimic
+Master of Etherium
+Mechanized Production
+Memnarch
+Mirrormade
+Muzzio, Visionary Architect
+Myr Retriever
+Nykthos, Shrine to Nyx
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Saheeli's Artistry
+Sai, Master Thopterist
+Sandstorm Verge
+Sapphire Medallion
+Sculpting Steel
+Shape Anew
+Sharding Sphinx
+Shimmer Myr
+Skyline Cascade
+Sol Ring
+Sonic Screwdriver
+Spellskite
+Stonecoil Serpent
+Sword of Truth and Justice
+Temple Bell
+Terramorphic Expanse
+Tezzeret the Seeker
+Tezzeret, Betrayer of Flesh
+Thopter Spy Network
+Thought Monitor
+Trading Post
+Unwinding Clock
+Urza's Command
+Vedalken Humiliator
+Venser's Journal
+Whir of Invention
+Whirler Rogue
+Workshop Elders
+Zenith Chronicler
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Blightsteel Colossus
+Buried Ruin
+Chrome Host Seedshark
+Cloud Key
+Counterspell
+Cyberdrive Awakener
+Cyberman Patrol
+Cyclonic Rift
+Demolition Field
+Displacer Kitten
+Dramatic Reversal
+Energy Refractor
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Forensic Gadgeteer
+Foundry Inspector
+Hall of Tagsin
+Howling Mine
+Hullbreaker Horror
+Ichor Wellspring
+Island
+Isochron Scepter
+Jin-Gitaxias, Core Augur
+Kappa Cannoneer
+Karn, Legacy Reforged
+Liberator, Urza's Battlethopter
+Liquimetal Torque
+Lotus Petal
+Malevolent Hermit
+Masterful Replication
+Mirrodin Besieged
+Mishra's Bauble
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Negate
+One with the Multiverse
+Opal Palace
+Ornithopter
+Plaza of Heroes
+Portal to Phyrexia
+Propaganda
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Semblance Anvil
+Sol Ring
+Solve the Equation
+Static Orb
+Strionic Resonator
+Swan Song
+Swiftfoot Boots
+Tamiyo's Logbook
+Tezzeret the Seeker
+The Millennium Calendar
+The One Ring
+The Reality Chip
+Thought Vessel
+Thoughtcast
+Tidespout Tyrant
+Time Warp
+Tormod's Crypt
+Training Grounds
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Urza's Workshop
+Vedalken Archmage
+Winter Orb
+
+All Is Dust
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Basilisk Collar
+Blue Sun's Zenith
+Buried Ruin
+Capsize
+Codex Shredder
+Coldsteel Heart
+Command Beacon
+Conqueror's Flail
+Consecrated Sphinx
+Counterspell
+Crawlspace
+Curse of the Swine
+Decanter of Endless Water
+Deprive
+Dramatic Reversal
+Ensnaring Bridge
+Eternity Vessel
+Everflowing Chalice
+Extraplanar Lens
+Fabricate
+Fellwar Stone
+Gilded Lotus
+Glen Elendra Archmage
+High Tide
+Honored Heirloom
+Introduction to Annihilation
+Inventors' Fair
+Island
+Isochron Scepter
+Ixidron
+Loxodon Warhammer
+Merchant Scroll
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Negate
+Ornithopter of Paradise
+Palinchron
+Planar Bridge
+Platinum Emperion
+Portal to Phyrexia
+Propaganda
+Reliquary Tower
+Reshape
+Rootwater Thief
+Sceptre of Eternal Glory
+Seat of the Synod
+Silent Arbiter
+Sky Diamond
+Skyclave Relic
+Sol Ring
+Sol Talisman
+Solve the Equation
+Soul-Guide Lantern
+Spellskite
+Staff of Domination
+Staff of Nin
+Star Compass
+Tezzeret, Artifice Master
+The One Ring
+Thought Vessel
+Thran Dynamo
+Tidal Barracuda
+Urza's Saga
+Vanguard Suppressor
+Walking Ballista
+Whir of Invention
+Winter Orb
+Worn Powerstone
+Wurmcoil Engine
+
+Academy Manufactor
+Ancient Silver Dragon
+Arcane Signet
+Artificer Class
+Artificer's Assistant
+Chief of the Foundry
+Cloud Key
+Coldsteel Heart
+Commit // Memory
+Cyberman Patrol
+Darksteel Citadel
+Darksteel Ingot
+Darksteel Juggernaut
+Decanter of Endless Water
+Displacer Kitten
+Drafna, Founder of Lat-Nam
+Emry, Lurker of the Loch
+Encroaching Mycosynth
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Forensic Gadgeteer
+Foundry Inspector
+Grand Architect
+Howling Mine
+Hullbreaker Horror
+Island
+Kappa Cannoneer
+Karn, the Great Creator
+Liberator, Urza's Battlethopter
+Lonely Sandbar
+Master Transmuter
+Master of Etherium
+Memnite
+Mirrodin Besieged
+Mishra's Bauble
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Narset, Parter of Veils
+Pact of Negation
+Psychosis Crawler
+Sai, Master Thopterist
+Scrap Trawler
+Sculpting Steel
+Seat of the Synod
+Sharding Sphinx
+Shimmer Myr
+Signal Pest
+Skyclave Relic
+Sol Ring
+Solemn Simulacrum
+Spellbook
+Staff of Domination
+Swiftfoot Boots
+Temple of the False God
+Tezzeret the Seeker
+The Millennium Calendar
+The Surgical Bay
+Thopter Spy Network
+Threefold Thunderhulk
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Unctus, Grand Metatect
+Unwinding Clock
+Urza's Command
+Vedalken Engineer
+Vedalken Humiliator
+Whispersilk Cloak
+Winter Orb
+
+Acquire
+Ancient Tomb
+Archmage's Charm
+Basalt Monolith
+Brainstorm
+Bribery
+Buried Ruin
+Chimil, the Inner Sun
+Chrome Mox
+City of Traitors
+Counterspell
+Crystal Vein
+Cyclonic Rift
+Dark Depths
+Darksteel Citadel
+Darksteel Forge
+Darksteel Plate
+Decanter of Endless Water
+Declaration of Naught
+Disallow
+Dissipate
+Dramatic Reversal
+Eluge, the Shoreless Sea
+Emergence Zone
+Fabricate
+Fierce Guardianship
+Fog Bank
+Force of Negation
+Force of Will
+Frantic Search
+Gitaxian Probe
+Grim Monolith
+Halimar Depths
+Hullbreaker Horror
+Imprisoned in the Moon
+Inventors' Fair
+Irenicus's Vile Duplication
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jin-Gitaxias, Progress Tyrant
+Karn, the Great Creator
+Laboratory Maniac
+Liquimetal Torque
+Lotus Field
+Lotus Petal
+Mana Drain
+Mana Vault
+Master Transmuter
+Merchant Scroll
+Mind's Dilation
+Mirrormade
+Mithril Coat
+Mox Diamond
+Mox Opal
+Mycosynth Lattice
+Mystical Tutor
+Negate
+Nykthos, Shrine to Nyx
+Ominous Seas
+Opt
+Padeem, Consul of Innovation
+Planar Nexus
+Polymorphist's Jest
+Power Artifact
+Quantum Misalignment
+Reliquary Tower
+Rhystic Study
+Sapphire Medallion
+Seat of the Synod
+Sol Ring
+Solve the Equation
+Stifle
+Swiftfoot Boots
+Teferi, Mage of Zhalfir
+Temple of the False God
+Tezzeret the Seeker
+Thespian's Stage
+Thought Vessel
+Tishana's Tidebinder
+Tomb of the Spirit Dragon
+Tormod's Crypt
+Training Grounds
+Transmute Artifact
+Treachery
+Treasure Vault
+Unwinding Clock
+Urza's Cave
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Urza's Workshop
+Vesuva
+Voltaic Key
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+Codex Shredder
+Copy Artifact
+Counterspell
+Cyclonic Rift
+Displacer Kitten
+Dramatic Reversal
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gilded Drake
+Grim Monolith
+Hydroelectric Specimen
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Phantasmal Image
+Phyrexian Metamorph
+Polluted Delta
+Pollywog Prodigy
+Power Artifact
+Prismatic Vista
+Resculpt
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellskite
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Tormod's Crypt
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Valley Floodcaller
+Voltaic Key
+Whir of Invention
+
+Academy Ruins
+Aether Spellbomb
+Aetherflux Reservoir
+Altar of Dementia
+Arcane Denial
+Archway of Innovation
+Blinkmoth Urn
+Cavern of Souls
+Cephalid Coliseum
+Chromatic Sphere
+Chromatic Star
+Cityscape Leveler
+Counterspell
+Crystal Skull, Isu Spyglass
+Darksteel Citadel
+Emry, Lurker of the Loch
+Etherium Sculptor
+Expedition Map
+Fabricate
+Forensic Gadgeteer
+Forsaken Monument
+Foundry Inspector
+Future Sight
+Howling Mine
+Ichor Wellspring
+Inventors' Fair
+Island
+Karn, Silver Golem
+Memnarch
+Metalwork Colossus
+Mind Stone
+Moonsnare Prototype
+Mox Amber
+Mox Opal
+Mycosynth Lattice
+Myr Battlesphere
+Myr Retriever
+Mystic Forge
+Ornithopter
+Padeem, Consul of Innovation
+Palladium Myr
+Phyrexian Metamorph
+Planar Nexus
+Reconstruction
+Reshape
+Sai, Master Thopterist
+Scrap Trawler
+Sculpting Steel
+Seat of the Synod
+Silver Myr
+Simulacrum Synthesizer
+Sol Ring
+Springleaf Drum
+Stone Calendar
+The Mightstone and Weakstone
+The Mycosynth Gardens
+The Reality Chip
+Thespian's Stage
+Thirst for Knowledge
+Thought Monitor
+Thoughtcast
+Thran Dynamo
+Tormod's Crypt
+Traxos, Scourge of Kroog
+Trophy Mage
+Urza's Cave
+Urza's Factory
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Urza's Workshop
+Vesuva
+Wayfarer's Bauble
+Welding Jar
+Whir of Invention
+Witching Well
+Worldwalker Helm
+Worn Powerstone
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Basalt Monolith
+Buried Ruin
+Cavern of Souls
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+Codex Shredder
+Counterspell
+Crystal Vein
+Cyclonic Rift
+Dramatic Reversal
+Dress Down
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gilded Pinions
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Mind Stone
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Pact of Negation
+Phyrexian Metamorph
+Pollywog Prodigy
+Pongify
+Prized Statue
+Reality Shift
+Reshape
+Rhystic Study
+Sapphire Medallion
+Saprazzan Skerry
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellskite
+Static Orb
+Swan Song
+The One Ring
+The Reality Chip
+Trickbind
+Trinket Mage
+Unwinding Clock
+Urza's Saga
+Valley Floodcaller
+Volatile Stormdrake
+Voltaic Key
+Walking Ballista
+Whir of Invention
+Windfall
+Winter Orb
+Witching Well
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Arcum's Astrolabe
+Back to Basics
+Basalt Monolith
+Brainstorm
+Chain of Vapor
+Chrome Mox
+Claws of Gix
+Command Beacon
+Crucible of Worlds
+Crystal Vein
+Cyclonic Rift
+Daze
+Displacer Kitten
+Dramatic Reversal
+Drift of Phantasms
+Everflowing Chalice
+Expedition Map
+Fabricate
+Fierce Guardianship
+Flare of Denial
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Glacial Chasm
+Inventors' Fair
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jeweled Amulet
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Mindbreak Trap
+Mishra's Bauble
+Misty Rainforest
+Moonsilver Key
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nexus of Fate
+Otawara, Soaring City
+Pact of Negation
+Polluted Delta
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Spellseeker
+Stasis
+Static Orb
+Strip Mine
+Strix Serenade
+Stubborn Denial
+Sunder
+Swan Song
+Tale's End
+Tezzeret the Seeker
+The Mycosynth Gardens
+The One Ring
+The Reality Chip
+Tolaria West
+Tormod's Crypt
+Torpor Orb
+Trinket Mage
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Voltaic Key
+Wash Away
+Wasteland
+Wayfarer's Bauble
+Whir of Invention
+Windfall
+Winter Orb
+Zuran Orb
+
+Arcane Signet
+Ashnod's Altar
+Basalt Monolith
+Blast Zone
+Clock of Omens
+Command Tower
+Commander's Sphere
+Corridor Monitor
+Darksteel Citadel
+Dream Fracture
+Echo Storm
+Emry, Lurker of the Loch
+Encroaching Mycosynth
+Etherium Sculptor
+Everflowing Chalice
+Foundry Inspector
+Frogify
+Geier Reach Sanitarium
+Grinding Station
+Hedron Archive
+Helm of Awakening
+Helm of the Host
+Island
+Jhoira's Familiar
+Karn, Scion of Urza
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Liquimetal Coating
+Liquimetal Torque
+Mana Vault
+Marvin, Murderous Mimic
+Master Transmuter
+Master of Etherium
+Masterful Replication
+Mind Stone
+Myr Battlesphere
+Myr Welder
+Mystic Forge
+Nim Deathmantle
+Ornithopter
+Otawara, Soaring City
+Palladium Myr
+Path of Ancestry
+Rings of Brighthearth
+Rise and Shine
+Rite of Replication
+Saheeli's Artistry
+Sai, Master Thopterist
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Sharding Sphinx
+Shimmer Dragon
+Shimmer Myr
+Silent Arbiter
+Silver Myr
+Sisay's Ring
+Skullclamp
+Sol Ring
+Spine of Ish Sah
+Springleaf Drum
+Steel Hellkite
+Sunder
+Sword of the Meek
+Thopter Assembly
+Thopter Spy Network
+Thran Dynamo
+Tidespout Tyrant
+Traveler's Amulet
+Treasure Mage
+Trinket Mage
+Trophy Mage
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Vedalken Humiliator
+Voltaic Construct
+Whirler Rogue
+Winter Moon
+Wizard Class
+
+Academy Ruins
+Aether Spellbomb
+Altar of the Brood
+An Offer You Can't Refuse
+Ancient Tomb
+Archmage's Charm
+Back to Basics
+Basalt Monolith
+Borne Upon a Wind
+Brainstorm
+Cephalid Coliseum
+Chrome Mox
+City of Traitors
+Codex Shredder
+Counterspell
+Crystal Vein
+Cyclonic Rift
+Dispel
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Gitaxian Probe
+Grim Monolith
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Machine Over Matter
+Mana Drain
+Mana Vault
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Otawara, Soaring City
+Pact of Negation
+Personal Tutor
+Pithing Needle
+Polluted Delta
+Polymorph
+Power Artifact
+Proteus Staff
+Resculpt
+Reshape
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sol Ring
+Solve the Equation
+Spell Pierce
+Static Orb
+Stroke of Genius
+Swan Song
+Tezzeret the Seeker
+The One Ring
+Timetwister
+Tormod's Crypt
+Trinisphere
+Unwinding Clock
+Urza's Saga
+Voltaic Key
+Wash Away
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+
+Aether Spellbomb
+Aetherize
+Artificer's Assistant
+Brainstorm
+Buried Ruin
+Chief of the Foundry
+Cloud Key
+Corridor Monitor
+Crawling Barrens
+Darksteel Colossus
+Demolition Field
+Disperse
+Disruption Protocol
+Dissolve
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fblthp, the Lost
+Foundry Inspector
+Future Sight
+Gilded Lotus
+Gitaxian Probe
+Glaring Fleshraker
+High Tide
+Island
+Isochron Scepter
+Jhoira's Familiar
+Kaito, Cunning Infiltrator
+Kappa Cannoneer
+Karn's Touch
+Loyal Inventor
+Master of Etherium
+Memnarch
+Millikin
+Mind Stone
+Mission Briefing
+Myr Retriever
+Negate
+Opt
+Ornithopter
+Ornithopter of Paradise
+Padeem, Consul of Innovation
+Phyrexian Metamorph
+Phyrexian Walker
+Pithing Needle
+Ponder
+Preordain
+Reality Heist
+Reality Shift
+Refute
+Riddlesmith
+Rogue's Passage
+Sai, Master Thopterist
+Sapphire Medallion
+Serum Visions
+Shore Up
+Silver Raven
+Sol Ring
+Static Orb
+Suspend
+Syphon Essence
+The Reality Chip
+Thopter Spy Network
+Thought Monitor
+Thoughtcast
+Trinket Mage
+Trophy Mage
+Unctus, Grand Metatect
+Unwinding Clock
+Vedalken Engineer
+Welding Jar
+Winter Orb
+Witching Well
+
+Academy Ruins
+Arcane Signet
+Archmage's Charm
+Blightsteel Colossus
+Brainstorm
+Buried Ruin
+Colossus of Akros
+Consecrated Sphinx
+Counterspell
+Cranial Archive
+Creepy Doll
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Dark Depths
+Darksteel Forge
+Darksteel Ingot
+Darksteel Myr
+Darksteel Relic
+Dramatic Reversal
+Evolving Wilds
+Fabricate
+Fierce Guardianship
+Filigree Attendant
+Force of Negation
+Frantic Search
+Glaring Spotlight
+Inventors' Fair
+Island
+Jalum Tome
+Learn from the Past
+Lightning Greaves
+Lotus Petal
+Lórien Revealed
+Maze of Ith
+Memnite
+Mind Spring
+Mirrodin Besieged
+Mishra's Bauble
+Mishra's Factory
+Mox Amber
+Mulldrifter
+Mystic Confluence
+Mystic Forge
+Mystic Remora
+Negate
+Omniscience
+Ornithopter
+Otawara, Soaring City
+Padeem, Consul of Innovation
+Phantasmal Image
+Phyrexia's Core
+Ponder
+Refute
+Reliquary Tower
+Reminisce
+Rhystic Study
+Sai, Master Thopterist
+Seat of the Synod
+Sensei's Divining Top
+Shrieking Drake
+Snap
+Sol Ring
+Spellbook
+Staff of Domination
+Static Orb
+Swan Song
+Swiftfoot Boots
+Telepathy
+Temporal Manipulation
+The Mycosynth Gardens
+The One Ring
+The Reality Chip
+Thought Monitor
+Thran Foundry
+Time Stretch
+Time Warp
+Tormod's Crypt
+Triskaidekaphile
+Unwinding Clock
+Venser, Shaper Savant
+Welding Jar
+Winter Orb
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Back to Basics
+Basalt Monolith
+Borne Upon a Wind
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Cloud Key
+Codex Shredder
+Copy Artifact
+Counterbalance
+Crystal Vein
+Cyclonic Rift
+Defense Grid
+Disruptor Flute
+Dramatic Reversal
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Fomori Vault
+Force of Negation
+Force of Will
+Gemstone Caverns
+Grafdigger's Cage
+Grim Monolith
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Island
+Isochron Scepter
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mishra's Workshop
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Otawara, Soaring City
+Pithing Needle
+Polluted Delta
+Polymorph
+Power Artifact
+Prismatic Vista
+Proteus Staff
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Static Orb
+Stifle
+Strix Serenade
+Tezzeret the Seeker
+The One Ring
+Tidespout Tyrant
+Timetwister
+Tormod's Crypt
+Torpor Orb
+Transmute Artifact
+Trickbind
+Trinisphere
+Unwinding Clock
+Urza's Saga
+Voltaic Key
+Whir of Invention
+Winter Moon
+Winter Orb
+
+Arcane Denial
+Arcane Signet
+Archway of Innovation
+Basalt Monolith
+Brainstorm
+Buried Ruin
+Chrome Host Seedshark
+Command Tower
+Consider
+Counterspell
+Cyberdrive Awakener
+Cyberman Patrol
+Cybermen Squadron
+Cyclonic Rift
+Darksteel Citadel
+Demolition Field
+Displacer Kitten
+Drafna, Founder of Lat-Nam
+Dramatic Reversal
+Emry, Lurker of the Loch
+Everflowing Chalice
+Exotic Orchard
+Faerie Artisans
+Field of Ruin
+Fierce Guardianship
+Filigree Attendant
+Forensic Gadgeteer
+Giggling Skitterspike
+Howling Mine
+Hullbreaker Horror
+Hydroelectric Specimen
+Ice Out
+Island
+Jin-Gitaxias, Core Augur
+Kappa Cannoneer
+Liberator, Urza's Battlethopter
+Mana Drain
+March of Progress
+Master Transmuter
+Master of Etherium
+Mechanized Production
+Metalwork Colossus
+Mirrodin Besieged
+Mishra's Bauble
+Mystic Remora
+Mystic Sanctuary
+Negate
+Ornithopter
+Padeem, Consul of Innovation
+Path of Ancestry
+Reliquary Tower
+Rhystic Study
+Rings of Brighthearth
+Rogue's Passage
+Sai, Master Thopterist
+Sapphire Medallion
+Sceptre of Eternal Glory
+Seat of the Synod
+Sensei's Divining Top
+Sharding Sphinx
+Shimmer Myr
+Sol Ring
+Solemn Simulacrum
+Spellbook
+Spellskite
+Steel Overseer
+Swan Song
+Swiftfoot Boots
+The Reality Chip
+Thopter Spy Network
+Tormod's Crypt
+Unctus, Grand Metatect
+Unwinding Clock
+Urza's Cave
+Urza's Mine
+Urza's Power Plant
+Urza's Saga
+Urza's Tower
+Vedalken Archmage
+Walking Ballista
+Welding Jar
+Wurmcoil Engine
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Blue Elemental Blast
+Cephalid Coliseum
+Chrome Mox
+City of Traitors
+Codex Shredder
+Crystal Vein
+Cyclonic Rift
+Dispel
+Displacer Kitten
+Dramatic Reversal
+Emergence Zone
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force Spike
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Fountain of Youth
+Gemstone Caverns
+Grim Monolith
+Herbal Poultice
+Hullbreaker Horror
+Hydroelectric Specimen
+Ichor Wellspring
+Into the Flood Maw
+Island
+Isochron Scepter
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Diamond
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Ornithopter
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pongify
+Prismatic Vista
+Prized Statue
+Resculpt
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spellseeker
+Spellskite
+Tezzeret the Seeker
+The One Ring
+Tormod's Crypt
+Trinket Mage
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Valley Floodcaller
+Voltaic Key
+Whir of Invention
+Windfall
+
+Academy Ruins
+Access Denied
+Aether Spellbomb
+Aetherflux Reservoir
+Archway of Innovation
+Buried Ruin
+Cephalid Coliseum
+Chain of Vapor
+Cloud Key
+Cyberdrive Awakener
+Darksteel Citadel
+Devastation Tide
+Emergence Zone
+Emry, Lurker of the Loch
+Engulf the Shore
+Etherium Sculptor
+Everflowing Chalice
+Final-Word Phantom
+Flood of Tears
+Fomori Vault
+Forensic Gadgeteer
+High Fae Trickster
+Howling Mine
+Hurkyl's Final Meditation
+Hurkyl's Recall
+Imposter Mech
+Into the Flood Maw
+Inventors' Fair
+Island
+Kappa Cannoneer
+Leyline of Anticipation
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Lotus Petal
+March of Swirling Mist
+Memnarch
+Memnite
+Mirage Mirror
+Mishra's Bauble
+Misleading Signpost
+Mithril Coat
+Myr Battlesphere
+Ornithopter
+Otawara, Soaring City
+Paradoxical Outcome
+Phyrexian Metamorph
+Phyrexian Walker
+Pongify
+Rapid Hybridization
+Ravenform
+Reality Shift
+Resculpt
+Sai, Master Thopterist
+Sapphire Medallion
+Scavenger Grounds
+Sculpting Steel
+Sea Gate Restoration
+Seat of the Synod
+Shadowspear
+Shimmer Myr
+Sicarian Infiltrator
+Simulacrum Synthesizer
+Sink into Stupor
+Skittering Cicada
+Sol Ring
+Soul-Guide Lantern
+Spell Swindle
+Tezzeret the Seeker
+The Millennium Calendar
+The Mycosynth Gardens
+The Reality Chip
+Thirst for Knowledge
+Thought Monitor
+Tormod's Crypt
+Treasure Chest
+Treasure Vault
+Unwinding Clock
+Valley Floodcaller
+Vedalken Orrery
+Venser, Shaper Savant
+
+Academy Ruins
+Aether Spellbomb
+Alexi's Cloak
+An Offer You Can't Refuse
+Arcane Denial
+Arcbound Crusher
+Artificer's Assistant
+Bladegriff Prototype
+Boompile
+Buried Ruin
+Cloud Key
+Counterspell
+Cyberdrive Awakener
+Darksteel Citadel
+Darksteel Colossus
+Displacer Kitten
+Efficient Construction
+Emergence Zone
+Emry, Lurker of the Loch
+Etherium Sculptor
+Eye of Vecna
+Fierce Guardianship
+Forensic Gadgeteer
+Foundry Inspector
+Genesis Chamber
+Hall of Storm Giants
+Howling Mine
+Island
+Kappa Cannoneer
+Karn, Legacy Reforged
+Liberator, Urza's Battlethopter
+Liquimetal Torque
+Lonely Sandbar
+Manifold Key
+Master Transmuter
+Mechtitan Core
+Mirage Mirror
+Mirrodin Besieged
+Myr Battlesphere
+Myriad Construct
+Mystic Forge
+Mystic Sanctuary
+One with the Machine
+Perplexing Test
+Phyrexian Metamorph
+Quietus Spike
+Reliquary Tower
+Resculpt
+Rhystic Study
+Riddlesmith
+Rogue's Passage
+Sai, Master Thopterist
+Sapphire Medallion
+Sensei's Divining Top
+Shadowspear
+Shimmer Dragon
+Shimmer Myr
+Silver Myr
+Skullclamp
+Sol Ring
+Soul-Guide Lantern
+Spellskite
+Swiftfoot Boots
+Sword of Hearth and Home
+Sword of War and Peace
+Thassa's Oracle
+The Reality Chip
+Thought Vessel
+Throne of the High City
+Treasure Map
+Treasure Vault
+Ugin, the Ineffable
+Urza's Saga
+Vedalken Archmage
+War Room
+Wayfarer's Bauble
+Wrong Turn
+Wurmcoil Engine
+Zhalfirin Void
+
+Academy Ruins
+Aether Channeler
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Blast Zone
+Blue Sun's Zenith
+Chrome Mox
+Codex Shredder
+Counterspell
+Cyclonic Rift
+Darksteel Citadel
+Displacer Kitten
+Dramatic Reversal
+Enter the Infinite
+Everflowing Chalice
+Fabricate
+Fellwar Stone
+Forensic Gadgeteer
+Gold Pan
+Grim Monolith
+Grindstone
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Maze of Ith
+Miscast
+Moonsilver Key
+Muddle the Mixture
+Myriad Landscape
+Mystic Remora
+Pact of Negation
+Painter's Servant
+Phyrexian Metamorph
+Prized Statue
+Reality Shift
+Reins of Power
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Snap
+Sol Ring
+Spell Snare
+Static Orb
+Stifle
+Strix Serenade
+Swan Song
+Temporal Mastery
+Tezzeret the Seeker
+The Mycosynth Gardens
+The Reality Chip
+Thought Vessel
+Thran Dynamo
+Tishana's Tidebinder
+Trickbind
+Unwinding Clock
+Urza's Bauble
+Valley Floodcaller
+Whir of Invention
+Windfall
+Winter Orb
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Borne Upon a Wind
+Chrome Host Seedshark
+Chrome Mox
+Cloud Key
+Codex Shredder
+Copy Artifact
+Delay
+Dramatic Reversal
+Emergence Zone
+Etherium Sculptor
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Final-Word Phantom
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Fortune Teller's Talent
+Foundry Inspector
+Future Sight
+Gemstone Caverns
+Glaring Fleshraker
+Gold Pan
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Isochron Scepter
+Jeweled Amulet
+Leyline of Anticipation
+Lotus Petal
+Magus of the Future
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mindbreak Trap
+Misdirection
+Misty Rainforest
+Moonsilver Key
+Moonsnare Prototype
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Otawara, Soaring City
+Pact of Negation
+Polluted Delta
+Power Artifact
+Prismatic Lens
+Prismatic Vista
+Prized Statue
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sai, Master Thopterist
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Snow-Covered Island
+Sol Ring
+Swan Song
+The One Ring
+The Reality Chip
+Transmute Artifact
+Trinket Mage
+Unwinding Clock
+Urza's Saga
+Valley Floodcaller
+Voltaic Key
+Voltaic Servant
+Whir of Invention
+Worldwalker Helm
+
+Akroma's Memorial
+Bladegriff Prototype
+Blast Zone
+Brotherhood Regalia
+Chromatic Lantern
+Cityscape Leveler
+Command Tower
+Conduit Pylons
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Ingot
+Desynchronization
+Drafna, Founder of Lat-Nam
+Drannith Ruins
+Dress Down
+Echoing Deeps
+Excalibur, Sword of Eden
+Expropriate
+Fabled Passage
+Fear of Failed Tests
+Flare of Denial
+Forensic Gadgeteer
+Foundry Inspector
+Frogmite
+Ghost Quarter
+Gilded Lotus
+Howling Mine
+Invoke the Winds
+Island
+Junk Diver
+Lodestone Golem
+Mana Drain
+Marvin, Murderous Mimic
+Mindslaver
+Mine Worker
+Mirage Mesa
+Miscast
+Mishra's Factory
+Mox Amber
+Myriad Landscape
+Mystic Forge
+Oaken Siren
+One with the Multiverse
+Ornithopter
+Phyrexian Revoker
+Portal to Phyrexia
+Power Plant Worker
+Prismatic Lens
+Pristine Talisman
+Proft's Eidetic Memory
+Propaganda
+Psychosis Crawler
+Public Thoroughfare
+Quietus Spike
+Radiant Fountain
+Reliquary Tower
+Sandstorm Verge
+Sapphire Medallion
+Scrap Trawler
+Sculpting Steel
+Season of Weaving
+Seat of the Synod
+Self-Assembler
+Semblance Anvil
+Shadow of the Second Sun
+Sharding Sphinx
+Shimmer Myr
+Shrine of the Forsaken Gods
+Skyclave Relic
+Sol Ring
+Step Between Worlds
+Stop Cold
+Sword of Fire and Ice
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Terisian Mindbreaker
+Tezzeret, Artifice Master
+The Everflowing Well
+The Key to the Vault
+Thran Dynamo
+Thran Quarry
+Thran Spider
+Throne of Eldraine
+Time Stretch
+Tower Worker
+Training Grounds
+Uncharted Haven
+Unwinding Clock
+Urza's Cave
+Valgavoth's Lair
+
+Accorder's Shield
+Aether Spellbomb
+Ancient Tomb
+Arcane Denial
+Bone Saw
+Briber's Purse
+Candy Trail
+Cathar's Shield
+Claws of Gix
+Codex Shredder
+Counterspell
+Darksteel Relic
+Delif's Cone
+Dramatic Reversal
+Everflowing Chalice
+Fabricate
+Fountain of Youth
+Gitaxian Probe
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jeweled Amulet
+Kite Shield
+Lantern of Insight
+Library of Leng
+Lodestone Bauble
+Lotus Petal
+Mana Vault
+Midnight Clock
+Mishra's Bauble
+Mox Amber
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Of One Mind
+Personal Tutor
+Polymorph
+Ponder
+Preordain
+Proteus Staff
+Quick Study
+Relic of Progenitus
+Reshape
+Sapphire Medallion
+Sensei's Divining Top
+Sol Ring
+Solve the Equation
+Soul-Guide Lantern
+Spellbook
+Static Orb
+Stone of Erech
+Strix Serenade
+Tezzeret the Seeker
+The Millennium Calendar
+The One Ring
+Thirst for Discovery
+Thirst for Knowledge
+Tidespout Tyrant
+Tormod's Crypt
+Trinisphere
+Urza's Bauble
+Urza's Saga
+Voltaic Key
+Wayfarer's Bauble
+Whir of Invention
+Windfall
+Winter Moon
+Winter Orb
+Zuran Orb
+
+Academy Ruins
+Aether Spellbomb
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Borne Upon a Wind
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+Cloud Key
+Codex Shredder
+Counterbalance
+Counterspell
+Cyclonic Rift
+Dramatic Reversal
+Emergence Zone
+Ensnaring Bridge
+Etherium Sculptor
+Fabricate
+Faerie Mastermind
+Fatespinner
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Frozen Aether
+Gemstone Caverns
+Gilded Drake
+Grafdigger's Cage
+Grim Monolith
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Karn, the Great Creator
+Lotus Petal
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Misty Rainforest
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pongify
+Power Artifact
+Prismatic Vista
+Resculpt
+Reshape
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sol Ring
+Static Orb
+Swan Song
+Tangle Wire
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+The Tabernacle at Pendrell Vale
+Timetwister
+Tormod's Crypt
+Torpor Orb
+Transmute Artifact
+Trinisphere
+Urza's Saga
+Vexing Bauble
+Voltaic Key
+Whir of Invention
+Winter Orb
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Archway of Innovation
+Back to Basics
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Cavern of Souls
+Chain of Vapor
+Chrome Mox
+Codex Shredder
+Copy Artifact
+Counterbalance
+Crystal Vein
+Displacer Kitten
+Dramatic Reversal
+Etherium Sculptor
+Eye of Vecna
+Fabricate
+Faerie Mastermind
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Grafdigger's Cage
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Into the Flood Maw
+Inventors' Fair
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jeweled Amulet
+Lotus Petal
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mindbreak Trap
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Moonsnare Prototype
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Oboro, Palace in the Clouds
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pollywog Prodigy
+Pongify
+Prismatic Vista
+Resculpt
+Reshape
+Rhystic Study
+Riddlesmith
+Sapphire Medallion
+Scalding Tarn
+Sea Gate Restoration
+Seat of the Synod
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spellskite
+Static Orb
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Tormod's Crypt
+Torpor Orb
+Trinisphere
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Valley Floodcaller
+Whir of Invention
+Windfall
+Winter Orb
+Witching Well
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Back to Basics
+Borne Upon a Wind
+Brainstorm
+Bribery
+Cephalid Coliseum
+Chrome Mox
+Codex Shredder
+Copy Artifact
+Crystal Vein
+Cyclonic Rift
+Dispel
+Dramatic Reversal
+Elixir of Immortality
+Emergence Zone
+Everflowing Chalice
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gemstone Caverns
+Gitaxian Probe
+Hullbreaker Horror
+Imposter Mech
+Inventors' Fair
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Drain
+Mana Vault
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mirrodin Besieged
+Miscast
+Mishra's Bauble
+Misty Rainforest
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Pact of Negation
+Personal Tutor
+Polluted Delta
+Polymorph
+Ponder
+Pongify
+Prismatic Vista
+Proteus Staff
+Rapid Hybridization
+Resculpt
+Reshape
+Rhystic Study
+Sapphire Medallion
+Scalding Tarn
+Sensei's Divining Top
+Sink into Stupor
+Snow-Covered Island
+Sol Ring
+Spell Pierce
+Static Orb
+Steal Enchantment
+Storage Matrix
+Swan Song
+Tezzeret the Seeker
+The One Ring
+Tidespout Tyrant
+Tormod's Crypt
+Trickbind
+Trinisphere
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Whir of Invention
+Windfall
+Winter Moon
+Winter Orb
+
+Academy Ruins
+Aether Spellbomb
+Alchemist's Vial
+All Is Dust
+Arcane Denial
+Argentum Armor
+Boompile
+Burnished Hart
+Chrome Host Seedshark
+Cloud Key
+Coveted Jewel
+Curse of the Swine
+Cyberdrive Awakener
+Darksteel Citadel
+Demolition Field
+Disallow
+Displacer Kitten
+Ecologist's Terrarium
+Elixir of Immortality
+Elsewhere Flask
+Emry, Lurker of the Loch
+Energy Refractor
+Etherium Sculptor
+Fabricate
+Faerie Artisans
+Foundry Inspector
+Ghost Quarter
+Glaring Fleshraker
+Golden Egg
+Guild Globe
+Ichor Wellspring
+Idol of Oblivion
+Inverted Iceberg
+Island
+Lembas
+Lithoform Engine
+Mazemind Tome
+Mycosynth Wellspring
+Myr Battlesphere
+Myriad Landscape
+Mystic Forge
+Nevinyrral's Disk
+Pentavus
+Prophetic Prism
+Prototype Portal
+Reckoner Bankbuster
+Remote Isle
+Replication Specialist
+Rise and Shine
+Rivendell
+Rogue's Passage
+Sai, Master Thopterist
+Scavenger Grounds
+Seat of the Synod
+Shimmer Dragon
+Sleeper Dart
+Snap
+Snow-Covered Wastes
+Sol Ring
+Soul of New Phyrexia
+Spare Supplies
+Spell Swindle
+Survivor's Med Kit
+Sword of Hearth and Home
+Synod Sanctum
+Tamiyo's Logbook
+The Reality Chip
+Thought Monitor
+Threefold Thunderhulk
+Tome of Legends
+Treasure Map
+Tsabo's Web
+Unwinding Clock
+Urza's Command
+Urza's Factory
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Urza's Workshop
+Vedalken Orrery
+Wash Out
+Wedding Invitation
+Whirler Rogue
+Wondrous Crucible
+
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Banishing Knack
+Basalt Monolith
+Battered Golem
+Cavern of Souls
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Traitors
+Codex Shredder
+Copy Artifact
+Crystal Vein
+Cyclonic Rift
+Dramatic Reversal
+Etherium Sculptor
+Everflowing Chalice
+Fabricate
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Grim Monolith
+Hullbreaker Horror
+Hydroelectric Specimen
+Inventors' Fair
+Island
+Isochron Scepter
+Jeweled Amulet
+Lotus Petal
+Mana Vault
+Manifold Key
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mishra's Bauble
+Misty Rainforest
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Pongify
+Power Artifact
+Prismatic Vista
+Prized Statue
+Resculpt
+Reshape
+Retraction Helix
+Rhystic Study
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellseeker
+Spellskite
+Static Orb
+Strix Serenade
+Swan Song
+Tezzeret the Seeker
+The One Ring
+The Reality Chip
+Timetwister
+Tormod's Crypt
+Transmute Artifact
+Trinisphere
+Trinket Mage
+Unwinding Clock
+Urza's Bauble
+Urza's Saga
+Valley Floodcaller
+Voltaic Key
+Whir of Invention
+
+Aetherspouts
+Arcum Dagsson
+Back to Basics
+Blur
+Cancel
+Command Tower
+Consider
+Counterspell
+Darksteel Citadel
+Darksteel Forge
+Deadeye Navigator
+Disdainful Stroke
+Disperse
+Displacer Kitten
+Dramatic Reversal
+Emry, Lurker of the Loch
+Encroaching Mycosynth
+Essence Capture
+Exhaustion
+Fabricate
+Fierce Guardianship
+Forensic Gadgeteer
+Frantic Search
+Ghostly Flicker
+Grand Coliseum
+Harbinger of the Seas
+Howling Mine
+Hullbreaker Horror
+Island
+Isochron Scepter
+Kappa Cannoneer
+Karn, Scion of Urza
+Manifold Key
+March of Progress
+Mechanized Production
+Miscast
+Mycosynth Lattice
+Omniscience
+Padeem, Consul of Innovation
+Phantom Interference
+Planar Incision
+Ponder
+Propaganda
+Reliquary Tower
+Rings of Brighthearth
+Sai, Master Thopterist
+Scholar of Stars
+Seat of the Synod
+Snap
+Sol Ring
+Static Orb
+Step Between Worlds
+Strix Serenade
+The Reality Chip
+Thopter Spy Network
+Thought Monitor
+Thought Vessel
+Thoughtcast
+Tomb Trawler
+Tormod's Crypt
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Unwinding Clock
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+Witness Protection
+
+Academy Ruins
+Aether Spellbomb
+Aminatou's Augury
+An Offer You Can't Refuse
+Arcane Signet
+Archway of Innovation
+Assimilate Essence
+Basalt Monolith
+Bone Saw
+Brainstorm
+Bribery
+Cephalid Coliseum
+Chromatic Sphere
+Chromatic Star
+Codex Shredder
+Commandeer
+Counterspell
+Crystal Vein
+Damping Sphere
+Deadeye Navigator
+Deduce
+Desynchronization
+Dig Through Time
+Displacer Kitten
+Dramatic Reversal
+Engineered Explosives
+Everflowing Chalice
+Fabricate
+Forensic Gadgeteer
+Frantic Search
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Kappa Cannoneer
+Mana Leak
+Mechanized Production
+Metallic Rebuke
+Mind Stone
+Mishra's Bauble
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Ornithopter
+Phyrexian Metamorph
+Phyrexian Revoker
+Pithing Needle
+Ratchet Bomb
+Reality Shift
+Resculpt
+Reshape
+Rings of Brighthearth
+Sapphire Medallion
+Saprazzan Skerry
+Sculpting Steel
+Secrets of the Key
+Snap
+Sol Ring
+Solve the Equation
+Soul-Guide Lantern
+Spellbook
+Spellskite
+Spyglass Siren
+Stifle
+Strix Serenade
+Swan Song
+Swiftfoot Boots
+The Reality Chip
+Thought Monitor
+Tidespout Tyrant
+Tolaria West
+Tormod's Crypt
+Tribute Mage
+Turnabout
+Unwinding Clock
+Urza's Bauble
+Welding Jar
+Whir of Invention
+Windfall
+Zuran Orb
+
+Academy Ruins
+Aether Spellbomb
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Ancient Tomb
+Astral Cornucopia
+Basalt Monolith
+Borne Upon a Wind
+Brain Freeze
+Brainstorm
+Cavern of Souls
+Chain of Vapor
+Chrome Mox
+Cloud Key
+Codex Shredder
+Conjurer's Bauble
+Counterspell
+Crystal Skull, Isu Spyglass
+Crystal Vein
+Cyber Conversion
+Cyclonic Rift
+Darksteel Citadel
+Delay
+Dig Through Time
+Disallow
+Dramatic Reversal
+Dress Down
+Emergence Zone
+Engineered Explosives
+Everflowing Chalice
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Will
+Gemstone Caverns
+Grim Monolith
+Howling Mine
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Lotus Petal
+Mana Drain
+Mana Vault
+Memory Lapse
+Merchant Scroll
+Mindbreak Trap
+Misty Rainforest
+Moonsilver Key
+Mox Opal
+Muddle the Mixture
+Mystic Forge
+Mystic Remora
+Mystical Tutor
+Negate
+Otawara, Soaring City
+Pact of Negation
+Paradoxical Outcome
+Polluted Delta
+Polymorph
+Ponder
+Power Artifact
+Proteus Staff
+Reality Shift
+Relic of Progenitus
+Reshape
+Rhystic Study
+Sapphire Medallion
+Scalding Tarn
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Sol Ring
+Solve the Equation
+Spellbook
+Static Orb
+Swan Song
+Tezzeret the Seeker
+The Mycosynth Gardens
+The One Ring
+Thespian's Stage
+Tormod's Crypt
+Torpor Orb
+Trail of Evidence
+Treasure Vault
+Trickbind
+Urza's Saga
+War Room
+Welding Jar
+Whir of Invention
+Winter Orb
+Witching Well
+Zuran Orb
+
+Aether Spellbomb
+Aetherflux Reservoir
+Altar of the Brood
+An Offer You Can't Refuse
+Ancestral Knowledge
+Arcane Denial
+Basalt Monolith
+Brainstorm
+Cancel
+Codex Shredder
+Control Magic
+Counterbalance
+Counterspell
+Devastation Tide
+Dig Through Time
+Dismiss
+Dispel
+Dramatic Reversal
+Drawn from Dreams
+Everflowing Chalice
+Fabricate
+Fellwar Stone
+Fountain of Youth
+Gitaxian Probe
+Gustha's Scepter
+High Tide
+Howling Mine
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jeweled Amulet
+Karn, Scion of Urza
+Lodestone Bauble
+Memory Lapse
+Merchant Scroll
+Mishra's Bauble
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Pact of Negation
+Pithing Needle
+Polymorph
+Ponder
+Preordain
+Proteus Staff
+Rapid Hybridization
+Recurring Insight
+Reshape
+Sculpting Steel
+Sensei's Divining Top
+Sol Ring
+Solve the Equation
+Spell Pierce
+Static Orb
+Storage Matrix
+Swiftfoot Boots
+Tezzeret, Artifice Master
+Thought Lash
+Tormod's Crypt
+Torpor Orb
+Twincast
+Urza's Bauble
+Welding Jar
+Whir of Invention
+Windfall
+Winter Orb
+
+Academy Ruins
+Arcane Signet
+Arcum's Astrolabe
+Assert Authority
+Aura Flux
+Auton Soldier
+Basalt Monolith
+Brainstorm
+Chrome Mox
+Copy Artifact
+Counterspell
+Crystal Skull, Isu Spyglass
+Cyberdrive Awakener
+Cybermen Squadron
+Cyclonic Rift
+Darksteel Citadel
+Desynchronization
+Displacer Kitten
+Etherium Sculptor
+Extraplanar Lens
+Fabricate
+Fierce Guardianship
+Fomori Vault
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Foundry Inspector
+Genesis Chamber
+Harbinger of the Seas
+Howling Mine
+Hullbreaker Horror
+Icehide Golem
+Inventors' Fair
+Lotus Petal
+Mana Drain
+Mana Vault
+Marit Lage's Slumber
+Memnite
+Mirrormade
+Mishra's Bauble
+Mox Opal
+Myr Retriever
+Mystic Forge
+Ornithopter
+Otawara, Soaring City
+Panharmonicon
+Phyrexian Metamorph
+Phyrexian Walker
+Pollywog Prodigy
+Ponder
+Preordain
+Reality Shift
+Reshape
+Rhystic Study
+Sai, Master Thopterist
+Sapphire Medallion
+Sculpting Steel
+Seat of the Synod
+Sensei's Divining Top
+Sicarian Infiltrator
+Simulacrum Synthesizer
+Snow-Covered Island
+Sol Ring
+Static Orb
+Tezzeret the Seeker
+Thassa's Oracle
+The Mycosynth Gardens
+The One Ring
+The Reality Chip
+Thought Monitor
+Three Steps Ahead
+Trinisphere
+Trinket Mage
+Trophy Mage
+Unwinding Clock
+Urza's Saga
+Vedalken Archmage
+Winter Orb
+Worldwalker Helm
+
+Academy Ruins
+Agatha's Soul Cauldron
+Aura Thief
+Commander's Plate
+Counterspell
+Cryptic Gateway
+Cyberdrive Awakener
+Cyclonic Rift
+Darksteel Citadel
+Darksteel Forge
+Displacer Kitten
+Drafna, Founder of Lat-Nam
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Foundry Inspector
+Frogmite
+God-Pharaoh's Statue
+Helm of Awakening
+Herald's Horn
+Idol of Oblivion
+Island
+Jhoira's Familiar
+Jin-Gitaxias, Progress Tyrant
+Kappa Cannoneer
+Liberator, Urza's Battlethopter
+Lightning Greaves
+Mana Drain
+Mana Web
+Marvin, Murderous Mimic
+Master Transmuter
+Memnarch
+Memnite
+Metalworker
+Mind's Eye
+Myr Battlesphere
+Nettlecyst
+Ornithopter of Paradise
+Padeem, Consul of Innovation
+Patchwork Automaton
+Phyrexian Metamorph
+Pongify
+Propaganda
+Psychosis Crawler
+Rhystic Study
+Sai, Master Thopterist
+Sapphire Medallion
+Seat of the Synod
+Sensei's Divining Top
+Shimmer Myr
+Silver Myr
+Sol Ring
+Solemn Simulacrum
+Spark Double
+Spellskite
+Steel Overseer
+Swiftfoot Boots
+Sword of Feast and Famine
+Sword of the Animist
+The Immortal Sun
+The Reality Chip
+Training Grounds
+Unctus, Grand Metatect
+Unwinding Clock
+Urza's Incubator
+Vedalken Archmage
+Winter Orb
+Wurmcoil Engine
+
+Adaptive Automaton
+Arcane Signet
+Arcbound Worker
+Automatic Librarian
+Bonded Construct
+Chief of the Foundry
+Chromatic Star
+Cityscape Leveler
+Corridor Monitor
+Counterspell
+Creepy Doll
+Deadeye Navigator
+Displacer Kitten
+Efficient Construction
+Emry, Lurker of the Loch
+Fellwar Stone
+Foundry Inspector
+Ghostly Flicker
+Hangarback Walker
+Hedron Crawler
+Hexavus
+Ichor Wellspring
+Island
+Kappa Cannoneer
+Karn, Scion of Urza
+Krark-Clan Ironworks
+Kuldotha Forgemaster
+Lavaspur Boots
+Manakin
+Memnarch
+Memnite
+Merchant's Dockhand
+Metallic Mimic
+Metallic Rebuke
+Metalwork Colossus
+Midnight Clock
+Mind Stone
+Mishra's Bauble
+Myr Battlesphere
+Mystic Forge
+Mystic Remora
+Nevinyrral's Disk
+Padeem, Consul of Innovation
+Patchwork Automaton
+Pentavus
+Ponder
+Pongify
+Retrofitter Foundry
+Rhystic Study
+Sai, Master Thopterist
+Scrap Trawler
+Scrapyard Recombiner
+Sculpting Steel
+Simulacrum Synthesizer
+Skittering Surveyor
+Sol Ring
+Springleaf Drum
+Stasis
+Steel Overseer
+Terrarion
+Thaumatic Compass
+The Peregrine Dynamo
+Thopter Assembly
+Thought Monitor
+Thoughtcast
+Unwinding Clock
+Urza's Command
+Urza's Saga
+Voltaic Construct
+Voltaic Servant
+Walking Ballista
+Workshop Assistant
+

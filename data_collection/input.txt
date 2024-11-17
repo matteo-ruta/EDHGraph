@@ -13,7 +13,7 @@ Galadriel, Light of Valinor@81
 The Ur-Dragon@291
 Rukarumel, Biologist@29
 Yuriko, the Tiger's Shadow@246
-Wyll, Blade of Frontiers  Sword Coast Sailor@27
+Wyll, Blade of Frontiers // Sword Coast Sailor@27
 Raffine, Scheming Seer@84
 Aragorn, the Uniter@172
 Atla Palani, Nest Tender@165
@@ -76,7 +76,7 @@ Sidisi, Brood Tyrant@67
 Alela, Cunning Conqueror@103
 Tegwyll, Duke of Splendor@26
 Uril, the Miststalker@39
-Kraum, Ludevic's Opus  Tymna the Weaver@70
+Kraum, Ludevic's Opus // Tymna the Weaver@70
 Tasigur, the Golden Fang@63
 Ezuri, Claw of Progress@68
 Magda, Brazen Outlaw@119
@@ -97,4 +97,4 @@ Winota, Joiner of Forces@106
 Talion, the Kindly Lord@68
 Niv-Mizzet, Parun@156
 Sigarda, Font of Blessings@38
-Haldan, Avid Arcanist  Pako, Arcane Retriever@76
+Haldan, Avid Arcanist // Pako, Arcane Retriever@76

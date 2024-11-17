@@ -1,0 +1,5173 @@
+Ajani Steadfast
+Arcane Signet
+Archaeomancer's Map
+Archangel Elspeth
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Deepglow Skate
+Deification
+Deploy the Gatewatch
+Dovin, Hand of Control
+Dreamtide Whale
+Elspeth's Talent
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Gold-Forged Thopteryx
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Inexorable Tide
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Architect of Thought
+Jaya's Phoenix
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Leori, Sparktouched Hunter
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Nesting Grounds
+Nevinyrral's Disk
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Oreskos Explorer
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rowan's Talent
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Tibalt, the Fiend-Blooded
+Vronos, Masked Inquisitor
+Wall of Denial
+
+Adarkar Wastes
+Ajani Steadfast
+All Will Be One
+Arcane Signet
+Battlefield Forge
+Blasphemous Act
+Bothersome Quasit
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chaos Warp
+Chrome Mox
+Cleansing Nova
+Clifftop Retreat
+Comet, Stellar Pup
+Command Tower
+Cyclonic Rift
+Dack Fayden
+Deepglow Skate
+Displacer Kitten
+Don't Move
+Dreamtide Whale
+Elspeth, Sun's Champion
+Excise the Imperfect
+Exotic Orchard
+Farewell
+Final Showdown
+Flux Channeler
+Get Lost
+Glacial Fortress
+Hallowed Fountain
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jin-Gitaxias
+Karn's Bastion
+Liquimetal Torque
+March of Otherworldly Light
+Mobilized District
+Mountain
+Mox Opal
+Narset Transcendent
+Narset of the Ancient Way
+Nykthos, Shrine to Nyx
+Oath of Teferi
+Perilous Landscape
+Plains
+Plaza of Heroes
+Prairie Stream
+Raugrin Triome
+Reliquary Tower
+Ripples of Potential
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Scalding Tarn
+Scavenger Grounds
+Sea of Clouds
+Semester's End
+Shivan Reef
+Sol Ring
+Solphim, Mayhem Dominus
+Spark Double
+Spectator Seating
+Steam Vents
+Stroke of Midnight
+Sulfur Falls
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Tekuthal, Inquiry Dominus
+Teyo, Geometric Tactician
+Tezzeret's Gambit
+The Chain Veil
+The Wandering Emperor
+Training Center
+Ugin, the Spirit Dragon
+Vengeful Ancestor
+Vronos, Masked Inquisitor
+Wild Magic Surge
+
+Ajani Vengeant
+Arcane Signet
+Arena Rector
+Arid Mesa
+Austere Command
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Cephalid Coliseum
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Comet, Stellar Pup
+Command Tower
+Counterspell
+Deepglow Skate
+Djeru, With Eyes Open
+Elspeth, Sun's Champion
+Esper Sentinel
+Exotic Orchard
+Farewell
+Flooded Strand
+Floodfarm Verge
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Gold-Forged Thopteryx
+Grateful Apparition
+Great Hall of the Citadel
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace, the Mind Sculptor
+Jace, the Perfected Mind
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Luxior, Giada's Gift
+Mangara, the Diplomat
+Maze of Ith
+Mila, Crafty Companion
+Mountain
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset Transcendent
+Narset, Parter of Veils
+Needleverge Pathway
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Ral Zarek
+Ral, Crackling Wit
+Relic of Legends
+Reliquary Tower
+Repeated Reverberation
+Rest in Peace
+Rowan Kenrith
+Rugged Prairie
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Swords to Plowshares
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+Teyo, the Shieldmage
+Tezzeret the Seeker
+Tezzeret's Gambit
+The Chain Veil
+The Eternal Wanderer
+The Wandering Emperor
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Will Kenrith
+Wrath of God
+
+Ajani Steadfast
+All Will Be One
+Arcane Signet
+Baird, Steward of Argive
+Blasphemous Act
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chromatic Lantern
+Command Tower
+Commander's Sphere
+Contentious Plan
+Counterspell
+Deepglow Skate
+Dovin's Veto
+Dreamtide Whale
+Elspeth, Sun's Champion
+Evolving Wilds
+Exotic Orchard
+Experimental Augury
+Flux Channeler
+Forge of Heroes
+Ghostly Prison
+Gold-Forged Thopteryx
+Great Hall of the Citadel
+Ichormoon Gauntlet
+Ignite the Beacon
+Inexorable Tide
+Interplanar Beacon
+Island
+Jace Beleren
+Jaya's Phoenix
+Kykar, Wind's Fury
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Luxior, Giada's Gift
+Mila, Crafty Companion
+Mountain
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Perilous Landscape
+Plains
+Propaganda
+Quintorius Kand
+Ral, Crackling Wit
+Repeated Reverberation
+Rings of Brighthearth
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Sol Ring
+Spark Double
+Staff of Compleation
+Supreme Verdict
+Swords to Plowshares
+Teferi's Talent
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Terramorphic Expanse
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Peregrine Dynamo
+The Wanderer
+Urza's Ruinous Blast
+Vanquish the Horde
+Vronos, Masked Inquisitor
+Wayfarer's Bauble
+Whirlwind of Thought
+
+Adarkar Wastes
+Ajani Steadfast
+Arcane Signet
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Clifftop Retreat
+Command Tower
+Dack Fayden
+Deepglow Skate
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Forge of Heroes
+Gatewatch Beacon
+Gideon Jura
+Glacial Fortress
+Grateful Apparition
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jaya's Phoenix
+Karn's Bastion
+Karn's Temporal Sundering
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Path of Ancestry
+Plains
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Reliquary Tower
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Savor the Moment
+Semester's End
+Shivan Reef
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sulfur Falls
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Triumphant Reckoning
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wall of Denial
+Wayfarer's Bauble
+
+Adarkar Wastes
+Ajani, Strength of the Pride
+Arcane Signet
+Archangel Elspeth
+Ascend from Avernus
+Azorius Signet
+Battlefield Forge
+Boros Signet
+Chandra, Awakened Inferno
+Chandra, Dressed to Kill
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chaos Warp
+Clever Concealment
+Coldsteel Heart
+Command Tower
+Cyclonic Rift
+Dack Fayden
+Djeru, With Eyes Open
+Dovin, Grand Arbiter
+Dovin, Hand of Control
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Farewell
+Fellwar Stone
+Fiery Islet
+Flux Channeler
+Generous Gift
+Gold-Forged Thopteryx
+Hallowed Fountain
+Ichormoon Gauntlet
+Inspiring Vantage
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Reawakened
+Jace, Mirror Mage
+Lae'zel, Vlaakith's Champion
+Meticulous Archive
+Mila, Crafty Companion
+Mordenkainen
+Mountain
+Mu Yanling, Sky Dancer
+Narset of the Ancient Way
+Narset, Parter of Veils
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Otawara, Soaring City
+Out of Time
+Path to Exile
+Plains
+Prismatic Vista
+Quintorius Kand
+Raugrin Triome
+Ripples of Potential
+Rowan Kenrith
+Rowan's Talent
+Sacred Foundry
+Saheeli Rai
+Saheeli, Sublime Artificer
+Sea Gate Restoration
+Sea of Clouds
+Seachrome Coast
+Sevinne's Reclamation
+Shatterskull Smashing
+Shivan Reef
+Silent Arbiter
+Sink into Stupor
+Solar Transformer
+Spark Double
+Spectator Seating
+Sphere of the Suns
+Spirebluff Canal
+Steam Vents
+Stroke of Midnight
+Sunbaked Canyon
+Sundering Eruption
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Talent
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teyo, Geometric Tactician
+Tezzeret, Artifice Master
+The Chain Veil
+The Eternal Wanderer
+Third Path Iconoclast
+Thundering Falls
+Training Center
+Unstable Glyphbridge
+Valakut Awakening
+Vronos, Masked Inquisitor
+What Must Be Done
+Will Kenrith
+
+Ajani Steadfast
+Arcane Signet
+Archangel of Tithes
+Arena Rector
+Baird, Steward of Argive
+Blasphemous Act
+Cascade Bluffs
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Cleansing Nova
+Clever Concealment
+Command Tower
+Contagion Clasp
+Deepglow Skate
+Deification
+Deploy the Gatewatch
+Djeru, With Eyes Open
+Elspeth, Sun's Champion
+Everflowing Chalice
+Exotic Orchard
+Experimental Augury
+Farewell
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gold-Forged Thopteryx
+Great Hall of the Citadel
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Jace, Architect of Thought
+Jace, Cunning Castaway
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Lae'zel, Vlaakith's Champion
+Mila, Crafty Companion
+Mountain
+Mystic Gate
+Mystic Monastery
+Narset of the Ancient Way
+Nevinyrral's Disk
+Norn's Annex
+Onakke Oathkeeper
+Plains
+Port Town
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Radstorm
+Ral Zarek
+Raugrin Triome
+Reject Imperfection
+Reliquary Tower
+Ripples of Potential
+Rugged Prairie
+Sacred Foundry
+Scalding Tarn
+Semester's End
+Serum Snare
+Silent Arbiter
+Sol Ring
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Time Raveler
+Temple of Enlightenment
+Teyo, Geometric Tactician
+Teyo, the Shieldmage
+Tezzeret's Gambit
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Unbounded Potential
+Vronos, Masked Inquisitor
+Wall of Denial
+Whirlwind of Thought
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Signet
+Arena Rector
+Azorius Signet
+Battlefield Forge
+Beyeen Veil
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Clifftop Retreat
+Command Tower
+Counterspell
+Dack Fayden
+Deserted Beach
+Dovin, Hand of Control
+Dreamtide Whale
+Enlightened Tutor
+Everflowing Chalice
+Exotic Orchard
+Expel the Interlopers
+Experimental Augury
+Fellwar Stone
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Glacial Fortress
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Reawakened
+Jace, Cunning Castaway
+Jace, Mirror Mage
+Jace, Vryn's Prodigy
+Jaya's Phoenix
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Meekstone
+Mila, Crafty Companion
+Misleading Signpost
+Mobilized District
+Mountain
+Negate
+Nimbus Maze
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Out of Time
+Path to Exile
+Perilous Landscape
+Plains
+Port Town
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Reliquary Tower
+Ripples of Potential
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sea of Clouds
+Shivan Reef
+Silent Arbiter
+Sol Ring
+Spectator Seating
+Stormcarved Coast
+Sulfur Falls
+Sundown Pass
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Teyo, Geometric Tactician
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+The Peregrine Dynamo
+Training Center
+Unstable Glyphbridge
+Valakut Awakening
+Vanquish the Horde
+Vronos, Masked Inquisitor
+
+Adarkar Wastes
+All Will Be One
+Arcane Signet
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Call the Gatewatch
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chaos Warp
+Command Tower
+Counterspell
+Cyclonic Rift
+Dawn's Truce
+Dictate of the Twin Gods
+Dovin's Veto
+Dreamtide Whale
+Eiganjo, Seat of the Empire
+Esper Sentinel
+Exotic Orchard
+Farewell
+Fiendish Duo
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Generous Gift
+Ghostly Prison
+Great Hall of the Citadel
+Hallowed Fountain
+Ichormoon Gauntlet
+Ignite the Beacon
+Interplanar Beacon
+Island
+Izzet Signet
+Jaya's Phoenix
+Kaito, Cunning Infiltrator
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Lae'zel, Vlaakith's Champion
+Mangara, the Diplomat
+Maze of Ith
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Mystic Gate
+Mystic Monastery
+Narset of the Ancient Way
+Narset, Parter of Veils
+Negate
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Otawara, Soaring City
+Plains
+Pramikon, Sky Rampart
+Promise of Loyalty
+Propaganda
+Raugrin Triome
+Reliquary Tower
+Ripples of Potential
+Rugged Prairie
+Sacred Foundry
+Sarkhan the Masterless
+Sea of Clouds
+Shivan Reef
+Silent Arbiter
+Sol Ring
+Solphim, Mayhem Dominus
+Spark Double
+Sparkshaper Visionary
+Spectator Seating
+Steam Vents
+Stroke of Midnight
+Swords to Plowshares
+Take the Bait
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Master of Time
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+Tezzeret's Gambit
+The Chain Veil
+Training Center
+Twinflame Tyrant
+Ugin, the Spirit Dragon
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wayfarer's Bauble
+
+Ajani Steadfast
+All Will Be One
+Blasphemous Act
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Comet, Stellar Pup
+Command Tower
+Dack Fayden
+Deepglow Skate
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Flux Channeler
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Gold-Forged Thopteryx
+Grateful Apparition
+Guff Rewrites History
+Hallowed Fountain
+Ichormoon Gauntlet
+Inexorable Tide
+Island
+Jace Beleren
+Jace Reawakened
+Jace, Wielder of Mysteries
+Jaya's Phoenix
+Jokulhaups
+Karn Liberated
+Lae'zel, Vlaakith's Champion
+Mobilized District
+Mountain
+Mystic Monastery
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Pramikon, Sky Rampart
+Promise of Loyalty
+Radiate
+Reliquary Tower
+Repeated Reverberation
+Ripples of Potential
+Rowan Kenrith
+Sacred Foundry
+Saheeli, Sublime Artificer
+Savor the Moment
+Semester's End
+Silent Arbiter
+Spark Double
+Steam Vents
+Supreme Verdict
+Swords to Plowshares
+Tamiyo, the Moon Sage
+Teferi's Protection
+Teferi's Talent
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Teyo, Geometric Tactician
+Tezzeret's Gambit
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Triumphant Reckoning
+Ugin, the Spirit Dragon
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+
+Ajani Steadfast
+Ajani, Strength of the Pride
+Akroma's Vengeance
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Deepglow Skate
+Deploy the Gatewatch
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Flux Channeler
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Blackblade
+Gold-Forged Thopteryx
+Grateful Apparition
+Guff Rewrites History
+Ichormoon Gauntlet
+Ignite the Beacon
+Interplanar Beacon
+Island
+Isperia, Supreme Judge
+Izzet Signet
+Jhoira's Familiar
+Karn's Bastion
+Luxior, Giada's Gift
+Magus of the Disk
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Nevinyrral's Disk
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Path to Exile
+Perilous Landscape
+Plains
+Port Town
+Portal Mage
+Reliquary Tower
+Rowan Kenrith
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+Tezzeret's Gambit
+The Chain Veil
+The Wanderer
+Thrummingbird
+Ugin, the Spirit Dragon
+Urza's Ruinous Blast
+Venser, the Sojourner
+Vronos, Masked Inquisitor
+Wall of Denial
+Will Kenrith
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Austere Command
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Bloodstained Mire
+Boros Signet
+Call the Gatewatch
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Fire Artisan
+Chandra, Legacy of Fire
+Chandra, Pyromaster
+Chandra, Torch of Defiance
+Chromatic Lantern
+Command Tower
+Counterspell
+Dack Fayden
+Displacer Kitten
+Dovin's Veto
+Elegant Parlor
+Elspeth, Sun's Champion
+Enlightened Tutor
+Experimental Augury
+Fabricate
+Flooded Strand
+Flux Channeler
+Forge of Heroes
+Gatewatch Beacon
+Hallowed Fountain
+Ichormoon Gauntlet
+Island
+Izzet Signet
+Jace Reawakened
+Jace, the Mind Sculptor
+Jaya's Phoenix
+Jeskai Ascendancy
+Karn's Bastion
+Kykar, Wind's Fury
+Lae'zel, Vlaakith's Champion
+Meticulous Archive
+Mountain
+Mystic Monastery
+Mystical Tutor
+Narset of the Ancient Way
+Narset, Parter of Veils
+Negate
+Oath of Gideon
+Oath of Teferi
+Path to Exile
+Plains
+Polluted Delta
+Raugrin Triome
+Reliquary Tower
+Rings of Brighthearth
+Rowan's Talent
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sarkhan, Dragonsoul
+Sea of Clouds
+Serum Snare
+Shivan Reef
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Staff of Compleation
+Steam Vents
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Tezzeret the Seeker
+Tezzeret's Gambit
+The Eternal Wanderer
+The One Ring
+Thought Vessel
+Thundering Falls
+Training Center
+Ugin, the Spirit Dragon
+Whirlwind of Thought
+Will Kenrith
+Windswept Heath
+Wooded Foothills
+Wrath of God
+
+Arcane Signet
+Archon of Absolution
+Azorius Signet
+Back to Basics
+Baird, Steward of Argive
+Braid of Fire
+Chandra's Regulator
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Bold Pyromancer
+Chandra, Fire of Kaladesh
+Chandra, Flame's Fury
+Contentious Plan
+Deification
+Elspeth Tirel
+Ensnaring Bridge
+Esper Sentinel
+Flux Channeler
+Gideon Jura
+Gideon of the Trials
+Gideon, Champion of Justice
+Grateful Apparition
+Gravity Sphere
+Humility
+Ichormoon Gauntlet
+Inexorable Tide
+Island
+Izzet Signet
+Jace, Architect of Thought
+Jace, Memory Adept
+Jace, Unraveler of Secrets
+Jace, the Mind Sculptor
+Leori, Sparktouched Hunter
+Lightning Blast
+Magma Spray
+Mountain
+Narset, Parter of Veils
+Oath of Teferi
+Onakke Oathkeeper
+Plains
+Pramikon, Sky Rampart
+Ragavan, Nimble Pilferer
+Rhystic Study
+Rings of Brighthearth
+Sarkhan the Masterless
+Shark Typhoon
+Silent Arbiter
+Sol Ring
+Sphere of Safety
+Steady Progress
+Sword of Truth and Justice
+Tamiyo, the Moon Sage
+Teferi's Ageless Insight
+Teferi's Talent
+Teferi, Hero of Dominaria
+Teferi, Mage of Zhalfir
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Tekuthal, Inquiry Dominus
+The Chain Veil
+The Wanderer
+The Wandering Emperor
+Thrummingbird
+Tibalt, Rakish Instigator
+Vronos, Masked Inquisitor
+
+Ajani Steadfast
+All Will Be One
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Deepglow Skate
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Farewell
+Fellwar Stone
+Floodfarm Verge
+Flux Channeler
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Grateful Apparition
+Guff Rewrites History
+Hallowed Fountain
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jaya's Phoenix
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Raugrin Triome
+Reliquary Tower
+Repeated Reverberation
+Ripples of Potential
+Rugged Prairie
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Steam Vents
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi's Talent
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Training Center
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+
+Ajani Steadfast
+Arcane Signet
+Baird, Steward of Argive
+Battlefield Forge
+Blasphemous Act
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chromatic Lantern
+Command Tower
+Curse of the Swine
+Cyclonic Rift
+Deepglow Skate
+Deploy the Gatewatch
+Deserted Beach
+Elspeth, Sun's Champion
+Exotic Orchard
+Flooded Strand
+Flux Channeler
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gideon Jura
+Grateful Apparition
+Hallowed Fountain
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Lunar Insight
+Mangara, the Diplomat
+Memory Deluge
+Mila, Crafty Companion
+Mountain
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Raugrin Triome
+Reliquary Tower
+Repeated Reverberation
+Riverglide Pathway
+Rugged Prairie
+Sacred Foundry
+Shivan Reef
+Silent Arbiter
+Sol Ring
+Spark Double
+Spellskite
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Temporal Archmage
+Teyo, Geometric Tactician
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+The Wandering Emperor
+Time Warp
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wrath of God
+
+Ajani Goldmane
+Ajani Steadfast
+Ajani, Inspiring Leader
+Ajani, Nacatl Pariah
+Ajani, Strength of the Pride
+All Will Be One
+Anointed Procession
+Arcane Signet
+Archangel Elspeth
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Bold Pyromancer
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chromatic Lantern
+Clifftop Retreat
+Command Tower
+Contagion Engine
+Deepglow Skate
+Dreamtide Whale
+Elspeth's Talent
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Frostboil Snarl
+Furycalm Snarl
+Ghostly Prison
+Glacial Fortress
+Gold-Forged Thopteryx
+Grateful Apparition
+Hengegate Pathway
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Unraveler of Secrets
+Jace, the Mind Sculptor
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Kazuul, Tyrant of the Cliffs
+Kor Haven
+Kykar, Wind's Fury
+Lae'zel, Vlaakith's Champion
+Lithoform Engine
+Mangara, the Diplomat
+Mordenkainen
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Needleverge Pathway
+Nesting Grounds
+Norn's Annex
+Oath of Teferi
+Path to Exile
+Plains
+Port Town
+Propaganda
+Ral Zarek
+Renegade Map
+Rhystic Study
+Rings of Brighthearth
+Riverglide Pathway
+Rugged Prairie
+Sol Ring
+Stroke of Midnight
+Swords to Plowshares
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Tezzeret, Artifice Master
+The Chain Veil
+The Eternal Wanderer
+The Fifth Doctor
+The Peregrine Dynamo
+The Wanderer
+The Wandering Emperor
+Thrummingbird
+Vanquish the Horde
+Weathered Wayfarer
+Whirlwind of Thought
+
+Adarkar Wastes
+Ajani Steadfast
+Arcane Signet
+Arid Mesa
+Ascend from Avernus
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Beacon
+Command Tower
+Dack Fayden
+Deification
+Deploy the Gatewatch
+Deserted Beach
+Djeru, With Eyes Open
+Dovin, Hand of Control
+Drannith Magistrate
+Elspeth, Sun's Champion
+Ensnaring Bridge
+Exotic Orchard
+Fabled Passage
+Farewell
+Fellwar Stone
+Flood Plain
+Flux Channeler
+Generous Gift
+Ghostly Prison
+Gideon of the Trials
+Guff Rewrites History
+Hallowed Fountain
+Humility
+Ichormoon Gauntlet
+Island
+Izzet Signet
+Jace, the Mind Sculptor
+Jaya, Fiery Negotiator
+Jeska's Will
+Karn, the Great Creator
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Luxior, Giada's Gift
+Mana Vault
+Meticulous Archive
+Mila, Crafty Companion
+Mountain
+Mystic Monastery
+Mystic Remora
+Narset, Parter of Veils
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Propaganda
+Quintorius Kand
+Raugrin Triome
+Reflecting Pool
+Resourceful Defense
+Rugged Prairie
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Scalding Tarn
+Sea of Clouds
+Shivan Reef
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Sunbaked Canyon
+Sundown Pass
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+The Chain Veil
+The Eternal Wanderer
+The Wandering Emperor
+Training Center
+Urza Assembles the Titans
+Urza's Cave
+Vandalblast
+Vanquish the Horde
+Windfall
+
+All Will Be One
+Arcane Signet
+Blasphemous Act
+Blind Obedience
+Chandra, Awakened Inferno
+Chandra, Bold Pyromancer
+Chandra, Hope's Beacon
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Clifftop Retreat
+Comet, Stellar Pup
+Command Tower
+Counterspell
+Day's Undoing
+Deepglow Skate
+Disrupt Decorum
+Dovin's Veto
+Elspeth, Sun's Champion
+Exotic Orchard
+Experimental Augury
+Farewell
+Flux Channeler
+Glacial Fortress
+Grateful Apparition
+Guff Rewrites History
+Hallowed Fountain
+Ichormoon Gauntlet
+Ignite the Beacon
+Inexorable Tide
+Interplanar Beacon
+Island
+Jaya's Phoenix
+Karn's Bastion
+Karn, the Great Creator
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mana Drain
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mountain
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Parter of Veils
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Prairie Stream
+Ral Zarek
+Raugrin Triome
+Repeated Reverberation
+Ripples of Potential
+Sacred Foundry
+Sea of Clouds
+Semester's End
+Silent Arbiter
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Sulfur Falls
+Sundown Pass
+Supreme Verdict
+Teferi's Protection
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Tekuthal, Inquiry Dominus
+Teyo, Geometric Tactician
+Tezzeret's Gambit
+Thassa's Oracle
+The Chain Veil
+The Eternal Wanderer
+The Wandering Emperor
+Thrummingbird
+Training Center
+Vronos, Masked Inquisitor
+
+Academy Rector
+Adarkar Wastes
+Ancient Tomb
+Arcane Signet
+Arena Rector
+Arid Mesa
+Azorius Signet
+Blasphemous Act
+Bloodstained Mire
+Boros Signet
+Call the Gatewatch
+Cascade Bluffs
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+City of Brass
+Clifftop Retreat
+Command Tower
+Cyclonic Rift
+Dack Fayden
+Displacer Kitten
+Enlightened Tutor
+Faith's Reward
+Flooded Strand
+Flux Channeler
+Ghostly Prison
+Glacial Fortress
+Grateful Apparition
+Hallowed Fountain
+Hengegate Pathway
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Inexorable Tide
+Island
+Izzet Signet
+Jace, the Mind Sculptor
+Jaya's Phoenix
+Karn, the Great Creator
+Leori, Sparktouched Hunter
+Mana Confluence
+Marsh Flats
+Misty Rainforest
+Mountain
+Mystic Gate
+Mystic Remora
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Needleverge Pathway
+Nimbus Maze
+Norn's Annex
+Oath of Teferi
+Omniscience
+Onakke Oathkeeper
+Path to Exile
+Plains
+Plateau
+Plaza of Heroes
+Polluted Delta
+Prismatic Vista
+Propaganda
+Rhystic Study
+Rugged Prairie
+Sacred Foundry
+Sarkhan the Masterless
+Scalding Tarn
+Sea of Clouds
+Shivan Reef
+Skullclamp
+Smothering Tithe
+Smuggler's Share
+Sol Ring
+Spark Double
+Steam Vents
+Sulfur Falls
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+The Chain Veil
+The One Ring
+The Peregrine Dynamo
+Tundra
+Ugin, the Spirit Dragon
+Volcanic Island
+Vronos, Masked Inquisitor
+Windswept Heath
+Wooded Foothills
+
+Adarkar Wastes
+Ajani Steadfast
+All Will Be One
+Alrund's Epiphany
+Amphin Mutineer
+Arcane Signet
+Archon of Emeria
+Arid Mesa
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Blind Obedience
+Boros Signet
+Cascade Bluffs
+Celestial Colonnade
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Clifftop Retreat
+Command Tower
+Counterspell
+Dack Fayden
+Day of Judgment
+Deepglow Skate
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Farewell
+Flooded Strand
+Flux Channeler
+Grateful Apparition
+Guff Rewrites History
+Hallowed Fountain
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace, Mirror Mage
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Maze of Ith
+Mobilized District
+Mountain
+Mystic Gate
+Mystic Monastery
+Mystic Remora
+Narset of the Ancient Way
+Narset, Parter of Veils
+Nevinyrral's Disk
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Out of Time
+Path to Exile
+Plains
+Pramikon, Sky Rampart
+Ral Zarek
+Reliquary Tower
+Reprieve
+Rugged Prairie
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Scalding Tarn
+Semester's End
+Shivan Reef
+Sol Ring
+Spark Double
+Steam Vents
+Sulfur Falls
+Sunfall
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Teferi, Who Slows the Sunset
+Teyo, Geometric Tactician
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+Training Center
+Ugin, the Spirit Dragon
+Vandalblast
+Vronos, Masked Inquisitor
+Wear // Tear
+
+Adarkar Wastes
+Ajani Steadfast
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arid Mesa
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Cascade Bluffs
+Chandra, Legacy of Fire
+City of Brass
+Command Tower
+Counterspell
+Cyclonic Rift
+Deepglow Skate
+Deflecting Swat
+Deserted Beach
+Dovin's Veto
+Dovin, Hand of Control
+Elspeth, Sun's Champion
+Esper Sentinel
+Farewell
+Fierce Guardianship
+Flooded Strand
+Generous Gift
+Gideon Jura
+Hallowed Fountain
+Hengegate Pathway
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jace, the Mind Sculptor
+Karn's Bastion
+Kykar, Wind's Fury
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mana Confluence
+Mana Drain
+Mila, Crafty Companion
+Mountain
+Mox Amber
+Mystic Gate
+Mystic Remora
+Mystical Tutor
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Needleverge Pathway
+Oath of Teferi
+Plains
+Pramikon, Sky Rampart
+Prismatic Vista
+Promise of Loyalty
+Raugrin Triome
+Reflecting Pool
+Rhystic Study
+Rings of Brighthearth
+Ripples of Potential
+Riverglide Pathway
+Rugged Prairie
+Sacred Foundry
+Savor the Moment
+Scalding Tarn
+Sea of Clouds
+Shivan Reef
+Silent Arbiter
+Skycloud Expanse
+Smothering Tithe
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Sundown Pass
+Sunfall
+Swan Song
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Teyo, Geometric Tactician
+The Eternal Wanderer
+The One Ring
+The Peregrine Dynamo
+The Wanderer
+Training Center
+Ugin, the Spirit Dragon
+Urza Assembles the Titans
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+
+Arcane Signet
+Archangel Elspeth
+Archon of Absolution
+Archon of Emeria
+Baird, Steward of Argive
+Blasphemous Act
+Call the Gatewatch
+Cascade Bluffs
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Consecrated Sphinx
+Cursed Totem
+Dack Fayden
+Deepglow Skate
+Dreamtide Whale
+Elspeth, Sun's Champion
+Ensnaring Bridge
+Exotic Orchard
+Flux Channeler
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Godhead of Awe
+Gold-Forged Thopteryx
+Grateful Apparition
+Hengegate Pathway
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Jace, Cunning Castaway
+Jaya's Phoenix
+Karmic Justice
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Kykar, Wind's Fury
+Lae'zel, Vlaakith's Champion
+Mila, Crafty Companion
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Narset, Parter of Veils
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Ovika, Enigma Goliath
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rings of Brighthearth
+Rowan's Talent
+Rugged Prairie
+Savor the Moment
+Semester's End
+Silent Arbiter
+Sol Ring
+Spark Double
+Storm of Saruman
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teyo, Geometric Tactician
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Unstable Glyphbridge
+Whirlwind of Thought
+Windfall
+Wrath of God
+
+All Will Be One
+Ancient Tomb
+Arid Mesa
+Basalt Monolith
+Blasphemous Act
+Cascade Bluffs
+Chandra, Flameshaper
+Chandra, Hope's Beacon
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chromatic Orrery
+Cloudstone Curio
+Command Tower
+Cyclonic Rift
+Deepglow Skate
+Displacer Kitten
+Eiganjo, Seat of the Empire
+Elegant Parlor
+Elspeth, Sun's Champion
+Enlightened Tutor
+Exotic Orchard
+Fabricate
+Farewell
+Final Showdown
+Flooded Strand
+Flux Channeler
+Great Hall of the Citadel
+Guff Rewrites History
+Hallowed Fountain
+Ichormoon Gauntlet
+Imperial Recruiter
+Interplanar Beacon
+Jeska's Will
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Lae'zel, Vlaakith's Champion
+Lithoform Engine
+Magus of the Moat
+Mana Vault
+Meticulous Archive
+Mila, Crafty Companion
+Minamo, School at Water's Edge
+Moat
+Myriad Landscape
+Mystic Gate
+Mystical Tutor
+Narset Transcendent
+Narset, Parter of Veils
+Oath of Teferi
+Onakke Oathkeeper
+Otawara, Soaring City
+Pinnacle Monk
+Planebound Accomplice
+Plateau
+Plaza of Heroes
+Ral Zarek
+Ral, Crackling Wit
+Raugrin Triome
+Rhystic Study
+Rings of Brighthearth
+Ripples of Potential
+Rugged Prairie
+Sacred Foundry
+Sarkhan the Masterless
+Scalding Tarn
+Sea Gate Restoration
+Search for Glory
+Silent Arbiter
+Sink into Stupor
+Smothering Tithe
+Snow-Covered Island
+Snow-Covered Mountain
+Snow-Covered Plains
+Sol Ring
+Sparkshaper Visionary
+Steam Vents
+Supreme Verdict
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+The One Ring
+The Peregrine Dynamo
+Thundering Falls
+Triumphant Reckoning
+Tundra
+Ugin, the Spirit Dragon
+Urza's Ruinous Blast
+Vanquish the Horde
+Volcanic Island
+Witch Enchanter
+
+Ajani Steadfast
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Counterspell
+Deepglow Skate
+Dovin's Veto
+Dovin, Hand of Control
+Dreamtide Whale
+Elspeth, Knight-Errant
+Elspeth, Sun's Champion
+Evolving Wilds
+Exotic Orchard
+Experimental Augury
+Farewell
+Fellwar Stone
+Flux Channeler
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Grateful Apparition
+Great Hall of the Citadel
+Holy Day
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jaya's Phoenix
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mila, Crafty Companion
+Mountain
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Nexus of Fate
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Permission Denied
+Plains
+Port Town
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Ral Zarek
+Repeated Reverberation
+Rowan's Talent
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Supreme Verdict
+Swords to Plowshares
+Talisman of Creativity
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Who Slows the Sunset
+Tekuthal, Inquiry Dominus
+Teyo, Geometric Tactician
+Tezzeret's Gambit
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wall of Denial
+
+Arcane Signet
+Blasphemous Act
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Counterspell
+Deepglow Skate
+Deploy the Gatewatch
+Displacer Kitten
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Experimental Augury
+Farewell
+Floodfarm Verge
+Flux Channeler
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Jace Beleren
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Lithoform Engine
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Ripples of Potential
+Rowan Kenrith
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Talent
+Teferi, Temporal Archmage
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+Tezzeret the Seeker
+Tezzeret's Gambit
+The Chain Veil
+The Eternal Wanderer
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Will Kenrith
+
+Ajani Steadfast
+Arcane Signet
+Cartographer's Hawk
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Darksteel Ingot
+Deepglow Skate
+Deploy the Gatewatch
+Elspeth, Sun's Champion
+Exotic Orchard
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Grateful Apparition
+Guff Rewrites History
+Ignite the Beacon
+Interplanar Beacon
+Island
+Jace Beleren
+Jace Reawakened
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mobilized District
+Mordenkainen
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nevinyrral's Disk
+Niv-Mizzet, the Firemind
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Oreskos Explorer
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Propaganda
+Reconnaissance
+Reliquary Tower
+Repeated Reverberation
+Rowan Kenrith
+Rugged Prairie
+Semester's End
+Silent Arbiter
+Sol Ring
+Spark Double
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Who Slows the Sunset
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thought Vessel
+Thrummingbird
+Ugin, the Ineffable
+Urza Assembles the Titans
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Will Kenrith
+
+All Will Be One
+Arcane Signet
+Ascend from Avernus
+Azorius Signet
+Blasphemous Act
+Boros Garrison
+Boros Signet
+Brago, King Eternal
+Cadric, Soul Kindler
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+City of Brass
+City on Fire
+Command Tower
+Counterspell
+Dack Fayden
+Day of Judgment
+Dovin, Hand of Control
+Elspeth, Sun's Champion
+Exotic Orchard
+Farewell
+Gisela, Blade of Goldnight
+Great Hall of the Citadel
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Boilerworks
+Izzet Signet
+Jace, Cunning Castaway
+Jace, Mirror Mage
+Karn's Bastion
+Lithoform Engine
+Lukka, Coppercoat Outcast
+Mordenkainen
+Mountain
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset, Enlightened Master
+Narset, Parter of Veils
+Niko Aris
+Niv-Mizzet, Visionary
+Oath of Teferi
+Omniscience
+Path to Exile
+Perilous Landscape
+Plains
+Prairie Stream
+Pramikon, Sky Rampart
+Quintorius, Loremaster
+Ral Zarek
+Reality Scramble
+Reliquary Tower
+Repeated Reverberation
+Ripples of Potential
+Rowan Kenrith
+Rugged Prairie
+Search for Glory
+Silent Arbiter
+Skycloud Expanse
+Smothering Tithe
+Sol Ring
+Spark Double
+Stroke of Midnight
+Sunfall
+Supreme Verdict
+Swords to Plowshares
+Take the Bait
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Temporal Archmage
+Teferi, Who Slows the Sunset
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Eternal Wanderer
+Triumphant Reckoning
+Valakut Awakening
+Vronos, Masked Inquisitor
+Will Kenrith
+
+Ajani Steadfast
+All Will Be One
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Bribery
+Cartographer's Hawk
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Deploy the Gatewatch
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Fog Bank
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Interplanar Beacon
+Island
+Izzet Signet
+Jaya's Phoenix
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Kazuul, Tyrant of the Cliffs
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Oreskos Explorer
+Pacifism
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sanctimony
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Tekuthal, Inquiry Dominus
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+Tezzeret, Artifice Master
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Ugin, the Ineffable
+Urza Assembles the Titans
+Vronos, Masked Inquisitor
+Wayfarer's Bauble
+
+Adarkar Wastes
+Ajani Steadfast
+Arcane Signet
+Archon of Absolution
+Arena Rector
+Azorius Signet
+Baird, Steward of Argive
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Call the Gatewatch
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Clifftop Retreat
+Command Tower
+Deepglow Skate
+Deploy the Gatewatch
+Desolate Lighthouse
+Djeru, With Eyes Open
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Ferrous Lake
+Flux Channeler
+Generous Gift
+Glacial Fortress
+Grateful Apparition
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Ignite the Beacon
+Inexorable Tide
+Interplanar Beacon
+Irrigated Farmland
+Island
+Izzet Signet
+Jace Beleren
+Jace Reawakened
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Luxior, Giada's Gift
+Mila, Crafty Companion
+Mountain
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset, Parter of Veils
+Nesting Grounds
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Prairie Stream
+Promise of Loyalty
+Quintorius Kand
+Radstorm
+Reliquary Tower
+Resourceful Defense
+Rings of Brighthearth
+Ripples of Potential
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Shivan Reef
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sulfur Falls
+Sunscorched Divide
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Tamiyo, the Moon Sage
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Teferi, Who Slows the Sunset
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Peregrine Dynamo
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+
+Ajani Vengeant
+Ajani, Strength of the Pride
+Arcane Signet
+As Foretold
+Astral Cornucopia
+Austere Command
+Battlefield Forge
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Pyromaster
+Chandra, Torch of Defiance
+Chromatic Lantern
+Clifftop Retreat
+Coalition Relic
+Command Tower
+Commander's Sphere
+Contagion Engine
+Counterspell
+Cyclonic Rift
+Deepglow Skate
+Deploy the Gatewatch
+Dovin Baan
+Dreamtide Whale
+Elspeth, Knight-Errant
+Elspeth, Sun's Champion
+Evolving Wilds
+Fellwar Stone
+Flux Channeler
+Generous Gift
+Gideon Jura
+Gideon, Ally of Zendikar
+Glacial Fortress
+Gold-Forged Thopteryx
+Hallowed Fountain
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Jace, Architect of Thought
+Jace, Wielder of Mysteries
+Karn Liberated
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Lae'zel, Vlaakith's Champion
+Mana Leak
+Mind Stone
+Mountain
+Mystic Gate
+Nahiri, the Harbinger
+Narset Transcendent
+Narset, Parter of Veils
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Path to Exile
+Plains
+Plea for Guidance
+Prairie Stream
+Ral Zarek
+Reliquary Tower
+Rhystic Study
+Rogue's Passage
+Sacred Foundry
+Saheeli Rai
+Sejiri Steppe
+Shivan Reef
+Skycloud Expanse
+Sol Ring
+Supreme Verdict
+Swords to Plowshares
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Time Raveler
+Terramorphic Expanse
+Tezzeret, Artifice Master
+The Chain Veil
+The Wanderer
+Training Center
+Ugin, the Spirit Dragon
+Vronos, Masked Inquisitor
+Wall of Denial
+Wrath of God
+
+Adarkar Wastes
+Ajani Vengeant
+Arcane Signet
+Battlefield Forge
+Blasphemous Act
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chromatic Lantern
+Clifftop Retreat
+Command Tower
+Dack Fayden
+Deepglow Skate
+Dovin Baan
+Elspeth, Sun's Champion
+Exotic Orchard
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Gideon of the Trials
+Glacial Fortress
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jace Beleren
+Karn's Bastion
+Karn's Temporal Sundering
+Kazuul, Tyrant of the Cliffs
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Path of Ancestry
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Rowan Kenrith
+Rugged Prairie
+Saheeli Rai
+Sarkhan the Masterless
+Savor the Moment
+Shivan Reef
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Sulfur Falls
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Teferi's Talent
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+Thriving Bluff
+Thriving Heath
+Thriving Isle
+Thrummingbird
+Triumphant Reckoning
+Urza Assembles the Titans
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wall of Denial
+Will Kenrith
+
+Adarkar Wastes
+Arcane Denial
+Arcane Signet
+Archangel Elspeth
+Arid Mesa
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Blind Obedience
+Boros Signet
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chaos Warp
+Clever Concealment
+Comet, Stellar Pup
+Command Tower
+Counterspell
+Dack Fayden
+Deepglow Skate
+Deserted Beach
+Desynchronization
+Dreamtide Whale
+Eiganjo, Seat of the Empire
+Elspeth, Sun's Champion
+Enlightened Tutor
+Esper Sentinel
+Exotic Orchard
+Faerie Mastermind
+Farewell
+Fellwar Stone
+Flooded Strand
+Floodfarm Verge
+Flux Channeler
+Gamble
+Glacial Fortress
+Hallowed Fountain
+Hengegate Pathway
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jace, Cunning Castaway
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Marsh Flats
+Mila, Crafty Companion
+Mountain
+Narset, Parter of Veils
+Needleverge Pathway
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Otawara, Soaring City
+Path to Exile
+Plains
+Polluted Delta
+Pramikon, Sky Rampart
+Quintorius Kand
+Ragavan, Nimble Pilferer
+Raugrin Triome
+Reliquary Tower
+Ripples of Potential
+Riverglide Pathway
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea of Clouds
+Shivan Reef
+Smothering Tithe
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Sulfur Falls
+Sundown Pass
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teyo, Geometric Tactician
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+Training Center
+Triumphant Reckoning
+Vanquish the Horde
+Venser, the Sojourner
+Vronos, Masked Inquisitor
+Whirlwind of Thought
+
+Ajani Vengeant
+Arcane Signet
+Archangel Elspeth
+Blasphemous Act
+Bloodstained Mire
+Brainstorm
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Comet, Stellar Pup
+Command Tower
+Commander's Sphere
+Contagion Engine
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Dack Fayden
+Deepglow Skate
+Deflecting Swat
+Disallow
+Dovin Baan
+Dovin's Veto
+Elspeth, Sun's Champion
+Enlightened Tutor
+Esper Sentinel
+Faithless Looting
+Farewell
+Flooded Strand
+Floodfarm Verge
+Flux Channeler
+Fog Bank
+Gamble
+Hallowed Fountain
+Ichormoon Gauntlet
+Inexorable Tide
+Island
+Karn's Bastion
+Marsh Flats
+Mila, Crafty Companion
+Mountain
+Mystic Remora
+Mystical Tutor
+Nahiri, the Harbinger
+Narset, Parter of Veils
+Nevinyrral's Disk
+Oath of Teferi
+Path to Exile
+Plains
+Plateau
+Polluted Delta
+Ponder
+Prologue to Phyresis
+Radstorm
+Raugrin Triome
+Reliquary Tower
+Rings of Brighthearth
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Silent Arbiter
+Smothering Tithe
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Time Raveler
+Tekuthal, Inquiry Dominus
+The Chain Veil
+The Eternal Wanderer
+Thrummingbird
+Training Center
+Trickbind
+Tundra
+Ugin, the Spirit Dragon
+Vandalblast
+Volcanic Island
+Wall of Denial
+Windswept Heath
+
+All Will Be One
+Arcane Signet
+Archangel Elspeth
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Contagion Engine
+Deepglow Skate
+Deflecting Swat
+Displacer Kitten
+Djeru, With Eyes Open
+Elspeth, Sun's Champion
+Evolving Wilds
+Exotic Orchard
+Experimental Augury
+Farewell
+Fellwar Stone
+Fierce Guardianship
+Flux Channeler
+Forge of Heroes
+Gatewatch Beacon
+Grateful Apparition
+Hallowed Fountain
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Jace, the Mind Sculptor
+Jaya's Phoenix
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Lithoform Engine
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Mystic Gate
+Mystic Monastery
+Narset of the Ancient Way
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Prairie Stream
+Pramikon, Sky Rampart
+Reliquary Tower
+Repeated Reverberation
+Rowan Kenrith
+Rugged Prairie
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sea of Clouds
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Sunfall
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+The Peregrine Dynamo
+Thrummingbird
+Training Center
+Ugin, the Spirit Dragon
+Vronos, Masked Inquisitor
+Will Kenrith
+
+Adarkar Wastes
+Ajani Steadfast
+Ajani Vengeant
+All Will Be One
+Alpine Meadow
+Arcane Signet
+Austere Command
+Battlefield Forge
+Blasphemous Act
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Clifftop Retreat
+Comeuppance
+Command Tower
+Counterspell
+Cyclonic Rift
+Dack Fayden
+Deepglow Skate
+Deploy the Gatewatch
+Deserted Beach
+Dreamtide Whale
+Elspeth, Knight-Errant
+Elspeth, Sun's Champion
+Exotic Orchard
+Flooded Strand
+Flux Channeler
+Gatewatch Beacon
+Glacial Floodplain
+Glacial Fortress
+Grateful Apparition
+Hallowed Fountain
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jace, Cunning Castaway
+Jaya's Phoenix
+Karn Liberated
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mila, Crafty Companion
+Mountain
+Mu Yanling, Sky Dancer
+Mystic Monastery
+Nahiri, the Harbinger
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Enlightened Master
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Plains
+Prairie Stream
+Pramikon, Sky Rampart
+Quintorius Kand
+Ral Zarek
+Reliquary Tower
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Sulfur Falls
+Sundown Pass
+Supreme Verdict
+Swan Song
+Swords to Plowshares
+Take the Bait
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Temporal Archmage
+Temple of Enlightenment
+Teyo, Geometric Tactician
+Tezzeret the Seeker
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Thundering Falls
+Training Center
+Urza Assembles the Titans
+Vandalblast
+Venser, the Sojourner
+Vronos, Masked Inquisitor
+Wooded Foothills
+
+Adarkar Wastes
+Arcane Signet
+Arena Rector
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Clifftop Retreat
+Command Tower
+Contagion Engine
+Counterspell
+Dack Fayden
+Deepglow Skate
+Displacer Kitten
+Dovin Baan
+Dovin's Veto
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Forge of Heroes
+Glacial Fortress
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jokulhaups
+Karn's Bastion
+Kykar, Wind's Fury
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Maze of Ith
+Mila, Crafty Companion
+Mirror Room // Fractured Realm
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Peacekeeper
+Plains
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Propaganda
+Ral Zarek
+Reliquary Tower
+Rings of Brighthearth
+Rowan Kenrith
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sea of Clouds
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Smothering Tithe
+Sol Ring
+Spark Double
+Sulfur Falls
+Sunscorched Divide
+Swords to Plowshares
+Take the Bait
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+Training Center
+Triumphant Reckoning
+Ugin, the Spirit Dragon
+Vronos, Masked Inquisitor
+Will Kenrith
+
+All Will Be One
+Arcane Signet
+Archangel Elspeth
+Arena Rector
+Arid Mesa
+Call the Gatewatch
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Hope's Beacon
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chaos Warp
+Clifftop Retreat
+Comet, Stellar Pup
+Command Tower
+Contagion Engine
+Deepglow Skate
+Deploy the Gatewatch
+Djeru, With Eyes Open
+Dovin Baan
+Flooded Strand
+Flux Channeler
+Forge of Heroes
+Glacial Fortress
+Hallowed Fountain
+Ichormoon Gauntlet
+Inexorable Tide
+Island
+Jace Beleren
+Jace, Architect of Thought
+Jace, Unraveler of Secrets
+Jace, the Mind Sculptor
+Jaya's Phoenix
+Karn Liberated
+Kasmina, Enigmatic Mentor
+Lae'zel, Vlaakith's Champion
+Mila, Crafty Companion
+Monastery Mentor
+Mordenkainen
+Mountain
+Mystic Gate
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nesting Grounds
+Oath of Teferi
+Path to Exile
+Plains
+Proud Pack-Rhino
+Quintorius Kand
+Ral Zarek
+Reliquary Tower
+Rowan Kenrith
+Rugged Prairie
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Silent Arbiter
+Sol Ring
+Spectator Seating
+Steam Vents
+Sulfur Falls
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Tamiyo, the Moon Sage
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Tekuthal, Inquiry Dominus
+Teyo, Geometric Tactician
+Teyo, the Shieldmage
+The Chain Veil
+The Peregrine Dynamo
+Thrummingbird
+Training Center
+Triumphant Reckoning
+Ugin, the Spirit Dragon
+Venser, the Sojourner
+Vronos, Masked Inquisitor
+Will Kenrith
+
+Ajani, Strength of the Pride
+Arcane Signet
+Astral Cornucopia
+Azorius Signet
+Boros Signet
+Cascade Bluffs
+Cayth, Famed Mechanist
+Chandra Nalaar
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Bold Pyromancer
+Chandra, Dressed to Kill
+Chandra, Flame's Catalyst
+Chandra, Flame's Fury
+Chandra, Heart of Fire
+Chandra, Legacy of Fire
+Chandra, Pyrogenius
+Chandra, Pyromaster
+Chromatic Lantern
+Command Tower
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Deflecting Swat
+Deserted Beach
+Everflowing Chalice
+Exotic Orchard
+Experimental Augury
+Fellwar Stone
+Flux Channeler
+Forge of Heroes
+Fuel for the Cause
+Gatewatch Beacon
+Hengegate Pathway
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Izzet Signet
+Lae'zel, Vlaakith's Champion
+Land Tax
+Mana Drain
+Mountain
+Mox Amber
+Mu Yanling
+Mystic Gate
+Mystic Monastery
+Narset of the Ancient Way
+Needleverge Pathway
+Oath of Teferi
+Plains
+Plaza of Heroes
+Proft's Eidetic Memory
+Radstorm
+Raugrin Triome
+Reflecting Pool
+Reject Imperfection
+Reliquary Tower
+Rhystic Study
+Riverglide Pathway
+Rugged Prairie
+Sarkhan, Dragonsoul
+Sea of Clouds
+Serum Snare
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Staff of Compleation
+Steady Progress
+Stormcarved Coast
+Sundown Pass
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Teferi, Timebender
+Tekuthal, Inquiry Dominus
+Tezzeret's Gambit
+Thought Vessel
+Training Center
+Ugin, the Spirit Dragon
+Vandalblast
+Vivisurgeon's Insight
+Volt Charge
+Wanderer's Strike
+
+Ajani Steadfast
+Ajani, Strength of the Pride
+All Will Be One
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arid Mesa
+Baird, Steward of Argive
+Boros Charm
+Cascade Bluffs
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Fire Artisan
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+City of Brass
+Command Tower
+Counterspell
+Deification
+Deserted Beach
+Dovin's Veto
+Dovin, Grand Arbiter
+Dreamtide Whale
+Elspeth's Talent
+Elspeth, Sun's Champion
+Evolving Wilds
+Exotic Orchard
+Experimental Augury
+Fabled Passage
+Flooded Strand
+Flux Channeler
+Gideon Blackblade
+Gideon of the Trials
+Gideon, Ally of Zendikar
+Grateful Apparition
+Hallowed Fountain
+Heart of Kiran
+Ichormoon Gauntlet
+Imprisoned in the Moon
+Inexorable Tide
+Jace, Mirror Mage
+Jace, the Mind Sculptor
+Jaya, Fiery Negotiator
+Jeska, Thrice Reborn
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Light Up the Night
+Mana Drain
+Mila, Crafty Companion
+Mox Amber
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Narset Transcendent
+Narset of the Ancient Way
+Negate
+Norn's Annex
+Oath of Chandra
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Prismatic Vista
+Raugrin Triome
+Reflecting Pool
+Reject Imperfection
+Reliquary Tower
+Ripples of Potential
+Rowan's Talent
+Rugged Prairie
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Scalding Tarn
+Sea of Clouds
+Semester's End
+Spark Double
+Spark Rupture
+Spectator Seating
+Sphere of Safety
+Steam Vents
+Stormcarved Coast
+Sundown Pass
+Teferi's Talent
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Tekuthal, Inquiry Dominus
+Terramorphic Expanse
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+The Wandering Emperor
+Thespian's Stage
+Thrummingbird
+Training Center
+Venser, the Sojourner
+Vivisurgeon's Insight
+Vronos, Masked Inquisitor
+Will Kenrith
+
+Aetherize
+Ajani Steadfast
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cartographer's Hawk
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Deepglow Skate
+Deploy the Gatewatch
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Architect of Thought
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Oreskos Explorer
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Spitfire Lagac
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Wanderer
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wall of Denial
+Wayfarer's Bauble
+
+Ajani Steadfast
+All Will Be One
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Flameshaper
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Dawn's Truce
+Deepglow Skate
+Deploy the Gatewatch
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Farewell
+Fellwar Stone
+Floodfarm Verge
+Flux Channeler
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Grateful Apparition
+Guff Rewrites History
+Hallowed Fountain
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jaya's Phoenix
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Ral, Crackling Wit
+Reliquary Tower
+Repeated Reverberation
+Ripples of Potential
+Rowan's Talent
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Steam Vents
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Talent
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Who Slows the Sunset
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+
+Ajani Steadfast
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Counterspell
+Crystal Barricade
+Deepglow Skate
+Deploy the Gatewatch
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Floodfarm Verge
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Architect of Thought
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teshar, Ancestor's Apostle
+Teyo, Geometric Tactician
+The Chain Veil
+The Wanderer
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wall of Denial
+
+Adarkar Wastes
+Ajani Steadfast
+Arcane Signet
+Arena Rector
+Arid Mesa
+Azorius Chancery
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Clifftop Retreat
+Command Tower
+Dack Fayden
+Deepglow Skate
+Descent into Avernus
+Deserted Beach
+Elspeth, Sun's Champion
+Enlightened Tutor
+Fabled Passage
+Farewell
+Flooded Strand
+Flumph
+Fog Bank
+Gatewatch Beacon
+Gideon Jura
+Gilded Drake
+Glacial Fortress
+Grateful Apparition
+Guff Rewrites History
+Hallowed Fountain
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jace Beleren
+Jace, Mirror Mage
+Jace, the Mind Sculptor
+Jaya's Phoenix
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mountain
+Mox Amber
+Mystic Gate
+Narset, Parter of Veils
+Nesting Grounds
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Pramikon, Sky Rampart
+Ral Zarek
+Raugrin Triome
+Reflecting Pool
+Reliquary Tower
+Repeated Reverberation
+Ripples of Potential
+Rugged Prairie
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sea of Clouds
+Shivan Reef
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Sulfur Falls
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Temple of Epiphany
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Peregrine Dynamo
+The Royal Scions
+The Wandering Emperor
+Thought Vessel
+Training Center
+Vanquish the Horde
+Vronos, Masked Inquisitor
+Wall of Denial
+
+Ajani Steadfast
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cartographer's Hawk
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Deepglow Skate
+Deploy the Gatewatch
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Architect of Thought
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Oreskos Explorer
+Path to Exile
+Plains
+Plateau
+Port Town
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Wanderer
+Thrummingbird
+Tundra
+Urza's Ruinous Blast
+Volcanic Island
+Vronos, Masked Inquisitor
+Wayfarer's Bauble
+
+Ajani Steadfast
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cartographer's Hawk
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Hope's Beacon
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Deepglow Skate
+Deploy the Gatewatch
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Architect of Thought
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Oreskos Explorer
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+The Chain Veil
+The Wanderer
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wall of Denial
+Wayfarer's Bauble
+
+Alpine Meadow
+Angel of Indemnity
+Anointed Procession
+Arcane Signet
+Arid Mesa
+Ascend from Avernus
+Azorius Signet
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Dack Fayden
+Deepglow Skate
+Djeru, With Eyes Open
+Elspeth, Sun's Champion
+Exotic Orchard
+Fabled Passage
+Farewell
+Field of the Dead
+Flooded Strand
+Flux Channeler
+Gatewatch Beacon
+Generous Gift
+Gideon Blackblade
+Hallowed Fountain
+Honor-Worn Shaku
+Hourglass of the Lost
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace, the Mind Sculptor
+Jaya's Phoenix
+Karn's Bastion
+Kykar, Wind's Fury
+Lae'zel, Vlaakith's Champion
+Lórien Revealed
+Mila, Crafty Companion
+Mondrak, Glory Dominus
+Mountain
+Mystical Tutor
+Nahiri, the Harbinger
+Narset, Parter of Veils
+Nesting Grounds
+Oath of Gideon
+Oath of Teferi
+Otawara, Soaring City
+Plains
+Prairie Stream
+Pramikon, Sky Rampart
+Prismatic Vista
+Quintorius Kand
+Ral, Crackling Wit
+Raugrin Triome
+Reflecting Pool
+Reliquary Tower
+Ripples of Potential
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Scalding Tarn
+Sea Gate Restoration
+Sea of Clouds
+Shark Typhoon
+Smothering Tithe
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Sun Titan
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Teyo, Geometric Tactician
+Tezzeret the Seeker
+Tezzeret, Artifice Master
+The Eternal Wanderer
+The Peregrine Dynamo
+The Wanderer
+Thought Vessel
+Training Center
+Triumphant Reckoning
+Valakut Awakening
+Venser, the Sojourner
+Volatile Fjord
+Wayfarer's Bauble
+Wrath of the Skies
+
+Ajani Steadfast
+Arcane Signet
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra Nalaar
+Chandra, Awakened Inferno
+Chandra, Heart of Fire
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Decree of Annihilation
+Deepglow Skate
+Elspeth, Sun's Champion
+Exotic Orchard
+Fellwar Stone
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Grateful Apparition
+Guff Rewrites History
+Honor-Worn Shaku
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Architect of Thought
+Jace, Mirror Mage
+Jaya's Phoenix
+Jokulhaups
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mobilized District
+Mountain
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Obliterate
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rugged Prairie
+Sarkhan the Masterless
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Royal Scions
+The Wanderer
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wall of Denial
+Wayfarer's Bauble
+
+All Will Be One
+Anointed Procession
+Arcane Signet
+Archangel Elspeth
+Austere Command
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Caretaker's Talent
+Cascade Bluffs
+Command Tower
+Court of Embereth
+Dack Fayden
+Elspeth Tirel
+Elspeth, Knight-Errant
+Elspeth, Sun's Champion
+Exotic Orchard
+Farewell
+Fellwar Stone
+Fire Diamond
+Frostboil Snarl
+Furycalm Snarl
+Gideon, Ally of Zendikar
+Hour of Reckoning
+Huatli, Warrior Poet
+Idol of Oblivion
+Impact Tremors
+Indomitable Creativity
+Interplanar Beacon
+Into the Fire
+Island
+Izzet Signet
+Jaya, Fiery Negotiator
+Karn's Bastion
+Marble Diamond
+Mass Polymorph
+Merchant Scroll
+Mondrak, Glory Dominus
+Mountain
+Mystic Gate
+Mystic Monastery
+Mystic Remora
+Mystical Tutor
+Nahiri, Heir of the Ancients
+Oath of Teferi
+Ojer Taq, Deepest Foundation
+Path of Ancestry
+Perplexing Test
+Plains
+Port Town
+Prairie Stream
+Purphoros, God of the Forge
+Quintorius Kand
+Ral, Crackling Wit
+Rugged Prairie
+Saheeli, Sublime Artificer
+Saheeli, the Gifted
+Shorikai, Genesis Engine
+Skullclamp
+Sky Diamond
+Skycloud Expanse
+Smothering Tithe
+Sol Ring
+Solve the Equation
+Spark Double
+Staff of the Storyteller
+Stormcarved Coast
+Synthetic Destiny
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Tezzeret, Artifice Master
+The Eternal Wanderer
+Tocasia's Welcome
+Valakut Awakening
+Vanquish the Horde
+Warleader's Call
+Zariel, Archduke of Avernus
+
+All Will Be One
+Arcane Signet
+Blasphemous Act
+Cascade Bluffs
+Cemetery Protector
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Coruscation Mage
+Crystal Barricade
+Deepglow Skate
+Deploy the Gatewatch
+Dreamtide Whale
+Elspeth, Sun's Champion
+Ertha Jo, Frontier Mentor
+Exotic Orchard
+Explosive Derailment
+Fellwar Stone
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gideon Jura
+Glistening Sphere
+Gold-Forged Thopteryx
+Grateful Apparition
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Intangible Virtue
+Interplanar Beacon
+Island
+Jace Beleren
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Kykar, Zephyr Awakener
+Mangara, the Diplomat
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Nardole, Resourceful Cyborg
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Norn's Annex
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Ovika, Enigma Goliath
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Ral, Caller of Storms
+Reliquary Tower
+Rowan Kenrith
+Rowan's Talent
+Rugged Prairie
+Saheeli, Sublime Artificer
+Semester's End
+Serum Snare
+Sheltered by Ghosts
+Skycloud Expanse
+Sol Ring
+Spark Double
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Talent
+Teferi, Temporal Pilgrim
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+Teyo, the Shieldmage
+The Chain Veil
+The Wanderer
+Thrummingbird
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Wall of Denial
+Wayfarer's Bauble
+Will Kenrith
+
+All Will Be One
+Ancient Tomb
+Anger of the Gods
+Authority of the Consuls
+Blasphemous Act
+Chandra, Flameshaper
+Chandra, Hope's Beacon
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Chimil, the Inner Sun
+Chrome Mox
+City of Brass
+Command Tower
+Curse of Opulence
+Dack Fayden
+Dawn's Truce
+Deepglow Skate
+Displacer Kitten
+Don't Move
+Dovin Baan
+Dovin, Hand of Control
+Enlightened Tutor
+Frozen Aether
+Gemstone Caverns
+Great Hall of the Citadel
+Hallowed Fountain
+Humility
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Jace Beleren
+Jace Reawakened
+Jace, Vryn's Prodigy
+Jeska's Will
+Jin-Gitaxias
+Karn, the Great Creator
+Kykar, Wind's Fury
+Lavinia, Azorius Renegade
+Maze of Ith
+Meekstone
+Mountain
+Mu Yanling, Sky Dancer
+Nahiri, the Harbinger
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Parter of Veils
+Oath of Teferi
+Obliterate
+Orim's Chant
+Otawara, Soaring City
+Peacekeeper
+Plains
+Quintorius Kand
+Ral Zarek
+Raugrin Triome
+Reliquary Tower
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Silent Arbiter
+Smothering Tithe
+Sol Ring
+Space Beleren
+Spark Double
+Spectator Seating
+Steam Vents
+Sunbaked Canyon
+Sunfall
+Supreme Verdict
+Talisman of Conviction
+Talisman of Creativity
+Tamiyo, the Moon Sage
+Taunt from the Rampart
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Teyo, Geometric Tactician
+Teyo, the Shieldmage
+Tezzeret the Seeker
+The Chain Veil
+The Peregrine Dynamo
+The Wanderer
+The Wandering Emperor
+Time Wipe
+Training Center
+Ugin, the Spirit Dragon
+Urza's Saga
+Wrath of God
+
+Ajani Steadfast
+Ajani, Strength of the Pride
+Arcane Signet
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Counterspell
+Dack Fayden
+Deepglow Skate
+Deploy the Gatewatch
+Dreamtide Whale
+Elspeth, Sun's Champion
+Everflowing Chalice
+Exotic Orchard
+Farewell
+Fellwar Stone
+Flux Channeler
+Frostboil Snarl
+Fury Storm
+Furycalm Snarl
+Grand Master of Flowers
+Guff Rewrites History
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Architect of Thought
+Jace, Mirror Mage
+Jaya's Phoenix
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mountain
+Mystic Gate
+Mystic Monastery
+Narset of the Ancient Way
+Narset, Parter of Veils
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Planar Atlas
+Plaza of Heroes
+Port Town
+Prairie Stream
+Promise of Loyalty
+Reliquary Tower
+Repeated Reverberation
+Rest in Peace
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Semester's End
+Shivan Reef
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Spectator Seating
+Sulfur Falls
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Temporal Archmage
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+The Wandering Emperor
+Thran Dynamo
+Thrummingbird
+Ugin, the Spirit Dragon
+Vronos, Masked Inquisitor
+Wash Away
+Witch Enchanter
+
+Ajani Vengeant
+All Will Be One
+Arcane Signet
+Archmage's Charm
+Arid Mesa
+Austere Command
+Bloodstained Mire
+Call the Gatewatch
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Comet, Stellar Pup
+Command Tower
+Council's Judgment
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Deepglow Skate
+Demolition Field
+Djeru, With Eyes Open
+Dreamtide Whale
+Elegant Parlor
+Elspeth, Sun's Champion
+Esper Sentinel
+Everflowing Chalice
+Farewell
+Felidar Guardian
+Fierce Guardianship
+Final Showdown
+Flooded Strand
+Flux Channeler
+Fog Bank
+Force of Negation
+Force of Will
+Gideon Jura
+Grasp of Fate
+Hallowed Fountain
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Ignite the Beacon
+Inexorable Tide
+Island
+Jace, Mirror Mage
+Jace, the Mind Sculptor
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Mana Drain
+Marsh Flats
+Meticulous Archive
+Misty Rainforest
+Mordenkainen
+Mountain
+Mystic Sanctuary
+Narset of the Ancient Way
+Narset, Parter of Veils
+Oath of Teferi
+Otawara, Soaring City
+Plains
+Plaza of Heroes
+Polluted Delta
+Quintorius Kand
+Raugrin Triome
+Razorgrass Ambush
+Reflecting Pool
+Reliquary Tower
+Sacred Foundry
+Saheeli Rai
+Scalding Tarn
+Scavenger Grounds
+Sea of Clouds
+Shark Typhoon
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Sundering Eruption
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Terminus
+The Chain Veil
+The One Ring
+Thought Vessel
+Thundering Falls
+Training Center
+Vronos, Masked Inquisitor
+Wall of Denial
+Winds of Change
+Windswept Heath
+Wooded Foothills
+
+Ajani Steadfast
+Arcane Signet
+Archon of Absolution
+Arena Rector
+Azorius Signet
+Blasphemous Act
+Cascade Bluffs
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Elspeth, Sun's Champion
+Exotic Orchard
+Expel the Interlopers
+Fellwar Stone
+Flux Channeler
+Fog Bank
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Glacial Fortress
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jace Beleren
+Jace, Architect of Thought
+Jaya's Phoenix
+Karn Liberated
+Karn's Bastion
+Karn, Scion of Urza
+Kasmina, Enigmatic Mentor
+Kykar, Wind's Fury
+Lae'zel, Vlaakith's Champion
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Nevinyrral's Disk
+Norn's Annex
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Pramikon, Sky Rampart
+Promise of Loyalty
+Raugrin Triome
+Repeated Reverberation
+Rowan's Talent
+Rugged Prairie
+Semester's End
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Talent
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Time Raveler
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Urza Assembles the Titans
+Urza's Ruinous Blast
+Venser, the Sojourner
+Vronos, Masked Inquisitor
+Wall of Denial
+
+All Will Be One
+Arcane Signet
+Arena Rector
+Arid Mesa
+Azorius Signet
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Comet, Stellar Pup
+Comeuppance
+Command Tower
+Dack Fayden
+Deepglow Skate
+Deflecting Swat
+Deserted Beach
+Desynchronization
+Don't Move
+Dreamtide Whale
+Elspeth, Sun's Champion
+Exotic Orchard
+Farewell
+Flooded Strand
+Flux Channeler
+Frostboil Snarl
+Furycalm Snarl
+Hallowed Fountain
+Hengegate Pathway
+Humility
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jaya's Phoenix
+Karn's Bastion
+Karn, the Great Creator
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mila, Crafty Companion
+Mountain
+Mystic Gate
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Parter of Veils
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Peacekeeper
+Plains
+Plaza of Heroes
+Port Town
+Raugrin Triome
+Reliquary Tower
+Ripples of Potential
+Riverglide Pathway
+Rugged Prairie
+Sacred Foundry
+Sarkhan the Masterless
+Scalding Tarn
+Sea of Clouds
+Semester's End
+Shivan Reef
+Skycloud Expanse
+Sol Ring
+Spark Double
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Sundown Pass
+Sunfall
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi's Talent
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+Training Center
+Ugin, the Spirit Dragon
+Unstable Glyphbridge
+Urza's Ruinous Blast
+Valakut Awakening
+Vronos, Masked Inquisitor
+What Must Be Done
+
+Arcane Signet
+Azorius Chancery
+Blasphemous Act
+Boros Garrison
+Boros Guildgate
+Call the Gatewatch
+Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Contentious Plan
+Counterspell
+Deepglow Skate
+Displacer Kitten
+Djeru, With Eyes Open
+Elspeth's Talent
+Elspeth, Sun's Champion
+Exotic Orchard
+Experimental Augury
+Farewell
+Fellwar Stone
+Flux Channeler
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gold-Forged Thopteryx
+Grateful Apparition
+Guff Rewrites History
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Boilerworks
+Jaya's Phoenix
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Luxior, Giada's Gift
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Monastery
+Narset of the Ancient Way
+Narset, Parter of Veils
+Norn's Annex
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Reject Imperfection
+Reliquary Tower
+Rowan Kenrith
+Rowan's Talent
+Saheeli, Sublime Artificer
+Semester's End
+Serum Snare
+Silent Arbiter
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Talent
+Teferi, Hero of Dominaria
+Teferi, Temporal Archmage
+Teferi, Who Slows the Sunset
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+The Chain Veil
+The Eternal Wanderer
+Thrummingbird
+Vronos, Masked Inquisitor
+Whirlwind of Thought
+Will Kenrith
+
+Ajani Steadfast
+Ajani Vengeant
+All Will Be One
+Arcane Signet
+Archangel Elspeth
+Azorius Signet
+Blasphemous Act
+Boros Signet
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Deepglow Skate
+Don't Move
+Dreamtide Whale
+Elminster
+Elspeth's Talent
+Elspeth, Sun's Champion
+Exotic Orchard
+Farewell
+Forge of Heroes
+Frostboil Snarl
+Furycalm Snarl
+Gatewatch Beacon
+Gideon Jura
+Guff Rewrites History
+Ichormoon Gauntlet
+Interplanar Beacon
+Island
+Izzet Signet
+Jaya's Phoenix
+Jaya, Fiery Negotiator
+Karn's Bastion
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Myriad Landscape
+Mystic Gate
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Enlightened Master
+Narset, Parter of Veils
+Oath of Chandra
+Oath of Gideon
+Oath of Jace
+Oath of Teferi
+Onakke Oathkeeper
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Quintorius Kand
+Reliquary Tower
+Repeated Reverberation
+Rowan's Talent
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Savor the Moment
+Silent Arbiter
+Skycloud Expanse
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Tamiyo, the Moon Sage
+Teferi's Talent
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+The Chain Veil
+The Eternal Wanderer
+The Wanderer
+Unstable Glyphbridge
+Urza Assembles the Titans
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+
+Ajani, Strength of the Pride
+All Will Be One
+An Offer You Can't Refuse
+Arcane Signet
+Archangel Elspeth
+Arena Rector
+Battlefield Forge
+Blind Obedience
+Brash Taunter
+Cascade Bluffs
+Chandra, Awakened Inferno
+Chandra, Flame's Catalyst
+Chandra, Flameshaper
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+City on Fire
+Comet, Stellar Pup
+Comeuppance
+Counterspell
+Deepglow Skate
+Elspeth, Sun's Champion
+Farewell
+Fellwar Stone
+Ferrous Lake
+Gamble
+Gatewatch Beacon
+Ghostly Prison
+Gilded Lotus
+Gisela, Blade of Goldnight
+Grand Arbiter Augustin IV
+Holy Day
+Honor-Worn Shaku
+Interplanar Beacon
+Island
+Jace, Unraveler of Secrets
+Jace, the Mind Sculptor
+Jaya's Phoenix
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mountain
+Mystic Gate
+Mystic Monastery
+Nimbus Maze
+Oath of Jace
+Oath of Teferi
+Obliterate
+Out of Time
+Patron Wizard
+Plains
+Promise of Loyalty
+Ral Zarek
+Reliquary Tower
+Render Silent
+Rings of Brighthearth
+Rowan Kenrith
+Rugged Prairie
+Rustvale Bridge
+Sea of Clouds
+Sejiri Refuge
+Semester's End
+Shark Typhoon
+Shivan Reef
+Silent Arbiter
+Silverbluff Bridge
+Skycloud Expanse
+Sol Ring
+Sunscorched Divide
+Swords to Plowshares
+Tamiyo, the Moon Sage
+Teferi's Protection
+Teferi's Talent
+Teferi, Hero of Dominaria
+Teferi, Temporal Archmage
+Teferi, Who Slows the Sunset
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Teyo, Geometric Tactician
+Tezzeret, Artifice Master
+The Council of Four
+The Eternal Wanderer
+The Wanderer
+Training Center
+Unstable Glyphbridge
+Vronos, Masked Inquisitor
+Wall of Denial
+Weathered Sentinels
+Will Kenrith
+
+Ajani Steadfast
+Ajani, Nacatl Pariah
+All Will Be One
+Arena Rector
+Arid Mesa
+Blasphemous Act
+Cayth, Famed Mechanist
+Chandra, Acolyte of Flame
+Chandra, Legacy of Fire
+Chandra, Torch of Defiance
+Command Tower
+Dawn's Truce
+Deepglow Skate
+Dreamtide Whale
+Esper Sentinel
+Evolving Wilds
+Exotic Orchard
+Experimental Augury
+Farewell
+Flooded Strand
+Flux Channeler
+Forge of Heroes
+Gatewatch Beacon
+Great Hall of the Citadel
+Guff Rewrites History
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Jaya's Phoenix
+Jeska's Will
+Karn's Bastion
+Kazuul, Tyrant of the Cliffs
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Mangara, the Diplomat
+Mila, Crafty Companion
+Mobilized District
+Mountain
+Mystic Monastery
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Enlightened Master
+Nevinyrral's Disk
+Oath of Gideon
+Oath of Teferi
+Onakke Oathkeeper
+Otawara, Soaring City
+Perch Protection
+Plains
+Plaza of Heroes
+Pramikon, Sky Rampart
+Ral, Crackling Wit
+Reliquary Tower
+Resourceful Defense
+Rings of Brighthearth
+Ripples of Potential
+Rowan Kenrith
+Rowan's Talent
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+Savor the Moment
+Scalding Tarn
+Semester's End
+Silent Arbiter
+Sink into Stupor
+Sol Ring
+Spark Double
+Sparkshaper Visionary
+Swords to Plowshares
+Tamiyo, the Moon Sage
+Teferi's Protection
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+Teyo, Geometric Tactician
+The Chain Veil
+Thrummingbird
+Triumphant Reckoning
+Ugin, the Spirit Dragon
+Urza Assembles the Titans
+Urza's Ruinous Blast
+Vronos, Masked Inquisitor
+Witch Enchanter
+

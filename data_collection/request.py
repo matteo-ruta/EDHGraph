@@ -37,11 +37,6 @@ def get_decklist_from_urlhash(urlhash) -> Deck:
 
 if __name__ == "__main__":
 
-    # TODO
-    # modify the script in a way that the input remains the same, but the
-    # quantity of already downloaded decks are checked before downloading others
-    # AKA add an "overwrite" mode (imo, it should be default)
-
     input_path = sys.argv[1]
     mode = APPEND_MODE
     if len(sys.argv) == 3:
@@ -76,7 +71,7 @@ if __name__ == "__main__":
 
             print(f"Requesting decks for \'{commander}\' - {i + 1}/{len(commanders_list)} - {already_seen_decks}/{sum(quantity_list)}")
 
-            request = edhrec.get_commander_decks(commander.replace("\"", "").replace("  ", " "))
+            request = edhrec.get_commander_decks(commander.replace("// ", "").replace("\"", "").replace("  ", " "))
 
             urlhash_list = [deck["urlhash"] for deck in request["table"]]
             already_saved_urlhash_list = []
@@ -95,12 +90,14 @@ if __name__ == "__main__":
             elif mode == FILL_MODE:
                 downloaded_counter = len(already_saved_urlhash_list)
 
+            reading_index = downloaded_counter
+
             # init of the fancy progress-bar
             print(f"[{'.' * BAR_SIZE}] {0.00:.2f}%", end="\r")
 
             if downloaded_counter < quantity:
-                while downloaded_counter < quantity:
-                    decklist = get_decklist_from_urlhash(urlhash_list[downloaded_counter])
+                while downloaded_counter < quantity and reading_index < len(urlhash_list):
+                    decklist = get_decklist_from_urlhash(urlhash_list[reading_index])
 
                     if not decklist.isError():
                         save.saveDeck(decklist)
@@ -120,7 +117,11 @@ if __name__ == "__main__":
                         time.sleep(round(delay if delay > 0 else AVG_SLEEP_TIME, 2))
                     # else
                     # we must request another deck, since the previous request returned an error
-                    # => another iteration => no increase downloaded_counter at this round
+                    # => another iteration => increase reading_index, as in the deafult case
+                    reading_index += 1
+
+                if (reading_index >= len(urlhash_list)):
+                    print("Rquested more decks than available on EDHRec for this commander... are you mad?")
             else:
                 # still let a completed bar appear for comprehension
                 print(f"[{'=' * BAR_SIZE}] 100%", end="\n")

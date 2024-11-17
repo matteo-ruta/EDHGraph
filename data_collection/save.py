@@ -89,7 +89,8 @@ class StorageManager():
 class Deck():
 
     # static methods
-    def getErrorDeck(cls):
+    @staticmethod
+    def getErrorDeck():
         return Deck("", [], [])
 
     # private methods
@@ -104,8 +105,8 @@ class Deck():
         self.urlhash = urlhash
         self.commanders = commanders
         self.cards = cards
-        self.has_partner = commanders[1] != None
-        self.name = self._get_name()
+        self.has_partner = commanders[1] != None if commanders != [] else None
+        self.name = self._get_name() if commanders != [] else None
 
     def isError(self) -> bool:
         return self.commanders == []
