@@ -77,12 +77,8 @@ if __name__ == "__main__":
             already_saved_urlhash_list = []
 
             # removing already saved decks from the checklist
-            if commander in save.history.keys():
-                already_saved_urlhash_list = save.history[commander]
-                urlhash_list = [urlhash for urlhash in urlhash_list if urlhash not in already_saved_urlhash_list]
-
-            # reduce the checklist to the specified size
-            #urlhash_list = urlhash_list[:quantity]
+            already_saved_urlhash_list = save.getAlreadySavedUrlhashes(commander)
+            urlhash_list = [urlhash for urlhash in urlhash_list if urlhash not in already_saved_urlhash_list]
 
             # checking the mode
             if mode == APPEND_MODE or already_saved_urlhash_list == []:
