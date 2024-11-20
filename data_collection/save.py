@@ -44,7 +44,7 @@ class StorageManager():
         history_file_paths_list = [file_name for file_name in os.listdir(directory_path) if file_name.endswith(HISTORY_FILE_EXT)]
         try:
             for history_file_path in history_file_paths_list:
-                with open(history_file_path, "r", encoding="utf-8") as f:
+                with open(f"{STORAGE_REPOSITORY}{SAVE_INFO_REPOSITORY}{history_file_path}", "r", encoding="utf-8") as f:
                     _ = json.load(f)
         except (FileNotFoundError, json.JSONDecodeError) as e:
             return False
@@ -52,12 +52,12 @@ class StorageManager():
     
     def _save_history_batch(self):
         path = f"{STORAGE_REPOSITORY}{SAVE_INFO_REPOSITORY}{HISTORY_FILE_PREF}{self._current}{HISTORY_FILE_EXT}"
-        with open(path, "w", encoding="uft-8") as f:
+        with open(path, "w", encoding="utf-8") as f:
             json.dump(self._history_batch, f, indent="\t")
 
     def _load_history_batch(self, batch):
         path = f"{STORAGE_REPOSITORY}{SAVE_INFO_REPOSITORY}{HISTORY_FILE_PREF}{batch}{HISTORY_FILE_EXT}"
-        with open(path, "w", encoding="uft-8") as f:
+        with open(path, "r", encoding="utf-8") as f:
             self._history_batch = json.load(f)
 
     # context manager methods
@@ -101,7 +101,8 @@ class StorageManager():
 
             # save the index
             with open(f"{STORAGE_REPOSITORY}{SAVE_INFO_REPOSITORY}{HISTORY_INDEX_FILE}", "w", encoding="utf-8") as f:
-                f.write(self._history_index, f)
+                for line in self._history_index:
+                    f.write("@".join(line) + "\n")
 
         print("Progress saved")
 
@@ -116,16 +117,19 @@ class StorageManager():
 
     def getAlreadySavedUrlhashes(self, commander: str) -> list:
         if self._current not in range(len(self._history_index)) or commander not in self._history_index[self._current]:
-            self._save_history_batch() # before any change, save the progress
+            if self._current in range(len(self._history_index)):
+                self._save_history_batch() # before any change, save the progress (if any)
+            # if self._current is out of range, it means we have no progress loaded, and we need to do the initial loading
 
             try:
                 # no index modifications
 
-                self._current = self._history_index.index(batch for batch in self._history_index if commander in batch)
+                # NB what you see in parenthesis is very bad, but per se the list comprehension returns a generator object, not the element bacth
+                self._current = self._history_index.index([batch for batch in self._history_index if commander in batch][0])
                 self._load_history_batch(self._current) # loading the batch with the commander already saved
 
                 # no batch modifications
-            except ValueError:
+            except (ValueError, IndexError) as e:
                 if len(self._history_index[-1]) < BATCH_SIZE:
                     self._history_index[-1].append(commander) # adding a new commander to the current batch in the index
                     

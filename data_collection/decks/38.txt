@@ -1,0 +1,2262 @@
+Ad Nauseam
+Agate Instigator
+Altar of the Brood
+Ancient Tomb
+Arcane Signet
+Arid Mesa
+Ashnod's Altar
+Badlands
+Beseech the Mirror
+Blightstep Pathway
+Blood Artist
+Blood Crypt
+Bloodstained Mire
+Cabal Ritual
+Carrion Feeder
+Chrome Mox
+Chthonian Nightmare
+City of Brass
+Command Tower
+Culling the Weak
+Cult Conscript
+Dark Ritual
+Dauthi Voidwalker
+Deadly Dispute
+Deadly Rollick
+Deflecting Swat
+Demonic Tutor
+Diabolic Intent
+Dragonskull Summit
+Dualcaster Mage
+Entomb
+Exotic Orchard
+Fellwar Stone
+Fire Covenant
+Gamble
+Gemstone Caverns
+Goblin Bombardment
+Gravecrawler
+Grim Tutor
+Heat Shimmer
+Imp's Mischief
+Impact Tremors
+Imperial Seal
+Jeska's Will
+Lightning Bolt
+Lotus Petal
+Luxury Suite
+Mana Confluence
+Mana Vault
+Marionette Apprentice
+Marsh Flats
+Mayhem Devil
+Molten Duplication
+Mountain
+Mox Amber
+Mox Diamond
+Mox Opal
+Necropotence
+Nested Shambler
+Nether Traitor
+Opposition Agent
+Orcish Bowmasters
+Phyrexian Altar
+Pitiless Plunderer
+Polluted Delta
+Praetor's Grasp
+Prismatic Vista
+Pyroblast
+Ragavan, Nimble Pilferer
+Reassembling Skeleton
+Red Elemental Blast
+Rite of Flame
+Saw in Half
+Scalding Tarn
+Shambling Ghast
+Simian Spirit Guide
+Snow-Covered Mountain
+Snow-Covered Swamp
+Sol Ring
+Sulfurous Springs
+Swamp
+Tainted Pact
+Talisman of Indulgence
+The One Ring
+Tibalt's Trickery
+Toxic Deluge
+Twinflame
+Untimely Malfunction
+Urborg, Tomb of Yawgmoth
+Urza's Saga
+Vampiric Tutor
+Vandalblast
+Verdant Catacombs
+Viscera Seer
+Warren Soultrader
+Wheel of Fortune
+Wishclaw Talisman
+Wooded Foothills
+Zulaport Cutthroat
+
+Aclazotz, Deepest Betrayal
+Arcane Signet
+Archetype of Finality
+Arena of Glory
+Ashcoat of the Shadow Swarm
+Ashnod's Altar
+Ayara, First of Locthwain
+Badlands
+Black Market
+Black Market Connections
+Blasphemous Edict
+Blazemire Verge
+Blood Artist
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Braids, Arisen Nightmare
+Castle Locthwain
+Cavern of Souls
+Chaos Warp
+Command Tower
+Demonic Tutor
+Dragonskull Summit
+Drivnod, Carnage Dominus
+Faithless Looting
+Fell the Profane
+Field of the Dead
+Fountainport
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Goblin Bombardment
+Haunted Ridge
+Hell to Pay
+Impact Tremors
+Innocuous Rat
+Into the Pit
+Jet Medallion
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mahadi, Emporium Master
+Malakir Rebirth
+Marionette Apprentice
+Marrow-Gnawer
+Mayhem Devil
+Mirkwood Bats
+Mountain
+Mudflat Village
+Ogre Chitterlord
+Ogre Slumlord
+Pack Rat
+Path of Ancestry
+Phyrexian Altar
+Phyrexian Arena
+Phyrexian Tower
+Piper of the Swarm
+Pitiless Plunderer
+Purphoros, God of the Forge
+Raid Bombardment
+Rakdos Carnarium
+Ratcatcher
+Raucous Theater
+Redcap Gutter-Dweller
+Reliquary Tower
+Revenge of the Rats
+Rising of the Day
+Skullclamp
+Sol Ring
+Song of Totentanz
+Sundering Eruption
+Swamp
+Swarmyard
+Syr Konrad, the Grim
+Takenuma, Abandoned Mire
+Tangled Colony
+Tarrian's Journal
+Terminate
+Three Tree City
+Tibalt's Trickery
+Toxic Deluge
+Twisted Sewer-Witch
+Valakut Awakening
+Vampiric Tutor
+Vandalblast
+Village Rites
+Voracious Vermin
+War Room
+Wave of Rats
+Whip of Erebos
+Witch's Cottage
+Withering Torment
+Zulaport Cutthroat
+
+Accursed Marauder
+Animate Dead
+Ashnod's Altar
+Back for Seconds
+Bitterblossom
+Blackcleave Cliffs
+Blasphemous Act
+Blasphemous Edict
+Blightstep Pathway
+Blood Artist
+Bloodthirsty Conqueror
+Bojuka Bog
+Braids, Arisen Nightmare
+Buried Alive
+Come Back Wrong
+Crypt Ghast
+Dark Ritual
+Deadly Dispute
+Demolition Field
+Deserted Temple
+Dictate of Erebos
+Enduring Courage
+Entomb
+Eviscerator's Insight
+Goblin Bombardment
+Haunted Ridge
+Hell to Pay
+Impact Tremors
+Insatiable Avarice
+Lagomos, Hand of Hatred
+Liliana, Dreadhorde General
+Lord Skitter, Sewer King
+Maha, Its Feathers Night
+Massacre Girl
+Mayhem Devil
+Mirkwood Bats
+Molten Gatekeeper
+Morbid Opportunist
+Mount Doom
+Mountain
+Nadier's Nightblade
+Nim Deathmantle
+Orcish Bowmasters
+Persist
+Phyrexian Tower
+Pitiless Plunderer
+Popular Egotist
+Raucous Theater
+Razorkin Hordecaller
+Razorkin Needlehead
+Reanimate
+Reckless Lackey
+Rite of the Raging Storm
+Rottenmouth Viper
+Sawblade Skinripper
+Season of Loss
+Skullclamp
+Song of Totentanz
+Sulfurous Springs
+Swamp
+Tangled Colony
+Undead Sprinter
+Urabrask's Forge
+Urza's Cave
+Valgavoth's Faithful
+Valgavoth, Terror Eater
+Vampiric Rites
+Vein Ripper
+Vermin Gorger
+Village Rites
+Virtue of Persistence
+Volatile Fault
+Vraan, Executioner Thane
+Withering Torment
+Witty Roastmaster
+Zulaport Cutthroat
+
+Arcane Signet
+Ashcoat of the Shadow Swarm
+Ashnod's Altar
+Ayara, First of Locthwain
+Back for Seconds
+Bedevil
+Blasphemous Act
+Blazemire Verge
+Blood Artist
+Blood Crypt
+Bojuka Bog
+Bontu's Monument
+Burglar Rat
+Chaos Warp
+Chittering Witch
+Command Tower
+Commander's Sphere
+Corrupted Conviction
+Crypt Rats
+Deadly Dispute
+Dragonskull Summit
+Edgewall Pack
+Evolving Wilds
+Feed the Swarm
+Foreboding Ruins
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Goblin Bombardment
+Harried Spearguard
+Impact Tremors
+Karumonix, the Rat King
+Lich-Knights' Conquest
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Luxury Suite
+Mad Ratter
+Marrow-Gnawer
+Mirkwood Bats
+Mountain
+Mudflat Village
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Oversold Cemetery
+Pack Rat
+Persistent Marshstalker
+Piper of the Swarm
+Plague of Vermin
+Raid Bombardment
+Rakdos Carnarium
+Rakdos Signet
+Rat Colony
+Rat Out
+Ratcatcher
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Shared Animosity
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Sulfurous Springs
+Swamp
+Swarmyard Massacre
+Talisman of Indulgence
+Tangled Colony
+Tattered Ratter
+Terminate
+Three Tree City
+Twisted Sewer-Witch
+Typhoid Rats
+Valley Rotcaller
+Vampiric Rites
+Victimize
+Village Rites
+Voracious Vermin
+Wave of Rats
+Zulaport Cutthroat
+
+Abrade
+Agent of the Iron Throne
+Blazemire Verge
+Bloodfell Caves
+Braids, Arisen Nightmare
+Candy Grapple
+Chaos Warp
+Command Tower
+Corrupted Conviction
+Daggerfang Duo
+Demand Answers
+Edgewall Inn
+Edgewall Pack
+Escape Tunnel
+Evolving Wilds
+Faithless Looting
+Feed the Cauldron
+Ferocity of the Wilds
+Fiery Emancipation
+Fire Diamond
+Geothermal Bog
+Gnawing Crescendo
+Harried Spearguard
+Impact Tremors
+Innocuous Rat
+Insatiable Avarice
+Jagged Barrens
+Karumonix, the Rat King
+Leyline of the Void
+Lich-Knights' Conquest
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Meathook Massacre II
+Mind Stone
+Mirkwood Bats
+Molten Collapse
+Mountain
+Murder
+Myriad Landscape
+Nezumi Linkbreaker
+Not Dead After All
+Ogre Chitterlord
+Old Flitterfang
+Piper of the Swarm
+Radiant Fountain
+Raid Bombardment
+Rakdos Carnarium
+Rakdos Guildgate
+Rakdos Joins Up
+Rakdos Signet
+Rat Colony
+Rat Out
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Refurbished Familiar
+Restless Vents
+Rogue's Passage
+Rowan's Grim Search
+Shatter the Oath
+Song of Totentanz
+Stonesplitter Bolt
+Sundering Eruption
+Swamp
+Swarmyard
+Talisman of Indulgence
+Tangled Colony
+Tattered Ratter
+Terminate
+Thornplate Intimidator
+Three Tree City
+Thrill of Possibility
+Thriving Bluff
+Tinybones Joins Up
+Tramway Station
+Trial of Agony
+Twisted Sewer-Witch
+Valley Rotcaller
+Vampiric Rites
+Victimize
+Virtue of Courage
+Voracious Vermin
+Warehouse Tabby
+Wayfarer's Bauble
+Witch's Cottage
+Withering Torment
+Zulaport Cutthroat
+
+Abrade
+Arcane Signet
+Ayara, First of Locthwain
+Bedevil
+Bloodfell Caves
+Bontu's Monument
+Burglar Rat
+Castle Embereth
+Charcoal Diamond
+Charging Hooligan
+Chittering Witch
+Commander's Sphere
+Echoing Assault
+Edgewall Pack
+Fire Diamond
+Foreboding Ruins
+Foul-Tongue Shriek
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Goblin Bombardment
+Hellhole Rats
+Heraldic Banner
+Impact Tremors
+Innocuous Rat
+Lab Rats
+Lash of the Balrog
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Marrow-Gnawer
+Mind Stone
+Mountain
+Mudflat Village
+Nezumi Linkbreaker
+Nezumi Prowler
+Ogre Chitterlord
+Ogre Slumlord
+Oversold Cemetery
+Pack Rat
+Persistent Marshstalker
+Piper of the Swarm
+Plumb the Forbidden
+Rakdos Carnarium
+Rat Out
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Roar of Resistance
+Rogue's Passage
+Shared Animosity
+Sign in Blood
+Sinuous Vermin
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Swamp
+Swarmyard Massacre
+Tainted Peak
+Tangled Colony
+Tarrian's Journal
+Temple of Malice
+Temple of the False God
+Thrill of Possibility
+Tragic Slip
+Tribute to Horobi
+Twisted Sewer-Witch
+Typhoid Rats
+Unearth
+Vampiric Rites
+Vat of Rebirth
+Village Rites
+Voracious Vermin
+Wave of Rats
+Wayfarer's Bauble
+Witch's Mark
+
+Abrade
+Accursed Marauder
+Act of Aggression
+Agadeem's Awakening
+Arcane Signet
+Ayara, First of Locthwain
+Bastion of Remembrance
+Beseech the Mirror
+Blightstep Pathway
+Blood Artist
+Blood Crypt
+Bloodghast
+Bloodstained Mire
+Bojuka Bog
+Bolas's Citadel
+Bontu's Monument
+Braids, Arisen Nightmare
+Brazen Cannonade
+Cavalcade of Calamity
+Chaos Warp
+Chittering Witch
+Command Tower
+Deadly Rollick
+Dogged Detective
+Drivnod, Carnage Dominus
+Erebos, Bleak-Hearted
+Feed the Swarm
+Field of the Dead
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Goblin Bombardment
+Harried Spearguard
+Haunted Ridge
+High Market
+High-Society Hunter
+Impact Tremors
+Ink-Eyes, Servant of Oni
+Innocuous Rat
+Lich-Knights' Conquest
+Living Death
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Luxury Suite
+Mad Ratter
+Malakir Rebirth
+Marionette Apprentice
+Marrow-Gnawer
+Mayhem Devil
+Mountain
+Nashi, Moon Sage's Scion
+Nether Traitor
+Nine-Lives Familiar
+Ogre Chitterlord
+Ogre Slumlord
+Phyrexian Altar
+Phyrexian Tower
+Plumb the Forbidden
+Purphoros, God of the Forge
+Rakdos Charm
+Reassembling Skeleton
+Redcap Gutter-Dweller
+Revenge of the Rats
+Shizo, Death's Storehouse
+Skullclamp
+Sol Ring
+Song of Totentanz
+Swamp
+Swarmyard
+Talisman of Indulgence
+The Meathook Massacre
+Tragic Slip
+Twisted Sewer-Witch
+Urborg, Tomb of Yawgmoth
+Vat of Rebirth
+Victimize
+Village Rites
+Viscera Seer
+Voracious Vermin
+Warren Soultrader
+Wave of Rats
+Westvale Abbey
+Yawgmoth, Thran Physician
+Zulaport Cutthroat
+
+Anowon, the Ruin Sage
+Arcane Signet
+Blasphemous Act
+Blood Artist
+Bloodsoaked Insight
+Bog Rats
+Bringer of the Last Gift
+Butcher of Malakir
+Command Tower
+Cordial Vampire
+Crossway Troublemakers
+Crypt Rats
+Dark Tutelage
+Dirty Wererat
+Exotic Orchard
+Faithless Looting
+Falkenrath Noble
+Foreboding Ruins
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Goblin Bombardment
+Harried Spearguard
+Impact Tremors
+Indomitable Creativity
+Indulgent Aristocrat
+Karumonix, the Rat King
+Kumano Faces Kakkazan
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Markov Enforcer
+Marrow-Gnawer
+Maskwood Nexus
+Massacre Girl
+Mob Rule
+Mountain
+Myriad Landscape
+Nadier's Nightblade
+Necrotic Plague
+Nezumi Linkbreaker
+Not Dead After All
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Persistent Marshstalker
+Piper of the Swarm
+Raid Bombardment
+Rakdos Carnarium
+Rakdos Charm
+Rakish Heir
+Rat Out
+Ratcatcher Trainee
+Rats' Feast
+Redcap Gutter-Dweller
+Ruthless Radrat
+Shadowblood Ridge
+Shared Animosity
+Sinister Waltz
+Smoldering Marsh
+Sneak Attack
+Song of Totentanz
+Stensia Masquerade
+Swamp
+Swiftfoot Boots
+Tainted Peak
+Tangled Colony
+Tattered Ratter
+Temple of Malice
+Terramorphic Expanse
+Twisted Sewer-Witch
+Typhoid Rats
+Unclaimed Territory
+Urge to Feed
+Vampire Socialite
+Victimize
+Volatile Claws
+Voracious Vermin
+Wave of Rats
+
+Ashnod's Altar
+Ayara, First of Locthwain
+Banner of Kinship
+Bastion of Remembrance
+Blasphemous Act
+Blazemire Verge
+Bojuka Bog
+Bontu's Monument
+Cabal Coffers
+Cabal Stronghold
+Chaos Warp
+Command Tower
+Crypt Rats
+Dragonskull Summit
+Foul-Tongue Shriek
+Gnawing Crescendo
+Goblin Bombardment
+Grave Pact
+Herald's Horn
+Impact Tremors
+Into the Pit
+Karumonix, the Rat King
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Marrow-Gnawer
+Mirkwood Bats
+Mountain
+Nadier's Nightblade
+Ogre Chitterlord
+Ogre Slumlord
+Oversold Cemetery
+Pack Rat
+Phyrexian Altar
+Piper of the Swarm
+Rakdos Carnarium
+Rakdos Charm
+Rat Colony
+Revenge of the Rats
+Shared Animosity
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Swamp
+Swarmyard
+Thrumming Stone
+Untimely Malfunction
+Urborg, Tomb of Yawgmoth
+Vandalblast
+Witch's Cottage
+Withering Torment
+Zulaport Cutthroat
+
+Blasphemous Act
+Blightstep Pathway
+Blood Crypt
+Bojuka Bog
+Cabal Coffers
+Cabal Stronghold
+Chaos Warp
+Command Tower
+Dark Ritual
+Dictate of Erebos
+Dragonhawk, Fate's Tempest
+Dragonskull Summit
+Drivnod, Carnage Dominus
+Fabled Passage
+Fervor
+Ghostfire Slice
+Gnawing Crescendo
+Grim Tutor
+Haunted Ridge
+Herald's Horn
+K'rrik, Son of Yawgmoth
+Karumonix, the Rat King
+Kindred Dominance
+Lich-Knights' Conquest
+Lightning Bolt
+Locket of Yesterdays
+Mahadi, Emporium Master
+Marrow-Gnawer
+Mountain
+Obosh, the Preypiercer
+Ogre Slumlord
+Patriarch's Bidding
+Phyrexian Altar
+Relentless Rats
+Rising of the Day
+Shared Animosity
+Skullclamp
+Sol Ring
+Song of Totentanz
+Sulfurous Springs
+Swamp
+Swarmyard
+Swarmyard Massacre
+Tainted Peak
+Thrumming Stone
+Toxic Deluge
+Vampiric Rites
+Vampiric Tutor
+Vandalblast
+Village Rites
+Warren Soultrader
+Westvale Abbey
+
+Ayara, First of Locthwain
+Back for Seconds
+Blasphemous Act
+Commander's Sphere
+Conceited Witch
+Crippling Fear
+Crypt Rats
+Edgewall Pack
+Embercleave
+Embereth Veteran
+Endrek Sahr, Master Breeder
+Fake Your Own Death
+Flick a Coin
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Gobhobbler Rats
+Goblin Bombardment
+Harried Spearguard
+High-Society Hunter
+Impact Tremors
+Infernal Vessel
+Lich-Knights' Conquest
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mahadi, Emporium Master
+Mirkwood Bats
+Mountain
+Mukotai Ambusher
+Nadier's Nightblade
+Nezumi Prowler
+Not Dead After All
+Ogre Chitterlord
+Old Flitterfang
+Osteomancer Adept
+Oversold Cemetery
+Raid Bombardment
+Rakdos Signet
+Rat Out
+Ratcatcher Trainee
+Read the Bones
+Reassembling Skeleton
+Redcap Gutter-Dweller
+Reliquary Tower
+Rowan's Grim Search
+Shared Animosity
+Sivriss, Nightmare Speaker
+Skullclamp
+Skullport Merchant
+Sol Ring
+Song of Totentanz
+Sorin the Mirthless
+Structural Assault
+Swamp
+Tangled Colony
+Tarrian's Journal
+Tattered Ratter
+Twisted Sewer-Witch
+Unearth
+Vampiric Rites
+Victimize
+Voracious Vermin
+Warehouse Tabby
+Warhost's Frenzy
+Winter Moon
+Witchstalker Frenzy
+Zoyowa Lava-Tongue
+
+Abrade
+Arcane Signet
+Bastion of Remembrance
+Bedevil
+Blackcleave Cliffs
+Command Tower
+Corrupted Conviction
+Crypt Rats
+Dark Prophecy
+Dragonskull Summit
+Edgewall Pack
+Fiery Emancipation
+Foreboding Ruins
+Gnawing Crescendo
+Gruesome Fate
+Harried Spearguard
+Haunting Voyage
+Hell's Caretaker
+Impact Tremors
+Innocuous Rat
+Karumonix, the Rat King
+Kindred Dominance
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Marrow-Gnawer
+Mind Stone
+Mirkwood Bats
+Mountain
+Murder
+Not Dead After All
+Ogre Chitterlord
+Ogre Slumlord
+Okiba Reckoner Raid
+Old Flitterfang
+Oversold Cemetery
+Pack Rat
+Persistent Marshstalker
+Pestilence Rats
+Piper of the Swarm
+Raging Battle Mouse
+Raid Bombardment
+Rakdos Signet
+Rat Colony
+Rat Out
+Ratcatcher
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Roar of Resistance
+Shared Animosity
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Species Specialist
+Sulfurous Springs
+Swamp
+Swarm of Rats
+Swarmyard
+Swarmyard Massacre
+Tainted Peak
+Talisman of Indulgence
+Tangled Colony
+Tattered Ratter
+Terminate
+Twisted Sewer-Witch
+Valley Rotcaller
+Vampiric Rites
+Vanquisher's Banner
+Village Rites
+Voracious Vermin
+Warehouse Tabby
+Warstorm Surge
+Wave of Rats
+Westvale Abbey
+Witch's Cottage
+Witchstalker Frenzy
+
+Arcane Signet
+Ayara, First of Locthwain
+Bitter Triumph
+Blazemire Verge
+Blood Crypt
+Bloodfell Caves
+Bloodstained Mire
+Bojuka Bog
+Bontu's Monument
+Breathe Your Last
+Command Tower
+Crypt Ghast
+Demonic Tutor
+Diabolic Intent
+Diabolic Tutor
+Echoing Return
+Emblem of the Warmind
+Erebos, Bleak-Hearted
+Exotic Orchard
+Feed the Swarm
+Fervor
+Foreboding Ruins
+Grim Haruspex
+Hammer of Purphoros
+Herald's Horn
+Illicit Shipment
+Impact Tremors
+Insatiable Avarice
+Jet Medallion
+Kindred Dominance
+Lord Skitter's Blessing
+Lord Skitter, Sewer King
+Marrow-Gnawer
+Molten Echoes
+Molten Slagheap
+Morbid Opportunist
+Mountain
+Mudflat Village
+Murder
+Patchwork Banner
+Path of Ancestry
+Patriarch's Bidding
+Phyrexian Arena
+Rakdos Charm
+Rat Colony
+Restless Vents
+Revenge of the Rats
+Rising of the Day
+Shared Animosity
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Swamp
+Swarmyard
+Swarmyard Massacre
+Talisman of Indulgence
+Terminate
+Thrumming Stone
+Unclaimed Territory
+
+Altar's Reap
+Arcane Signet
+Bedevil
+Bloodfell Caves
+Burglar Rat
+Carrion Rats
+Chittering Rats
+Coiling Rebirth
+Command Tower
+Commander's Sphere
+Corrupted Conviction
+Drainpipe Vermin
+Earsplitting Rats
+Eviscerator's Insight
+Fanatical Offering
+Final Vengeance
+Foreboding Ruins
+Gnat Miser
+Gnawing Crescendo
+Goblin Bombardment
+Hazel's Nocturne
+Hellhole Rats
+Ink-Eyes, Servant of Oni
+Innocuous Rat
+Lab Rats
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Marrow-Gnawer
+Mirkwood Bats
+Mountain
+Nasty End
+Nezumi Bone-Reader
+Nezumi Graverobber
+Nezumi Shortfang
+Ogre Slumlord
+Oversold Cemetery
+Pestilence Rats
+Piper of the Swarm
+Psychic Whorl
+Rakdos Charm
+Rakdos Guildgate
+Rakdos Signet
+Rancid Rats
+Ratcatcher Trainee
+Ravenous Rats
+Razortooth Rats
+Rotting Rats
+Ruin Rat
+Sanity Gnawers
+Skullsnatcher
+Smoldering Marsh
+Song of Totentanz
+Swamp
+Swarm of Rats
+Tainted Peak
+Tattered Ratter
+Temple of Malice
+Terminate
+Thornplate Intimidator
+Tragic Slip
+Twisted Sewer-Witch
+Typhoid Rats
+Unearth
+Vampiric Rites
+Victimize
+Village Rites
+Voracious Vermin
+
+Aggravated Assault
+Arcane Signet
+Ayara, First of Locthwain
+Bake into a Pie
+Barren Moor
+Blasphemous Act
+Blazing Volley
+Blightbelly Rat
+Bojuka Bog
+Bone Shards
+Burglar Rat
+Castle Locthwain
+Cavern of Souls
+Cinderclasm
+Command Tower
+Crystal Grotto
+Debt to the Kami
+Descendants' Fury
+Edgewall Inn
+Evolving Wilds
+Experimental Confectioner
+Forgotten Cave
+Gnawing Crescendo
+Gobhobbler Rats
+Goblin Bombardment
+Harried Spearguard
+Impact Tremors
+Ink-Eyes, Servant of Oni
+Innocuous Rat
+Karumonix, the Rat King
+Lava Coil
+Lich-Knights' Conquest
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Marrow-Gnawer
+Mirkwood Bats
+Mountain
+Nezumi Bladeblesser
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Oppression
+Pack Rat
+Path of Ancestry
+Phyrexian Altar
+Piper of the Swarm
+Play with Fire
+Prophetic Prism
+Raid Bombardment
+Rakdos Charm
+Rakdos Signet
+Rat Colony
+Rat Out
+Ratcatcher
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Revenge of the Rats
+Shared Animosity
+Shock
+Skullclamp
+Sol Ring
+Song of Totentanz
+Stonesplitter Bolt
+Study Hall
+Swamp
+Takenuma, Abandoned Mire
+Tangled Colony
+Tattered Ratter
+Thriving Bluff
+Thriving Moor
+Transmogrant Altar
+Twisted Fealty
+Twisted Sewer-Witch
+Typhoid Rats
+Vampiric Rites
+Voracious Vermin
+Warehouse Tabby
+Wave of Rats
+Witchstalker Frenzy
+
+Anger
+Arcane Signet
+Ashnod's Altar
+Ayara, First of Locthwain
+Back for Seconds
+Bedevil
+Blasphemous Act
+Blazemire Verge
+Blightbelly Rat
+Blood Artist
+Bojuka Bog
+Bontu's Monument
+Burglar Rat
+Chaos Warp
+Chittering Witch
+Command Tower
+Commander's Sphere
+Corrupted Conviction
+Crypt Rats
+Deadly Dispute
+Dragonskull Summit
+Dread Return
+Edgewall Pack
+Evolving Wilds
+Feed the Swarm
+Fire Diamond
+Foreboding Ruins
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Graven Cairns
+Harried Spearguard
+Herald's Horn
+Impact Tremors
+Jet Medallion
+Karumonix, the Rat King
+Lich-Knights' Conquest
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Marrow-Gnawer
+Mind Stone
+Mirkwood Bats
+Mountain
+Mudflat Village
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Pack Rat
+Persistent Marshstalker
+Piper of the Swarm
+Plague of Vermin
+Rakdos Carnarium
+Rakdos Signet
+Rat Colony
+Rat Out
+Ratcatcher
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Swamp
+Swarmyard
+Swarmyard Massacre
+Talisman of Indulgence
+Tangled Colony
+Tattered Ratter
+Terminate
+Thriving Moor
+Twisted Sewer-Witch
+Typhoid Rats
+Unearth
+Vandalblast
+Vanquisher's Banner
+Vat of Rebirth
+Victimize
+Village Rites
+Voracious Vermin
+Wave of Rats
+Zulaport Cutthroat
+
+Agent of the Iron Throne
+Ayara, First of Locthwain
+Bastion of Remembrance
+Blightbelly Rat
+Blood Artist
+Bloodchief Ascension
+Bloodfell Caves
+Burglar Rat
+Cavalcade of Calamity
+Chain Reaction
+Charging Hooligan
+Cliffgate
+Command Tower
+Dragonskull Summit
+Dreadbore
+Drivnod, Carnage Dominus
+Edgewall Pack
+Evolving Wilds
+Fiery Emancipation
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Gnawing Vermin
+Harried Spearguard
+Havoc Jester
+Hazardous Blast
+Hazel's Nocturne
+Impact Tremors
+Innocuous Rat
+Karumonix, the Rat King
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Mahadi, Emporium Master
+Mechanized Warfare
+Mirkwood Bats
+Mountain
+Murder
+Nadier's Nightblade
+Nashi, Moon Sage's Scion
+Nasty End
+Nezumi Informant
+Nezumi Linkbreaker
+Nezumi Prowler
+Not Dead After All
+Persistent Marshstalker
+Persistent Specimen
+Piper of the Swarm
+Priest of Forgotten Gods
+Rakdos Guildgate
+Rat Out
+Ratcatcher Trainee
+Razortrap Gorge
+Redcap Gutter-Dweller
+Restless Vents
+Rising of the Day
+Rowan's Grim Search
+Shared Animosity
+Song of Totentanz
+Sudden Edict
+Swamp
+Syr Konrad, the Grim
+Tangled Colony
+Tattered Ratter
+Terramorphic Expanse
+The Autonomous Furnace
+Thornplate Intimidator
+Thrill of Possibility
+Vampiric Rites
+Virtue of Persistence
+Viscera Seer
+Voracious Vermin
+Vraan, Executioner Thane
+Vrock
+Warehouse Tabby
+Witch's Mark
+Zulaport Cutthroat
+
+Arcane Signet
+Ayara, First of Locthwain
+Blasphemous Act
+Chain Reaction
+Charging Hooligan
+Chittering Witch
+Coat of Arms
+Command Tower
+Commander's Sphere
+Crippling Fear
+Dark Ritual
+Dragonskull Summit
+Drainpipe Vermin
+Edgewall Pack
+Foreboding Ruins
+Foul-Tongue Shriek
+Gnawing Crescendo
+Gnawing Vermin
+Gobhobbler Rats
+Grave Pact
+Harried Spearguard
+Hellhole Rats
+Herald's Horn
+Heraldic Banner
+Karumonix, the Rat King
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Marrow-Gnawer
+Mind Stone
+Mirkwood Bats
+Mountain
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Pack Rat
+Pestilence Rats
+Piper of the Swarm
+Rakdos Carnarium
+Rakdos Cluestone
+Rakdos Locket
+Rancid Rats
+Rat Colony
+Rat Out
+Ratcatcher
+Ratcatcher Trainee
+Ravenous Rats
+Redcap Gutter-Dweller
+Rising of the Day
+Ruin Rat
+Shared Animosity
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Stronghold Rats
+Swamp
+Swarm of Rats
+Tangled Colony
+Tattered Ratter
+Tribute to Horobi
+Twisted Sewer-Witch
+Typhoid Rats
+Vanquisher's Banner
+Victimize
+Village Rites
+Wave of Rats
+
+Annihilating Glare
+Artillerize
+Ashnod's Altar
+Awaken the Erstwhile
+Barter in Blood
+Bastion of Remembrance
+Black Market
+Bloodfell Caves
+Bone Miser
+Bone Shards
+Bone Splinters
+Burglar Rat
+Corrupted Conviction
+Crack the Earth
+Crypt Rats
+Deadly Dispute
+Death Cloud
+Delirium Skeins
+Demonic Tutor
+Diabolic Intent
+Disentomb
+Earsplitting Rats
+Echoing Return
+Fraying Omnipotence
+Gamble
+Gnawing Crescendo
+Goblin Bombardment
+Grave Strength
+Grim Discovery
+Grim Harvest
+Hell's Caretaker
+Hellhole Rats
+Impact Tremors
+Locket of Yesterdays
+Midnight Recovery
+Mirror Box
+Mountain
+Nezumi Bone-Reader
+Overwhelming Remorse
+Phyrexian Altar
+Phyrexian Arena
+Piper of the Swarm
+Rat Colony
+Ravenous Rats
+Refurbished Familiar
+Reliquary Tower
+Revenge of the Rats
+Rotting Rats
+Sanity Gnawers
+Skull Rend
+Smallpox
+Song of Totentanz
+Songs of the Damned
+Spiteful Visions
+Stronghold Rats
+Swamp
+Tangled Colony
+Thought Vessel
+Twinning Glass
+Vampiric Tutor
+Waste Not
+
+Abrade
+Akoum Refuge
+Arcane Signet
+Bastion of Remembrance
+Blightbelly Rat
+Bloodfell Caves
+Bojuka Bog
+Burglar Rat
+Canyon Slough
+Castle Embereth
+Charging Hooligan
+Chittering Witch
+Command Tower
+Corrupted Conviction
+Crippling Fear
+Crypt Rats
+Deadly Dispute
+Dragonskull Summit
+Eaten Alive
+Evolving Wilds
+Feed the Swarm
+Foreboding Ruins
+Foul-Tongue Shriek
+Garna, Bloodfist of Keld
+Geothermal Bog
+Gnawing Crescendo
+Graven Cairns
+Gruesome Fate
+Harried Spearguard
+Hero's Downfall
+Impact Tremors
+Infernal Grasp
+Insatiable Frugivore
+Jagged Barrens
+Karumonix, the Rat King
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mahadi, Emporium Master
+Marrow-Gnawer
+Mortuary Mire
+Mountain
+Mudflat Village
+Nezumi Informant
+Ogre Chitterlord
+Ogre Slumlord
+Pack Rat
+Patchwork Banner
+Persistent Marshstalker
+Pestilence Rats
+Piper of the Swarm
+Plumb the Forbidden
+Raid Bombardment
+Rakdos Carnarium
+Rakdos Signet
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Reliquary Tower
+Rogue's Passage
+Rowan's Grim Search
+Shadowblood Ridge
+Shared Animosity
+Sign in Blood
+Skullclamp
+Smoldering Marsh
+Song of Totentanz
+Sulfurous Mire
+Swamp
+Swarmyard Massacre
+Syr Konrad, the Grim
+Tainted Peak
+Talisman of Indulgence
+Tangled Colony
+Tattered Ratter
+Temple of Malice
+Terminate
+Terramorphic Expanse
+Thriving Bluff
+Thriving Moor
+Tragic Slip
+Twisted Sewer-Witch
+Typhoid Rats
+Vandalblast
+Victimize
+Village Rites
+Voracious Vermin
+Wave of Rats
+Witch's Cottage
+Withering Torment
+Zulaport Cutthroat
+
+Arcane Signet
+Ashnod's Altar
+Ayara, First of Locthwain
+Back for Seconds
+Bedevil
+Blasphemous Act
+Blood Artist
+Bojuka Bog
+Bontu's Monument
+Castle Embereth
+Chaos Warp
+Chittering Witch
+Command Tower
+Corrupted Conviction
+Dark Ritual
+Deadly Dispute
+Diabolic Tutor
+Dragonskull Summit
+Echoing Assault
+Edgewall Pack
+Feed the Swarm
+Foreboding Ruins
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Goblin Bombardment
+Grave Pact
+Gruesome Fate
+Harried Spearguard
+Hidden Volcano
+Impact Tremors
+Ink-Eyes, Servant of Oni
+Karumonix, the Rat King
+Lich-Knights' Conquest
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Mahadi, Emporium Master
+Marrow-Gnawer
+Mirkwood Bats
+Mountain
+Mudflat Village
+Myriad Landscape
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Pack Rat
+Persistent Marshstalker
+Piper of the Swarm
+Pitiless Plunderer
+Raid Bombardment
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
+Rat Out
+Ratcatcher
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Restless Vents
+Shadowblood Ridge
+Shared Animosity
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Swamp
+Swarmyard
+Swarmyard Massacre
+Tainted Peak
+Tangled Colony
+Tattered Ratter
+Temple of Malice
+Terminate
+Toxic Deluge
+Twisted Sewer-Witch
+Valley Rotcaller
+Vanquisher's Banner
+Victimize
+Village Rites
+Voracious Vermin
+Westvale Abbey
+Witch's Cottage
+Zulaport Cutthroat
+
+Abnormal Endurance
+Apprentice Necromancer
+Ashenmoor Gouger
+Ashenmoor Liege
+Back for Seconds
+Battlefly Swarm
+Bladebrand
+Blood Bairn
+Bonder's Ornament
+Burnished Hart
+Butcher Ghoul
+Butcher of Malakir
+Cadaver Imp
+Candy Grapple
+Cavalier of Night
+Charcoal Diamond
+Corrupted Conviction
+Crypt Rats
+Demigod of Revenge
+Demonlord of Ashmouth
+Fallen Angel
+Feed the Swarm
+Fire Diamond
+Fists of the Demigod
+Fleshbag Marauder
+Forsaken Miner
+Ghoulcaller Gisa
+Gisa, Glorious Resurrector
+Goblin Cratermaker
+Grave Titan
+Gruesome Menagerie
+Harried Spearguard
+Inferno Titan
+Ingot Chewer
+Lively Dirge
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Massacre Girl
+Merciless Executioner
+Mirkwood Bats
+Mountain
+Nantuko Husk
+Nezumi Linkbreaker
+Ogre Slumlord
+Paragon of Open Graves
+Persistent Specimen
+Putrid Goblin
+Pyreheart Wolf
+Rat Out
+Ratcatcher Trainee
+Reassembling Skeleton
+Redcap Gutter-Dweller
+Sengir Vampire
+Shambling Remains
+Song of Totentanz
+Spitebellows
+Stonesplitter Bolt
+Swamp
+Tangled Colony
+Tattered Ratter
+Terminate
+Twisted Sewer-Witch
+Typhoid Rats
+Unlikely Aid
+Voracious Vermin
+Vow of Torment
+Zagras, Thief of Heartbeats
+
+Aclazotz, Deepest Betrayal
+Alesha, Who Laughs at Fate
+Altar of Bhaal
+Arcane Signet
+Arid Mesa
+Ashcoat of the Shadow Swarm
+Ashnod's Altar
+Ayara, First of Locthwain
+Bastion of Remembrance
+Blackcleave Cliffs
+Blasphemous Act
+Blasphemous Edict
+Blightstep Pathway
+Blood Artist
+Blood Crypt
+Blood for the Blood God!
+Bloodstained Mire
+Bloodthirsty Conqueror
+Bontu's Monument
+Burglar Rat
+Cabal Coffers
+Chittering Witch
+Command Tower
+Connecting the Dots
+Corrupted Conviction
+Crowded Crypt
+Demonic Tutor
+Diabolic Intent
+Divergent Transformations
+Dragonskull Summit
+Exotic Orchard
+Fabled Passage
+Gnawing Crescendo
+Goblin Bombardment
+Graven Cairns
+Haunted Ridge
+Headliner Scarlett
+Ink-Eyes, Servant of Oni
+Judith, the Scourge Diva
+Lightning Greaves
+Liliana, Dreadhorde General
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Luxury Suite
+Marionette Apprentice
+Marrow-Gnawer
+Mines of Moria
+Mirkwood Bats
+Mortuary Mire
+Mount Doom
+Mountain
+Myriad Landscape
+Nadier's Nightblade
+Nine-Lives Familiar
+Ogre Slumlord
+Orcish Bowmasters
+Pack Rat
+Piper of the Swarm
+Pitiless Plunderer
+Purphoros, God of the Forge
+Ratcatcher
+Reanimate
+Redcap Gutter-Dweller
+Refurbished Familiar
+Reliquary Tower
+Restless Vents
+Revenge of the Rats
+Roaming Throne
+Sadistic Hypnotist
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Stronghold Rats
+Sulfurous Springs
+Swamp
+Swarmyard
+Tainted Peak
+Tangled Colony
+The Black Gate
+The Meathook Massacre
+Tinybones, Bauble Burglar
+Twisted Sewer-Witch
+Urborg, Tomb of Yawgmoth
+V.A.T.S.
+Vein Ripper
+Vengeful Bloodwitch
+Victimize
+Village Rites
+Voracious Vermin
+Wave of Rats
+Westvale Abbey
+Yawgmoth, Thran Physician
+Zulaport Cutthroat
+
+Adaptive Automaton
+Aggravated Assault
+Arcane Signet
+Ashnod's Altar
+Ayara, First of Locthwain
+Barren Moor
+Bastion of Remembrance
+Beamtown Beatstick
+Black Market
+Blasphemous Act
+Bolt Bend
+Brass's Bounty
+Brass's Tunnel-Grinder
+Cabal Stronghold
+Castle Locthwain
+Command Tower
+Crypt of Agadeem
+Culling the Weak
+Dark Ritual
+Deadly Dispute
+Desecrated Tomb
+Diamond Pick-Axe
+Door of Destinies
+Dragonskull Summit
+Eldrazi Monument
+Feldon of the Third Path
+Flamekin Village
+Foreboding Ruins
+Forgotten Cave
+Goblin Bombardment
+Goldvein Pick
+Graven Cairns
+Gravepurge
+Helm of the Host
+Herald's Horn
+Icon of Ancestry
+Into the Pit
+Karlach, Fury of Avernus
+Lord Skitter, Sewer King
+Luxury Suite
+Metallic Mimic
+Mirror March
+Mountain
+Myriad Landscape
+Pack Rat
+Patchwork Banner
+Persistent Marshstalker
+Phyrexian Reclamation
+Phyrexian Tower
+Plague of Vermin
+Plumb the Forbidden
+Rat Colony
+Ratcatcher
+Reliquary Tower
+Revel in Riches
+Shared Animosity
+Skullclamp
+Song of Totentanz
+Spinerock Knoll
+Spire of Industry
+Strionic Resonator
+Sulfurous Springs
+Swamp
+Swiftfoot Boots
+The Reaver Cleaver
+Thriving Bluff
+Treasure Map
+Valley Rotcaller
+Vampiric Rites
+Vanquisher's Banner
+Victimize
+Viscera Seer
+Whip of Erebos
+
+Agate Assault
+Akoum Refuge
+Arcane Signet
+Ayara, First of Locthwain
+Back for Seconds
+Bitter Triumph
+Black Market
+Blood Artist
+Bloodfell Caves
+Bojuka Bog
+Bolas's Citadel
+Bontu's Monument
+Butcher of Malakir
+Chittering Witch
+Chthonian Nightmare
+Command Tower
+Commander's Sphere
+Corrupted Conviction
+Deadly Dispute
+Dragonskull Summit
+Evolving Wilds
+Falkenrath Noble
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Goblin Bombardment
+Grave Pact
+Harried Spearguard
+Impact Tremors
+Ink-Eyes, Servant of Oni
+Jet Medallion
+Kindred Dominance
+Lagomos, Hand of Hatred
+Lich-Knights' Conquest
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Maha, Its Feathers Night
+Marrow-Gnawer
+Mind Stone
+Mirkwood Bats
+Mountain
+Myriad Landscape
+Nashi, Moon Sage's Scion
+Nine-Lives Familiar
+Ogre Chitterlord
+Ogre Slumlord
+Pack Rat
+Patriarch's Bidding
+Phyrexian Arena
+Phyrexian Plaguelord
+Piper of the Swarm
+Rakdos Carnarium
+Rakdos Guildgate
+Rakdos Signet
+Rat Colony
+Ratcatcher
+Ravenous Amulet
+Reassembling Skeleton
+Redcap Gutter-Dweller
+Reliquary Tower
+Revenge of the Rats
+Rix Maadi, Dungeon Palace
+Shadowblood Ridge
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Species Specialist
+Swamp
+Swarm of Rats
+Swarmyard
+Syr Konrad, the Grim
+Tarrian's Journal
+Temple of Malice
+Terminate
+Terramorphic Expanse
+Twisted Sewer-Witch
+Undead Sprinter
+Victimize
+Village Rites
+Voracious Vermin
+War Room
+Warren Soultrader
+Zulaport Cutthroat
+
+Arcane Signet
+Ashcoat of the Shadow Swarm
+Bedevil
+Black Market Connections
+Body Count
+Cabal Coffers
+Chittering Witch
+City on Fire
+Crypt Rats
+Deadly Dispute
+Demonic Tutor
+Dictate of Erebos
+Dragonskull Summit
+Echoing Assault
+Feed the Swarm
+Fervor
+Gnat Miser
+Gnawing Crescendo
+Goblin Bombardment
+Impact Tremors
+Into the Pit
+Lab Rats
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Mad Ratter
+Mahadi, Emporium Master
+Marrow-Gnawer
+Mirkwood Bats
+Morbid Opportunist
+Mountain
+Mudflat Village
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Pack Rat
+Persistent Marshstalker
+Phyrexian Altar
+Phyrexian Tower
+Piper of the Swarm
+Plague of Vermin
+Rancid Rats
+Rat Colony
+Ratcatcher
+Redcap Gutter-Dweller
+Rogue's Passage
+Ruthless Radrat
+Screams from Within
+Shared Animosity
+Skullclamp
+Smoldering Marsh
+Song of Totentanz
+Species Specialist
+Stronghold Rats
+Swamp
+Swarmyard
+Swarmyard Massacre
+Sword of the Squeak
+Talisman of Indulgence
+Tangled Colony
+Twisted Sewer-Witch
+Urborg, Tomb of Yawgmoth
+Valley Rotcaller
+Vampiric Rites
+Victimize
+Village Rites
+Voracious Vermin
+Warehouse Tabby
+Wave of Rats
+Withering Torment
+Zulaport Cutthroat
+
+Arcane Signet
+Ashcoat of the Shadow Swarm
+Ayara, First of Locthwain
+Back for Seconds
+Badlands
+Bastion of Remembrance
+Bedevil
+Blackcleave Cliffs
+Blasphemous Act
+Blasphemous Edict
+Blazemire Verge
+Blightstep Pathway
+Blood Artist
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Bontu's Monument
+Chaos Warp
+Chittering Witch
+Command Tower
+Corrupted Conviction
+Crippling Fear
+Crypt Rats
+Deadly Dispute
+Dragonskull Summit
+Echoing Assault
+Escape Tunnel
+Fabled Passage
+Feed the Swarm
+Foreboding Ruins
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Grave Pact
+Graven Cairns
+Harried Spearguard
+Haunted Ridge
+Impact Tremors
+Karumonix, the Rat King
+Lich-Knights' Conquest
+Lord Skitter's Blessing
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Mahadi, Emporium Master
+Marrow-Gnawer
+Mirkwood Bats
+Mountain
+Mudflat Village
+Not Dead After All
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Pack Rat
+Patriarch's Bidding
+Persistent Marshstalker
+Phyrexian Tower
+Piper of the Swarm
+Plumb the Forbidden
+Raid Bombardment
+Rakdos Carnarium
+Rakdos Signet
+Rat Colony
+Rat Out
+Ratcatcher
+Raucous Theater
+Redcap Gutter-Dweller
+Ruthless Radrat
+Shadowblood Ridge
+Shared Animosity
+Skullclamp
+Smoldering Marsh
+Song of Totentanz
+Species Specialist
+Sulfurous Springs
+Swamp
+Swarmyard
+Swarmyard Massacre
+Tainted Peak
+Takenuma, Abandoned Mire
+Talisman of Indulgence
+Tangled Colony
+Tattered Ratter
+Temple of Malice
+Terminate
+Three Tree City
+Twisted Sewer-Witch
+Vampiric Rites
+Vanquisher's Banner
+Victimize
+Village Rites
+Voracious Vermin
+Wave of Rats
+Zulaport Cutthroat
+
+Aggravated Assault
+Arcane Signet
+Ashcoat of the Shadow Swarm
+Ashnod's Altar
+Back for Seconds
+Bedevil
+Blood Crypt
+Canyon Slough
+Castle Embereth
+Chittering Witch
+Corrupted Conviction
+Door of Destinies
+Dormant Volcano
+Dragonskull Summit
+Eaten Alive
+Everglades
+Evolving Wilds
+Feed the Swarm
+Foul-Tongue Shriek
+Geothermal Bog
+Gnawing Crescendo
+Goblin Bombardment
+Grave Pact
+Graven Cairns
+Gruesome Fate
+Harried Spearguard
+Hell's Caretaker
+Hellhole Rats
+Herald's Horn
+Howling Mine
+Icon of Ancestry
+Impact Tremors
+Ink-Eyes, Servant of Oni
+Juri, Master of the Revue
+Karumonix, the Rat King
+Lightning Bolt
+Lightning Greaves
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Mad Ratter
+Marrow-Gnawer
+Mortuary Mire
+Mountain
+Mudflat Village
+Nasty End
+Ogre Chitterlord
+Ogre Slumlord
+Old Flitterfang
+Oversold Cemetery
+Pack Rat
+Persistent Marshstalker
+Pestilence Rats
+Piper of the Swarm
+Rakdos Carnarium
+Rakdos Signet
+Rancid Rats
+Rat Colony
+Rat Out
+Ratcatcher
+Ratcatcher Trainee
+Redcap Gutter-Dweller
+Refurbished Familiar
+Roar of Resistance
+Rogue's Passage
+Shared Animosity
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Stonesplitter Bolt
+Swamp
+Swarmyard
+Tangled Colony
+Tattered Ratter
+Terminate
+Terramorphic Expanse
+Thornbite Staff
+Three Tree City
+Tragic Slip
+Tribute to Horobi
+Typhoid Rats
+Vanquisher's Banner
+Village Rites
+Voracious Vermin
+Warstorm Surge
+Wave of Rats
+Witch's Cottage
+
+Arcane Signet
+Ash Barrens
+Ashcoat of the Shadow Swarm
+Ayara, First of Locthwain
+Bastion of Remembrance
+Bedevil
+Blackcleave Cliffs
+Blasphemous Act
+Blightstep Pathway
+Blood Artist
+Blood Crypt
+Bloodsoaked Insight
+Bojuka Bog
+Bontu's Monument
+Chaos Warp
+Chittering Witch
+Command Tower
+Corrupted Conviction
+Deadly Dispute
+Dragonskull Summit
+Drivnod, Carnage Dominus
+Exotic Orchard
+Feed the Swarm
+Fellwar Stone
+Foreboding Ruins
+Garna, Bloodfist of Keld
+Gnawing Crescendo
+Goblin Bombardment
+Graven Cairns
+Harried Spearguard
+Haunted Ridge
+Impact Tremors
+Karumonix, the Rat King
+Lich-Knights' Conquest
+Lord Skitter's Butcher
+Lord Skitter, Sewer King
+Luxury Suite
+Mad Ratter
+Mahadi, Emporium Master
+Malakir Rebirth
+Marrow-Gnawer
+Mayhem Devil
+Mirkwood Bats
+Mountain
+Myriad Landscape
+Nashi, Moon Sage's Scion
+Nezumi Bone-Reader
+Ogre Chitterlord
+Ogre Slumlord
+Pack Rat
+Pestilence Rats
+Phyrexian Arena
+Piper of the Swarm
+Pitiless Plunderer
+Plague of Vermin
+Raid Bombardment
+Rakdos Signet
+Rat Out
+Ratcatcher Trainee
+Raucous Theater
+Redcap Gutter-Dweller
+Reflecting Pool
+Shadowblood Ridge
+Shared Animosity
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Song of Totentanz
+Species Specialist
+Spiteful Visions
+Stormfist Crusader
+Sulfurous Springs
+Swamp
+Swarm of Rats
+Swarmyard
+Tainted Peak
+Talisman of Indulgence
+Tangled Colony
+Tattered Ratter
+Temple of the False God
+Terminate
+Twisted Sewer-Witch
+Victimize
+Village Rites
+Viscera Seer
+Voracious Vermin
+Wave of Rats
+Zulaport Cutthroat
+
