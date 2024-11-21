@@ -1,0 +1,4676 @@
+Abrupt Decay
+Aftermath Analyst
+Anger
+Arcane Signet
+Archetype of Aggression
+Archon of Cruelty
+Ashes of the Fallen
+Barrowgoyf
+Birthing Pod
+Bloodsoaked Insight
+Brawn
+Burning-Rune Demon
+Canyon Slough
+Cinder Glade
+Command Tower
+Commercial District
+Coram, the Undertaker
+Cover of Darkness
+Crucible of Worlds
+Dakmor Salvage
+Darkbore Pathway
+Deadly Rollick
+Deathrite Shaman
+Demand Answers
+Demolition Field
+Dictate of Erebos
+Exotic Orchard
+Faithless Looting
+Fanatic of Rhonas
+Fatal Grudge
+Forest
+Garruk's Uprising
+Gluttonous Hellkite
+Grave Pact
+Graveshifter
+Greater Good
+Grisly Salvage
+Grist, the Hunger Tide
+Haywire Mite
+Ignoble Hierarch
+Insidious Roots
+Junji, the Midnight Sky
+Kessig Wolf Run
+Kindred Dominance
+Lhurgoyf
+Lightning Greaves
+Llanowar Wastes
+Maskwood Nexus
+Monster Manual
+Mortivore
+Mossfire Valley
+Mountain
+Necrogoyf
+One with Nothing
+Oppression
+Overgrown Tomb
+Phyrexian Tower
+Polygoyf
+Purphoros, God of the Forge
+Pyrogoyf
+Reckless Handling
+Riveteers Overlook
+Rogue's Passage
+Satyr Hedonist
+Shadowblood Ridge
+Sheltered Thicket
+Six
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Swiftfoot Boots
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf Nest
+Taurean Mauler
+Tergrid, God of Fright
+Terminate
+Terramorphic Expanse
+Terravore
+The Reaver Cleaver
+Thrill of Possibility
+Tranquil Thicket
+Tribute to the World Tree
+Twisted Landscape
+Underground Mortuary
+Undergrowth Stadium
+Unmarked Grave
+Viridescent Bog
+Vorinclex
+Woodland Cemetery
+
+Abyssal Harvester
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Bloodbraid Challenger
+Bloodbraid Elf
+Brawn
+Broodmate Tyrant
+Canyon Slough
+Chandra's Ignition
+Cinder Glade
+Command Tower
+Coram, the Undertaker
+Crucible of Worlds
+Dakmor Salvage
+Deadbridge Chant
+Deathreap Ritual
+Demolition Field
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Exterminator Magmarch
+Faithless Looting
+Final Act
+Find // Finality
+Forest
+Gluttonous Hellkite
+Grapple with the Past
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Infested Thrinax
+Izoni, Thousand-Eyed
+Junji, the Midnight Sky
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maelstrom Pulse
+Maskwood Nexus
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Necrogoyf
+Nethergoyf
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Ripples of Undeath
+Riveteers Charm
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Sawhorn Nemesis
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Six
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Tempt with Mayhem
+Terminate
+Terramorphic Expanse
+The Reaver Cleaver
+Tranquil Thicket
+Twisted Landscape
+Viridescent Bog
+Yavimaya Elder
+Ziatora, the Incinerator
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Assassin's Trophy
+Barrowgoyf
+Beast Within
+Bitter Triumph
+Bojuka Bog
+Brawn
+Buried Alive
+Burnished Hart
+Canyon Slough
+Chandra's Ignition
+Changeling Outcast
+Chaos Warp
+Cinder Glade
+Colossal Majesty
+Command Tower
+Coram, the Undertaker
+Cultivate
+Dakmor Salvage
+Deathreap Ritual
+Demolition Field
+Elemental Bond
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Final Act
+Find // Finality
+Forest
+Forgotten Cave
+Garruk's Uprising
+Grapple with the Past
+Graveshifter
+Greater Good
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Kessig Wolf Run
+Kodama's Reach
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maelstrom Pulse
+Masked Vandal
+Maskwood Nexus
+Matzalantli, the Great Door
+Morality Shift
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Necrogoyf
+Ohran Frostfang
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Smoldering Marsh
+Sol Ring
+Solemn Simulacrum
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Terminate
+Terramorphic Expanse
+The Reaver Cleaver
+Toski, Bearer of Secrets
+Tranquil Thicket
+Twisted Landscape
+Vampiric Rites
+Viridescent Bog
+Wayfarer's Bauble
+Ziatora's Proving Ground
+
+Abrupt Decay
+Ancient Grudge
+Anger
+Arcane Signet
+Archon of Cruelty
+Ashes of the Fallen
+Assassin's Trophy
+Barrowgoyf
+Beast Within
+Birds of Paradise
+Blasphemous Act
+Blood Crypt
+Bloom Tender
+Brawn
+Breach the Multiverse
+Buried Alive
+Chainer, Nightmare Adept
+Chandra's Ignition
+Chaos Warp
+Chord of Calling
+Cinder Glade
+Command Tower
+Commercial District
+Copperline Gorge
+Coram, the Undertaker
+Dakmor Salvage
+Dark Ritual
+Deathcap Glade
+Diabolic Tutor
+Eldritch Evolution
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Foreboding Ruins
+Forest
+Fyndhorn Elves
+Game Trail
+Goblin Anarchomancer
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Helm of the Host
+Honest Rutstein
+Ignoble Hierarch
+Junji, the Midnight Sky
+Karplusan Forest
+Kiki-Jiki, Mirror Breaker
+Kura, the Boundless Sky
+Lhurgoyf
+Lightning Greaves
+Living Death
+Llanowar Wastes
+Lotus Petal
+Moldervine Reclamation
+Mortivore
+Mountain
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Old Rutstein
+Overgrown Tomb
+Oversold Cemetery
+Painful Quandary
+Polygoyf
+Pyrogoyf
+Rhythm of the Wild
+Rockfall Vale
+Selvala, Heart of the Wilds
+Six
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Supernatural Stamina
+Swamp
+Sword of the Paruns
+Syr Konrad, the Grim
+Tarmogoyf
+Tarmogoyf Nest
+Three Visits
+Tibalt's Trickery
+Underrealm Lich
+Undying Malice
+Unseal the Necropolis
+Woodland Cemetery
+Wrenn and Six
+Ziatora's Proving Ground
+Ziatora, the Incinerator
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Bloodbraid Challenger
+Brawn
+Buried Alive
+Canyon Slough
+Chainer, Nightmare Adept
+Chandra's Ignition
+Cinder Glade
+Command Tower
+Conspiracy
+Coram, the Undertaker
+Dakmor Salvage
+Deathreap Ritual
+Demolition Field
+Drag to the Roots
+Dread Return
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Fauna Shaman
+Find // Finality
+Forest
+Garruk's Uprising
+Gluttonous Hellkite
+Grapple with the Past
+Graveshifter
+Greater Good
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Incarnation Technique
+Invasion of Mercadia
+Izoni, Thousand-Eyed
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maelstrom Pulse
+Maskwood Nexus
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Necrogoyf
+Path of Ancestry
+Peer Past the Veil
+Pile On
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Shigeki, Jukai Visionary
+Skull Prophet
+Smoldering Marsh
+Sol Ring
+Stargaze
+Stitcher's Supplier
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terramorphic Expanse
+Terravore
+The Reaver Cleaver
+Timeless Witness
+Twisted Landscape
+Viridescent Bog
+Yavimaya Elder
+Ziatora, the Incinerator
+
+Abrupt Decay
+Aftermath Analyst
+Altar of Dementia
+Altar of the Goyf
+Anger
+Arcane Signet
+Assassin's Trophy
+Barrowgoyf
+Birds of Paradise
+Birthing Pod
+Blackcleave Cliffs
+Blood Crypt
+Bloodstained Mire
+Bloom Tender
+Blooming Marsh
+Buried Alive
+Chainer, Nightmare Adept
+Changeling Outcast
+Cinder Glade
+Command Tower
+Conspiracy
+Copperline Gorge
+Craterhoof Behemoth
+Cultivate
+Cynical Loner
+Dakmor Salvage
+Dark Confidant
+Deathcap Glade
+Demolition Field
+Dismember
+Doomsday Excruciator
+Dragonskull Summit
+Evolving Wilds
+Exhume
+Exotic Orchard
+Final Act
+Forest
+Grist, Voracious Larva
+Hermit Druid
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Ikoria
+Invasion of Ixalan
+Karplusan Forest
+Kessig Wolf Run
+Lhurgoyf
+Liliana of the Veil
+Llanowar Wastes
+Lumra, Bellow of the Woods
+Maskwood Nexus
+Mountain
+Necroblossom Snarl
+Necrogoyf
+Nethergoyf
+Overgrown Tomb
+Phyrexian Altar
+Polygoyf
+Pyrogoyf
+Ramunap Excavator
+Realmwalker
+Reanimate
+Rhythm of the Wild
+Ripples of Undeath
+Rise of the Dark Realms
+Riveteers Overlook
+Rockfall Vale
+Rootbound Crag
+Sakura-Tribe Elder
+Season of Loss
+Seasoned Pyromancer
+Sheoldred, Whispering One
+Shigeki, Jukai Visionary
+Six
+Skyshroud Claim
+Smuggler's Surprise
+Sol Ring
+Stitcher's Supplier
+Stomping Ground
+Stump Stomp
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Tarmogoyf
+Tarmogoyf Nest
+Terramorphic Expanse
+Tortured Existence
+Triumph of the Hordes
+Twisted Landscape
+Unmarked Grave
+Verdant Catacombs
+Vraska, Betrayal's Sting
+Wight of the Reliquary
+Wooded Foothills
+Woodland Cemetery
+Wrenn and Realmbreaker
+Yawgmoth, Thran Physician
+Ziatora's Proving Ground
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Bituminous Blast
+Bloodbraid Elf
+Bone Shards
+Brawn
+Buried Alive
+Burnished Hart
+Canyon Slough
+Chandra's Ignition
+Cinder Glade
+Command Tower
+Conspiracy
+Coram, the Undertaker
+Dakmor Salvage
+Deadbridge Chant
+Deathreap Ritual
+Demolition Field
+Eternal Witness
+Exotic Orchard
+Eye Collector
+Faithless Looting
+Final Act
+Find // Finality
+Forest
+Forgotten Cave
+Gluttonous Hellkite
+Grapple with the Past
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Junji, the Midnight Sky
+Kagha, Shadow Archdruid
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Lord Windgrace
+Maelstrom Pulse
+Maskwood Nexus
+Mindcrank
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Necrogoyf
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Ramunap Excavator
+Riveteers Charm
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Sawhorn Nemesis
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Six
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terminate
+Terramorphic Expanse
+Terravore
+Thrill of Possibility
+Tranquil Thicket
+Twisted Landscape
+Viridescent Bog
+Winter, Misanthropic Guide
+
+Aftermath Analyst
+Arcane Signet
+Ashes of the Fallen
+Blazemire Verge
+Blood Crypt
+Bloodstained Mire
+Breach the Multiverse
+Buried Alive
+Casualties of War
+Chainer, Nightmare Adept
+Chandra's Ignition
+Changeling Outcast
+Cinder Glade
+Collector's Vault
+Command Tower
+Commercial District
+Conspiracy
+Deathsprout
+Decimate
+Deluge of Doom
+Disciple of Bolas
+Drag to the Roots
+Drana, Liberator of Malakir
+Enduring Courage
+Exotic Orchard
+Faithless Looting
+Fear of Missing Out
+Fell the Profane
+Font of Fertility
+Forest
+Formless Genesis
+Garruk's Packleader
+Garruk's Uprising
+Graveshifter
+Greater Good
+Growing Rites of Itlimoc
+Gurmag Swiftwing
+Hollow Marauder
+Invasion of Mercadia
+Jund Panorama
+Kodama's Reach
+Lhurgoyf
+Liliana of the Veil
+Llanowar Wastes
+Lumra, Bellow of the Woods
+Magnivore
+Malakir Rebirth
+Maskwood Nexus
+Massacre Wurm
+Matzalantli, the Great Door
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Nameless Inversion
+Necrogoyf
+Nuclear Fallout
+Polygoyf
+Promising Vein
+Pyrogoyf
+Rankle and Torbran
+Rankle, Master of Pranks
+Realmwalker
+Return of the Wildspeaker
+Return to Nature
+Revitalizing Repast
+Ripples of Undeath
+Sakura-Tribe Elder
+Shadowblood Ridge
+Shire Terrace
+Six
+Skyshroud Claim
+Smoldering Marsh
+Sol Ring
+Swamp
+Tainted Peak
+Tainted Wood
+Tarmogoyf Nest
+Taurean Mauler
+Terravore
+Thornspire Verge
+Tormented Soul
+Tortured Existence
+Twisted Landscape
+Viridescent Bog
+Virtue of Persistence
+Wayfarer's Bauble
+Wreck and Rebuild
+
+Abrupt Decay
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Bloodthirsty Conqueror
+Brawn
+Broodmate Tyrant
+Buried Alive
+Chainer, Nightmare Adept
+Changeling Outcast
+Cinder Glade
+Command Tower
+Consuming Blob
+Deathreap Ritual
+Demand Answers
+Demolition Field
+Drag to the Roots
+Eternal Witness
+Etherium Pteramander
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Final Act
+Final Parting
+Forest
+Garruk's Uprising
+Garruk, Apex Predator
+Grapple with the Past
+Gravedig
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Insatiable Avarice
+Invasion of Zendikar
+Junji, the Midnight Sky
+Lhurgoyf
+Lightning Greaves
+Macabre Waltz
+Marauding Blight-Priest
+Maskwood Nexus
+Mirage Mesa
+Mortivore
+Mountain
+Myriad Landscape
+Necrogoyf
+Nethergoyf
+Overlord of the Balemurk
+Palantír of Orthanc
+Path of Ancestry
+Phyrexian Arena
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Razorkin Hordecaller
+Rishkar's Expertise
+Riveteers Overlook
+Rugged Highlands
+Sakura-Tribe Elder
+Savage Lands
+Sawhorn Nemesis
+Selvala, Heart of the Wilds
+Siege-Gang Lieutenant
+Smoldering Marsh
+Sol Ring
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Temple of Malice
+Terminate
+Terramorphic Expanse
+Thrill of Possibility
+Tortured Existence
+Twisted Landscape
+Undead Sprinter
+Utopia Sprawl
+Victimize
+Vile Entomber
+Winter, Misanthropic Guide
+Yavimaya Elder
+Ziatora, the Incinerator
+
+Altar of the Goyf
+Animate Dead
+Arcane Signet
+Assassin's Trophy
+Barrowgoyf
+Beast Within
+Blazemire Verge
+Bleeding Woods
+Brawn
+Buried Alive
+Cemetery Tampering
+Chainer, Nightmare Adept
+Cinder Glade
+Command Tower
+Cultivate
+Deathcap Marionette
+Deathsprout
+Deluge of Doom
+Demand Answers
+Diabolic Intent
+Diresight
+Drag to the Roots
+Druidic Ritual
+Entomb
+Evolving Wilds
+Foreboding Ruins
+Forest
+Golgari Signet
+Grapple with the Past
+Gravebreaker Lamia
+Grisly Salvage
+Grist, the Hunger Tide
+Gruul Signet
+Hedge Shredder
+Ignoble Hierarch
+Invasion of Fiora
+Invasion of Ikoria
+Invasion of Shandalar
+Invasion of Zendikar
+Jarad's Orders
+Liliana, Death's Majesty
+Lively Dirge
+Migration Path
+Mountain
+Mulch
+Overlord of the Balemurk
+Path of Ancestry
+Polygoyf
+Putrefy
+Pyrogoyf
+Rakdos Signet
+Rampant Growth
+Ravenous Chupacabra
+Razortrap Gorge
+Reanimate
+Reclamation Sage
+Ripples of Undeath
+Riveteers Overlook
+Rockfall Vale
+Sakura-Tribe Elder
+Satyr Wayfinder
+Savage Lands
+Seize the Spoils
+Skull Prophet
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Strangled Cemetery
+Swamp
+Tainted Peak
+Tainted Wood
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Tear Asunder
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Temple of the False God
+Terminate
+Terramorphic Expanse
+Terror Tide
+Thornspire Verge
+Three Visits
+Thriving Bluff
+Thriving Grove
+Thriving Moor
+Toxic Deluge
+Twilight Mire
+Twisted Landscape
+Tyvar, Jubilant Brawler
+Undead Butler
+Wrenn and Seven
+
+Altar of the Goyf
+Anger
+Another Chance
+Appendage Amalgam
+Arcane Signet
+Asceticism
+Assassin's Trophy
+Barrowgoyf
+Beast Within
+Birds of Paradise
+Bitter Triumph
+Blasphemous Act
+Bow of Nylea
+Brawn
+Cathartic Reunion
+Cavalier of Flame
+Cavalier of Thorns
+Chainer, Nightmare Adept
+Chameleon Colossus
+Cinder Glade
+Combustible Gearhulk
+Command Beacon
+Command Tower
+Commercial District
+Diresight
+Dragonskull Summit
+Enduring Courage
+Far Wanderings
+Fire-Lit Thicket
+Forest
+Game-Trail Changeling
+Garruk's Uprising
+Go for the Throat
+Grapple with the Past
+Graven Cairns
+Grim Flowering
+Grisly Salvage
+Guardian Project
+Hammer of Purphoros
+Heroic Intervention
+Ignoble Hierarch
+Infernal Grasp
+Karplusan Forest
+Lhurgoyf
+Liliana, Death's Majesty
+Llanowar Wastes
+Macabre Waltz
+Magnivore
+Mindwrack Demon
+Mishra, Tamer of Mak Fawa
+Mortivore
+Mountain
+Necrogoyf
+Nethergoyf
+Peer Past the Veil
+Polygoyf
+Pyrogoyf
+Raucous Theater
+Reliquary Tower
+Return of the Wildspeaker
+Rishkar's Expertise
+Rootbound Crag
+Sakura-Tribe Elder
+Satyr Wayfinder
+Savage Lands
+Smoldering Marsh
+Smuggler's Surprise
+Sol Ring
+Soul's Majesty
+Stitch Together
+Sulfurous Springs
+Swamp
+Takenuma, Abandoned Mire
+Tarmogoyf
+Tarmogoyf Nest
+Temple of the False God
+Terminate
+Terravore
+Twilight Mire
+Underground Mortuary
+Utopia Sprawl
+Victimize
+Wasteful Harvest
+Whip of Erebos
+Wild Growth
+Woodland Cemetery
+
+Agadeem's Awakening
+Anger
+Animate Dead
+Arcane Signet
+Argoth, Sanctum of Nature
+Ashes of the Fallen
+Assassin's Trophy
+Bala Ged Recovery
+Barrowgoyf
+Black Market Connections
+Blood Crypt
+Bloodstained Mire
+Boseiju, Who Endures
+Bramble Familiar
+Buried Alive
+Castle Locthwain
+Chainer, Nightmare Adept
+City of Brass
+Command Tower
+Commercial District
+Conspiracy
+Coram, the Undertaker
+Dark Ritual
+Darkstar Augur
+Delighted Halfling
+Demonic Tutor
+Enduring Vitality
+Entomb
+Eternal Witness
+Fell the Profane
+Footfall Crater
+Forbidden Orchard
+Golgari Rot Farm
+Green Sun's Zenith
+Gruul Turf
+Hajar, Loyal Bodyguard
+Hermit Druid
+Ignoble Hierarch
+Karplusan Forest
+Kaya's Ghostform
+Lhurgoyf
+Lightning Greaves
+Llanowar Wastes
+Luxury Suite
+Malakir Rebirth
+Malevolent Rumble
+Mana Confluence
+Maskwood Nexus
+Mesmeric Orb
+Mishra's Bauble
+Mithril Coat
+Monster Manual
+Morbid Opportunist
+Mortivore
+Necrogoyf
+Nethergoyf
+Nuclear Fallout
+Old Rutstein
+Out of the Tombs
+Overgrown Tomb
+Path of Ancestry
+Plaza of Heroes
+Polygoyf
+Pyrogoyf
+Rakdos Carnarium
+Raucous Theater
+Reanimate
+Reflecting Pool
+Revitalizing Repast
+Ripples of Undeath
+Savage Lands
+Selvala, Heart of the Wilds
+Shigeki, Jukai Visionary
+Skull Prophet
+Smuggler's Surprise
+Sol Ring
+Spire Garden
+Stomping Ground
+Sulfurous Springs
+Swiftfoot Boots
+Sylvan Library
+Syr Konrad, the Grim
+Takenuma, Abandoned Mire
+Tarmogoyf
+Tarnished Citadel
+Tear Asunder
+Terravore
+The One Ring
+Timeless Witness
+Under the Skin
+Underground Mortuary
+Undergrowth Stadium
+Underrealm Lich
+Varragoth, Bloodsky Sire
+Verdant Catacombs
+Wild Growth
+Wooded Foothills
+Worldly Tutor
+Ziatora's Proving Ground
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Ashes of the Fallen
+Barrowgoyf
+Blood Crypt
+Bloodstained Mire
+Brawn
+Breach the Multiverse
+Broodmate Tyrant
+Buried Alive
+Chainer, Nightmare Adept
+Changeling Outcast
+Cinder Glade
+City of Brass
+Command Tower
+Conspiracy
+Coram, the Undertaker
+Deadbridge Chant
+Deathreap Ritual
+Demolition Field
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Final Act
+Forest
+Garruk's Uprising
+Golgari Grave-Troll
+Golgari Rot Farm
+Grapple with the Past
+Graveshifter
+Grisly Salvage
+Grist, Voracious Larva
+Grist, the Hunger Tide
+Ignoble Hierarch
+Junji, the Midnight Sky
+Kagha, Shadow Archdruid
+Karplusan Forest
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Liliana, Death's Majesty
+Llanowar Wastes
+Luxury Suite
+Mana Confluence
+Maskwood Nexus
+Mortivore
+Mountain
+Necrogoyf
+Nyx Weaver
+Overgrown Tomb
+Polygoyf
+Prismatic Vista
+Pyrogoyf
+Rampant Growth
+Reflecting Pool
+Ripples of Undeath
+Riveteers Charm
+Sakura-Tribe Elder
+Selvala, Heart of the Wilds
+Shigeki, Jukai Visionary
+Six
+Smoldering Marsh
+Sol Ring
+Spire Garden
+Splinterfright
+Stitcher's Supplier
+Stomping Ground
+Sulfurous Springs
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Terminate
+Terravore
+The Reaver Cleaver
+Tortured Existence
+Undergrowth Stadium
+Verdant Catacombs
+Wooded Foothills
+Woodland Cemetery
+Ziatora's Proving Ground
+Ziatora, the Incinerator
+
+Accursed Marauder
+Altar of Dementia
+Anger
+Arcane Signet
+Ash Barrens
+Ashes of the Fallen
+Assassin's Trophy
+Barrowgoyf
+Basalt Monolith
+Bitter Triumph
+Bloodstained Mire
+Brawn
+Breach the Multiverse
+Buried Alive
+Cairn Wanderer
+Canyon Slough
+Chainer, Nightmare Adept
+Chandra's Ignition
+Changeling Outcast
+Cinder Glade
+Collective Resistance
+Command Tower
+Commercial District
+Conspiracy
+Cultivate
+Dakmor Salvage
+Dread Return
+Entomb
+Exotic Orchard
+Fabled Passage
+Faithless Looting
+Fauna Shaman
+Filth
+Final Act
+Forest
+Gaea's Blessing
+Goldspan Dragon
+Great Furnace
+Greater Good
+Guardian Project
+Hammerheim
+Haunted Mire
+Haunting Voyage
+Hermit Druid
+Heroic Intervention
+Hull Breach
+Insidious Roots
+Invasion of Ikoria
+Life from the Loam
+Lightning Greaves
+Maskwood Nexus
+Mesmeric Orb
+Mimic Vat
+Mortivore
+Mossfire Valley
+Mountain
+Necrogoyf
+Nethergoyf
+Olivia, Mobilized for War
+Polygoyf
+Professional Face-Breaker
+Pyrogoyf
+Rampant Growth
+Raucous Theater
+Riveteers Overlook
+Rockfall Vale
+Shadowblood Ridge
+Shifting Woodland
+Six
+Skirge Familiar
+Sol Ring
+Spire Garden
+Stomping Ground
+Swamp
+Swiftfoot Boots
+Sylvan Tutor
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Taurean Mauler
+Temple of Malice
+Terminate
+Three Visits
+Tortured Existence
+Twisted Landscape
+Underground Mortuary
+Urborg, Tomb of Yawgmoth
+Verdant Catacombs
+Victimize
+Viridescent Bog
+Vraska, Golgari Queen
+Wight of the Reliquary
+Wooded Foothills
+
+Abrupt Decay
+Altar of Dementia
+Arena of Glory
+Assassin's Trophy
+Bala Ged Recovery
+Bane of Progress
+Barrowgoyf
+Birds of Paradise
+Bitter Reunion
+Bitter Triumph
+Bitterblossom
+Blasphemous Act
+Blood Crypt
+Bloodstained Mire
+Bojuka Bog
+Bone Shards
+Buried Alive
+Changeling Outcast
+Cinder Glade
+Command Tower
+Commercial District
+Cover of Darkness
+Dark Confidant
+Deathcap Glade
+Deathrite Shaman
+Demand Answers
+Demolition Field
+Dogged Detective
+Elturel Survivors
+Eye Collector
+Faerie Dreamthief
+Farseek
+Forest
+Graveshifter
+Greater Good
+Grisly Salvage
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Mercadia
+Kagha, Shadow Archdruid
+Lhurgoyf
+Life from the Loam
+Liliana of the Veil
+Luxury Suite
+Malakir Rebirth
+Maskwood Nexus
+Mesmeric Orb
+Mindcrank
+Mortivore
+Mountain
+Mulch
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Noxious Revival
+Ohran Frostfang
+Overgrown Tomb
+Peer Past the Veil
+Phoenix Chick
+Polygoyf
+Professional Face-Breaker
+Pyrogoyf
+Rampant Growth
+Raucous Theater
+Ripples of Undeath
+Rockfall Vale
+Sakura-Tribe Elder
+Satyr Wayfinder
+Sheoldred's Edict
+Six
+Skull Prophet
+Sol Ring
+Spire Garden
+Stalactite Stalker
+Stomping Ground
+Swamp
+Tarmogoyf
+Tarmogoyf Nest
+Three Visits
+Tortured Existence
+Toxic Deluge
+Underground Mortuary
+Undergrowth Stadium
+Urborg, Tomb of Yawgmoth
+Verdant Catacombs
+Winding Way
+Wooded Foothills
+Yavimaya, Cradle of Growth
+Ziatora's Proving Ground
+
+Aftermath Analyst
+Anger
+Animate Dead
+Arcane Signet
+Archon of Cruelty
+Ashes of the Fallen
+Assassin's Trophy
+Barrowgoyf
+Blood Crypt
+Brawn
+Breach the Multiverse
+Buried Alive
+Chainer, Nightmare Adept
+Cinder Glade
+Command Tower
+Dark Ritual
+Dragonskull Summit
+Elemental Bond
+Entomb
+Etali, Primal Conqueror
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Farseek
+Fauna Shaman
+Fell the Profane
+Forest
+Garruk's Uprising
+Golgari Grave-Troll
+Graveshifter
+Greater Good
+Grisly Salvage
+Ignoble Hierarch
+Incarnation Technique
+Lhurgoyf
+Life from the Loam
+Magus of the Wheel
+Malakir Rebirth
+Maskwood Nexus
+Massacre Wurm
+Mesmeric Orb
+Mortivore
+Mossfire Valley
+Mountain
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Out of the Tombs
+Palantír of Orthanc
+Polygoyf
+Pyrogoyf
+Ramunap Excavator
+Raucous Theater
+Realmwalker
+Reanimate
+Rhythm of the Wild
+Riveteers Overlook
+Savage Lands
+Sheltered Thicket
+Six
+Smuggler's Surprise
+Sol Ring
+Spelunking
+Stitcher's Supplier
+Swamp
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Temple of Abandon
+Terramorphic Expanse
+Terror of the Peaks
+The Reaver Cleaver
+Three Visits
+Toxic Deluge
+Twisted Landscape
+Undergrowth Stadium
+Underrealm Lich
+Vampiric Tutor
+Verdant Catacombs
+Whip of Erebos
+Woodland Cemetery
+World Shaper
+Wreck and Rebuild
+Yavimaya, Cradle of Growth
+Ziatora, the Incinerator
+
+Abrupt Decay
+Anger
+Apex Devastator
+Arcane Signet
+Argoth, Sanctum of Nature
+Ashes of the Fallen
+Barrowgoyf
+Birds of Paradise
+Blood Crypt
+Bloodstained Mire
+Brass's Tunnel-Grinder
+Breach the Multiverse
+Cabal Coffers
+Canyon Slough
+Cinder Glade
+Command Tower
+Commercial District
+Conspiracy
+Darkness
+Deathcap Glade
+Deluge of Doom
+Disorienting Choice
+Doom Whisperer
+Dragonskull Summit
+Elemental Bond
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Forest
+Garruk's Uprising
+Gix, Yawgmoth Praetor
+Grisly Salvage
+Haunted Ridge
+Hermit Druid
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Ikoria
+Invasion of Shandalar
+Kogla and Yidaro
+Lightning Bolt
+Lignify
+Liliana of the Veil
+Lumra, Bellow of the Woods
+Luxury Suite
+Maha, Its Feathers Night
+Maskwood Nexus
+Massacre Wurm
+Matzalantli, the Great Door
+Mesmeric Orb
+Minas Morgul, Dark Fortress
+Minsc & Boo, Timeless Heroes
+Mountain
+Nethergoyf
+Nuclear Fallout
+Omenpath Journey
+Open the Way
+Out of the Tombs
+Overgrown Tomb
+Overlord of the Balemurk
+Path of Ancestry
+Polluted Delta
+Polygoyf
+Pyrogoyf
+Raucous Theater
+Rites of Flourishing
+Rockfall Vale
+Sheltered Thicket
+Sheoldred
+Shizo, Death's Storehouse
+Six
+Sol Ring
+Spire Garden
+Spore Frog
+Stomping Ground
+Swamp
+Takenuma, Abandoned Mire
+Tarmogoyf
+Tarmogoyf Nest
+Terror of the Peaks
+Tetzimoc, Primal Death
+The Black Gate
+The Cauldron of Eternity
+The Great Henge
+Titania, Voice of Gaea
+Tortured Existence
+Tribute to the World Tree
+Underground Mortuary
+Undergrowth Recon
+Undergrowth Stadium
+Underrealm Lich
+Urborg, Tomb of Yawgmoth
+V.A.T.S.
+Vaultborn Tyrant
+Verdant Catacombs
+Vona's Hunger
+Windswept Heath
+Wooded Foothills
+Yavimaya, Cradle of Growth
+Ziatora's Proving Ground
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Buried Alive
+Chainer, Nightmare Adept
+Cinder Glade
+Command Tower
+Conspiracy
+Coram, the Undertaker
+Dakmor Salvage
+Deadbridge Chant
+Detritivore
+Diabolic Tutor
+Dragonskull Summit
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Final Parting
+Forest
+Garruk's Uprising
+Golgari Grave-Troll
+Grapple with the Past
+Gravebreaker Lamia
+Grim Flayer
+Grimoire of the Dead
+Grisly Salvage
+Grist, the Hunger Tide
+Hedge Shredder
+Ignoble Hierarch
+Insidious Roots
+Kagha, Shadow Archdruid
+Kessig Wolf Run
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Lively Dirge
+Living Death
+Lord Windgrace
+Magnivore
+Maskwood Nexus
+Meren of Clan Nel Toth
+Morality Shift
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Necrogoyf
+Old Rutstein
+Polygoyf
+Pyrogoyf
+Rakdos Joins Up
+Ripples of Undeath
+Riveteers Overlook
+Rootbound Crag
+Sakura-Tribe Elder
+Savage Lands
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Shadowheart, Dark Justiciar
+Shenanigans
+Shigeki, Jukai Visionary
+Six
+Skull Prophet
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Tainted Peak
+Tainted Wood
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf Nest
+Taurean Mauler
+The Reaver Cleaver
+Tortured Existence
+Twisted Landscape
+Victimize
+Viridescent Bog
+Winter, Misanthropic Guide
+Woodland Cemetery
+World Shaper
+Ziatora, the Incinerator
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Bituminous Blast
+Bloodbraid Challenger
+Bloodbraid Elf
+Brawn
+Broodmate Tyrant
+Burnished Hart
+Canyon Slough
+Chandra's Ignition
+Cinder Glade
+Command Tower
+Coram, the Undertaker
+Dakmor Salvage
+Deadbridge Chant
+Deathreap Ritual
+Demolition Field
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Exterminator Magmarch
+Faithless Looting
+Final Act
+Find // Finality
+Forest
+Forgotten Cave
+Garruk, Apex Predator
+Gluttonous Hellkite
+Grapple with the Past
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Infested Thrinax
+Izoni, Thousand-Eyed
+Junji, the Midnight Sky
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maelstrom Pulse
+Maskwood Nexus
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Necrogoyf
+Nethergoyf
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Riveteers Charm
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Tempt with Mayhem
+Terminate
+Terramorphic Expanse
+The Reaver Cleaver
+Tranquil Thicket
+Twisted Landscape
+Viridescent Bog
+Yavimaya Elder
+Ziatora, the Incinerator
+
+Altar of the Brood
+Arbor Elf
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Birds of Paradise
+Black Market Connections
+Blooming Marsh
+Breach the Multiverse
+Canyon Slough
+Chandra's Ignition
+Cinder Glade
+Command Tower
+Conspiracy
+Coram, the Undertaker
+Crawling Infestation
+Criminal Past
+Deadbridge Chant
+Demonic Counsel
+Detritivore
+Drag to the Roots
+Eldritch Evolution
+Erinis, Gloom Stalker
+Exotic Orchard
+Fabled Passage
+Faithless Looting
+Festering Gulch
+Final Act
+Find // Finality
+Forest
+Gray Slaad
+Grisly Salvage
+Growing Rites of Itlimoc
+Ignoble Hierarch
+Invasion of Ikoria
+Karplusan Forest
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana of the Veil
+Liliana, Death's Majesty
+Magnivore
+Maskwood Nexus
+Mortivore
+Mountain
+Necroblossom Snarl
+Necrogoyf
+Nethergoyf
+Osseous Sticktwister
+Overlord of the Balemurk
+Overlord of the Boilerbilges
+Palantír of Orthanc
+Patchwork Beastie
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Riveteers Charm
+Savage Lands
+Scion of Halaster
+Sigil of Myrkul
+Smoldering Marsh
+Sol Ring
+Spire Garden
+Spymaster's Vault
+Sting, the Glinting Dagger
+Stomping Ground
+Sulfurous Springs
+Swamp
+Sylvan Safekeeper
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Tarmogoyf Nest
+Tato Farmer
+Temple of Malady
+Temple of Malice
+Terravore
+Territory Culler
+The Reaver Cleaver
+Tribute to the World Tree
+Twisted Landscape
+Winter, Cynical Opportunist
+Winter, Misanthropic Guide
+Woodland Cemetery
+Wrenn and Realmbreaker
+Wrenn and Six
+Yargle and Multani
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Assassin's Trophy
+Barrowgoyf
+Beast Within
+Blood Crypt
+Bloodline Pretender
+Bloodstained Mire
+Brawn
+Buried Alive
+Chameleon Colossus
+Changeling Outcast
+Cinder Glade
+Command Tower
+Commercial District
+Coram, the Undertaker
+Cultivate
+Dakmor Salvage
+Deadbridge Chant
+Detritivore
+Dragonskull Summit
+Entomb
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Farseek
+Forest
+Formless Genesis
+Garruk's Uprising
+Grapple with the Past
+Graveshifter
+Greater Good
+Grisly Salvage
+Grist, the Hunger Tide
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Ergamon
+Kessig Wolf Run
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Liliana of the Veil
+Luxury Suite
+Magnivore
+Masked Vandal
+Maskwood Nexus
+Mesmeric Orb
+Mortivore
+Mountain
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Overgrown Tomb
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Raucous Theater
+Realmwalker
+Reanimate
+Ripples of Undeath
+Riveteers Overlook
+Rootbound Crag
+Savage Lands
+Smoldering Marsh
+Sol Ring
+Spire Garden
+Stitcher's Supplier
+Stomping Ground
+Swamp
+Syr Konrad, the Grim
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Terminate
+Terravore
+Three Visits
+Thrill of Possibility
+Tortured Existence
+Twisted Landscape
+Underground Mortuary
+Undergrowth Stadium
+Verdant Catacombs
+Wooded Foothills
+Woodland Cemetery
+Ziatora's Proving Ground
+
+Anger
+Arcane Signet
+Assassin's Trophy
+Barrowgoyf
+Bitterblossom
+Blightstep Pathway
+Blood Crypt
+Bloodstained Mire
+Buried Alive
+Changeling Outcast
+Cinder Glade
+Command Tower
+Cultivate
+Dark Confidant
+Dark Ritual
+Darkstar Augur
+Doom Whisperer
+Dragonskull Summit
+Eternal Witness
+Exotic Orchard
+Eye Collector
+Faithless Looting
+Farseek
+Forest
+Gamble
+Garruk's Uprising
+Grapple with the Past
+Greater Good
+Grisly Salvage
+Haunted Ridge
+Ignoble Hierarch
+Invasion of Mercadia
+Kenrith's Transformation
+Kroxa, Titan of Death's Hunger
+Lhurgoyf
+Lightning Greaves
+Liliana of the Veil
+Loyal Apprentice
+Lumra, Bellow of the Woods
+Luxury Suite
+Malakir Rebirth
+Malevolent Rumble
+Maskwood Nexus
+Mesmeric Orb
+Mortivore
+Mossfire Valley
+Mountain
+Nature's Lore
+Necroblossom Snarl
+Necrogoyf
+Nethergoyf
+Night's Whisper
+Ohran Frostfang
+Open the Way
+Overgrown Tomb
+Overlord of the Balemurk
+Phyrexian Arena
+Polygoyf
+Professional Face-Breaker
+Pyrogoyf
+Rampant Growth
+Revitalizing Repast
+Rishkar's Expertise
+Sakura-Tribe Elder
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Shifting Woodland
+Smoldering Marsh
+Sol Ring
+Soul Shatter
+Stitcher's Supplier
+Stomping Ground
+Sundering Eruption
+Swamp
+Syr Konrad, the Grim
+Tainted Wood
+Tarmogoyf
+Tempt with Discovery
+Terror of the Peaks
+Three Visits
+Tortured Existence
+Toski, Bearer of Secrets
+Toxic Deluge
+Twilight Mire
+Undergrowth Stadium
+Underrealm Lich
+Valakut Awakening
+Verdant Catacombs
+Viridescent Bog
+Windswept Heath
+Wood Elves
+Wooded Foothills
+Ziatora's Proving Ground
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Assassin's Trophy
+Barrowgoyf
+Brawn
+Buried Alive
+Canyon Slough
+Chandra's Ignition
+Changeling Outcast
+Cinder Glade
+Command Tower
+Coram, the Undertaker
+Cultivate
+Deadbridge Chant
+Deluge of Doom
+Demolisher Spawn
+Demolition Field
+Drag to the Roots
+Dragonskull Summit
+Entomb
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Farseek
+Forest
+Formless Genesis
+Garruk's Uprising
+Golgari Grave-Troll
+Graveshifter
+Greater Good
+Grisly Salvage
+Grist, the Hunger Tide
+Haywire Mite
+Hedge Shredder
+Heroic Intervention
+Ignoble Hierarch
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maskwood Nexus
+Millikin
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Necrogoyf
+Nethergoyf
+Nowhere to Run
+Overlord of the Balemurk
+Palantír of Orthanc
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raucous Theater
+Reanimate
+Ripples of Undeath
+Riveteers Overlook
+Rootbound Crag
+Sakura-Tribe Elder
+Savage Lands
+Screeching Scorchbeast
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Shifting Woodland
+Shigeki, Jukai Visionary
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Syr Konrad, the Grim
+Tarmogoyf Nest
+Taurean Mauler
+Terminate
+Terramorphic Expanse
+The Reaver Cleaver
+Tortured Existence
+Twisted Landscape
+Underground Mortuary
+Unmarked Grave
+Ursine Monstrosity
+Victimize
+Viridescent Bog
+Woodland Cemetery
+Ziatora, the Incinerator
+
+Altar of the Goyf
+Anger
+Angrath, the Flame-Chained
+Arcane Signet
+Archetype of Aggression
+Archetype of Finality
+Assassin's Trophy
+Barren Moor
+Barrowgoyf
+Beastie Beatdown
+Blades of Velis Vel
+Brawn
+Broodspinner
+Buried Alive
+Canyon Slough
+Changeling Outcast
+Cinder Glade
+Command Tower
+Conspiracy
+Consuming Blob
+Cultivate
+Deluge of Doom
+Demolisher Spawn
+Drag to the Roots
+Enduring Courage
+Enduring Vitality
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Farseek
+Fear of Missing Out
+Forest
+Forgotten Cave
+Formless Genesis
+Garruk, Apex Predator
+Gnarlwood Dryad
+Grapple with the Past
+Graveshifter
+Grim Flayer
+Grisly Salvage
+Grist, the Hunger Tide
+Invasion of Ergamon
+Invasion of Ikoria
+Invasion of Kaldheim
+Invasion of Mercadia
+Invasion of Shandalar
+Kessig Wolf Run
+Lignify
+Liliana, Death's Majesty
+Liliana, Waker of the Dead
+Lord Windgrace
+Maskwood Nexus
+Mountain
+Nameless Inversion
+Necrogoyf
+Osseous Sticktwister
+Peer Past the Veil
+Polluted Cistern // Dim Oubliette
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Riveteers Overlook
+Rogue's Passage
+Sakura-Tribe Elder
+Savage Lands
+Sheltered Thicket
+Shifting Woodland
+Smoldering Marsh
+Sol Ring
+Soul Swallower
+Swamp
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Terminate
+Terramorphic Expanse
+Thrill of Possibility
+Tranquil Thicket
+Traverse the Ulvenwald
+Twisted Landscape
+Victimize
+Wickerfolk Thresher
+Wildfire Wickerfolk
+
+Altar of the Wretched
+Anger
+Arcane Signet
+Barrowgoyf
+Big Score
+Birds of Paradise
+Bitter Triumph
+Black Market Connections
+Bloodline Pretender
+Blooming Marsh
+Bone Shards
+Brass's Tunnel-Grinder
+Buried Alive
+Burning-Rune Demon
+Canyon Slough
+Chainer, Nightmare Adept
+Chameleon Colossus
+Changeling Outcast
+Cinder Glade
+Collector's Vault
+Command Tower
+Cultivate
+Disciple of Freyalise
+Dragonskull Summit
+Elemental Bond
+Entomb
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fanatic of Rhonas
+Fauna Shaman
+Foreboding Ruins
+Forest
+Game Trail
+Garruk's Uprising
+Graveshifter
+Greater Good
+Grisly Salvage
+Grist, the Hunger Tide
+Guardian Project
+Heroic Intervention
+Honest Rutstein
+Ignoble Hierarch
+Incarnation Technique
+Invasion of Ikoria
+Jarad's Orders
+Key to the City
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Llanowar Wastes
+Malevolent Rumble
+Masked Vandal
+Mortivore
+Mossfire Valley
+Mountain
+Necroblossom Snarl
+Necrogoyf
+Nethergoyf
+Outcaster Trailblazer
+Polygoyf
+Pyrogoyf
+Reanimate
+Revitalizing Repast
+Ripples of Undeath
+Rockfall Vale
+Savage Lands
+Seize the Spoils
+Selvala, Heart of the Wilds
+Shadow in the Warp
+Shadowblood Ridge
+Sheltered Thicket
+Shigeki, Jukai Visionary
+Six
+Smoldering Marsh
+Smuggler's Surprise
+Sol Ring
+Spectacular Showdown
+Stitcher's Supplier
+Stump Stomp
+Swamp
+Tainted Wood
+Talisman of Resilience
+Tarmogoyf
+Taurean Mauler
+Temple of Malice
+Terravore
+Twisted Landscape
+Undergrowth Stadium
+Unmarked Grave
+Viridescent Bog
+Woodland Cemetery
+
+Accursed Marauder
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Birds of Paradise
+Blood Crypt
+Brawn
+Cinder Glade
+Command Tower
+Dakmor Salvage
+Deathreap Ritual
+Delighted Halfling
+Demolition Field
+Entomb
+Exotic Orchard
+Faithless Looting
+Final Act
+Forest
+Forgotten Cave
+Garruk's Uprising
+Gluttonous Hellkite
+Golgari Grave-Troll
+Golgari Thug
+Grapple with the Past
+Graveshifter
+Grisly Salvage
+Grist, Voracious Larva
+Grist, the Hunger Tide
+Hermit Druid
+Ignoble Hierarch
+Infested Thrinax
+Izoni, Thousand-Eyed
+Jeska's Will
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Liliana of the Veil
+Liliana, Death's Majesty
+Luxury Suite
+Maelstrom Pulse
+Maskwood Nexus
+Mesmeric Orb
+Mortivore
+Mountain
+Necrogoyf
+Nethergoyf
+Palantír of Orthanc
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Reanimate
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Sawhorn Nemesis
+Selvala, Heart of the Wilds
+Sheoldred, Whispering One
+Six
+Smoldering Marsh
+Sol Ring
+Spire Garden
+Springbloom Druid
+Stinkweed Imp
+Stitcher's Supplier
+Stomping Ground
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Terminate
+Terramorphic Expanse
+Terravore
+The Reaver Cleaver
+Tranquil Thicket
+Twisted Landscape
+Undergrowth Stadium
+Wight of the Reliquary
+Yavimaya Elder
+Ziatora, the Incinerator
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Asceticism
+Assassin's Trophy
+Barrowgoyf
+Blade of Selves
+Brawn
+Buried Alive
+Cairn Wanderer
+Canopy Cover
+Canyon Slough
+Chainer, Nightmare Adept
+Champion's Helm
+Changeling Outcast
+Cinder Glade
+Command Tower
+Conspiracy
+Culling Ritual
+Cultivate
+Dakmor Salvage
+Demolition Field
+Detritivore
+Elemental Bond
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fauna Shaman
+Feed the Swarm
+Final Act
+Forest
+Garruk's Uprising
+Golgari Grave-Troll
+Grapple with the Past
+Graveshifter
+Greater Good
+Grisly Salvage
+Heroic Intervention
+Ignoble Hierarch
+Insidious Roots
+Invasion of Ikoria
+Kessig Wolf Run
+Kodama's Reach
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Lord Windgrace
+Magnivore
+Maskwood Nexus
+Mimic Vat
+Mortivore
+Mossfire Valley
+Mountain
+Necrogoyf
+Nethergoyf
+Path of Ancestry
+Peer Past the Veil
+Phyrexian Arena
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Realmwalker
+Ripples of Undeath
+Riveteers Overlook
+Savage Lands
+Shadowblood Ridge
+Sheltered Thicket
+Six
+Smoldering Marsh
+Sol Ring
+Stinkweed Imp
+Stitcher's Supplier
+Swamp
+Swiftfoot Boots
+Tainted Peak
+Tainted Wood
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Tear Asunder
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terminate
+Terravore
+Thunderfoot Baloth
+Tortured Existence
+Twisted Landscape
+Viridescent Bog
+
+Altar of Dementia
+Altar of the Brood
+Andúril, Flame of the West
+Anger
+Archon of Cruelty
+Ashes of the Fallen
+Assassin's Trophy
+Bane of Progress
+Barrowgoyf
+Bloodstained Mire
+Buried Alive
+Canopy Cover
+Chainer, Nightmare Adept
+Champion of Lambholt
+Changeling Outcast
+Cinder Glade
+Command Tower
+Commercial District
+Conspiracy
+Disciple of Bolas
+Disciple of Freyalise
+Elemental Bond
+Entomb
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fanatic of Rhonas
+Farseek
+Fauna Shaman
+Forest
+Garruk's Uprising
+Garruk, Apex Predator
+Golgari Charm
+Greater Good
+Grisly Salvage
+Grist, Voracious Larva
+Grist, the Hunger Tide
+Haywire Mite
+Hermit Druid
+Ignoble Hierarch
+Invasion of Ikoria
+Life from the Loam
+Lightning Greaves
+Lumra, Bellow of the Woods
+Luxury Suite
+Maskwood Nexus
+Matzalantli, the Great Door
+Moraug, Fury of Akoum
+Mortuary
+Mountain
+Myriad Landscape
+Nature's Lore
+Nyx Weaver
+Old Stickfingers
+Overgrown Tomb
+Overwhelming Stampede
+Parallel Lives
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raucous Theater
+Riveteers Overlook
+Ruthless Technomancer
+Season of Loss
+Selvala, Heart of the Wilds
+Shigeki, Jukai Visionary
+Six
+Smoldering Marsh
+Sol Ring
+Spire Garden
+Stomping Ground
+Swamp
+Takenuma, Abandoned Mire
+Terror of the Peaks
+The Meathook Massacre
+The Reaver Cleaver
+Three Tree City
+Three Visits
+Tibalt's Trickery
+Tortured Existence
+Toski, Bearer of Secrets
+Toxic Deluge
+Undergrowth Stadium
+Ziatora's Proving Ground
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Atarka, World Render
+Barrowgoyf
+Beast Within
+Blackcleave Cliffs
+Bladewing, Deathless Tyrant
+Bloodbraid Challenger
+Blooming Marsh
+Bojuka Bog
+Broodmate Tyrant
+Chandra's Ignition
+Chaos Warp
+Cinder Glade
+Command Tower
+Conclave Sledge-Captain
+Conduit Pylons
+Conspiracy
+Coram, the Undertaker
+Dakmor Salvage
+Demolition Field
+Dragonskull Summit
+Entish Restoration
+Eternal Witness
+Exotic Orchard
+Exterminator Magmarch
+Faithless Looting
+Final Act
+Forest
+Gaea's Gift
+Garruk, Apex Predator
+Gluttonous Hellkite
+Golgari Signet
+Grist, the Hunger Tide
+Honest Rutstein
+Ignoble Hierarch
+Incubation Druid
+Infested Thrinax
+Invasion of Ergamon
+Jagged Barrens
+Kodama's Reach
+Kolaghan's Command
+Lightning Greaves
+Liliana of the Veil
+Liliana, Death's Majesty
+Maskwood Nexus
+Mosswood Dreadknight
+Mountain
+Necroblossom Snarl
+Necrogoyf
+Not Dead After All
+Overpowering Attack
+Polygoyf
+Pyrogoyf
+Radagast the Brown
+Raging Ravine
+Rakdos Carnarium
+Rampant Growth
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Siege-Gang Lieutenant
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf Nest
+Tarnation Vista
+Temple of Malady
+Tempt with Mayhem
+Terminate
+The Reaver Cleaver
+Twisted Landscape
+Viridescent Bog
+Whiptongue Hydra
+Ziatora, the Incinerator
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Bituminous Blast
+Bloodbraid Challenger
+Bloodbraid Elf
+Brawn
+Broodmate Tyrant
+Burnished Hart
+Canyon Slough
+Cinder Glade
+Command Tower
+Coram, the Undertaker
+Dakmor Salvage
+Deadbridge Chant
+Deathreap Ritual
+Demolition Field
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Exterminator Magmarch
+Faithless Looting
+Final Act
+Find // Finality
+Forest
+Forgotten Cave
+Garruk, Apex Predator
+Gluttonous Hellkite
+Grapple with the Past
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Infested Thrinax
+Izoni, Thousand-Eyed
+Junji, the Midnight Sky
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maelstrom Pulse
+Maskwood Nexus
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Necrogoyf
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Riveteers Charm
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Sawhorn Nemesis
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Siege-Gang Lieutenant
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Tempt with Mayhem
+Terminate
+Terramorphic Expanse
+The Reaver Cleaver
+Tranquil Thicket
+Twisted Landscape
+Viridescent Bog
+Yavimaya Elder
+Ziatora, the Incinerator
+
+Accursed Marauder
+Anger
+Arcane Signet
+Barrowgoyf
+Blood Crypt
+Bloodbraid Challenger
+Bloodstained Mire
+Brawn
+Broodmate Tyrant
+Buried Alive
+Chainer, Nightmare Adept
+Chandra's Ignition
+Changeling Outcast
+Cinder Glade
+Command Tower
+Commercial District
+Coram, the Undertaker
+Cultivate
+Dakmor Salvage
+Dark Ritual
+Deathreap Ritual
+Demolition Field
+Detritivore
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Eye Collector
+Faithless Looting
+Final Act
+Forest
+Gluttonous Hellkite
+Golgari Grave-Troll
+Grapple with the Past
+Graveshifter
+Greater Good
+Grisly Salvage
+Hermit Druid
+Ignoble Hierarch
+Invasion of Ergamon
+Invasion of Mercadia
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana of the Veil
+Maskwood Nexus
+Mimic Vat
+Mortivore
+Mossfire Valley
+Mountain
+Necrogoyf
+Nethergoyf
+Overgrown Tomb
+Phyrexian Arena
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Raucous Theater
+Realmwalker
+Riveteers Charm
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Sawhorn Nemesis
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Skull Prophet
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Stomping Ground
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Terminate
+Terravore
+The Reaver Cleaver
+Tortured Existence
+Underground Mortuary
+Verdant Catacombs
+Viridescent Bog
+Wooded Foothills
+Ziatora, the Incinerator
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Buried Alive
+Burnished Hart
+Bushwhack
+Canyon Slough
+Chandra's Ignition
+Changeling Outcast
+Cinder Glade
+Command Tower
+Coram, the Undertaker
+Cover of Darkness
+Culling Ritual
+Dakmor Salvage
+Deadbridge Chant
+Deathreap Ritual
+Demolition Field
+Druid's Deliverance
+Elvish Mystic
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fatal Push
+Field Trip
+Final Act
+Forest
+Forgotten Cave
+Glissa Sunslayer
+Go for the Throat
+Grapple with the Past
+Graveshifter
+Grim Servant
+Grisly Salvage
+Grist, the Hunger Tide
+Heartless Pillage
+Ignoble Hierarch
+Junji, the Midnight Sky
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Liliana, Death's Majesty
+Llanowar Elves
+Llanowar Wastes
+Maelstrom Pulse
+Maskwood Nexus
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Naturalize
+Nature's Lore
+Necrogoyf
+Path of Ancestry
+Pestilent Syphoner
+Phyrexian Arena
+Poison Dart Frog
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Regrowth
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Tainted Peak
+Tainted Wood
+Takenuma, Abandoned Mire
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terminate
+Tranquil Thicket
+Twisted Landscape
+Vile Entomber
+Viridescent Bog
+Ziatora, the Incinerator
+
+Accursed Marauder
+Adaptive Automaton
+Altar of the Goyf
+Anger
+Arcane Signet
+Ashnod's Altar
+Barrowgoyf
+Beast Within
+Blasphemous Act
+Bloom Tender
+Bone Shards
+Bonehoard
+Brawn
+Cairn Wanderer
+Canyon Slough
+Chandra's Ignition
+Chaos Warp
+Cinder Glade
+Command Tower
+Commander's Sphere
+Coram, the Undertaker
+Dakmor Salvage
+Darigaaz's Caldera
+Demand Answers
+Demolition Field
+Door of Destinies
+Entish Restoration
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fervor
+Final Act
+Find // Finality
+Forest
+Forgotten Cave
+Garruk's Uprising
+Garruk, Apex Predator
+Gluttonous Hellkite
+Grapple with the Past
+Graveshifter
+Herald's Horn
+Howling Mine
+Ignoble Hierarch
+Imperial Recruiter
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Magnivore
+Maskwood Nexus
+Mind Stone
+Mortivore
+Mountain
+Myriad Landscape
+Necrogoyf
+Overgrown Tomb
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Reliquary Tower
+Rhythm of the Wild
+Riveteers Overlook
+Rogue's Passage
+Savage Lands
+Sensei's Divining Top
+Sheltered Thicket
+Skullclamp
+Smoldering Marsh
+Sol Ring
+Solemn Simulacrum
+Stitcher's Supplier
+Swamp
+Swiftfoot Boots
+Syphon Mind
+Syr Konrad, the Grim
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terminate
+Tranquil Thicket
+Twisted Landscape
+Urborg, Tomb of Yawgmoth
+Volrath the Fallen
+Yavimaya Elder
+Ziatora, the Incinerator
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Assassin's Trophy
+Bane of Progress
+Barrowgoyf
+Beast Within
+Bitter Reunion
+Blood Crypt
+Blooming Marsh
+Boggart Trawler
+Brawn
+Breach the Multiverse
+Bridgeworks Battle
+Buried Alive
+Chainer, Nightmare Adept
+Changeling Outcast
+Chaos Warp
+Cinder Glade
+Command Tower
+Conspiracy
+Copperline Gorge
+Cultivate
+Deathrite Shaman
+Deluge of Doom
+Disciple of Freyalise
+Drag to the Roots
+Dragonskull Summit
+Dread Return
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fanatic of Rhonas
+Fecund Greenshell
+Forest
+Garruk's Uprising
+Golgari Grave-Troll
+Greater Good
+Grist, the Hunger Tide
+Hedge Shredder
+Ignoble Hierarch
+Incarnation Technique
+Invasion of Ikoria
+Invasion of Mercadia
+Invasion of Zendikar
+Kagha, Shadow Archdruid
+Karplusan Forest
+Kessig Wolf Run
+Kodama's Reach
+Lethal Scheme
+Lhurgoyf
+Lightning Greaves
+Llanowar Wastes
+Luxury Suite
+Maskwood Nexus
+Mortivore
+Mountain
+Myriad Landscape
+Necrogoyf
+Outcaster Trailblazer
+Overgrown Tomb
+Path of Ancestry
+Pinnacle Monk
+Polygoyf
+Pyrogoyf
+Rankle, Master of Pranks
+Realmwalker
+Revitalizing Repast
+Ripples of Undeath
+Rootbound Crag
+Selvala, Heart of the Wilds
+Shigeki, Jukai Visionary
+Six
+Sludge Titan
+Sol Ring
+Spymaster's Vault
+Stomping Ground
+Stump Stomp
+Sulfurous Springs
+Sundering Eruption
+Swamp
+Tarmogoyf Nest
+Taurean Mauler
+Terror of the Peaks
+Twilight Mire
+Undergrowth Stadium
+Ursine Monstrosity
+Wild Growth
+Woodland Cemetery
+Wrenn and Seven
+Zopandrel, Hunger Dominus
+
+Abrupt Decay
+Altar of Dementia
+Anger
+Arcane Signet
+Arid Mesa
+Ashes of the Fallen
+Assassin's Trophy
+Barrowgoyf
+Bedevil
+Birds of Paradise
+Bladewing, Deathless Tyrant
+Blasphemous Act
+Blasphemous Edict
+Blazemire Verge
+Blood Crypt
+Bloodstained Mire
+Blooming Marsh
+Chainer, Nightmare Adept
+Command Tower
+Commercial District
+Copperline Gorge
+Damnation
+Dark Confidant
+Dark Deal
+Darkbore Pathway
+Deathrite Shaman
+Decaying Time Loop
+Dragonskull Summit
+Faithless Looting
+Farseek
+Fauna Shaman
+Festering Gulch
+Goldspan Dragon
+Graveshifter
+Greater Good
+Grim Hireling
+Grist, Voracious Larva
+Grove of the Burnwillows
+Hagra Mauling
+Haunted Ridge
+Hermit Druid
+Ignoble Hierarch
+Insatiable Avarice
+Insidious Roots
+Kolaghan's Command
+Kozilek, Butcher of Truth
+Lhurgoyf
+Life from the Loam
+Liliana of the Veil
+Llanowar Wastes
+Luxury Suite
+Maskwood Nexus
+Mimic Vat
+Mortivore
+Nature's Lore
+Necrogoyf
+Ohran Frostfang
+Overgrown Tomb
+Polygoyf
+Professional Face-Breaker
+Punishing Fire
+Pyrogoyf
+Raging Ravine
+Raucous Theater
+Ripples of Undeath
+Rootbound Crag
+Saryth, the Viper's Fang
+Savage Lands
+Scavenger Grounds
+Sheltered Thicket
+Shifting Woodland
+Shigeki, Jukai Visionary
+Six
+Sol Ring
+Spire Garden
+Stomping Ground
+Sulfurous Springs
+Sylvan Library
+Tainted Wood
+Talisman of Impulse
+Talisman of Resilience
+Tear Asunder
+Terravore
+Terror of the Peaks
+Thermopod
+Three Visits
+Tormod, the Desecrator
+Tortured Existence
+Toxic Deluge
+Undergrowth Stadium
+Urborg, Tomb of Yawgmoth
+Verdant Catacombs
+Windswept Heath
+Wooded Foothills
+Woodland Cemetery
+Woodland Chasm
+World Shaper
+Yavimaya, Cradle of Growth
+Ziatora's Proving Ground
+
+Accursed Marauder
+Anger
+Arcane Signet
+Archon of Cruelty
+Ashes of the Fallen
+Barrowgoyf
+Blood Crypt
+Bloodstained Mire
+Brawn
+Buried Alive
+Chainer, Nightmare Adept
+Command Tower
+Commercial District
+Conspiracy
+Coram, the Undertaker
+Cover of Darkness
+Crucible of Worlds
+Dakmor Salvage
+Damnation
+Deathcap Glade
+Dragonskull Summit
+Elemental Bond
+Entomb
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Farseek
+Final Act
+Gaea's Blessing
+Garruk's Uprising
+Golgari Grave-Troll
+Gray Merchant of Asphodel
+Grist, Voracious Larva
+Haunted Ridge
+Hermit Druid
+Heroic Intervention
+Ignoble Hierarch
+Karplusan Forest
+Kessig Wolf Run
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Living Death
+Llanowar Wastes
+Luxury Suite
+Masked Vandal
+Maskwood Nexus
+Massacre Wurm
+Mortivore
+Mossfire Valley
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Overgrown Tomb
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Raucous Theater
+Riveteers Charm
+Rockfall Vale
+Rootbound Crag
+Sawhorn Nemesis
+Shadowblood Ridge
+Sheoldred, Whispering One
+Skyshroud Claim
+Sol Ring
+Spire Garden
+Stitcher's Supplier
+Stomping Ground
+Strip Mine
+Sulfurous Springs
+Swiftfoot Boots
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terminate
+Terravore
+Three Visits
+Tortured Existence
+Underground Mortuary
+Underrealm Lich
+Urabrask the Hidden
+Vampiric Tutor
+Verdant Catacombs
+Vile Entomber
+Viridescent Bog
+Wooded Foothills
+Woodland Cemetery
+Ziatora's Proving Ground
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Assassin's Trophy
+Barrowgoyf
+Beast Within
+Blasphemous Act
+Blood Crypt
+Bloodline Pretender
+Bloodstained Mire
+Boseiju, Who Endures
+Buried Alive
+Changeling Outcast
+Cinder Glade
+Command Tower
+Commercial District
+Conspiracy
+Coram, the Undertaker
+Cultivate
+Dakmor Salvage
+Detritivore
+Drag to the Roots
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Farseek
+Forest
+Garruk's Uprising
+Grapple with the Past
+Graveshifter
+Greater Good
+Grisly Salvage
+Grist, Voracious Larva
+Grist, the Hunger Tide
+Herald's Horn
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Ergamon
+Kessig Wolf Run
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Luxury Suite
+Magnivore
+Masked Vandal
+Maskwood Nexus
+Mesmeric Orb
+Mortivore
+Mountain
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Overgrown Tomb
+Patchwork Banner
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Raucous Theater
+Realmwalker
+Reanimate
+Ripples of Undeath
+Riveteers Overlook
+Roaming Throne
+Sakura-Tribe Elder
+Savage Lands
+Smoldering Marsh
+Sol Ring
+Spire Garden
+Stitcher's Supplier
+Stomping Ground
+Swamp
+Talisman of Impulse
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Terminate
+Terravore
+Three Visits
+Thrill of Possibility
+Tortured Existence
+Twisted Landscape
+Underground Mortuary
+Undergrowth Stadium
+Urborg, Tomb of Yawgmoth
+Vanquisher's Banner
+Verdant Catacombs
+Wooded Foothills
+Ziatora's Proving Ground
+
+Abrupt Decay
+Accursed Marauder
+Aftermath Analyst
+Altar of the Goyf
+Arbor Elf
+Arcane Signet
+Assassin's Trophy
+Badlands
+Barrowgoyf
+Bayou
+Bitterblossom
+Black Market Connections
+Bloodbraid Elf
+Bloodstained Mire
+Braids, Arisen Nightmare
+Buried Alive
+Circle of the Land Druid
+Command Tower
+Commercial District
+Dakmor Salvage
+Darkstar Augur
+Deadly Brew
+Deathcap Glade
+Deathcap Marionette
+Dragonskull Summit
+Elves of Deep Shadow
+Elvish Mystic
+Eternal Witness
+Faithless Looting
+Farseek
+Feed the Swarm
+Final Act
+Forest
+Game Trail
+Garruk Relentless
+Garruk's Uprising
+Glissa Sunslayer
+Goldhound
+Golgari Grave-Troll
+Golgari Rot Farm
+Grapple with the Past
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Karlach, Fury of Avernus
+Kolaghan's Command
+Life from the Loam
+Liliana of the Veil
+Liliana, Death's Majesty
+Llanowar Elves
+Maskwood Nexus
+Mosswood Dreadknight
+Mountain
+Mulch
+Nature's Lore
+Necroblossom Snarl
+Necrogoyf
+Nighthawk Scavenger
+Oppression
+Overgrown Tomb
+Polygoyf
+Putrefy
+Pyrogoyf
+Rakdos Carnarium
+Rampant Growth
+Raucous Theater
+Reckless Lackey
+Reclusive Taxidermist
+Rootbound Crag
+Sakura-Tribe Elder
+Savage Lands
+Sol Ring
+Spire Tracer
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Taiga
+Talisman of Impulse
+Talisman of Resilience
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terror Tide
+Tormented Soul
+Treasured Find
+Wooded Foothills
+Woodland Cemetery
+Ziatora's Proving Ground
+
+Abrupt Decay
+Ancient Tomb
+Anger
+Animate Dead
+Arid Mesa
+Ashes of the Fallen
+Assassin's Trophy
+Barrowgoyf
+Birds of Paradise
+Bitterblossom
+Black Market Connections
+Blasphemous Edict
+Blood Crypt
+Bloodstained Mire
+Boseiju, Who Endures
+Brass's Tunnel-Grinder
+Buried Alive
+Chord of Calling
+City of Brass
+Collector Ouphe
+Command Tower
+Culling Ritual
+Deadly Rollick
+Deathrite Shaman
+Deflecting Swat
+Delayed Blast Fireball
+Demolisher Spawn
+Demonic Tutor
+Disciple of Freyalise
+Dragonborn Champion
+Enduring Courage
+Entomb
+Faithless Looting
+Fear of Missing Out
+Finale of Devastation
+Force of Vigor
+Forest
+Gamble
+Garruk's Uprising
+Gemstone Caverns
+Graveshifter
+Greater Good
+Grim Reaper's Sprint
+Grist, the Hunger Tide
+Heroic Intervention
+Ignoble Hierarch
+Inti, Seneschal of the Sun
+Invasion of Ikoria
+Legolas's Quick Reflexes
+Life's Legacy
+Lively Dirge
+Luxury Suite
+Malakir Rebirth
+Mana Confluence
+Marsh Flats
+Maskwood Nexus
+Minsc & Boo, Timeless Heroes
+Misty Rainforest
+Moraug, Fury of Akoum
+Mountain
+Nethergoyf
+Opposition Agent
+Orcish Bowmasters
+Overgrown Tomb
+Patchwork Beastie
+Peer Past the Veil
+Polluted Delta
+Polygoyf
+Professional Face-Breaker
+Pyrogoyf
+Ragavan, Nimble Pilferer
+Reanimate
+Revitalizing Repast
+Scalding Tarn
+Six
+Sol Ring
+Spire Garden
+Stomping Ground
+Swamp
+Sylvan Library
+Takenuma, Abandoned Mire
+Tarmogoyf
+Tear Asunder
+Tibalt's Trickery
+Toski, Bearer of Secrets
+Toxic Deluge
+Undergrowth Stadium
+Untimely Malfunction
+Urborg, Tomb of Yawgmoth
+Urza's Saga
+Vampiric Tutor
+Verdant Catacombs
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Wrenn and Six
+Yavimaya, Cradle of Growth
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Ashes of the Fallen
+Barrowgoyf
+Birds of Paradise
+Blossoming Defense
+Brawn
+Breach the Multiverse
+Buried Alive
+Canyon Slough
+Chainer, Nightmare Adept
+Changeling Outcast
+Cinder Glade
+Command Tower
+Conspiracy
+Cultivate
+Dakmor Salvage
+Demolition Field
+Eldrazi Monument
+Entomb
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Fauna Shaman
+Forest
+Garruk's Uprising
+Golgari Signet
+Grapple with the Past
+Graveshifter
+Grist, Voracious Larva
+Grist, the Hunger Tide
+Gruul Signet
+Ignoble Hierarch
+Invasion of Ergamon
+Invasion of Fiora
+Invasion of Ikoria
+Kodama's Reach
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maskwood Nexus
+Mimic Vat
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Not Dead After All
+Nyx Weaver
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raging Ravine
+Rampant Growth
+Revitalizing Repast
+Ripples of Undeath
+Riveteers Overlook
+Sakura-Tribe Elder
+Selvala, Heart of the Wilds
+Sheltered Thicket
+Six
+Skull Prophet
+Smoldering Marsh
+Snakeskin Veil
+Sol Ring
+Stitcher's Supplier
+Sulfurous Mire
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Tarmogoyf
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terminate
+Terramorphic Expanse
+Terravore
+Terror of the Peaks
+Timeless Witness
+Tortured Existence
+Trailblazer's Boots
+Twisted Landscape
+Unmarked Grave
+Vorinclex
+Woodland Chasm
+Ziatora's Proving Ground
+Ziatora, the Incinerator
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barren Moor
+Barrowgoyf
+Bitter Reunion
+Bituminous Blast
+Bloodbraid Challenger
+Bloodbraid Elf
+Brawn
+Broodmate Tyrant
+Canyon Slough
+Cathartic Reunion
+Chainer, Nightmare Adept
+Chandra's Ignition
+Cinder Glade
+Command Tower
+Coram, the Undertaker
+Dakmor Salvage
+Deadbridge Chant
+Deathcap Glade
+Deathreap Ritual
+Demand Answers
+Eternal Witness
+Exotic Orchard
+Exterminator Magmarch
+Faithless Looting
+Fauna Shaman
+Find // Finality
+Fire-Lit Thicket
+Forest
+Forgotten Cave
+Garruk, Apex Predator
+Gluttonous Hellkite
+Golgari Grave-Troll
+Grapple with the Past
+Graven Cairns
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Haunted Ridge
+Ignoble Hierarch
+Infested Thrinax
+Izoni, Thousand-Eyed
+Junji, the Midnight Sky
+Kessig Wolf Run
+Kolaghan's Command
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Luxury Suite
+Maelstrom Pulse
+Maskwood Nexus
+Mortivore
+Mossfire Valley
+Mountain
+Necrogoyf
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Reflecting Pool
+Rockfall Vale
+Sakura-Tribe Elder
+Sawhorn Nemesis
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Smoldering Marsh
+Sol Ring
+Spire Garden
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Syr Konrad, the Grim
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Terminate
+The Reaver Cleaver
+Tranquil Thicket
+Twilight Mire
+Undergrowth Stadium
+Viridescent Bog
+Winter, Misanthropic Guide
+Yavimaya Elder
+Ziatora's Proving Ground
+Ziatora, the Incinerator
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Barrowgoyf
+Bitterblossom
+Bloodbraid Challenger
+Brawn
+Broodmate Tyrant
+Canyon Slough
+Chainer, Nightmare Adept
+Chandra's Ignition
+Changeling Outcast
+Cinder Glade
+Command Tower
+Coram, the Undertaker
+Cultivate
+Dakmor Salvage
+Deluge of Doom
+Demolisher Spawn
+Demolition Field
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Farseek
+Foreboding Ruins
+Forest
+Garruk's Uprising
+Glissa Sunslayer
+Gluttonous Hellkite
+Grapple with the Past
+Graveshifter
+Grim Flayer
+Grisly Salvage
+Grist, the Hunger Tide
+Hagra Mauling
+Haunted Mire
+Invasion of Ergamon
+Invasion of Mercadia
+Jaxis, the Troublemaker
+Junji, the Midnight Sky
+Karplusan Forest
+Kessig Wolf Run
+Kindred Dominance
+Kodama's Reach
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maelstrom Pulse
+Malevolent Rumble
+Maskwood Nexus
+Mortivore
+Mosswood Dreadknight
+Mountain
+Myriad Landscape
+Necrogoyf
+Path of Ancestry
+Peer Past the Veil
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Revitalizing Repast
+Ripples of Undeath
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Sheltered Thicket
+Skull Prophet
+Smoldering Marsh
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Terramorphic Expanse
+Twisted Landscape
+Ursine Monstrosity
+Whip of Erebos
+Wight of the Reliquary
+Windgrace's Judgment
+Wooded Foothills
+Woodland Cemetery
+Ziatora's Proving Ground
+
+Altar of Dementia
+Andúril, Flame of the West
+Anger
+Arcane Signet
+Ashes of the Fallen
+Assassin's Trophy
+Barrowgoyf
+Big Score
+Blade of Selves
+Blasphemous Act
+Bloodthirster
+Brass's Tunnel-Grinder
+Brawn
+Buried Alive
+Canoptek Wraith
+Cathartic Reunion
+Chromatic Lantern
+Cinder Glade
+Command Tower
+Conspiracy
+Cultivate
+Dragonskull Summit
+Elemental Bond
+Entomb
+Evolving Wilds
+Eyeblight's Ending
+Fabled Passage
+Faithless Looting
+Fauna Shaman
+Forest
+Greater Good
+Greater Tanuki
+Grim Hireling
+Haywire Mite
+Kamahl, Heart of Krosa
+Karplusan Forest
+Kindred Dominance
+Kodama's Reach
+Lightning Greaves
+Lively Dirge
+Llanowar Wastes
+Loyal Apprentice
+Maskwood Nexus
+Matzalantli, the Great Door
+Morality Shift
+Mountain
+Nature's Claim
+Necroblossom Snarl
+Nyx Weaver
+Ob Nixilis, the Adversary
+Ohran Frostfang
+Outcaster Trailblazer
+Oversold Cemetery
+Polygoyf
+Professional Face-Breaker
+Pyrogoyf
+Rampant Growth
+Riveteers Overlook
+Rootbound Crag
+Shigeki, Jukai Visionary
+Siege-Gang Lieutenant
+Six
+Smoldering Marsh
+Smuggler's Surprise
+Sol Ring
+Sulfurous Springs
+Swamp
+Swiftfoot Boots
+Tarmogoyf Nest
+Tear Asunder
+Terminate
+Terramorphic Expanse
+The Gitrog, Ravenous Ride
+The Master, Multiplied
+Thrill of Possibility
+Tibalt's Trickery
+Tortured Existence
+Underworld Breach
+Unexpected Windfall
+
+Accursed Marauder
+Aftermath Analyst
+Anger
+Arcane Signet
+Arena of Glory
+Assassin's Trophy
+Barrowgoyf
+Bitter Reunion
+Bitterblossom
+Blood Crypt
+Bloodstained Mire
+Bolt Bend
+Buried Alive
+Chandra's Ignition
+Changeling Outcast
+Cinder Glade
+Command Tower
+Commercial District
+Conspiracy
+Coram, the Undertaker
+Dakmor Salvage
+Damnation
+Darkbore Pathway
+Delighted Halfling
+Demolition Field
+Disciple of Freyalise
+Elemental Bond
+Entomb
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fanatic of Rhonas
+Farseek
+Fell the Profane
+Forest
+Garruk's Uprising
+Golgari Grave-Troll
+Greater Good
+Grisly Salvage
+Grist, Voracious Larva
+Grist, the Hunger Tide
+Haywire Mite
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Ikoria
+Kessig Wolf Run
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Liliana of the Veil
+Living Death
+Maskwood Nexus
+Mortivore
+Mountain
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Overgrown Tomb
+Overlord of the Balemurk
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Raucous Theater
+Revitalizing Repast
+Ripples of Undeath
+Sakura-Tribe Elder
+Selvala, Heart of the Wilds
+Six
+Smoldering Marsh
+Smuggler's Surprise
+Sokenzan, Crucible of Defiance
+Soul-Guide Lantern
+Spymaster's Vault
+Stitcher's Supplier
+Stomping Ground
+Swamp
+Tainted Wood
+Takenuma, Abandoned Mire
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Terminate
+Terravore
+Terror of the Peaks
+Tortured Existence
+Toxic Deluge
+Underground Mortuary
+Verdant Catacombs
+Wooded Foothills
+Ziatora's Proving Ground
+
+Altar of Bhaal
+Altar of the Goyf
+Angel of Suffering
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Brawn
+Buried Alive
+Cemetery Tampering
+Chainer, Nightmare Adept
+Cinder Glade
+Command Tower
+Conspiracy
+Dakmor Salvage
+Darkmoss Bridge
+Deadbridge Chant
+Demolition Field
+Drag to the Roots
+Elixir of Immortality
+Entomb
+Evolving Wilds
+Exotic Orchard
+Farseek
+Forest
+Gaea's Blessing
+Game Trail
+Grapple with the Past
+Graveshifter
+Greater Good
+Grist, the Hunger Tide
+Harness Infinity
+Insidious Roots
+Invasion of Ergamon
+Invasion of Mercadia
+Jarad's Orders
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Magnivore
+Maskwood Nexus
+Matzalantli, the Great Door
+Memorial to Folly
+Mimic Vat
+Mortivore
+Mortuary Mire
+Mountain
+Necroblossom Snarl
+Necrogoyf
+Old Stickfingers
+Oriq Loremage
+Patriarch's Bidding
+Peer Past the Veil
+Pile On
+Polygoyf
+Putrefy
+Pyrogoyf
+Ramunap Excavator
+Rankle, Master of Pranks
+Reclaim
+Ripples of Undeath
+Riveteers Overlook
+Shadowblood Ridge
+Sheltered Thicket
+Shigeki, Jukai Visionary
+Skirge Familiar
+Skull Prophet
+Smoldering Marsh
+Sol Ring
+Splendid Reclamation
+Squirming Emergence
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
+Tainted Wood
+Tamiyo's Safekeeping
+Tarmogoyf Nest
+Tear Asunder
+Terramorphic Expanse
+Terravore
+Terror Tide
+The Gitrog Monster
+Unmarked Grave
+Valakut Exploration
+Viridescent Bog
+Warstorm Surge
+Witch's Cottage
+Wreck and Rebuild
+Ziatora, the Incinerator
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Barrowgoyf
+Birds of Paradise
+Bloodbraid Challenger
+Bloodstained Mire
+Brawn
+Buried Alive
+Burnished Hart
+Canyon Slough
+Cemetery Tampering
+Chandra's Ignition
+Chaos Warp
+Cinder Glade
+Command Tower
+Coram, the Undertaker
+Dakmor Salvage
+Deadbridge Chant
+Deathreap Ritual
+Decimate
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Forest
+Formless Genesis
+Game Trail
+Gluttonous Hellkite
+Golgari Grave-Troll
+Grapple with the Past
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Ignoble Hierarch
+Junji, the Midnight Sky
+Kolaghan's Command
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Llanowar Wastes
+Maskwood Nexus
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Nature's Lore
+Necroblossom Snarl
+Necrogoyf
+Ohran Frostfang
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Reanimate
+Return of the Wildspeaker
+Riveteers Overlook
+Sakura-Tribe Elder
+Saryth, the Viper's Fang
+Savage Lands
+Sawhorn Nemesis
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Sheltered Thicket
+Shifting Woodland
+Siege-Gang Lieutenant
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Swamp
+Syr Konrad, the Grim
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf Nest
+Temple of Abandon
+Temple of Malady
+Temple of Malice
+Tempt with Mayhem
+Terminate
+The Reaver Cleaver
+Three Visits
+Toski, Bearer of Secrets
+Toxic Deluge
+Tree of Tales
+Twilight Mire
+Twisted Landscape
+Vault of Whispers
+Viridescent Bog
+Woodland Cemetery
+Ziatora, the Incinerator
+
+Altar of the Goyf
+Anger
+Arcane Signet
+Barrowgoyf
+Black Market Connections
+Blight Titan
+Brawn
+Buried Alive
+Chandra's Ignition
+Changeling Outcast
+Cinder Glade
+Command Tower
+Commander's Sphere
+Conspiracy
+Coram, the Undertaker
+Cultivate
+Dakmor Salvage
+Deadbridge Chant
+Deathreap Ritual
+Detritivore
+Entish Restoration
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Eye Collector
+Faithless Looting
+Farseek
+Forest
+Grapple with the Past
+Graveshifter
+Greater Good
+Grisly Salvage
+Grist, Voracious Larva
+Grist, the Hunger Tide
+Harrow
+Ignoble Hierarch
+Invasion of Mercadia
+Kessig Wolf Run
+Kodama's Reach
+Kolaghan's Command
+Last Rites
+Lhurgoyf
+Lightning Greaves
+Liliana, Death's Majesty
+Maelstrom Pulse
+Maskwood Nexus
+Mimic Vat
+Mortivore
+Mountain
+Necroblossom Snarl
+Necrogoyf
+Night's Whisper
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Rampant Growth
+Realmwalker
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Selvala, Heart of the Wilds
+Skull Prophet
+Smoldering Marsh
+Sol Ring
+Stinkweed Imp
+Stitcher's Supplier
+Swamp
+Syphon Mind
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Resilience
+Tarmogoyf Nest
+Taurean Mauler
+Terminate
+Terramorphic Expanse
+Terravore
+Tortured Existence
+Twisted Landscape
+Wight of the Reliquary
+Woodland Cemetery
+Yavimaya Elder
+Ziatora, the Incinerator
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Assassin's Trophy
+Barrowgoyf
+Boseiju, Who Endures
+Brawn
+Buried Alive
+Burnished Hart
+Chaos Warp
+Cinder Glade
+Command Tower
+Commercial District
+Crop Rotation
+Cultivate
+Dakmor Salvage
+Demolition Field
+Detritivore
+Eldritch Evolution
+Entomb
+Eternal Witness
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Feed the Swarm
+Forest
+Grapple with the Past
+Grisly Salvage
+Grist, the Hunger Tide
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Azgol
+Invasion of Ergamon
+Invasion of Mercadia
+Kaya's Ghostform
+Kessig Wolf Run
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Lord Windgrace
+Magnivore
+Masked Vandal
+Matzalantli, the Great Door
+Metallic Mimic
+Mindcrank
+Mortivore
+Mossfire Valley
+Mountain
+Myriad Landscape
+Nature's Lore
+Necrogoyf
+Nethergoyf
+Noxious Revival
+Palantír of Orthanc
+Path of Ancestry
+Polygoyf
+Pyrogoyf
+Raucous Theater
+Realmwalker
+Rhythm of the Wild
+Ripples of Undeath
+Riveteers Overlook
+Sakura-Tribe Elder
+Savage Lands
+Selvala, Heart of the Wilds
+Shadowblood Ridge
+Skull Prophet
+Smoldering Marsh
+Sol Ring
+Steely Resolve
+Stomping Ground
+Swamp
+Syr Konrad, the Grim
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Terminate
+Terramorphic Expanse
+Terravore
+Three Visits
+Thrill of Possibility
+Twisted Landscape
+Underground Mortuary
+Universal Automaton
+Viridescent Bog
+Wooded Foothills
+Worldly Tutor
+Wrenn and Seven
+
+Accursed Marauder
+Altar of the Goyf
+Anger
+Arcane Signet
+Archon of Cruelty
+Ashes of the Fallen
+Assassin's Trophy
+Barrowgoyf
+Blasphemous Act
+Blazemire Verge
+Blood Crypt
+Bloodstained Mire
+Brawn
+Breach the Multiverse
+Buried Alive
+Command Tower
+Conduit of Worlds
+Conspiracy
+Coram, the Undertaker
+Cultivate
+Deadbridge Chant
+Deathcap Glade
+Detritivore
+Dragonskull Summit
+Dread Return
+Entomb
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fanatic of Rhonas
+Forest
+Gaea's Cradle
+Grapple with the Past
+Graveshifter
+Grisly Salvage
+Grist, the Hunger Tide
+Haunted Ridge
+Ignoble Hierarch
+Incarnation Technique
+Invasion of Shandalar
+Junji, the Midnight Sky
+Kessig Wolf Run
+Krosan Grip
+Lhurgoyf
+Life from the Loam
+Lightning Greaves
+Liliana, Death's Majesty
+Magnivore
+Maskwood Nexus
+Matzalantli, the Great Door
+Mortivore
+Mountain
+Necrogoyf
+Nethergoyf
+Overgrown Tomb
+Polluted Delta
+Polygoyf
+Pyrogoyf
+Reanimate
+Rockfall Vale
+Selvala, Heart of the Wilds
+Sheoldred, Whispering One
+Shifting Woodland
+Sludge Titan
+Smoldering Marsh
+Sol Ring
+Stitcher's Supplier
+Stomping Ground
+Swamp
+Syr Konrad, the Grim
+Taiga
+Tainted Peak
+Tainted Wood
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Resilience
+Tarmogoyf
+Tarmogoyf Nest
+Taurean Mauler
+Tempt with Discovery
+Terminate
+Terravore
+Thornspire Verge
+Three Tree City
+Undergrowth Stadium
+Underrealm Lich
+Verdant Catacombs
+Vile Entomber
+Windswept Heath
+Winter, Misanthropic Guide
+Wooded Foothills
+Woodland Cemetery
+Ziatora's Proving Ground
+
+Abrupt Decay
+Altar of the Brood
+Anger
+Animate Dead
+Arcane Signet
+Ashes of the Fallen
+Assassin's Trophy
+Bala Ged Recovery
+Barrowgoyf
+Bitter Reunion
+Bitterblossom
+Bladewing, Deathless Tyrant
+Boggart Trawler
+Bojuka Bog
+Brawn
+Bridgeworks Battle
+Buried Alive
+Chainer, Nightmare Adept
+Champion of Lambholt
+Changeling Outcast
+Cinder Glade
+Command Tower
+Conspiracy
+Coram, the Undertaker
+Cover of Darkness
+Dakmor Salvage
+Dark Ritual
+Deathrite Shaman
+Demolition Field
+Elemental Bond
+Entomb
+Eternal Witness
+Exotic Orchard
+Faithless Looting
+Fanatic of Rhonas
+Fauna Shaman
+Fear of Missing Out
+Forest
+Garruk's Uprising
+Greater Good
+Grist, the Hunger Tide
+Haywire Mite
+Hermit Druid
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Ikoria
+Kessig Wolf Run
+Life from the Loam
+Lightning Greaves
+Living Death
+Malakir Rebirth
+Masked Vandal
+Maskwood Nexus
+Mesmeric Orb
+Millikin
+Mossfire Valley
+Mountain
+Necrogoyf
+Nyx Weaver
+Ohran Frostfang
+Out of the Tombs
+Parallel Lives
+Path of Ancestry
+Peerless Recycling
+Polygoyf
+Pyrogoyf
+Reanimate
+Revitalizing Repast
+Ripples of Undeath
+Savage Lands
+Shadowblood Ridge
+Sheoldred, Whispering One
+Shifting Woodland
+Six
+Smoldering Marsh
+Smuggler's Surprise
+Sol Ring
+Spymaster's Vault
+Stinkweed Imp
+Stitcher's Supplier
+Stump Stomp
+Swamp
+Syr Konrad, the Grim
+Terminate
+Toski, Bearer of Secrets
+Toxic Deluge
+Twisted Landscape
+Utopia Sprawl
+Victimize
+Viridescent Bog
+
+Abrupt Decay
+Agadeem's Awakening
+Ancient Tomb
+Anger
+Arcane Signet
+Arid Mesa
+Ashes of the Fallen
+Assassin's Trophy
+Azra Oddsmaker
+Badlands
+Barrowgoyf
+Bayou
+Birds of Paradise
+Blasphemous Edict
+Blood Crypt
+Bloodstained Mire
+Boseiju, Who Endures
+Bow of Nylea
+Buried Alive
+Champion of Lambholt
+Command Tower
+Dauthi Voidwalker
+Deadly Rollick
+Deathrite Shaman
+Deflecting Swat
+Delighted Halfling
+Elves of Deep Shadow
+Elvish Mystic
+Entomb
+Eternal Witness
+Faithless Looting
+Farseek
+Forest
+Gamble
+Goblin Anarchomancer
+Golgari Charm
+Grand Warlord Radha
+Greater Good
+Grim Hireling
+Grisly Salvage
+Hedge Shredder
+Heroic Intervention
+Ignoble Hierarch
+Invasion of Ikoria
+Legion Loyalist
+Llanowar Elves
+Luxury Suite
+Marsh Flats
+Maskwood Nexus
+Misty Rainforest
+Mountain
+Nature's Lore
+Ohran Frostfang
+Opposition Agent
+Orcish Bowmasters
+Overgrown Tomb
+Overlord of the Balemurk
+Pinnacle Monk
+Polluted Delta
+Polygoyf
+Prismatic Vista
+Professional Face-Breaker
+Pyrogoyf
+Ragavan, Nimble Pilferer
+Rankle, Master of Pranks
+Rev, Tithe Extractor
+Rhythm of the Wild
+Sakura-Tribe Elder
+Scalding Tarn
+Shifting Woodland
+Six
+Sol Ring
+Spire Garden
+Stomping Ground
+Survival of the Fittest
+Swamp
+Sylvan Library
+Taiga
+Takenuma, Abandoned Mire
+Taurean Mauler
+Terror of the Peaks
+Three Visits
+Thrill of Possibility
+Tibalt's Trickery
+Toski, Bearer of Secrets
+Toxic Deluge
+Underground Mortuary
+Undergrowth Stadium
+Untimely Malfunction
+Urborg, Tomb of Yawgmoth
+Verdant Catacombs
+Vexing Shusher
+Whip of Erebos
+Windswept Heath
+Wooded Foothills
+Xenagos, the Reveler
+Yavimaya, Cradle of Growth
+Ziatora's Proving Ground
+

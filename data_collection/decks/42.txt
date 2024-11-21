@@ -1,0 +1,2526 @@
+Aftermath Analyst
+Agatha's Soul Cauldron
+Archivist of Oghma
+Arid Mesa
+Baleful Strix
+Birds of Paradise
+Blood Crypt
+Bloodstained Mire
+Bloom Tender
+Boros Charm
+Brainstorm
+Breeding Pool
+Bristly Bill, Spine Sower
+Command Tower
+Counterspell
+Damn
+Dark Confidant
+Dark Depths
+Doppelgang
+Dragonmaster Outcast
+Dress Down
+Elvish Reclaimer
+Exploration
+Expressive Iteration
+Farseek
+Final Showdown
+Flooded Strand
+Fortune Teller's Talent
+Gala Greeters
+Godless Shrine
+Gourmand's Talent
+Growth Spiral
+Hallowed Fountain
+Hedge Maze
+Hex Parasite
+Imposter Mech
+Indatha Triome
+Innkeeper's Talent
+Insidious Fungus
+Inti, Seneschal of the Sun
+Ketria Triome
+Kiora's Follower
+Ledger Shredder
+Life from the Loam
+Lightning Greaves
+Lion Sash
+Lonis, Cryptozoologist
+Lush Portico
+Marsh Flats
+Maze of Ith
+Misty Rainforest
+Narset's Reversal
+Nature's Lore
+Overgrown Tomb
+Path of Ancestry
+Phantasmal Image
+Planar Genesis
+Polluted Delta
+Ponder
+Preordain
+Priest of Fell Rites
+Quest for Renewal
+Quest for the Necropolis
+Questing Druid
+Raucous Theater
+Raugrin Triome
+Revitalizing Repast
+Sacred Foundry
+Savai Triome
+Scalding Tarn
+Scholar of New Horizons
+Scythecat Cub
+Shadowspear
+Shigeki, Jukai Visionary
+Shoreline Looter
+Spectrum Sentinel
+Springheart Nantuko
+Springleaf Drum
+Steam Vents
+Stomping Ground
+Swords to Plowshares
+Talon Gates of Madara
+Temple Garden
+The Meathook Massacre
+The Reality Chip
+The World Tree
+Thespian's Stage
+Three Visits
+Urza's Saga
+Verdant Catacombs
+Vesuva
+Voice of Resurgence
+Watery Grave
+Wight of the Reliquary
+Windswept Heath
+Wooded Foothills
+Wrenn and Six
+Yavimaya, Cradle of Growth
+Zagoth Triome
+
+Abrupt Decay
+Anguished Unmaking
+Arid Mesa
+Assassin's Trophy
+Aura Shards
+Avacyn's Pilgrim
+Birds of Paradise
+Blood Crypt
+Bloodstained Mire
+Bloom Tender
+Boros Charm
+Bountiful Promenade
+Breeding Pool
+Breena, the Demagogue
+Chromanticore
+City of Brass
+Command Tower
+Dawn's Truce
+Deathrite Shaman
+Delighted Halfling
+Despark
+Elemental Bond
+Elves of Deep Shadow
+Elvish Mystic
+Escape to the Wilds
+Esika, God of the Tree
+Exotic Orchard
+Expressive Iteration
+Faeburrow Elder
+Fallaji Wayfarer
+Farseek
+Fire Covenant
+Flooded Strand
+Forbidden Orchard
+Forest
+Fyndhorn Elves
+Garruk's Uprising
+General Ferrous Rokiric
+Glissa Sunslayer
+God-Eternal Oketra
+Godless Shrine
+Growth Spiral
+Hallowed Fountain
+Heroic Intervention
+Ignoble Hierarch
+Invert Polarity
+Island
+Jodah, the Unifier
+Llanowar Elves
+Lotho, Corrupt Shirriff
+Maelstrom Archangel
+Mana Cannons
+Mana Confluence
+Mana Drain
+Marsh Flats
+Misty Rainforest
+Mountain
+Nature's Lore
+Niv-Mizzet Reborn
+Niv-Mizzet, Guildpact
+Niv-Mizzet, Supreme
+Noble Hierarch
+O-Kagachi, Vengeful Kami
+Omnath, Locus of All
+Overgrown Tomb
+Path to Exile
+Plains
+Planar Genesis
+Polluted Delta
+Prismatic Vista
+Rejuvenating Springs
+Rhystic Study
+Sacred Foundry
+Scalding Tarn
+Scion of Draco
+Scion of the Ur-Dragon
+Shadrix Silverquill
+Sol Ring
+Spire Garden
+Steam Vents
+Stomping Ground
+Swamp
+Swords to Plowshares
+Talion, the Kindly Lord
+Tarnished Citadel
+Temple Garden
+Temur Ascendancy
+Terror of the Peaks
+Three Visits
+Tiamat
+Tribute to the World Tree
+Trouble in Pairs
+Twinflame Tyrant
+Two-Headed Hellkite
+Undergrowth Stadium
+Verdant Catacombs
+Watery Grave
+Windswept Heath
+Wooded Foothills
+
+Adriana, Captain of the Guard
+Ancient Cornucopia
+Ancient Tomb
+Annie Joins Up
+Arcane Signet
+Arid Mesa
+Biomancer's Familiar
+Birds of Paradise
+Blood Crypt
+Bloom Tender
+Boseiju, Who Endures
+Breeding Pool
+Cadric, Soul Kindler
+Case of the Shattered Pact
+Chromatic Lantern
+Chromatic Orrery
+City of Brass
+Command Tower
+Conflux
+Crop Rotation
+Cultivate
+Cyclonic Rift
+Deflecting Swat
+Delighted Halfling
+Doric, Nature's Warden
+Dryad of the Ilysian Grove
+Edgin, Larcenous Lutenist
+Eladamri's Call
+Elas il-Kor, Sadistic Pilgrim
+Esika, God of the Tree
+Exotic Orchard
+Faeburrow Elder
+Farseek
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Florian, Voldaren Scion
+Flubs, the Fool
+Forest
+Genku, Future Shaper
+Godless Shrine
+Gylwain, Casting Director
+Hallowed Fountain
+Heroic Intervention
+Invasion of Alara
+Irenicus's Vile Duplication
+Island
+Jetmir's Garden
+Jodah, Archmage Eternal
+Kellan, Inquisitive Prodigy
+Ketria Triome
+Killian, Ink Duelist
+Krydle of Baldur's Gate
+Leyline of Mutation
+Leyline of the Guildpact
+Lightning Greaves
+Mana Confluence
+Marsh Flats
+Misty Rainforest
+Mountain
+Mox Amber
+Nature's Lore
+Olivia, Crimson Bride
+Otawara, Soaring City
+Overgrown Tomb
+Plains
+Planar Genesis
+Plaza of Heroes
+Polluted Delta
+Relic of Legends
+Rhystic Study
+Rhythm of the Wild
+Rodolf Duskbringer
+Sacred Foundry
+Samwise Gamgee
+Skyshroud Claim
+Sol Ring
+Spara's Headquarters
+Spark Double
+Stomping Ground
+Sublime Epiphany
+Swamp
+Swords to Plowshares
+Teferi's Protection
+Temple Garden
+Temur Ascendancy
+The Kami War
+The World Tree
+Three Visits
+Training Grounds
+Unite the Coalition
+Vannifar, Evolved Enigma
+Verdant Catacombs
+Watery Grave
+Widespread Thieving
+Windswept Heath
+Wooded Foothills
+Zagoth Triome
+Ziatora's Proving Ground
+
+Anguished Unmaking
+Aragorn, the Uniter
+Arcane Signet
+Ash Barrens
+Baleful Strix
+Birds of Paradise
+Bloom Tender
+Boros Charm
+Bountiful Landscape
+Bring to Light
+Brushland
+Canopy Vista
+Child of Alara
+Chromanticore
+Chromatic Lantern
+Cinder Glade
+Command Tower
+Conflux
+Contaminated Landscape
+Crystal Quarry
+Cultivate
+Deceptive Landscape
+Despark
+Dovin's Veto
+Dryad of the Ilysian Grove
+Eerie Ultimatum
+Esika, God of the Tree
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Faeburrow Elder
+Fallaji Wayfarer
+Farseek
+Fellwar Stone
+Forest
+Fusion Elemental
+General Ferrous Rokiric
+Genesis Ultimatum
+Growth Spiral
+Helga, Skittish Seer
+Heroic Intervention
+Invasion of Alara
+Iridian Maelstrom
+Island
+Jared Carthalion
+Jegantha, the Wellspring
+Knight of New Alara
+Kodama's Reach
+Leyline of Mutation
+Leyline of the Guildpact
+Maelstrom Archangel
+Maelstrom Nexus
+Mana Cannons
+Moonveil Regent
+Mountain
+Nature's Lore
+O-Kagachi, Vengeful Kami
+Omnath, Locus of All
+Path to Exile
+Perilous Landscape
+Plains
+Planar Genesis
+Primeval Spawn
+Progenitus
+Ramos, Dragon Engine
+Rhythm of the Wild
+Rienne, Angel of Rebirth
+Ruinous Ultimatum
+Scion of Draco
+Sol Ring
+Sunpetal Grove
+Surrak Dragonclaw
+Swamp
+Swords to Plowshares
+Temur Ascendancy
+Terramorphic Expanse
+The Kami War
+The World Tree
+Tome of the Guildpact
+Training Grounds
+Twisted Landscape
+Two-Headed Hellkite
+Unite the Coalition
+Void Rend
+
+Anguished Unmaking
+Arcane Signet
+Assassin's Trophy
+Baleful Strix
+Birds of Paradise
+Boros Charm
+Brainstorm
+Bring to Light
+Canopy Vista
+Case of the Shattered Pact
+Chainer, Nightmare Adept
+Chromanticore
+Cinder Glade
+Coiling Oracle
+Command Tower
+Commander's Sphere
+Cultivate
+Despark
+Dovin's Veto
+Drowned Catacomb
+Dryad of the Ilysian Grove
+Exotic Orchard
+Faeburrow Elder
+Farseek
+Fellwar Stone
+Forest
+Galadriel of Lothlórien
+General Ferrous Rokiric
+Glacial Fortress
+Goro-Goro and Satoru
+Growth Spiral
+Hinterland Harbor
+Horde of Notions
+Hushwood Verge
+Ignoble Hierarch
+Invasion of Alara
+Iridian Maelstrom
+Island
+Isolated Chapel
+Jared Carthalion
+Jungle Shrine
+Knight of New Alara
+Kodama's Reach
+Krosan Verge
+Kutzil, Malamet Exemplar
+Lavalanche
+Maelstrom Archangel
+Maelstrom Nexus
+Mana Cannons
+Merciless Eviction
+Mountain
+Naya Charm
+Niv-Mizzet, Guildpact
+Niv-Mizzet, Supreme
+Noble Hierarch
+O-Kagachi, Vengeful Kami
+Obsidian Obelisk
+Omnath, Locus of All
+Path to Exile
+Plains
+Prairie Stream
+Prismatic Omen
+Rampant Growth
+Reborn Hope
+Rienne, Angel of Rebirth
+Rootbound Crag
+Seaside Citadel
+Smoldering Marsh
+Sol Ring
+Sultai Charm
+Sunken Hollow
+Sunpetal Grove
+Surrak Dragonclaw
+Swamp
+Swords to Plowshares
+Temur Ascendancy
+Terminate
+Territorial Kavu
+The Kami War
+Three Visits
+Tiller Engine
+Tome of the Guildpact
+Two-Headed Hellkite
+Void Rend
+Widespread Thieving
+Woodland Cemetery
+
+Absorb
+Alpine Meadow
+Aragorn, the Uniter
+Arcane Sanctum
+Arcane Signet
+Brainstorm
+Brokers Ascendancy
+Canopy Vista
+Cascading Cataracts
+Chromanticore
+Chromatic Lantern
+Cinder Glade
+Circuitous Route
+Command Tower
+Cromat
+Door to Nothingness
+Dromar's Cavern
+Eerie Ultimatum
+Eureka Moment
+Exotic Orchard
+Expressive Iteration
+Faeburrow Elder
+Farseek
+Forest
+Frontier Bivouac
+Fusion Elemental
+Garruk's Uprising
+General Ferrous Rokiric
+Growth Spiral
+Inga and Esika
+Invasion of Alara
+Iridian Maelstrom
+Island
+Jared Carthalion
+Jegantha, the Wellspring
+Jodah, Archmage Eternal
+Jodah, the Unifier
+Kenrith, the Returned King
+Klothys, God of Destiny
+Knight of New Alara
+Maelstrom Archangel
+Maelstrom Nexus
+Maskwood Nexus
+Miirym, Sentinel Wyrm
+Morska, Undersea Sleuth
+Mountain
+Murmuring Bosk
+Naya Charm
+Niv-Mizzet, Guildpact
+Niv-Mizzet, Supreme
+O-Kagachi, Vengeful Kami
+Obsidian Obelisk
+Omnath, Locus of All
+Omnath, Locus of the Roil
+Opulent Palace
+Pillar of the Paruns
+Plains
+Prairie Stream
+Primeval Spawn
+Prismatic Omen
+Putrefy
+Raffine, Scheming Seer
+Relic of Legends
+Rith, Liberated Primeval
+Rockfall Vale
+Sandsteppe Citadel
+Savage Lands
+Seaside Citadel
+Smoldering Marsh
+Sol Ring
+Solemn Simulacrum
+Steam Vents
+Stormcarved Coast
+Sultai Charm
+Sungrass Prairie
+Sunken Hollow
+Sunpetal Grove
+Swamp
+Talisman of Unity
+Terminate
+Tiamat
+Titania's Command
+Tome of the Guildpact
+Two-Headed Hellkite
+Underground River
+Unite the Coalition
+Void Rend
+Woodland Chasm
+Xyris, the Writhing Storm
+Ziatora, the Incinerator
+Zurgo and Ojutai
+
+Ad Nauseam
+Aether Vial
+Amped Raptor
+Arcane Sanctum
+Arcane Signet
+Arwen Undómiel
+Assassin's Trophy
+Assemble the Players
+Azorius Charm
+Baleful Strix
+Biomancer's Familiar
+Birds of Paradise
+Boros Charm
+Bountiful Promenade
+Breeding Pool
+Cauldron Familiar
+Chain of Smog
+Chthonian Nightmare
+City of Brass
+Coiling Oracle
+Command Tower
+Congregation at Dawn
+Dark Confidant
+Dawn of a New Age
+Deathrite Shaman
+Deflecting Palm
+Dovin's Veto
+Eladamri's Call
+Exotic Orchard
+Farseek
+Fiend Artisan
+Forest
+Fury Storm
+Gamble
+Green Sun's Zenith
+Growth Spiral
+Indatha Triome
+Inkshield
+Island
+Izzet Charm
+Jolted Awake
+Judge's Familiar
+Kroxa, Titan of Death's Hunger
+Kwain, Itinerant Meddler
+Lavinia, Azorius Renegade
+Lightning Helix
+Lonis, Cryptozoologist
+Lotho, Corrupt Shirriff
+Lurrus of the Dream-Den
+Luxury Suite
+MacCready, Lamplight Mayor
+Manamorphose
+Master Warcraft
+Morphic Pool
+Mountain
+Noble Hierarch
+Opulent Palace
+Overgrown Tomb
+Pest Control
+Pillage the Bog
+Pillar of the Paruns
+Plains
+Raise the Past
+Rakdos Charm
+Reborn Hope
+Rejuvenating Springs
+Revitalizing Repast
+Rushed Rebirth
+Samwise Gamgee
+Sandsteppe Citadel
+Sea of Clouds
+Seaside Citadel
+Spire Garden
+Spore Frog
+Stomping Ground
+Swamp
+Sword of the Meek
+Take the Bait
+Temple Garden
+Thopter Foundry
+Thrasios, Triton Hero
+Time Sieve
+Training Grounds
+Triskaidekaphile
+Undergrowth Stadium
+Unearth
+Vault of Champions
+Verdant Catacombs
+Viscera Seer
+Wernog, Rider's Chaplain
+Wishclaw Talisman
+Witherbloom Apprentice
+
+Anguished Unmaking
+Aragorn, the Uniter
+Arcane Signet
+Atraxa, Grand Unifier
+Beast Within
+Bloom Tender
+Bring to Light
+Child of Alara
+Chromanticore
+Chromatic Lantern
+Chromatic Orrery
+City of Brass
+Command Tower
+Conflux
+Cromat
+Cultivate
+Dominaria's Judgment
+Earnest Fellowship
+Exotic Orchard
+Fabled Passage
+Faeburrow Elder
+Fallaji Wayfarer
+Farseek
+Fires of Yavimaya
+Forbidden Orchard
+Forest
+Fusion Elemental
+Garth One-Eye
+General Ferrous Rokiric
+Horde of Notions
+Indatha Triome
+Invasion of Alara
+Iridian Maelstrom
+Island
+Jared Carthalion
+Jegantha, the Wellspring
+Jodah, the Unifier
+Jungle Shrine
+Ketria Triome
+Knight of New Alara
+Land Tax
+Leyline of the Guildpact
+Lightning Greaves
+Maelstrom Archangel
+Maelstrom Nexus
+Mana Cannons
+Mountain
+Negate
+Niv-Mizzet Reborn
+O-Kagachi, Vengeful Kami
+Omnath, Locus of All
+Path of Ancestry
+Path to the World Tree
+Pillar of the Paruns
+Plains
+Primeval Spawn
+Progenitus
+Ramos, Dragon Engine
+Raugrin Triome
+Reflecting Pool
+Rienne, Angel of Rebirth
+Rukarumel, Biologist
+Sandsteppe Citadel
+Scavenger Grounds
+Scion of Draco
+Scion of the Ur-Dragon
+Sliver Legion
+Sliver Overlord
+Spirit of Resistance
+Surrak Dragonclaw
+Swamp
+Swiftfoot Boots
+Swords to Plowshares
+Temur Ascendancy
+The First Sliver
+The Kami War
+The Ur-Dragon
+The World Tree
+Three Visits
+Tiamat
+Tormod's Crypt
+Toxic Deluge
+Two-Headed Hellkite
+Unite the Coalition
+Zagoth Triome
+
+Aragorn, the Uniter
+Arcane Signet
+Archelos, Lagoon Mystic
+Archmage's Charm
+Badlands
+Bayou
+Cascading Cataracts
+Case of the Shattered Pact
+Chromanticore
+Chromatic Lantern
+Command Tower
+Cromat
+Crystal Quarry
+Cultivate
+Door to Nothingness
+Drag to the Bottom
+Dryad of the Ilysian Grove
+Duke Ulder Ravengard
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Faeburrow Elder
+Fallaji Wayfarer
+Farseek
+Fist of Suns
+Forest
+Fusion Elemental
+Garth One-Eye
+General Ferrous Rokiric
+Glint-Eye Nephilim
+Hallowed Fountain
+Harrow
+Invasion of Alara
+Invasion of Zendikar
+Iridian Maelstrom
+Island
+Jared Carthalion
+Jodah's Codex
+Kenrith, the Returned King
+Knight of New Alara
+Kodama's Reach
+Last Stand
+Leyline Binding
+Leyline Immersion
+Leyline of the Guildpact
+Maelstrom Archangel
+Maelstrom Nexus
+Mana Cannons
+Marchesa, the Black Rose
+Marsh Flats
+Migration Path
+Misty Rainforest
+Mountain
+O-Kagachi, Vengeful Kami
+Obsidian Obelisk
+Omnath, Locus of All
+Plains
+Plateau
+Prairie Stream
+Priest of Fell Rites
+Primeval Spawn
+Ramos, Dragon Engine
+Rashmi and Ragavan
+Reflecting Pool
+Rienne, Angel of Rebirth
+Rootpath Purifier
+Satoru Umezawa
+Savannah
+Scion of Draco
+Scrubland
+Search for Tomorrow
+Smoldering Marsh
+Spirit of Resistance
+Stomping Ground
+Surrak Dragonclaw
+Swamp
+Taiga
+Terramorphic Expanse
+The Kami War
+The World Tree
+Tiller Engine
+Transguild Courier
+Tropical Island
+Tundra
+Two-Headed Hellkite
+Underground Sea
+Unite the Coalition
+Volcanic Island
+Watery Grave
+Widespread Thieving
+Wrenn and Realmbreaker
+Yore-Tiller Nephilim
+Zhur-Taa Ancient
+Ziatora's Envoy
+
+Aether Spellbomb
+Arbaaz Mir
+Arcbound Ravager
+Baleful Strix
+Birds of Paradise
+Bountiful Landscape
+Candy Trail
+Cauldron Familiar
+Chromatic Sphere
+Chromatic Star
+Chronomancer
+Chthonian Nightmare
+Conjurer's Bauble
+Contaminated Landscape
+Courier's Briefcase
+Crystal Quarry
+Curiosity
+Darkwater Egg
+Deceptive Landscape
+Disciple of the Vault
+Dockside Chef
+Elsewhere Flask
+Etherium Sculptor
+Exotic Orchard
+Foreboding Landscape
+Forest
+Gilded Goose
+Giver of Runes
+Glimmervoid
+Goblin Engineer
+Goblin Welder
+Golden Egg
+Guild Globe
+Haywire Mite
+Ichor Wellspring
+Implement of Combustion
+Implement of Improvement
+Island
+Kaleidostone
+Kaya's Ghostform
+Lightning Greaves
+Marionette Apprentice
+Mephitic Draught
+Metalspinner's Puzzleknot
+Mishra's Bauble
+Mossfire Egg
+Mother of Runes
+Mountain
+Myr Retriever
+Nihil Spellbomb
+Nimblewright Schematic
+Oni-Cult Anvil
+Origin Spellbomb
+Path of Ancestry
+Perilous Landscape
+Phyrexia's Core
+Plains
+Prized Statue
+Psychomancer
+Ransom Note
+Reckless Fireweaver
+Riddlesmith
+Sage of Lat-Nam
+Sakura-Tribe Elder
+Seal of Primordium
+Seal of Removal
+Seething Landscape
+Servo Schematic
+Shadowblood Egg
+Shattered Landscape
+Sheltering Landscape
+Shizo, Death's Storehouse
+Sinister Concoction
+Skullclamp
+Skycloud Egg
+Soul-Guide Lantern
+Springleaf Drum
+Sungrass Egg
+Swamp
+Sword of the Meek
+Tarrian's Journal
+Terrarion
+The Mycosynth Gardens
+The World Tree
+Third Path Iconoclast
+Tough Cookie
+Tranquil Landscape
+Twisted Landscape
+Underhanded Designs
+Urza's Bauble
+Viridian Harvest
+Wayfarer's Bauble
+Witch's Oven
+Wizard's Rockets
+
+All Suns' Dawn
+Ancient Cornucopia
+Aragorn, the Uniter
+Arcane Signet
+Beast Within
+Birds of Paradise
+Blasphemous Act
+Bloom Tender
+Bountiful Promenade
+Bring to Light
+Canopy Vista
+Cascading Cataracts
+Case of the Shattered Pact
+Chromanticore
+Chromatic Lantern
+Chromatic Orrery
+Cinder Glade
+Coalition Relic
+Command Tower
+Commander's Sphere
+Conflux
+Conqueror's Flail
+Counterspell
+Crystal Quarry
+Cultivate
+Door to Nothingness
+Dragon Arch
+Exotic Orchard
+Faeburrow Elder
+Fallaji Wayfarer
+Fellwar Stone
+Forest
+Fusion Elemental
+Garth One-Eye
+General Ferrous Rokiric
+Generous Gift
+Genju of the Realm
+Hushwood Verge
+Invasion of Alara
+Iridian Maelstrom
+Island
+Jared Carthalion
+Jodah's Codex
+Knight of New Alara
+Last Stand
+Legacy Weapon
+Leyline of the Guildpact
+Luxury Suite
+Maelstrom Archangel
+Maelstrom Nexus
+Mana Cannons
+Morphic Pool
+Mountain
+O-Kagachi, Vengeful Kami
+Obsidian Obelisk
+Omnath, Locus of All
+Painful Truths
+Path to the World Tree
+Pillar of the Paruns
+Plains
+Prairie Stream
+Prismatic Omen
+Progenitus
+Rampant Growth
+Rejuvenating Springs
+Rienne, Angel of Rebirth
+Scion of Draco
+Sea of Clouds
+Smoldering Marsh
+Soul of Ravnica
+Spectator Seating
+Sphinx of the Guildpact
+Spire Garden
+Spirit of Resistance
+Sunken Hollow
+Swamp
+The Kami War
+The World Tree
+Thornspire Verge
+Timeless Lotus
+Tome of the Guildpact
+Toxic Deluge
+Training Center
+Transguild Courier
+Two-Headed Hellkite
+Undergrowth Stadium
+Unite the Coalition
+Vault of Champions
+Widespread Thieving
+
+Alive // Well
+Amaranthine Wall
+Appeal // Authority
+Armed // Dangerous
+Assault // Battery
+Assure // Assemble
+Azorius Chancery
+Barkchannel Pathway
+Beck // Call
+Bedeck // Bedazzle
+Blightstep Pathway
+Boros Garrison
+Bound // Determined
+Branchloft Pathway
+Breaking // Entering
+Brightclimb Pathway
+Carnival // Carnage
+Catch // Release
+Clearwater Pathway
+Collision // Colossus
+Command Tower
+Conflux
+Connive // Concoct
+Consecrate // Consume
+Consign // Oblivion
+Cragcrown Pathway
+Crime // Punishment
+Darkbore Pathway
+Dead // Gone
+Depose // Deploy
+Dimir Aqueduct
+Down // Dirty
+Driven // Despair
+Expansion // Explosion
+Far // Away
+Farm // Market
+Fire // Ice
+Flesh // Blood
+Forest
+Give // Take
+Golgari Rot Farm
+Grind // Dust
+Gruul Turf
+Hengegate Pathway
+Hide // Seek
+Hit // Run
+Illusion // Reality
+Incubation // Incongruity
+Indatha Triome
+Island
+Izzet Boilerworks
+Ketria Triome
+Leave // Chance
+Life // Death
+Midnight Clock
+Mountain
+Needleverge Pathway
+Night // Day
+Odds // Ends
+Order // Chaos
+Orzhov Basilica
+Plains
+Profit // Loss
+Protect // Serve
+Rakdos Carnarium
+Raugrin Triome
+Ready // Willing
+Reason // Believe
+Refuse // Cooperate
+Repudiate // Replicate
+Research // Development
+Response // Resurgence
+Rise // Fall
+Riverglide Pathway
+Rough // Tumble
+Savai Triome
+Selesnya Sanctuary
+Simic Growth Chamber
+Spectrum Sentinel
+Spite // Malice
+Stand // Deliver
+Stonecoil Serpent
+Struggle // Survive
+Supply // Demand
+Swamp
+The Kami War
+Thrash // Threat
+Toil // Trouble
+Trial // Error
+Turn // Burn
+Warrant // Warden
+Wax // Wane
+Wear // Tear
+Zagoth Triome
+
+Arcane Signet
+Aurelia, the Warleader
+Azorius Guildgate
+Baldur's Gate
+Basilisk Gate
+Bident of Thassa
+Black Dragon Gate
+Blot Out the Sky
+Boros Charm
+Boros Guildgate
+Circuitous Route
+Citadel Gate
+Command Tower
+Crackling Perimeter
+Crumbling Necropolis
+Dimir Guildgate
+Dragon Arch
+Evolving Wilds
+Exotic Orchard
+Expedition Map
+Exploration
+Firemind Vessel
+Fog Bank
+Forest
+Garth One-Eye
+Gate Colossus
+Gateway Plaza
+General Ferrous Rokiric
+Ghen, Arcanum Weaver
+Gilded Lotus
+Go-Shintai of Ancient Wars
+Go-Shintai of Boundless Vigor
+Go-Shintai of Hidden Cruelty
+Go-Shintai of Life's Origin
+Go-Shintai of Lost Wisdom
+Go-Shintai of Shared Purpose
+Golgari Guildgate
+Gond Gate
+Great Hall of the Citadel
+Gruul Guildgate
+Halana and Alena, Partners
+Heroes' Podium
+Honden of Cleansing Fire
+Honden of Infinite Rage
+Honden of Life's Web
+Honden of Night's Reach
+Honden of Seeing Winds
+Hour of Promise
+Imoti, Celebrant of Bounty
+Izzet Guildgate
+Jodah, the Unifier
+Jukai Naturalist
+Leyline of the Guildpact
+Manor Gate
+Maze's End
+Monster Manual
+Mountain
+Navigation Orb
+Nevinyrral, Urborg Tyrant
+Opulent Palace
+Orzhov Guildgate
+Ovika, Enigma Goliath
+Path of Ancestry
+Plains
+Progenitus
+Rakdos Guildgate
+Ramos, Dragon Engine
+Relic of Legends
+Rogue's Passage
+Sanctum Weaver
+Sanctum of All
+Sanctum of Calm Waters
+Sanctum of Fruitful Harvest
+Sanctum of Shattered Heights
+Sanctum of Stone Fangs
+Sanctum of Tranquil Light
+Sea Gate
+Selesnya Guildgate
+Sheoldred's Edict
+Shrine Steward
+Simic Guildgate
+Skycloud Expanse
+Sol Ring
+Sterling Grove
+Swamp
+Swiftfoot Boots
+Sylvan Scrying
+Tempt with Discovery
+The Council of Four
+The Kami War
+Thran Dynamo
+Wishclaw Talisman
+Yargle and Multani
+Zur, Eternal Schemer
+
+Agatha of the Vile Cauldron
+Allied Strategies
+Anguished Unmaking
+Aragorn, the Uniter
+Arcane Signet
+Arid Mesa
+Arwen Undómiel
+Assassin's Trophy
+Baleful Strix
+Biomancer's Familiar
+Birds of Paradise
+Blood Crypt
+Bloom Tender
+Breeding Pool
+Bring to Light
+Case of the Shattered Pact
+Chromanticore
+Chromatic Orrery
+City of Brass
+Collective Restraint
+Command Tower
+Conflux
+Countersquall
+Deathrite Shaman
+Despark
+Dovin's Veto
+Eladamri's Call
+Exotic Orchard
+Faeburrow Elder
+Fallaji Wayfarer
+Farseek
+Fellwar Stone
+Forest
+General Ferrous Rokiric
+Godless Shrine
+Growth Spiral
+Hallowed Fountain
+Indatha Triome
+Invasion of Alara
+Iridian Maelstrom
+Island
+Jared Carthalion
+Ketria Triome
+Knight of New Alara
+Leyline Binding
+Leyline of the Guildpact
+Lilah, Undefeated Slickshot
+Maelstrom Archangel
+Maelstrom Nexus
+Maelstrom Wanderer
+Mana Cannons
+Mana Confluence
+Marsh Flats
+Misty Rainforest
+Moonveil Regent
+Mountain
+Nael, Avizoa Aeronaut
+Najeela, the Blade-Blossom
+Nature's Lore
+Niv-Mizzet, Guildpact
+Omnath, Locus of All
+Omnath, Locus of Creation
+Overgrown Tomb
+Plains
+Plaza of Heroes
+Polluted Delta
+Primeval Spawn
+Ramos, Dragon Engine
+Rashmi, Eternities Crafter
+Sacred Foundry
+Scalding Tarn
+Scion of Draco
+Shadow Prophecy
+Sol Ring
+Spara's Headquarters
+Spirit of Resistance
+Steam Vents
+Stomping Ground
+Swamp
+Tarnished Citadel
+Temple Garden
+The First Sliver
+The Kami War
+The Mana Rig
+The World Tree
+Three Visits
+Training Grounds
+Transguild Courier
+Two-Headed Hellkite
+Unite the Coalition
+Uro, Titan of Nature's Wrath
+Verdant Catacombs
+Void Rend
+Watery Grave
+Windswept Heath
+Wooded Foothills
+Ziatora's Proving Ground
+
+Abundant Growth
+Abzan Charm
+Ancient Gold Dragon
+Animar, Soul of Elements
+Arcane Sanctum
+Arcane Signet
+Archelos, Lagoon Mystic
+Bad River
+Baleful Strix
+Beast Within
+Bringer of the Black Dawn
+Bringer of the Green Dawn
+Canopy Vista
+Cascading Cataracts
+Chromanticore
+Cinder Glade
+Command Tower
+Commander's Sphere
+Cruel Ultimatum
+Crumbling Necropolis
+Crystal Quarry
+Cultivate
+Duneblast
+Echoing Truth
+Eldrazi Monument
+Exotic Orchard
+Explosive Vegetation
+Faeburrow Elder
+Fallaji Wayfarer
+Farseek
+Fellwar Stone
+Flametongue Kavu
+Flood Plain
+Forest
+Frantic Search
+Frontier Bivouac
+Fusion Elemental
+Ghalta, Primal Hunger
+Ghalta, Stampede Tyrant
+Glint-Eye Nephilim
+Grasslands
+Growth Spiral
+Haze of Pollen
+Hero of Precinct One
+Illuna, Apex of Wishes
+Iridian Maelstrom
+Island
+Jared Carthalion
+Jungle Shrine
+Knight of New Alara
+Kodama's Reach
+Lavalanche
+Maelstrom Archangel
+Maelstrom Nexus
+Mana Cannons
+Morophon, the Boundless
+Mountain
+Mountain Valley
+Mystic Monastery
+Nethroi, Apex of Death
+Nighthowler
+Nomad Outpost
+O-Kagachi, Vengeful Kami
+Obsidian Obelisk
+Opulent Palace
+Path to Exile
+Path to the World Tree
+Planar Nexus
+Pollywog Symbiote
+Prairie Stream
+Primeval Spawn
+Quest for the Necropolis
+Radha, Coalition Warlord
+Rienne, Angel of Rebirth
+Rocky Tar Pit
+Savage Lands
+Seaside Citadel
+Smoldering Marsh
+Sultai Charm
+Sunken Hollow
+Surrak Dragonclaw
+Swamp
+Sylvan Reclamation
+Taurean Mauler
+Temur Ascendancy
+The Kami War
+The Swarmlord
+Time Wipe
+Titanoth Rex
+Transguild Courier
+Two-Headed Hellkite
+Unite the Coalition
+Vadrok, Apex of Thunder
+Verdant Sun's Avatar
+Xyris, the Writhing Storm
+Zaxara, the Exemplary
+
+Abzan Charm
+Aragorn, the Uniter
+Arcane Bombardment
+Arcane Signet
+Bant Charm
+Biomancer's Familiar
+Boros Charm
+Brokers Charm
+Brokers Confluence
+Cabaretti Charm
+Cabaretti Courtyard
+Canopy Vista
+Cascading Cataracts
+Chromatic Lantern
+Cinder Glade
+Command Tower
+Crosis's Charm
+Crystal Quarry
+Cultivate
+Double Vision
+Dromar's Charm
+Duneblast
+Eligeth, Crossroads Augur
+Endless Detour
+Epic Experiment
+Esper Charm
+Eureka Moment
+Evolving Wilds
+Exotic Orchard
+Farseek
+Fellwar Stone
+Forest
+Garth One-Eye
+General Ferrous Rokiric
+Golgari Charm
+Grixis Charm
+Growth Spiral
+Guided Passage
+Incandescent Aria
+Island
+Izzet Charm
+Jeskai Charm
+Jund Charm
+Kodama's Reach
+Last Stand
+Leyline of the Guildpact
+Maestros Charm
+Mana Cannons
+Mardu Charm
+Meeting of the Five
+Melek, Izzet Paragon
+Merciless Eviction
+Mizzix's Mastery
+Mountain
+Murmuring Bosk
+Mystic Monastery
+Naya Charm
+Notion Thief
+Obscura Charm
+Obsidian Obelisk
+Omnath, Locus of All
+Opulent Palace
+Pillar of the Paruns
+Plains
+Prairie Stream
+Primeval Spawn
+Rakdos Charm
+Rampant Growth
+Rashmi, Eternities Crafter
+Reliquary Tower
+Rith's Charm
+Riveteers Charm
+Road // Ruin
+Savage Lands
+Seaside Citadel
+Simic Charm
+Smoldering Marsh
+Sultai Charm
+Sunken Hollow
+Swamp
+Sylvan Reclamation
+Temur Charm
+Terramorphic Expanse
+The World Tree
+Tome of the Guildpact
+Unite the Coalition
+Whirlwind of Thought
+Zirda, the Dawnwaker
+
+Abrupt Decay
+Alchemist's Apprentice
+Arcane Signet
+Archivist of Oghma
+Assassin's Trophy
+Avacyn's Pilgrim
+Baleful Strix
+Birds of Paradise
+Blood Pet
+Bloodstained Mire
+Botanical Sanctum
+Breeding Pool
+Bring to Light
+Carpet of Flowers
+Cephalid Illusionist
+Chain of Smog
+Chord of Calling
+Chrome Mox
+City of Brass
+Coiling Oracle
+Command Tower
+Compost
+Diabolic Intent
+Elves of Deep Shadow
+Elvish Mystic
+Elvish Visionary
+Exotic Orchard
+Fblthp, the Lost
+Fellwar Stone
+Flooded Strand
+Forbidden Orchard
+Force of Will
+Forest
+Hapless Researcher
+Hedge Maze
+Horizon Canopy
+Ice-Fang Coatl
+Ignoble Hierarch
+Island
+Ketria Triome
+Lotho, Corrupt Shirriff
+Lotus Petal
+Lórien Revealed
+Mana Confluence
+Mana Vault
+Marsh Flats
+Mishra's Bauble
+Misty Rainforest
+Mogg Fanatic
+Mox Amber
+Mox Opal
+Multani's Acolyte
+Mystic Remora
+Mystical Tutor
+Neoform
+Nexus of Fate
+Nomads en-Kor
+Noxious Revival
+Overgrown Tomb
+Personal Tutor
+Phantasmal Image
+Polluted Delta
+Priest of Titania
+Prismatic Ending
+Qasali Pridemage
+Questing Druid
+Scalding Tarn
+Search for Azcanta
+Seasons Past
+Sevinne's Reclamation
+Sol Ring
+Solve the Equation
+Spara's Headquarters
+Spirited Companion
+Springleaf Drum
+Steam Vents
+Stomping Ground
+Submerge
+Swords to Plowshares
+Sygg, River Cutthroat
+Talisman of Curiosity
+Talisman of Dominance
+Talisman of Unity
+Temple Garden
+Tendo Ice Bridge
+Time Warp
+Up the Beanstalk
+Utopia Sprawl
+Verdant Catacombs
+Wall of Blossoms
+Wall of Omens
+Waterlogged Grove
+Watery Grave
+Wild Growth
+Windswept Heath
+Witherbloom Apprentice
+Wooded Foothills
+Wrenn and Six
+Zagoth Triome
+
+All Suns' Dawn
+An Offer You Can't Refuse
+Ancient Cornucopia
+Anguished Unmaking
+Arcane Signet
+Arid Mesa
+Assassin's Trophy
+Birds of Paradise
+Bloodstained Mire
+Bloom Tender
+Boros Charm
+Bountiful Promenade
+Bounty of the Luxa
+Breeding Pool
+Chromanticore
+Command Tower
+Conflux
+Countersquall
+Cyclonic Rift
+Demonic Tutor
+Dovin's Veto
+Drown in the Loch
+Eladamri's Call
+Esper Sentinel
+Faeburrow Elder
+Faerie Mastermind
+Fallaji Wayfarer
+Flawless Maneuver
+Flooded Strand
+Forest
+Fracture
+Garth One-Eye
+General Ferrous Rokiric
+Godless Shrine
+Growth Spiral
+Hallowed Fountain
+Imperial Recruiter
+Imperial Seal
+Inkshield
+Invasion of Alara
+Ionize
+Iridian Maelstrom
+Island
+Jared Carthalion
+Knight of New Alara
+Last Stand
+Legacy Weapon
+Leyline of the Guildpact
+Lightning Greaves
+Mana Cannons
+Marsh Flats
+Misty Rainforest
+Mithril Coat
+Moonveil Regent
+Morphic Pool
+Mountain
+Niv-Mizzet, Supreme
+Omnath, Locus of All
+Orcish Bowmasters
+Overgrown Tomb
+Path to Exile
+Plains
+Polluted Delta
+Recruiter of the Guard
+Rejuvenating Springs
+Rienne, Angel of Rebirth
+Sacred Foundry
+Scalding Tarn
+Scion of Draco
+Sea of Clouds
+Smothering Tithe
+Snapcaster Mage
+Sol Ring
+Spectator Seating
+Spire Garden
+Steam Vents
+Stomping Ground
+Swamp
+Swords to Plowshares
+Sylvan Library
+Temple Garden
+The Kami War
+The Mana Rig
+The One Ring
+Thought Vessel
+Timeless Lotus
+Training Center
+Two-Headed Hellkite
+Undergrowth Stadium
+Unite the Coalition
+Utter End
+Vampiric Tutor
+Vault of Champions
+Verdant Catacombs
+Watery Grave
+Whirlwind of Thought
+Widespread Thieving
+Windswept Heath
+Wooded Foothills
+
+Akoum Hellhound
+Archetype of Aggression
+Archon of the Wild Rose
+Aspirant's Ascent
+Backup Agent
+Basri's Acolyte
+Bloodmist Infiltrator
+Bloodsoaked Insight
+Blooming Marsh
+Boneshard Slasher
+Brokers Hideout
+Buried Ruin
+Careful Cultivation
+Cemetery Prowler
+Centaur Garden
+Chandra Ablaze
+Cinder Seer
+Clan Defiance
+Clifftop Retreat
+Cragcrown Pathway
+Dawnfluke
+Demonic Collusion
+Everglades
+Feed the Cauldron
+Forest
+Gluttonous Hellkite
+Guardians' Pledge
+Guided Strike
+Heliod's Intervention
+Hollow Scavenger
+Idol of False Gods
+Infiltrator's Magemark
+Island
+Jason Bright, Glowing Prophet
+Karumonix, the Rat King
+Kuldotha Forgemaster
+Lantern-Lit Graveyard
+Last Caress
+Last Gasp
+Leyline Phantom
+Liesa, Forgotten Archangel
+Lion Umbra
+Lone Rider
+Marsh Flats
+Mind Stone
+Mistform Ultimus
+Monstrosity of the Lake
+Monumental Henge
+Mountain
+Nath's Elite
+Necroblossom Snarl
+Omenpath Journey
+Pain Magnification
+Paladin of the Bloodstained
+Persuasion
+Plains
+Pyrokinesis
+Revitalizing Repast
+Rise of the Witch-king
+Runeclaw Bear
+Sakashima of a Thousand Faces
+Sandstone Bridge
+Shadow of Mortality
+Siegehorn Ceratops
+Skeletal Changeling
+Skyreaping
+Slogurk, the Overslime
+Sound the Call
+Sphinx of the Guildpact
+Spinal Graft
+Swamp
+Thaumatic Compass
+The Caves of Androzani
+Troll-Horn Cameo
+Unauthorized Exit
+Unsummon
+Urza's Mine
+Wall of Razors
+Windshaper Planetar
+Witness of the Ages
+
+Accursed Marauder
+Altar of Dementia
+Arabella, Abandoned Doll
+Arid Mesa
+Ascend from Avernus
+Badlands
+Bayou
+Birds of Paradise
+Birthing Ritual
+Bloodstained Mire
+Boseiju, Who Endures
+Bounty Agent
+Buried Alive
+Cankerbloom
+Careful Study
+Cathar Commando
+Chthonian Nightmare
+Corpse Knight
+Cruel Celebrant
+Cynical Loner
+Damn
+Dark Confidant
+Deathrite Shaman
+Delighted Halfling
+Dewdrop Cure
+Dusk // Dawn
+Elegant Parlor
+Esper Sentinel
+Faithful Mending
+Faithless Looting
+Fiend Artisan
+Flesh Duplicate
+Flooded Strand
+Forest
+Frantic Search
+Goblin Bombardment
+Grim Flayer
+Grist, Voracious Larva
+Haywire Mite
+Hedge Maze
+Helping Hand
+Hermit Druid
+Ignoble Hierarch
+Immortal Servitude
+Impact Tremors
+Insidious Fungus
+Intuition
+Island
+Jolted Awake
+Lazav, the Multifarious
+Ledger Shredder
+Likeness Looter
+Lush Portico
+Malevolent Hermit
+Marsh Flats
+Meticulous Archive
+Misty Rainforest
+Mockingbird
+Noble Hierarch
+Old Stickfingers
+Otawara, Soaring City
+Phantasmal Image
+Phyrexian Reclamation
+Plains
+Plateau
+Plumb the Forbidden
+Polluted Delta
+Psychic Frog
+Qasali Pridemage
+Raise the Past
+Rally the Ancestors
+Raucous Theater
+Reanimate
+Return to the Ranks
+Rite of Oblivion
+Savannah
+Saw in Half
+Scalding Tarn
+Scrubland
+Shadowy Backstreet
+Snapcaster Mage
+Snarling Gorehound
+Stitcher's Supplier
+Swamp
+Sylvan Library
+Taiga
+Tropical Island
+Tundra
+Undercity Sewers
+Underground Mortuary
+Underground Sea
+Underworld Breach
+Unearth
+Urborg Lhurgoyf
+Verdant Catacombs
+Weatherlight Compleated
+Windswept Heath
+Wooded Foothills
+Zulaport Cutthroat
+
+Academy Ruins
+Alchemist's Refuge
+Ancient Tomb
+Anointed Procession
+Bishop of Wings
+Bountiful Promenade
+Branchloft Pathway
+Brushland
+Cascading Cataracts
+Cavern of Souls
+Cayth, Famed Mechanist
+Chromanticore
+Chromatic Orrery
+City of Brass
+Command Beacon
+Command Tower
+Conflux
+Copy Enchantment
+Cream of the Crop
+Crucible of Worlds
+Crystal Quarry
+Deserted Temple
+Desolate Lighthouse
+Doubling Season
+Echoing Deeps
+Exotic Orchard
+Fallaji Wayfarer
+Firja's Retribution
+Forbidden Orchard
+Fusion Elemental
+Garth One-Eye
+Gemstone Mine
+Genju of the Realm
+Giada, Font of Hope
+Growing Ranks
+Hall of Heliod's Generosity
+Homeward Path
+Horizon Canopy
+Invasion of Alara
+Iridian Maelstrom
+Jared Carthalion
+Jodah, the Unifier
+Kenrith, the Returned King
+Kor Haven
+Last Stand
+Leyline of the Guildpact
+Life Finds a Way
+Lithoform Engine
+Lost Isle Calling
+Maelstrom Archangel
+Maelstrom Nexus
+Mana Confluence
+Marina Vendrell
+Matzalantli, the Great Door
+Meteor Crater
+Minamo, School at Water's Edge
+Mirari's Wake
+O-Kagachi, Vengeful Kami
+Omnath, Locus of All
+Overgrown Farmland
+Parallel Lives
+Pillar of the Paruns
+Plaza of Heroes
+Primeval Spawn
+Prismatic Omen
+Progenitus
+Ramos, Dragon Engine
+Rampage of the Valkyries
+Reflecting Pool
+Scapeshift
+Scion of Draco
+Scorched Ruins
+Shilgengar, Sire of Famine
+Sol Ring
+Sol Talisman
+Spire of Industry
+Spirit of Resistance
+Strionic Resonator
+Sungrass Prairie
+Tarnished Citadel
+Temple Garden
+Temple of the False God
+Temur Ascendancy
+The Kami War
+The Mycosynth Gardens
+Thespian's Stage
+Thousand-Year Elixir
+Tiamat
+Timeless Lotus
+Training Grounds
+Transguild Courier
+Two-Headed Hellkite
+Undergrowth Recon
+Unite the Coalition
+Urza's Cave
+Vault of the Archangel
+Winding Canyons
+Wooded Bastion
+Yavimaya Hollow
+
+Abzan Charm
+Adriana, Captain of the Guard
+Arcane Sanctum
+Arcane Signet
+Arvad the Cursed
+Aurelia, the Law Above
+Bard Class
+Blackblade Reforged
+Boros Charm
+Canopy Vista
+Cascading Cataracts
+Chromatic Lantern
+Chulane, Teller of Tales
+Cinder Glade
+Command Tower
+Commander's Sphere
+Crumbling Necropolis
+Crystal Quarry
+Dragon Arch
+Dragonlord Dromoka
+Dragonlord Ojutai
+Dynaheir, Invoker Adept
+Evolving Wilds
+Faeburrow Elder
+Farseek
+Forest
+Frontier Bivouac
+Garth One-Eye
+General Ferrous Rokiric
+Glass of the Guildpact
+Gold-Forged Thopteryx
+Growth Spiral
+Hajar, Loyal Bodyguard
+Halana and Alena, Partners
+Heroes' Podium
+Inga and Esika
+Instrument of the Bards
+Invasion of Alara
+Invasion of Ravnica
+Island
+Jared Carthalion
+Jegantha, the Wellspring
+Jenara, Asura of War
+Jhoira's Familiar
+Jhoira, Weatherlight Captain
+Jodah's Codex
+Jodah, the Unifier
+Jungle Shrine
+Kethis, the Hidden Hand
+Leyline Immersion
+Linvala, Shield of Sea Gate
+Marisi, Breaker of the Coil
+Mountain
+Mystic Monastery
+Nashi, Moon's Legacy
+Niv-Mizzet, Guildpact
+Nomad Outpost
+Opulent Palace
+Ornithopter of Paradise
+Otharri, Suns' Glory
+Phylath, World Sculptor
+Plains
+Prairie Stream
+Primevals' Glorious Rebirth
+Raff Capashen, Ship's Mage
+Ramos, Dragon Engine
+Relic of Legends
+Rienne, Angel of Rebirth
+Sandsteppe Citadel
+Seaside Citadel
+Shalai, Voice of Plenty
+Sigarda, Font of Blessings
+Smoldering Marsh
+Sol Ring
+Sultai Charm
+Sunken Hollow
+Surrak Dragonclaw
+Swamp
+Tatyova, Benthic Druid
+Terramorphic Expanse
+Teshar, Ancestor's Apostle
+The Mana Rig
+The Necrobloom
+Tome of the Guildpact
+Urza's Ruinous Blast
+Wasitora, Nekoru Queen
+Weatherlight
+Zurgo and Ojutai
+
+Abzan Charm
+Aesi, Tyrant of Gyre Strait
+Anguished Unmaking
+Aragorn, the Uniter
+Arcane Signet
+Arid Mesa
+Assassin's Trophy
+Atraxa, Grand Unifier
+Baleful Strix
+Beast Within
+Birds of Paradise
+Black Market Connections
+Blood Crypt
+Bloodstained Mire
+Bloom Tender
+Breeding Pool
+Chaos Warp
+Chromatic Lantern
+Coiling Oracle
+Commander's Sphere
+Counterspell
+Countersquall
+Cultivate
+Delighted Halfling
+Dovin's Veto
+Dryad of the Ilysian Grove
+Elemental Bond
+Esika, God of the Tree
+Exploration
+Faeburrow Elder
+Farseek
+Fellwar Stone
+Flooded Strand
+Forest
+Garruk's Uprising
+Generous Gift
+Godless Shrine
+Gold-Forged Thopteryx
+Growth Spiral
+Guardian Project
+Hallowed Fountain
+Heroic Intervention
+Imoti, Celebrant of Bounty
+Indatha Triome
+Island
+Jegantha, the Wellspring
+Jetmir's Garden
+Ketria Triome
+Kodama's Reach
+Legolas's Quick Reflexes
+Lightning Greaves
+Lotho, Corrupt Shirriff
+Mana Cannons
+Mana Drain
+Marsh Flats
+Mirari's Wake
+Misty Rainforest
+Mountain
+Nature's Lore
+Nethroi, Apex of Death
+Night's Whisper
+Noble Hierarch
+Omnath, Locus of All
+Omniscience
+Overgrown Tomb
+Phyrexian Arena
+Plains
+Planar Genesis
+Polluted Delta
+Progenitus
+Raffine's Tower
+Rakdos Charm
+Ramos, Dragon Engine
+Rampant Growth
+Raugrin Triome
+Sacred Foundry
+Savai Triome
+Scalding Tarn
+Sneak Attack
+Sol Ring
+Spara's Headquarters
+Steam Vents
+Stomping Ground
+Swamp
+Temple Garden
+Terminate
+Three Visits
+Two-Headed Hellkite
+Up the Beanstalk
+Verdant Catacombs
+Watery Grave
+Windswept Heath
+Wooded Foothills
+Xander's Lounge
+
+Abrupt Decay
+Agatha of the Vile Cauldron
+Anguished Unmaking
+Aragorn, the Uniter
+Arcane Sanctum
+Baleful Strix
+Biomancer's Familiar
+Bountiful Landscape
+Bring to Light
+Canopy Vista
+Child of Alara
+Chromanticore
+Cinder Glade
+Coiling Oracle
+Command Tower
+Conflux
+Countersquall
+Cultivate
+Despark
+Dovin's Veto
+Evolving Wilds
+Exotic Orchard
+Faeburrow Elder
+Fallaji Wayfarer
+Farseek
+Forest
+Frontier Bivouac
+Fusion Elemental
+Garth One-Eye
+General Ferrous Rokiric
+Growth Spiral
+Helga, Skittish Seer
+Ignoble Hierarch
+Invasion of Alara
+Island
+Jared Carthalion
+Jegantha, the Wellspring
+Jodah's Codex
+Jodah, Archmage Eternal
+Jungle Shrine
+Knight of New Alara
+Last Stand
+Leyline of Mutation
+Leyline of the Guildpact
+Lightning Greaves
+Lotho, Corrupt Shirriff
+Maelstrom Archangel
+Mana Cannons
+Mountain
+Mystic Monastery
+Nature's Lore
+Niv-Mizzet Reborn
+Niv-Mizzet, Guildpact
+Niv-Mizzet, Supreme
+Nomad Outpost
+O-Kagachi, Vengeful Kami
+Omnath, Locus of All
+Opulent Palace
+Painful Truths
+Pillar of the Paruns
+Plains
+Planar Genesis
+Prairie Stream
+Primeval Spawn
+Progenitus
+Sandsteppe Citadel
+Savage Lands
+Scion of Draco
+Seaside Citadel
+Selvala, Explorer Returned
+Sheltering Landscape
+Smoldering Marsh
+Sol Ring
+Solemn Simulacrum
+Spara's Headquarters
+Sphinx of the Guildpact
+Sunbird Standard
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Sylvan Reclamation
+Terminate
+Terramorphic Expanse
+Tiller Engine
+Tome of the Guildpact
+Transguild Courier
+Two-Headed Hellkite
+Unite the Coalition
+Void Rend
+
+Abzan Charm
+Agatha of the Vile Cauldron
+Anguished Unmaking
+Aragorn, the Uniter
+Arcane Sanctum
+Arcane Signet
+Assassin's Trophy
+Biomancer's Familiar
+Bloom Tender
+Boros Charm
+Bring to Light
+Chromanticore
+Chromatic Lantern
+Command Tower
+Conflux
+Dauntless Escort
+Esika, God of the Tree
+Exotic Orchard
+Faeburrow Elder
+Fallaji Wayfarer
+Forest
+Frontier Bivouac
+Fusion Elemental
+General Ferrous Rokiric
+Gold-Forged Thopteryx
+Golgari Charm
+Great Hall of the Citadel
+Hallowed Fountain
+Invasion of Alara
+Iridian Maelstrom
+Island
+Jared Carthalion
+Jegantha, the Wellspring
+Jodah, Archmage Eternal
+Jodah, the Unifier
+Jungle Shrine
+Knight of New Alara
+Lavalanche
+Legacy Weapon
+Leyline of the Guildpact
+Lightning Greaves
+Maelstrom Archangel
+Maelstrom Nexus
+Mana Cannons
+Marneus Calgar
+Mountain
+Mystic Monastery
+Naya Charm
+Niv-Mizzet Reborn
+Nomad Outpost
+O-Kagachi, Vengeful Kami
+Omnath, Locus of All
+Opulent Palace
+Path of Ancestry
+Plains
+Prismatic Omen
+Progenitus
+Ramos, Dragon Engine
+Rienne, Angel of Rebirth
+Sandsteppe Citadel
+Saskia the Unyielding
+Savage Lands
+Scion of Draco
+Seaside Citadel
+Spectator Seating
+Spire Garden
+Surrak Dragonclaw
+Swamp
+Swiftfoot Boots
+Temur Ascendancy
+Terminate
+The Kami War
+The World Tree
+Tiamat
+Timeless Lotus
+Tome of the Guildpact
+Trace of Abundance
+Training Grounds
+Transguild Courier
+Two-Headed Hellkite
+Unite the Coalition
+Void Rend
+Wargate
+Widespread Thieving
+Yidris, Maelstrom Wielder
+
+Abrupt Decay
+Ad Nauseam
+Ancient Tomb
+Animate Dead
+Arcane Signet
+Archivist of Oghma
+Arid Mesa
+Assassin's Trophy
+Badlands
+Bayou
+Birds of Paradise
+Bloodstained Mire
+Bloom Tender
+Borne Upon a Wind
+Brain Freeze
+Bring to Light
+Carpet of Flowers
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Cyclonic Rift
+Dark Ritual
+Deathrite Shaman
+Deflecting Swat
+Delay
+Demonic Consultation
+Demonic Tutor
+Diabolic Intent
+Drannith Magistrate
+Enlightened Tutor
+Entomb
+Esper Sentinel
+Fiend Artisan
+Fierce Guardianship
+Final Fortune
+Finale of Devastation
+Flooded Strand
+Flusterstorm
+Forbidden Orchard
+Gamble
+Gemstone Caverns
+Gitaxian Probe
+Grand Abolisher
+Hermit Druid
+Ignoble Hierarch
+Intuition
+Jeska's Will
+Lavinia, Azorius Renegade
+Lim-Dûl's Vault
+Lion's Eye Diamond
+Lotus Petal
+Lurrus of the Dream-Den
+Mana Confluence
+Mana Vault
+Marsh Flats
+Memory's Journey
+Mental Misstep
+Misty Rainforest
+Mnemonic Betrayal
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Neoform
+Noble Hierarch
+Orcish Bowmasters
+Plateau
+Polluted Delta
+Priest of Fell Rites
+Savannah
+Scalding Tarn
+Scrubland
+Sevinne's Reclamation
+Silence
+Sol Ring
+Soul Partition
+Spell Pierce
+Survival of the Fittest
+Swan Song
+Swords to Plowshares
+Sylvan Library
+Taiga
+Tainted Pact
+Temple Garden
+Thassa's Oracle
+Training Grounds
+Tropical Island
+Tundra
+Underground Sea
+Underworld Breach
+Vampiric Tutor
+Veil of Summer
+Verdant Catacombs
+Volcanic Island
+Watery Grave
+Windswept Heath
+Wishclaw Talisman
+Wooded Foothills
+
+Ancient Tomb
+Aragorn, the Uniter
+Atraxa, Grand Unifier
+Birds of Paradise
+Boseiju, Who Endures
+Cascading Cataracts
+Chromanticore
+Chromatic Orrery
+Circuitous Route
+Collective Restraint
+Crop Rotation
+Cultivate
+Deathrite Shaman
+Deflecting Swat
+Delighted Halfling
+Esper Sentinel
+Explosive Vegetation
+Fabled Passage
+Fallaji Wayfarer
+Fierce Guardianship
+Forest
+Fusion Elemental
+Garruk's Uprising
+Garth One-Eye
+Helga, Skittish Seer
+Homeward Path
+Invasion of Zendikar
+Iridian Maelstrom
+Island
+Jared Carthalion
+Jodah, the Unifier
+Knight of New Alara
+Kodama's Reach
+Leyline Binding
+Leyline of the Guildpact
+Maelstrom Archangel
+Maelstrom Nexus
+Maelstrom Wanderer
+Mana Cannons
+Map the Frontier
+Migration Path
+Mirari's Wake
+Misty Rainforest
+Mountain
+Muldrotha, the Gravetide
+Noble Hierarch
+Omnath, Locus of All
+Oracle of Mul Daya
+Otawara, Soaring City
+Path of the Animist
+Plains
+Pollywog Prodigy
+Primeval Spawn
+Prismatic Vista
+Rienne, Angel of Rebirth
+Rukarumel, Biologist
+Savannah
+Scion of Draco
+Shifting Woodland
+Sigarda, Font of Blessings
+Skyshroud Claim
+Sliver Hivelord
+Smothering Tithe
+Sol Ring
+Spara's Headquarters
+Swamp
+Talon Gates of Madara
+Temple Garden
+Temple of the False God
+Terramorph
+The First Sliver
+The Kami War
+The Ur-Dragon
+The World Tree
+Tivit, Seller of Secrets
+Tome of the Guildpact
+Torsten, Founder of Benalia
+Training Grounds
+Two-Headed Hellkite
+Up the Beanstalk
+Vastwood Surge
+Verdant Catacombs
+Windswept Heath
+Wooded Foothills
+Xyris, the Writhing Storm
+Yavimaya, Cradle of Growth
+Zacama, Primal Calamity
+

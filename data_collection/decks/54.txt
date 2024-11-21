@@ -1,0 +1,1943 @@
+Academy Ruins
+Aetherize
+Arcane Signet
+Astral Cornucopia
+Banshee's Blade
+Buried Ruin
+Castle Vantress
+Cephalid Facetaker
+Change of Plans
+Chrome Host Seedshark
+Combat Research
+Curious Obsession
+Cyberdrive Awakener
+Desynchronization
+Dreamtide Whale
+Engulf the Shore
+Everflowing Chalice
+Experimental Augury
+Freeze in Place
+Fumble
+Gavel of the Righteous
+Ghostly Pilferer
+Glistening Sphere
+Guildpact Informant
+Halimar Depths
+Hypnotic Grifter
+Inexorable Tide
+Ingenious Prodigy
+Inkmoth Nexus
+Island
+Karn's Bastion
+Lodestone Needle
+Looter il-Kor
+Lost Jitte
+Lost in the Maze
+Mask of the Schemer
+Mechanized Production
+Mesmerizing Dose
+Mirrodin Besieged
+Mirror Match
+Myriad Landscape
+Mystic Sanctuary
+Perplexing Test
+Phyrexian Metamorph
+Pongify
+Prologue to Phyresis
+Replicating Ring
+Ripples of Potential
+Rivendell
+Rogue's Passage
+Sculpting Steel
+Serum Snare
+Sigil of Distinction
+Sink into Stupor
+Sky Diamond
+Slip Out the Back
+Sol Ring
+Solemn Simulacrum
+Stern Dismissal
+Swiftfoot Boots
+Sword of Forge and Frontier
+Sword of Truth and Justice
+Sword of the Animist
+Terrain Generator
+Tezzeret's Gambit
+The Irencrag
+Thought Monitor
+Thought Vessel
+Thoughtcast
+Thrummingbird
+Tolaria West
+Tome of Legends
+Tyrite Sanctum
+Umezawa's Jitte
+Vexing Radgull
+Vivid Creek
+Vivisurgeon's Insight
+War Room
+Wayfarer's Bauble
+Zimone's Hypothesis
+
+Academy Ruins
+Aether Spellbomb
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arcum's Astrolabe
+Basalt Monolith
+Brainstorm
+Cephalid Coliseum
+City of Traitors
+Counterbalance
+Counterspell
+Crystal Vein
+Cursed Totem
+Cyclonic Rift
+Darksteel Reactor
+Delay
+Displacer Kitten
+Experimental Augury
+Fabricate
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Flux Channeler
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Gemstone Caverns
+Gilded Drake
+Gitaxian Probe
+Grim Monolith
+Hullbreaker Horror
+Ichormoon Gauntlet
+Imposter Mech
+Inexorable Tide
+Inventors' Fair
+Jace, Wielder of Mysteries
+Jace, the Mind Sculptor
+Laboratory Maniac
+Lotus Petal
+Lórien Revealed
+Mana Drain
+Mana Vault
+Manifold Key
+Mental Misstep
+Merchant Scroll
+Mindbreak Trap
+Misty Rainforest
+Mouth of Ronom
+Mox Amber
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Nykthos, Shrine to Nyx
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Polluted Delta
+Ponder
+Pongify
+Prismatic Vista
+Resculpt
+Reshape
+Rhystic Study
+Sapphire Medallion
+Scalding Tarn
+Sensei's Divining Top
+Serum Snare
+Snow-Covered Island
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellseeker
+Swan Song
+Teferi, Master of Time
+Tezzeret, Artifice Master
+The One Ring
+Timetwister
+Torpor Orb
+Transmute Artifact
+Urza's Saga
+Voltaic Key
+Walking Ballista
+Whir of Invention
+
+Aether Spike
+Aminatou's Augury
+Arcane Signet
+As Foretold
+Aspirant's Ascent
+Bane's Contingency
+Birthday Escape
+Blightsteel Colossus
+Chrome Prowler
+Command Tower
+Contagion Clasp
+Counterspell
+Crystalline Crawler
+Cursed Windbreaker
+Dreamtide Whale
+Dress Down
+Dune Mover
+Dwindle
+Essence Capture
+Experimental Augury
+Fellwar Stone
+Flare of Denial
+Font of Progress
+Frantic Search
+Get Out
+Ghost Vacuum
+Gitaxian Anatomist
+Gitaxian Raptor
+Glistener Seer
+Glorious Gale
+Ichor Synthesizer
+Inexorable Tide
+Ioreth of the Healing House
+Island
+Jace, the Perfected Mind
+Kappa Cannoneer
+Leyline of Anticipation
+Leyline of Transformation
+Lightning Greaves
+Myriad Landscape
+Nanogene Conversion
+Nesting Grounds
+Ojer Pakpatiq, Deepest Epoch
+Overlord of the Floodpits
+Path of Ancestry
+Personal Tutor
+Phyrexian Atlas
+Prologue to Phyresis
+Propaganda
+Prosthetic Injector
+Quantum Misalignment
+Radstorm
+Reliquary Tower
+Run Away Together
+Sapphire Medallion
+Saruman the White
+Saruman's Trickery
+Serum Snare
+Shark Typhoon
+Silent Hallcreeper
+Snap
+Sol Ring
+Solar Transformer
+Stay Hidden, Stay Silent
+Stone Idol Generator
+Surrounded by Orcs
+The Millennium Calendar
+Threefold Thunderhulk
+Thrummingbird
+Trawler Drake
+Treason of Isengard
+Twist Reality
+Unctus's Retrofitter
+Vivisurgeon's Insight
+Volatile Stormdrake
+Wave Goodbye
+
+Academy Ruins
+Aetherize
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Astral Cornucopia
+Back to Basics
+Brainstorm
+Chrome Host Seedshark
+Contagion Engine
+Contentious Plan
+Counterspell
+Cyclonic Rift
+Dramatic Reversal
+Dreamtide Whale
+Everflowing Chalice
+Experimental Augury
+Fabled Passage
+Fabricate
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flux Channeler
+Frantic Search
+Fuel for the Cause
+Ichormoon Gauntlet
+Inexorable Tide
+Isochron Scepter
+Jace Beleren
+Jace, the Mind Sculptor
+Karn's Bastion
+Karn, the Great Creator
+Lux Cannon
+Magistrate's Scepter
+Mana Drain
+Mind Stone
+Misty Rainforest
+Mordenkainen
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Nykthos, Shrine to Nyx
+Polluted Delta
+Pollywog Prodigy
+Prismatic Vista
+Prologue to Phyresis
+Radstorm
+Ravenform
+Reality Shift
+Reject Imperfection
+Reliquary Tower
+Rhystic Study
+Ripples of Potential
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Sea Gate Restoration
+Serum Snare
+Snow-Covered Island
+Sol Ring
+Spark Double
+Steady Progress
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Tezzeret the Seeker
+Tezzeret's Gambit
+The Chain Veil
+The One Ring
+Thrummingbird
+Twenty-Toed Toad
+Ugin, the Spirit Dragon
+Urza's Saga
+Vexing Puzzlebox
+Vronos, Masked Inquisitor
+Whir of Invention
+Windfall
+Winter Moon
+
+Academy Ruins
+Arcane Signet
+Arid Archway
+As Foretold
+Asinine Antics
+Astral Cornucopia
+Azure Beastbinder
+Capsize
+Cephalid Facetaker
+Clearwater Goblet
+Consecrated Sphinx
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Corrupted Conscience
+Crawling Barrens
+Curse of the Swine
+Darksteel Citadel
+Demolition Field
+Diamond City
+Dreamtide Whale
+Emergence Zone
+Empowered Autogenerator
+Enduring Curiosity
+Everflowing Chalice
+Experimental Augury
+Fatespinner
+Flux Channeler
+Fomori Vault
+Guildpact Informant
+Inexorable Tide
+Inkmoth Nexus
+Inventors' Fair
+Island
+Jace, Wielder of Mysteries
+Jin-Gitaxias
+Jin-Gitaxias, Progress Tyrant
+Karn's Bastion
+Liquimetal Torque
+Lost in the Maze
+Malcolm, Alluring Scoundrel
+Marina Vendrell's Grimoire
+Memnarch
+Minamo, School at Water's Edge
+Mockingbird
+Mox Opal
+Myojin of Cryptic Dreams
+Myojin of Seeing Winds
+Mystic Sanctuary
+Nesting Grounds
+Ominous Seas
+Otawara, Soaring City
+Polymorphist's Jest
+Prologue to Phyresis
+Propaganda
+Reliquary Tower
+Replicating Ring
+Rhystic Study
+Sapphire Medallion
+Saprazzan Skerry
+Sceptre of Eternal Glory
+Sea Gate Restoration
+Season of Weaving
+Seat of the Synod
+Shoreline Looter
+Silent Hallcreeper
+Sol Ring
+Sonic Screwdriver
+Staff of Compleation
+Steady Progress
+Sword of Truth and Justice
+Tezzeret the Seeker
+The Reality Chip
+Three Steps Ahead
+Throne of Eldraine
+Thrummingbird
+Tolaria West
+Toothy, Imaginary Friend
+Umezawa's Jitte
+Urza's Cave
+Urza's Saga
+Vedalken Humiliator
+Venser's Journal
+Walking Ballista
+War Tax
+
+Aetherize
+Arcane Signet
+Archaeomender
+Archetype of Imagination
+As Foretold
+Aspirant's Ascent
+Astral Cornucopia
+Behold the Unspeakable
+Brineborn Cutthroat
+Bring the Ending
+Chasm Skulker
+Chrome Prowler
+Counterspell
+Desynchronize
+Dramatic Reversal
+Dreamtide Whale
+Evacuation
+Everflowing Chalice
+Expedition Map
+Eye of Malcator
+Fatespinner
+Fellwar Stone
+Frantic Search
+Gitaxian Anatomist
+High Tide
+Ichormoon Gauntlet
+Inexorable Tide
+Island
+Jace Beleren
+Jace, Architect of Thought
+Jace, Memory Adept
+Jace, Mirror Mage
+Lat-Nam Adept
+Loxodon Warhammer
+Mesmerizing Dose
+Mordenkainen's Polymorph
+Mu Yanling, Sky Dancer
+Muddle the Mixture
+Mulldrifter
+Negate
+Nesting Grounds
+Opt
+Peregrine Drake
+Propaganda
+Quicksilver Fisher
+Reject Imperfection
+Reliquary Tower
+Serum Snare
+Sky Diamond
+Sol Ring
+Soul-Guide Lantern
+Stormkeld Prowler
+Syncopate
+Talrand, Sky Summoner
+Tamiyo's Immobilizer
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Temple of the False God
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+Thieving Skydiver
+Thran Dynamo
+Thrummingbird
+Trawler Drake
+Trinket Mage
+Tyrite Sanctum
+Ugin, the Ineffable
+Venser, Shaper Savant
+Will Kenrith
+Wizard Class
+
+Academy Ruins
+As Foretold
+Astral Cornucopia
+Benthic Biomancer
+Bonders' Enclave
+Brainstorm
+Chrome Host Seedshark
+Coalition Relic
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Crawlspace
+Deepglow Skate
+Drake Hatcher
+Dramatic Reversal
+Dreamtide Whale
+ED-E, Lonesome Eyebot
+Empowered Autogenerator
+Everflowing Chalice
+Experimental Augury
+Flux Channeler
+Gavel of the Righteous
+Geier Reach Sanitarium
+Geology Enthusiast
+Geralf, the Fleshwright
+Golden Urn
+Ichormoon Gauntlet
+Inexorable Tide
+Intellectual Offering
+Island
+Jace Beleren
+Jace, the Mind Sculptor
+Kaito, Cunning Infiltrator
+Karn's Bastion
+Labyrinth of Skophos
+Lazotep Quarry
+Lost Jitte
+Mage-Ring Network
+Malcolm, Alluring Scoundrel
+Midnight Clock
+Mikokoro, Center of the Sea
+Mindless Automaton
+Mirrorpool
+Myojin of Seeing Winds
+Mystic Sanctuary
+Nardole, Resourceful Cyborg
+Nesting Grounds
+Nevinyrral's Disk
+Ominous Seas
+Power Conduit
+Proft's Eidetic Memory
+Propaganda
+Radstorm
+Razzle-Dazzler
+Reliquary Tower
+Replicating Ring
+Ring of Evos Isle
+Ripples of Potential
+Rogue's Passage
+Rotating Fireplace
+Sapphire Medallion
+Serum Snare
+Serum Sovereign
+Silent Hallcreeper
+Sol Ring
+Steady Progress
+T-45 Power Armor
+Talion's Messenger
+Tamiyo, the Moon Sage
+Teferi's Ageless Insight
+Tezzeret the Seeker
+Tezzeret's Gambit
+The Mycosynth Gardens
+Tolaria West
+Tome of Legends
+Tyrite Sanctum
+Vexing Puzzlebox
+Viral Drake
+Vivisurgeon's Insight
+Walking Ballista
+Witch's Clinic
+
+Arcane Denial
+As Foretold
+Blue Sun's Zenith
+Brainstorm
+Burnished Hart
+Chisei, Heart of Oceans
+Chronozoa
+Clockspinning
+Contentious Plan
+Copy Enchantment
+Coretapper
+Counterspell
+Dark Depths
+Darksteel Reactor
+Deepglow Skate
+Displacer Kitten
+Dreamtide Whale
+Estrid's Invocation
+Everflowing Chalice
+Experimental Augury
+Ferropede
+Flux Channeler
+Frantic Search
+Goldberry, River-Daughter
+High Tide
+Inexorable Tide
+Inventive Iteration
+Island
+Isochron Scepter
+Karn's Bastion
+Kiora Bests the Sea God
+Leech Bonder
+Lux Cannon
+Malcolm, Alluring Scoundrel
+Mazemind Tome
+Mind Stone
+Mirrormade
+Muddle the Mixture
+Musician
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nesting Grounds
+Opt
+Patriar's Seal
+Ponder
+Power Conduit
+Reality Acid
+Reliquary Tower
+Remote Isle
+Replicating Ring
+Scroll of Isildur
+Shriekhorn
+Sol Ring
+Spark Double
+Storm of Forms
+Strionic Resonator
+Sun Droplet
+Swiftfoot Boots
+The Mirari Conjecture
+The Phasing of Zhalfir
+The Watcher in the Water
+Thought Vessel
+Thrummingbird
+Time of Ice
+Twenty-Toed Toad
+Unable to Scream
+War Room
+Wizard Class
+
+Aetherize
+Astral Cornucopia
+Chasm Skulker
+Chrome Host Seedshark
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Cyclonic Rift
+Deepglow Skate
+Desynchronization
+Dreamtide Whale
+Ever-Watching Threshold
+Everflowing Chalice
+Flux Channeler
+Fuel for the Cause
+Goldberry, River-Daughter
+Guildpact Informant
+Ichormoon Gauntlet
+Imprisoned in the Moon
+Island
+Jace Reawakened
+Jace, Architect of Thought
+Jace, Cunning Castaway
+Jace, Unraveler of Secrets
+Jace, the Mind Sculptor
+Jace, the Perfected Mind
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Lux Cannon
+Mage-Ring Network
+Magistrate's Scepter
+Malcolm, Alluring Scoundrel
+Mana Drain
+Mesmerizing Dose
+Mu Yanling, Sky Dancer
+Myojin of Cryptic Dreams
+Narset, Parter of Veils
+Nesting Grounds
+Nykthos, Shrine to Nyx
+Nyx Lotus
+Oath of Jace
+Ominous Seas
+Otawara, Soaring City
+Propaganda
+Radstorm
+Reject Imperfection
+Reliquary Tower
+Replicating Ring
+Ripples of Potential
+Silent Arbiter
+Sol Ring
+Spark Double
+Staff of Compleation
+Sword of Truth and Justice
+Tablet of Compleation
+Tamiyo, the Moon Sage
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Tezzeret the Seeker
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+The Chain Veil
+Throne of Geth
+Thrummingbird
+Titan Forge
+Ugin, the Spirit Dragon
+Viral Drake
+Vronos, Masked Inquisitor
+War Room
+Will Kenrith
+
+Archmage Ascension
+As Foretold
+Astral Cornucopia
+Blast Zone
+Blighted Agent
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Core Prowler
+Corrupted Resolve
+Counterspell
+Darksteel Reactor
+Deepglow Skate
+Defiler of Dreams
+Dreamtide Whale
+Everflowing Chalice
+Experimental Augury
+Flux Channeler
+Freeze in Place
+Fuel for the Cause
+Glasspool Mimic
+Glistening Sphere
+Guildpact Informant
+High Tide
+Ichormoon Gauntlet
+Impede Momentum
+Inexorable Tide
+Involuntary Cooldown
+Island
+Jin-Gitaxias
+Jwari Disruption
+Karn's Bastion
+Lux Artillery
+Lux Cannon
+Mage-Ring Network
+Mercurial Spelldancer
+Mesmerizing Dose
+Midnight Clock
+Mindsplice Apparatus
+Mystic Sanctuary
+Narset, Parter of Veils
+Negate
+Nesting Grounds
+Ojer Pakpatiq, Deepest Epoch
+Ominous Seas
+Plague Myr
+Prologue to Phyresis
+Pyramid of the Pantheon
+Radstorm
+Recon Craft Theta
+Reject Imperfection
+Reliquary Tower
+Ripples of Potential
+Sand Silos
+Sapphire Medallion
+Saprazzan Cove
+Saprazzan Skerry
+Serum Snare
+Serum Sovereign
+Spark Double
+Staff of Compleation
+Steady Progress
+Tamiyo, the Moon Sage
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Tezzeret the Seeker
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+Thassa's Oracle
+The Magic Mirror
+Throne of Geth
+Thrummingbird
+Trophy Mage
+Vexing Radgull
+Viral Drake
+Vivisurgeon's Insight
+
+Arcane Signet
+Astral Cornucopia
+Blighted Agent
+Buried Ruin
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Crystalline Crawler
+Cyclonic Rift
+Dreamtide Whale
+Drift of Phantasms
+Everflowing Chalice
+Experimental Augury
+Fabricate
+Flux Channeler
+Fuel for the Cause
+Gavel of the Righteous
+Glistening Sphere
+Guildpact Informant
+Ichormoon Gauntlet
+Inexorable Tide
+Inventors' Fair
+Irenicus's Vile Duplication
+Island
+Jace Beleren
+Jace, Architect of Thought
+Jace, Cunning Castaway
+Jace, Mirror Mage
+Jace, Vryn's Prodigy
+Jace, the Perfected Mind
+Kaito, Cunning Infiltrator
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Ledger Shredder
+Lost Jitte
+Mage-Ring Network
+Mindless Automaton
+Mu Yanling, Sky Dancer
+Myr Convert
+Myriad Landscape
+Nesting Grounds
+Nykthos, Shrine to Nyx
+Plague Myr
+Pollywog Prodigy
+Prologue to Phyresis
+Radstorm
+Reject Imperfection
+Reliquary Tower
+Replicating Ring
+Ripples of Potential
+Rogue's Passage
+Sanctum of Eternity
+Sapphire Medallion
+Saprazzan Skerry
+Sea Gate Restoration
+Seat of the Synod
+Serum Snare
+Sol Ring
+Spark Double
+Staff of Compleation
+Steady Progress
+Swiftfoot Boots
+Sword of Truth and Justice
+Tamiyo, the Moon Sage
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Tezzeret the Seeker
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+Thrummingbird
+Tolaria West
+Triskelion
+Twenty-Toed Toad
+Ugin, the Spirit Dragon
+Vexing Radgull
+Viral Drake
+Walking Ballista
+War Room
+
+Aetherize
+Arcane Denial
+Arcane Signet
+Astral Cornucopia
+Aven Courier
+Benthic Biomancer
+Blighted Agent
+Bring the Ending
+Castle Vantress
+Chasm Skulker
+Contagion Engine
+Contentious Plan
+Core Prowler
+Counterspell
+Crystalline Crawler
+Curse of the Swine
+Distorted Curiosity
+Dreamtide Whale
+Everflowing Chalice
+Experimental Augury
+Flux Channeler
+Frantic Search
+Hands of Binding
+Ichormoon Gauntlet
+Inexorable Tide
+Island
+Jace Beleren
+Jace, Architect of Thought
+Jace, Vryn's Prodigy
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Last Thoughts
+Long River's Pull
+Lórien Revealed
+Magistrate's Scepter
+Mindless Automaton
+Mist-Cloaked Herald
+Murmuring Mystic
+Myojin of Cryptic Dreams
+Myriad Landscape
+Mystic Sanctuary
+Nesting Grounds
+Ominous Seas
+Power Conduit
+Prologue to Phyresis
+Propaganda
+Reject Imperfection
+Replicating Ring
+Sapphire Medallion
+Saprazzan Skerry
+Serum Snare
+Silver Myr
+Simic Manipulator
+Slither Blade
+Sol Ring
+Solve the Equation
+Spectral Deluge
+Staff of Compleation
+Steady Progress
+Stolen Identity
+Temple of the False God
+Tezzeret the Seeker
+Tezzeret's Gambit
+The Millennium Calendar
+Thrummingbird
+Titan Forge
+Trawler Drake
+Triton Shorestalker
+Trophy Mage
+Twenty-Toed Toad
+Viral Drake
+Vivisurgeon's Insight
+Will Kenrith
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Aspirant's Ascent
+Astral Cornucopia
+Blighted Agent
+Brainstorm
+Bring the Ending
+Command Tower
+Consuming Tide
+Contentious Plan
+Counterspell
+Cyclonic Rift
+Darksteel Reactor
+Devastation Tide
+Dreamtide Whale
+Engulf the Shore
+Evacuation
+Everflowing Chalice
+Experimental Augury
+Faerie Mastermind
+Fierce Guardianship
+Flare of Denial
+Flux Channeler
+Fuel for the Cause
+Gemstone Caverns
+Glistening Sphere
+Guildpact Informant
+High Tide
+Inexorable Tide
+Inkmoth Nexus
+Island
+Karn's Bastion
+Lightning Greaves
+Mana Drain
+Merchant Scroll
+Mission Briefing
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Otawara, Soaring City
+Ponder
+Preordain
+Prologue to Phyresis
+Propaganda
+Radstorm
+Raise the Palisade
+Reject Imperfection
+Reliquary Tower
+Resculpt
+Rhystic Study
+Ripples of Potential
+Sapphire Medallion
+Sea Gate Restoration
+Serum Snare
+Serum Visions
+Silundi Vision
+Snapcaster Mage
+Sol Ring
+Solve the Equation
+Spellseeker
+Staff of Compleation
+Steady Progress
+Swan Song
+Teferi, Master of Time
+Tezzeret's Gambit
+Thrummingbird
+Viral Drake
+Windfall
+
+Arcane Signet
+As Foretold
+Astral Cornucopia
+Blighted Agent
+Chasm Skulker
+Chrome Host Seedshark
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Counterspell
+Darksteel Reactor
+Deepglow Skate
+Dreamtide Whale
+Empowered Autogenerator
+Everflowing Chalice
+Experimental Augury
+Fabricate
+Flux Channeler
+Fuel for the Cause
+Glistening Sphere
+Guildpact Informant
+Ichormoon Gauntlet
+Inexorable Tide
+Ingenious Prodigy
+Island
+Jace Reawakened
+Jace, Cunning Castaway
+Jace, the Mind Sculptor
+Karn's Bastion
+Lux Cannon
+Mage-Ring Network
+Magistrate's Scepter
+Malcolm, Alluring Scoundrel
+Mesmerizing Dose
+Midnight Clock
+Myojin of Cryptic Dreams
+Myriad Landscape
+Mystic Sanctuary
+Narset, Parter of Veils
+Nesting Grounds
+Nykthos, Shrine to Nyx
+Ominous Seas
+Otawara, Soaring City
+Plague Myr
+Pollywog Prodigy
+Pongify
+Prologue to Phyresis
+Radstorm
+Rapid Hybridization
+Reject Imperfection
+Reliquary Tower
+Replicating Ring
+Ripples of Potential
+Sapphire Medallion
+Saprazzan Skerry
+Serum Snare
+Silent Hallcreeper
+Sol Ring
+Spark Double
+Staff of Compleation
+Steady Progress
+Sword of Truth and Justice
+Tamiyo, the Moon Sage
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Tezzeret the Seeker
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+Thought Vessel
+Thrummingbird
+Twenty-Toed Toad
+Viral Drake
+Vivisurgeon's Insight
+Vronos, Masked Inquisitor
+
+Archmage Ascension
+As Foretold
+Astral Cornucopia
+Aven Courier
+Blast Zone
+Blue Sun's Twilight
+Blue Sun's Zenith
+Chrome Host Seedshark
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Deepglow Skate
+Diamond City
+Dissipation Field
+Dreamtide Whale
+Echo Mage
+Empowered Autogenerator
+Everflowing Chalice
+Experimental Augury
+Fabricate
+Flux Channeler
+Fuel for the Cause
+Goldberry, River-Daughter
+Guildpact Informant
+Hangarback Walker
+Hydroelectric Specimen
+Impede Momentum
+Inexorable Tide
+Ingenious Prodigy
+Involuntary Cooldown
+Island
+Jin-Gitaxias
+Karn's Bastion
+Lux Artillery
+Lux Cannon
+Mage-Ring Network
+Malcolm, Alluring Scoundrel
+Mercurial Spelldancer
+Mind Unbound
+Mindsplice Apparatus
+Myojin of Cryptic Dreams
+Mystic Sanctuary
+Nesting Grounds
+Ominous Seas
+Orochi Hatchery
+Phyrexian Metamorph
+Planar Incision
+Radstorm
+Recon Craft Theta
+Reject Imperfection
+Reshape
+Ripples of Potential
+Sapphire Medallion
+Saprazzan Skerry
+Sculpting Steel
+Seat of the Synod
+Serum Snare
+Serum Sovereign
+Serum Visions
+Shield Broker
+Silver Scrutiny
+Simic Manipulator
+Spark Double
+Steady Progress
+Suspend
+Sword of Truth and Justice
+Tezzeret's Gambit
+The Monumental Facade
+The Mycosynth Gardens
+The Ozolith
+The Surgical Bay
+Throne of Geth
+Thrummingbird
+Tyrite Sanctum
+Vivisurgeon's Insight
+Walking Ballista
+Whir of Invention
+Wicked Slumber
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Astral Cornucopia
+Aven Courier
+Blast Zone
+Crystalline Crawler
+Danny Pink
+Delay
+Diamond City
+Displacer Kitten
+Dreamtide Whale
+Engineered Explosives
+Everflowing Chalice
+Experimental Augury
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flux Channeler
+Force of Negation
+Force of Will
+Glen Elendra Archmage
+Glistening Sphere
+Goldberry, River-Daughter
+Guildpact Informant
+Ichormoon Gauntlet
+Inventors' Fair
+Island
+Jace, Unraveler of Secrets
+Jin-Gitaxias
+Karn's Bastion
+Karn, the Great Creator
+Ledger Shredder
+Lighthouse Chronologist
+Liquimetal Torque
+Lost Jitte
+Mage-Ring Network
+Mana Vault
+Minamo, School at Water's Edge
+Mindless Automaton
+Misty Rainforest
+Mordenkainen
+Mox Opal
+Mu Yanling, Sky Dancer
+Myojin of Cryptic Dreams
+Mystic Remora
+Mystic Sanctuary
+Narset, Parter of Veils
+Nesting Grounds
+Nykthos, Shrine to Nyx
+Otawara, Soaring City
+Phyrexian Metamorph
+Polluted Delta
+Pollywog Prodigy
+Power Conduit
+Ratchet Bomb
+Recon Craft Theta
+Reject Imperfection
+Resculpt
+Rhystic Study
+Ripples of Potential
+Sapphire Medallion
+Saprazzan Skerry
+Savor the Moment
+Scalding Tarn
+Serum Snare
+Sol Ring
+Spark Double
+Staff of Compleation
+Swan Song
+Sword of Truth and Justice
+Tamiyo, the Moon Sage
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Tezzeret the Seeker
+Tezzeret's Gambit
+The Chain Veil
+The One Ring
+Thrummingbird
+Tolaria West
+Twenty-Toed Toad
+Ugin, the Spirit Dragon
+Umezawa's Jitte
+Urza's Saga
+Viral Drake
+Vronos, Masked Inquisitor
+Whir of Invention
+
+Academy Ruins
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Astral Cornucopia
+Buried Ruin
+Chasm Skulker
+Chrome Host Seedshark
+Contagion Clasp
+Contagion Engine
+Counterspell
+Cyclonic Rift
+Deepglow Skate
+Displacer Kitten
+Ever-Watching Threshold
+Everflowing Chalice
+Experimental Augury
+Fellwar Stone
+Fierce Guardianship
+Flux Channeler
+Fog Bank
+Fuel for the Cause
+Guildpact Informant
+Honor-Worn Shaku
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Jace, Mirror Mage
+Jace, Unraveler of Secrets
+Jace, Vryn's Prodigy
+Jace, Wielder of Mysteries
+Jace, the Living Guildpact
+Jace, the Mind Sculptor
+Jin-Gitaxias
+Karn's Bastion
+Lighthouse Chronologist
+Maze of Ith
+Midnight Clock
+Mind Stone
+Mox Amber
+Mu Yanling
+Mu Yanling, Sky Dancer
+Narset, Parter of Veils
+Negate
+Nesting Grounds
+Nykthos, Shrine to Nyx
+Oath of Jace
+Reliquary Tower
+Rhystic Study
+Ripples of Potential
+Sapphire Medallion
+Silent Arbiter
+Sky Diamond
+Sol Ring
+Staff of Compleation
+Strip Mine
+Swan Song
+Tamiyo, the Moon Sage
+Teferi's Ageless Insight
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Timeless Voyager
+Tezzeret the Seeker
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+The Chain Veil
+The Peregrine Dynamo
+Thought Vessel
+Thrummingbird
+Ugin, the Spirit Dragon
+Urza's Saga
+Will Kenrith
+
+Aetherize
+Archway of Innovation
+Astral Cornucopia
+Blast Zone
+Chrome Host Seedshark
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Coretapper
+Crystalline Crawler
+Darksteel Reactor
+Deepglow Skate
+Diamond City
+Dreamtide Whale
+Empowered Autogenerator
+Everflowing Chalice
+Experimental Augury
+Flux Channeler
+Fuel for the Cause
+Glistening Sphere
+Guildpact Informant
+Hydroelectric Specimen
+Ichormoon Gauntlet
+Inexorable Tide
+Ingenious Prodigy
+Island
+Karn's Bastion
+Lightning Greaves
+Lost in the Maze
+Mage-Ring Network
+Malcolm, Alluring Scoundrel
+Mercurial Spelldancer
+Mesmerizing Dose
+Midnight Clock
+Myojin of Cryptic Dreams
+Myriad Landscape
+Mystic Sanctuary
+Nykthos, Shrine to Nyx
+Ominous Seas
+Pollywog Prodigy
+Pongify
+Primal Amulet
+Propaganda
+Pyramid of the Pantheon
+Radstorm
+Rapid Hybridization
+Recon Craft Theta
+Reject Imperfection
+Reliquary Tower
+Renegade Silent
+Replicating Ring
+Ripples of Potential
+Sapphire Medallion
+Saprazzan Skerry
+Sea Gate Restoration
+Sol Ring
+Staff of Compleation
+Steady Progress
+Strixhaven Stadium
+Struggle for Project Purity
+Tamiyo, the Moon Sage
+Tezzeret's Gambit
+The Millennium Calendar
+Thought Sponge
+Thought Vessel
+Toothy, Imaginary Friend
+Tranquilize
+Transmogrifying Wand
+Trawler Drake
+Twenty-Toed Toad
+Umezawa's Jitte
+Vexing Puzzlebox
+Vexing Radgull
+Vivisurgeon's Insight
+Walking Ballista
+Wave Goodbye
+Wicked Slumber
+Wizard Class
+
+Aetherize
+Arcane Signet
+Astral Cornucopia
+Blue Sun's Twilight
+Castle Vantress
+Chasm Skulker
+Commander's Sphere
+Compulsive Research
+Contagion Clasp
+Contentious Plan
+Crawling Barrens
+Cryptic Command
+Cyclonic Rift
+Deep Analysis
+Dreamtide Whale
+Enduring Curiosity
+Everflowing Chalice
+Experimental Augury
+Fact or Fiction
+Fierce Guardianship
+Flux Channeler
+Frantic Search
+Future Sight
+Hall of Storm Giants
+Hangarback Walker
+Hedron Archive
+Ichormoon Gauntlet
+Inexorable Tide
+Island
+Jace, Unraveler of Secrets
+Jace, Vryn's Prodigy
+Jin-Gitaxias, Progress Tyrant
+Karn's Bastion
+Karn, Scion of Urza
+Mercurial Spelldancer
+Metallurgic Summonings
+Mind Stone
+Mordenkainen
+Mu Yanling, Sky Dancer
+Mystic Sanctuary
+Negate
+Nykthos, Shrine to Nyx
+Ominous Seas
+Otawara, Soaring City
+Plague Myr
+Preordain
+Prologue to Phyresis
+Propaganda
+Reject Imperfection
+Reliquary Tower
+Serum Visions
+Shark Typhoon
+Silent Hallcreeper
+Sol Ring
+Spark Double
+Spellseeker
+Steady Progress
+Swan Song
+Tamiyo, the Moon Sage
+Teferi, Master of Time
+Teferi, Temporal Pilgrim
+Tezzeret the Seeker
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+The Mirari Conjecture
+The Watcher in the Water
+Thought Vessel
+Thrummingbird
+Trophy Mage
+Ugin, the Ineffable
+Ugin, the Spirit Dragon
+Vivisurgeon's Insight
+Will Kenrith
+
+Arcane Denial
+Archmage Ascension
+Astral Cornucopia
+Benthic Biomancer
+Blue Sun's Zenith
+Buried Ruin
+Contentious Plan
+Coretapper
+Counterspell
+Darksteel Reactor
+Domineering Will
+Dreamtide Whale
+Empowered Autogenerator
+Everflowing Chalice
+Experimental Augury
+Fabricate
+Filigree Sages
+Finale of Revelation
+Flux Channeler
+Glistening Sphere
+Golem Foundry
+Guildpact Informant
+Inexorable Tide
+Ingenious Prodigy
+Island
+Karn's Bastion
+Laboratory Maniac
+Ledger Shredder
+Lightning Greaves
+Long River's Pull
+Long-Term Plans
+Lost in the Maze
+Lux Artillery
+Lux Cannon
+Mage-Ring Network
+Magistrate's Scepter
+Malcolm, Alluring Scoundrel
+Moonsilver Key
+Myojin of Cryptic Dreams
+Myojin of Seeing Winds
+Myr Convert
+Mystic Sanctuary
+Negate
+Nesting Grounds
+Parallel Thoughts
+Plague Myr
+Pongify
+Prologue to Phyresis
+Pull from Tomorrow
+Pyramid of the Pantheon
+Rapid Hybridization
+Ravenform
+Replicating Ring
+Resculpt
+Ripples of Potential
+Saprazzan Skerry
+Serum Snare
+Staff of Compleation
+Steady Progress
+Surge Node
+Tezzeret's Gambit
+The Millennium Calendar
+Thing in the Ice
+Throne of Geth
+Thrummingbird
+Titan Forge
+Transmogrifying Wand
+Trinket Mage
+Wizard Class
+
+Aetherize
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Ascension
+As Foretold
+Astral Cornucopia
+Blighted Agent
+Blinkmoth Nexus
+Chasm Skulker
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Cyclonic Rift
+Deepglow Skate
+Demolition Field
+Dramatic Reversal
+Dreamtide Whale
+Empowered Autogenerator
+Evacuation
+Everflowing Chalice
+Experimental Augury
+Fabricate
+Flux Channeler
+Fuel for the Cause
+Glasspool Mimic
+Guildpact Informant
+Ichormoon Gauntlet
+Inexorable Tide
+Interplanar Beacon
+Island
+Isochron Scepter
+Jace, Cunning Castaway
+Jace, the Mind Sculptor
+Jace, the Perfected Mind
+Karn's Bastion
+Magistrate's Scepter
+Mana Drain
+Mind Stone
+Mind Unbound
+Mystic Sanctuary
+Narset, Parter of Veils
+Nesting Grounds
+Nykthos, Shrine to Nyx
+Ominous Seas
+Otawara, Soaring City
+Pendrell Mists
+Phyrexian Metamorph
+Pongify
+Prologue to Phyresis
+Reject Imperfection
+Reliquary Tower
+Replicating Ring
+Rhystic Study
+Saprazzan Skerry
+Scavenger Grounds
+Sea Gate Restoration
+Serum Snare
+Silent Arbiter
+Sky Diamond
+Sol Ring
+Spark Double
+Staff of Compleation
+Steady Progress
+Sword of Truth and Justice
+Tamiyo's Compleation
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Tezzeret the Seeker
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+The Chain Veil
+The Magic Mirror
+The Mycosynth Gardens
+The One Ring
+Thing in the Ice
+Thrummingbird
+Treasure Vault
+Trophy Mage
+Urza's Saga
+Viral Drake
+War Room
+
+Academy Ruins
+Astral Cornucopia
+Blinkmoth Nexus
+Chrome Host Seedshark
+Contagion Engine
+Contentious Plan
+Coretapper
+Cyber Conversion
+Cyclonic Rift
+Deepglow Skate
+Defiler of Dreams
+Dreamtide Whale
+Evacuation
+Everflowing Chalice
+Experimental Augury
+Field of the Dead
+Flooded Strand
+Flux Channeler
+Force of Negation
+Force of Will
+Guildpact Informant
+Harbinger of the Seas
+Ichormoon Gauntlet
+Inexorable Tide
+Ingenious Prodigy
+Inventors' Fair
+Island
+Jace, Unraveler of Secrets
+Jace, Vryn's Prodigy
+Jace, the Living Guildpact
+Jace, the Mind Sculptor
+Jin-Gitaxias
+Kasmina, Enigmatic Mentor
+Lighthouse Chronologist
+Mage-Ring Network
+Magistrate's Scepter
+Malcolm, Alluring Scoundrel
+Maze of Ith
+Mirrex
+Misty Rainforest
+Mu Yanling, Sky Dancer
+Mystic Remora
+Mystic Sanctuary
+Narset, Parter of Veils
+Nesting Grounds
+Nykthos, Shrine to Nyx
+Otawara, Soaring City
+Polluted Delta
+Ponder
+Power Conduit
+Preordain
+Propaganda
+Pyramid of the Pantheon
+Reject Imperfection
+Ripples of Potential
+Sapphire Medallion
+Saprazzan Skerry
+Scalding Tarn
+Scavenger Grounds
+Serum Snare
+Shark Typhoon
+Silent Arbiter
+Simic Manipulator
+Snow-Covered Island
+Sol Ring
+Solemn Simulacrum
+Staff of Compleation
+Swan Song
+Talon Gates of Madara
+Tamiyo, the Moon Sage
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Tezzeret's Gambit
+Tezzeret, Artifice Master
+The Chain Veil
+The Mycosynth Gardens
+Throne of Eldraine
+Thrummingbird
+Titan Forge
+Transmogrifying Wand
+Trophy Mage
+Urza's Saga
+Viral Drake
+Vronos, Masked Inquisitor
+War Room
+Wasteland
+
+Arcane Denial
+Astral Cornucopia
+Contagion Engine
+Counterspell
+Ever-Watching Threshold
+Fabricate
+Forge of Heroes
+Fuel for the Cause
+Gale's Redirection
+Heart of Kiran
+High Tide
+Ichormoon Gauntlet
+Inexorable Tide
+Jace Beleren
+Jace's Projection
+Jace's Triumph
+Jace, Architect of Thought
+Jace, Cunning Castaway
+Jace, Ingenious Mind-Mage
+Jace, Memory Adept
+Jace, Mirror Mage
+Jace, Unraveler of Secrets
+Jace, Vryn's Prodigy
+Jace, Wielder of Mysteries
+Jace, the Living Guildpact
+Jace, the Mind Sculptor
+Jace, the Perfected Mind
+Karn's Bastion
+Kasmina, Enigmatic Mentor
+Mass Manipulation
+Mu Yanling
+Mu Yanling, Sky Dancer
+Mystic Sanctuary
+Narset, Parter of Veils
+Negate
+Nesting Grounds
+No Escape
+Nykthos, Shrine to Nyx
+Oath of Jace
+Otawara, Soaring City
+Radstorm
+Recon Craft Theta
+Reject Imperfection
+Replicating Ring
+Sakashima of a Thousand Faces
+Sakashima the Impostor
+Sapphire Medallion
+Smirking Spelljacker
+Snow-Covered Island
+Sol Ring
+Spark Double
+Staff of Compleation
+Stratus Dancer
+Sword of Truth and Justice
+Tamiyo, the Moon Sage
+Teferi's Talent
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Teferi, Temporal Pilgrim
+Teferi, Timeless Voyager
+Tezzeret the Seeker
+Tezzeret, Artifice Master
+The Chain Veil
+Throne of Eldraine
+Trinket Mage
+Trophy Mage
+Urza's Saga
+Vexing Puzzlebox
+Vronos, Masked Inquisitor
+Wayfarer's Bauble
+Will Kenrith
+
+Arcane Signet
+Archway of Innovation
+As Foretold
+Astral Cornucopia
+Blast Zone
+Braided Net
+Buried Ruin
+Coalition Relic
+Contagion Clasp
+Contentious Plan
+Coretapper
+Deepglow Skate
+Demolition Field
+Dreamtide Whale
+Empowered Autogenerator
+Energy Chamber
+Etherium Sculptor
+Everflowing Chalice
+Experimental Augury
+Fellwar Stone
+Flux Channeler
+Foundry Inspector
+Fuel for the Cause
+Gavel of the Righteous
+Golden Urn
+Grasping Dunes
+Guildpact Informant
+Hall of Oracles
+Hangarback Walker
+Heart of Kiran
+Ingenious Prodigy
+Island
+Jace Beleren
+Jace, Mirror Mage
+Kappa Cannoneer
+Karn's Bastion
+Karn, Living Legacy
+Lazotep Plating
+Magistrate's Scepter
+Malcolm, Alluring Scoundrel
+Mesmerizing Dose
+Mind Harness
+Mindless Automaton
+Myojin of Cryptic Dreams
+Mystic Forge
+Narset, Parter of Veils
+Negate
+Nesting Grounds
+Patchwork Automaton
+Pentad Prism
+Reject Imperfection
+Replicating Ring
+Roadside Reliquary
+Scrapyard Recombiner
+Serum Snare
+Steady Progress
+Steel Overseer
+Sun Droplet
+Surge Node
+Teferi, Temporal Archmage
+Tezzeret's Gambit
+Tezzeret, Betrayer of Flesh
+Thought Monitor
+Thoughtcast
+Throne of Geth
+Thrummingbird
+Tidal Control
+Tome of Legends
+Transmogrifying Wand
+Ugin, the Ineffable
+Vivisurgeon's Insight
+Vronos, Masked Inquisitor
+
+Arcane Denial
+Arcane Signet
+Astral Cornucopia
+Blast Zone
+Blighted Agent
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Counterspell
+Darksteel Reactor
+Defiler of Dreams
+Diamond City
+Dreamtide Whale
+Everflowing Chalice
+Experimental Augury
+Flux Channeler
+Fuel for the Cause
+Guildpact Informant
+Ichormoon Gauntlet
+Imprisoned in the Moon
+Inexorable Tide
+Ingenious Prodigy
+Inkmoth Nexus
+Island
+Jace Reawakened
+Jace, Architect of Thought
+Karn's Bastion
+Ledger Shredder
+Lighthouse Chronologist
+Lux Cannon
+Magistrate's Scepter
+Malcolm, Alluring Scoundrel
+Mesmerizing Dose
+Midnight Clock
+Mind Stone
+Mindless Automaton
+Mystic Sanctuary
+Narset, Parter of Veils
+Nykthos, Shrine to Nyx
+Otawara, Soaring City
+Pollywog Prodigy
+Pongify
+Prologue to Phyresis
+Radstorm
+Rapid Hybridization
+Recon Craft Theta
+Reject Imperfection
+Reliquary Tower
+Replicating Ring
+Ripples of Potential
+Sapphire Medallion
+Saprazzan Skerry
+Sea Gate Restoration
+Serum Snare
+Serum Sovereign
+Sink into Stupor
+Sky Diamond
+Sol Ring
+Steady Progress
+Strixhaven Stadium
+Swan Song
+Sword of Truth and Justice
+Teferi, Master of Time
+Tezzeret's Gambit
+Thought Vessel
+Thrummingbird
+Twenty-Toed Toad
+Ugin, the Spirit Dragon
+Vexing Radgull
+Viral Drake
+Vivisurgeon's Insight
+Walking Ballista
+

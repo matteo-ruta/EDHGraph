@@ -1,0 +1,5545 @@
+Agatha's Soul Cauldron
+Arachnogenesis
+Arbor Elf
+Arcane Denial
+Arcane Signet
+Arwen, Weaver of Hope
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Branching Evolution
+Bred for the Hunt
+Breeding Pool
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Chasm Skulker
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Cultivate
+Devoted Druid
+Dreamroot Cascade
+Dryad Arbor
+Eldritch Evolution
+Elvish Mystic
+Eternal Witness
+Evolution Witness
+Exotic Orchard
+Farseek
+Fathom Mage
+Fertilid
+Flooded Grove
+Forest
+Forgotten Ancient
+Guardian Project
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Hinterland Harbor
+Incubation Druid
+Inkmoth Nexus
+Innkeeper's Talent
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Kiora's Follower
+Kodama's Reach
+Llanowar Elves
+Managorger Hydra
+Master Biomancer
+Misty Rainforest
+Muddle the Mixture
+Nature's Lore
+Neoform
+Ornery Tumblewagg
+Ozolith, the Shattered Spire
+Pongify
+Rampant Growth
+Rapid Hybridization
+Return of the Wildspeaker
+Rishkar, Peema Renegade
+Roaring Earth
+Sage of Hours
+Sakura-Tribe Elder
+Scute Swarm
+Sol Ring
+Sylvan Library
+The Great Henge
+The Ozolith
+Thrummingbird
+Toski, Bearer of Secrets
+Tribute to the World Tree
+Trygon Predator
+Vineglimmer Snarl
+Walking Ballista
+Waterlogged Grove
+Wave Goodbye
+Wild Beastmaster
+Yavimaya Coast
+
+Aetherize
+An Offer You Can't Refuse
+Arcane Signet
+Awaken the Woods
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Brainstorm
+Branching Evolution
+Breeding Pool
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Commander's Sphere
+Consecrated Sphinx
+Cultivate
+Cultivator of Blades
+Cyclonic Rift
+Doubling Season
+Dream Fracture
+Dreamroot Cascade
+Duskshell Crawler
+Elvish Mystic
+Fanatic of Rhonas
+Fathom Mage
+Fellwar Stone
+Field of Ruin
+Flooded Grove
+Forest
+Freyalise, Llanowar's Fury
+Fungal Sprouting
+Ghost Quarter
+Golden Ratio
+Gyre Sage
+Heroic Intervention
+Heronblade Elite
+Hinterland Harbor
+Hornet Queen
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Llanowar Elves
+Marwyn, the Nurturer
+Mind Stone
+Mind's Eye
+Mist-Cloaked Herald
+Nissa, Voice of Zendikar
+Ornithopter of Paradise
+Oversimplify
+Pongify
+Pridemalkin
+Rapid Hybridization
+Rejuvenating Springs
+Reliquary Tower
+Rhystic Study
+Scepter of Celebration
+Scute Swarm
+Seedborn Muse
+Sensei's Divining Top
+Shamanic Revelation
+Simic Ascendancy
+Simic Growth Chamber
+Slither Blade
+Stroke of Genius
+Talisman of Curiosity
+Tervigon
+Thought Vessel
+Three Visits
+Toski, Bearer of Secrets
+Unwind
+Vineglimmer Snarl
+Vorinclex, Monstrous Raider
+Walking Ballista
+War Room
+Waterlogged Grove
+Whispersilk Cloak
+Wild Beastmaster
+Yavimaya Coast
+Zameck Guildmage
+
+Abundance
+Altered Ego
+Animation Module
+Arachnogenesis
+Arcane Signet
+Beastmaster Ascension
+Bident of Thassa
+Bioshift
+Birds of Paradise
+Blade of Selves
+Blight Mamba
+Blighted Woodland
+Botanical Sanctum
+Bred for the Hunt
+Champion of Lambholt
+Chasm Skulker
+Cobra Trap
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Cryptolith Rite
+Cultivator of Blades
+Doubling Season
+Duskshell Crawler
+Elvish Mystic
+Eternal Witness
+Extravagant Replication
+Ezuri's Predation
+Ezuri, Stalker of Spheres
+Fathom Mage
+Fertilid
+Forest
+Forgotten Ancient
+Inspiring Call
+Island
+Kalonian Hydra
+Kodama's Reach
+Krosan Grip
+Llanowar Reborn
+Lorescale Coatl
+Managorger Hydra
+Maraleaf Pixie
+Mirror Match
+Mosswort Bridge
+Mystic Snake
+Neoform
+Ninja of the Deep Hours
+Novijen, Heart of Progress
+Ohran Viper
+Oran-Rief, the Vastwood
+Overrun
+Plaxmanta
+Pollenbright Druid
+Primal Empathy
+Rampant Growth
+Rapid Hybridization
+Rashmi, Eternities Crafter
+Rhonas's Monument
+Rishkar, Peema Renegade
+Sakura-Tribe Elder
+Simic Ascendancy
+Simic Growth Chamber
+Simic Keyrune
+Simic Signet
+Skatewing Spy
+Skullwinder
+Sol Ring
+Swiftfoot Boots
+Talisman of Curiosity
+Temple of the False God
+Tezzeret's Gambit
+Thrummingbird
+Trygon Predator
+Viridian Shaman
+Vorel of the Hull Clade
+Zameck Guildmage
+Zimone, Paradox Sculptor
+
+An Offer You Can't Refuse
+Arachnogenesis
+Asceticism
+Awaken the Woods
+Beast Within
+Bioshift
+Birds of Paradise
+Boseiju, Who Endures
+Breeding Pool
+Champion of Lambholt
+Chord of Calling
+Cold-Eyed Selkie
+Cultivator of Blades
+Cyclonic Rift
+Dryad Arbor
+Elven Chorus
+Elvish Mystic
+Evolution Sage
+Evolution Vat
+Evolution Witness
+Fabled Passage
+Fathom Mage
+Fertilid
+Finale of Devastation
+Forest
+Fungal Sprouting
+Gaea's Cradle
+Galadhrim Ambush
+Garruk's Uprising
+Green Sun's Zenith
+Guardian Project
+Gyre Sage
+Hedge Maze
+Herald of Secret Streams
+Hinterland Harbor
+Incubation Druid
+Inexorable Tide
+Inspiring Call
+Intruder Alarm
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Llanowar Elves
+Maraleaf Pixie
+Master Biomancer
+Misty Rainforest
+Muddle the Mixture
+Mycoloth
+Myriad Landscape
+Mystic Snake
+Nature's Lore
+Ornithopter of Paradise
+Otawara, Soaring City
+Overwhelming Stampede
+Panharmonicon
+Rampant Growth
+Repulsive Mutation
+Rhystic Study
+Rimewood Falls
+Rishkar's Expertise
+Sage of Hours
+Sakura-Tribe Elder
+Scepter of Celebration
+Scurry of Squirrels
+Shamanic Revelation
+Simic Ascendancy
+Skittering Surveyor
+Slip Out the Back
+Smell Fear
+Solemn Simulacrum
+Tamiyo's Safekeeping
+Tangled Islet
+The Great Henge
+Three Visits
+Toski, Bearer of Secrets
+Traverse the Outlands
+Tropical Island
+Unable to Scream
+Voidslime
+Vorinclex, Monstrous Raider
+Windswift Slice
+Wood Elves
+Worldly Tutor
+Yavimaya, Cradle of Growth
+
+An Offer You Can't Refuse
+Avenger of Zendikar
+Bane of Progress
+Bant Panorama
+Beast Whisperer
+Beast Within
+Benevolent Hydra
+Birds of Paradise
+Blighted Agent
+Botanical Sanctum
+Breeding Pool
+Bristly Bill, Spine Sower
+Brokers Hideout
+Cavern of Souls
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Court of Garenbrig
+Cultivator of Blades
+Cyclonic Rift
+Devoted Druid
+Dreamroot Cascade
+Dreamtide Whale
+Edric, Spymaster of Trest
+Elvish Mystic
+Evolution Sage
+Evolution Witness
+Evolving Wilds
+Fabled Passage
+Fathom Mage
+Flooded Grove
+Flooded Strand
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Glen Elendra Archmage
+Guardian Project
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Lightning Greaves
+Llanowar Elves
+Marwyn, the Nurturer
+Misty Rainforest
+Mossborn Hydra
+Mutational Advantage
+Ornery Tumblewagg
+Pir, Imaginative Rascal
+Polluted Delta
+Pollywog Prodigy
+Priest of Titania
+Prime Speaker Zegana
+Prismatic Vista
+Rejuvenating Springs
+Rhystic Study
+Ripples of Potential
+Rishkar, Peema Renegade
+Sakura-Tribe Elder
+Scalding Tarn
+Scurry of Squirrels
+Scute Swarm
+Scythecat Cub
+Shamanic Revelation
+Simic Growth Chamber
+Sol Ring
+Swan Song
+Terramorphic Expanse
+Thrummingbird
+Toothy, Imaginary Friend
+Toski, Bearer of Secrets
+Trygon Predator
+Verdant Catacombs
+Waterlogged Grove
+Wave Goodbye
+Windswept Heath
+Wooded Foothills
+Yavimaya Coast
+Yavimaya, Cradle of Growth
+Zimone, Paradox Sculptor
+
+Aether Channeler
+Arcane Signet
+Avenger of Zendikar
+Barkchannel Pathway
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Blighted Woodland
+Boseiju, Who Endures
+Botanical Sanctum
+Branching Evolution
+Breeding Pool
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Chord of Calling
+Coalition Relic
+Coiling Oracle
+Cold-Eyed Selkie
+Contagion Engine
+Cultivate
+Cultivator of Blades
+Cyclonic Rift
+Deepglow Skate
+Defiler of Vigor
+Devoted Druid
+Dreamroot Cascade
+Eternal Witness
+Evolving Wilds
+Fable of Wolf and Owl
+Fabled Passage
+Fathom Mage
+Fertilid
+Flooded Grove
+Forest
+Forgotten Ancient
+Freyalise, Llanowar's Fury
+Fuel for the Cause
+Fyndhorn Elves
+Goldvein Hydra
+Gyre Sage
+Heroic Intervention
+Hinterland Harbor
+Inexorable Tide
+Inspiring Call
+Invasion of Ikoria
+Invasion of Segovia
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Kodama's Reach
+Llanowar Elves
+Loot, Exuberant Explorer
+Momir Vig, Simic Visionary
+Mycoloth
+Myriad Landscape
+Mystic Snake
+Otawara, Soaring City
+Panharmonicon
+Quilled Greatwurm
+Rejuvenating Springs
+Reliquary Tower
+Rishkar's Expertise
+Rishkar, Peema Renegade
+Roaming Throne
+Sage of Hours
+Sakashima the Impostor
+Simic Growth Chamber
+Spike Weaver
+Steelbane Hydra
+Stonecoil Serpent
+Swiftfoot Boots
+Sword of Truth and Justice
+Tanazir Quandrix
+Temple of Mystery
+Tervigon
+Tezzeret's Gambit
+The Ozolith
+Thrummingbird
+Toski, Bearer of Secrets
+Tribute to the World Tree
+Vineglimmer Snarl
+Vorinclex, Monstrous Raider
+Walking Ballista
+Waterlogged Grove
+
+Arcane Signet
+Augur of Autumn
+Barkchannel Pathway
+Beast Whisperer
+Birds of Paradise
+Bramble Familiar
+Breeding Pool
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Croaking Counterpart
+Cultivator of Blades
+Dreamroot Cascade
+Dryad Arbor
+Eternal Witness
+Evolution Witness
+Exotic Orchard
+Fabled Passage
+Faerie Mastermind
+Farseek
+Fathom Mage
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Giggling Skitterspike
+Goldvein Hydra
+Green Sun's Zenith
+Gyre Sage
+Hadana's Climb
+Haywire Mite
+Hedge Maze
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Island
+Kami of Whispered Hopes
+Kitesail Larcenist
+Lightning Greaves
+Littjara Mirrorlake
+Malanthrope
+Malcolm, Alluring Scoundrel
+Maraleaf Pixie
+Misty Rainforest
+Mossborn Hydra
+Mulldrifter
+Nature's Lore
+Negate
+Nesting Grounds
+Ohran Frostfang
+Ornery Tumblewagg
+Overflowing Basin
+Ozolith, the Shattered Spire
+Path of Ancestry
+Pest Infestation
+Rapid Hybridization
+Reality Shift
+Reclamation Sage
+Reflecting Pool
+Rejuvenating Springs
+Rimewood Falls
+Sage of Hours
+Sakura-Tribe Elder
+Scavenging Ooze
+Silent Hallcreeper
+Simic Ascendancy
+Simic Growth Chamber
+Simic Signet
+Sol Ring
+Swiftfoot Boots
+Tainted Observer
+Talisman of Curiosity
+Tender Wildguide
+The Ozolith
+Thirsting Roots
+Thrummingbird
+Toski, Bearer of Secrets
+Twitching Doll
+Waterlogged Grove
+Wave Goodbye
+Yavimaya Coast
+Zimone, Paradox Sculptor
+
+Agatha's Soul Cauldron
+Amphibian Downpour
+Arcane Signet
+Archetype of Imagination
+Birds of Paradise
+Blighted Agent
+Bloom Hulk
+Branching Evolution
+Breeding Pool
+Bridgeworks Battle
+Command Tower
+Contagion Clasp
+Contagion Engine
+Contentious Plan
+Counterspell
+Cyclonic Rift
+Deepglow Skate
+Double Major
+Doubling Season
+Dreamtide Whale
+Drowner of Truth
+Evolution Sage
+Evolution Witness
+Evolving Wilds
+Experimental Augury
+Ezuri, Stalker of Spheres
+Fabled Passage
+Fathom Mage
+Flusterstorm
+Forest
+Garruk, Primal Hunter
+Garruk, Unleashed
+Growth Spiral
+Hardened Scales
+Hedge Maze
+Herald of Secret Streams
+Hydroelectric Specimen
+Inexorable Tide
+Island
+Ivy Lane Denizen
+Kinnan, Bonder Prodigy
+Llanowar Elves
+Lumbering Falls
+Mana Leak
+Merfolk Skydiver
+Mesmerizing Dose
+Misty Rainforest
+Mossborn Hydra
+Oracle of Mul Daya
+Rejuvenating Springs
+Reliquary Tower
+Rhystic Study
+Sage of Hours
+Scurry Oak
+Scute Swarm
+Simic Ascendancy
+Simic Growth Chamber
+Sink into Stupor
+Smell Fear
+Sol Ring
+Squirrel Sovereign
+Staff of Compleation
+Sword of Truth and Justice
+Sylvan Scrying
+Tainted Observer
+Tamiyo, Collector of Tales
+Tangled Islet
+Tekuthal, Inquiry Dominus
+The Goose Mother
+The Ozolith
+Thrummingbird
+Tireless Tracker
+Trygon Predator
+Twitching Doll
+Urza's Cave
+Venerated Rotpriest
+Waterlogged Grove
+Yavimaya Coast
+Zegana, Utopian Speaker
+
+Agatha's Soul Cauldron
+Animation Module
+Archdruid's Charm
+Barkchannel Pathway
+Beast Whisperer
+Beast Within
+Benevolent Hydra
+Birds of Paradise
+Boseiju, Who Endures
+Botanical Sanctum
+Branching Evolution
+Bred for the Hunt
+Breeding Pool
+Bridgeworks Battle
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Court of Garenbrig
+Cultivator of Blades
+Doubling Season
+Dreamroot Cascade
+Elusive Otter
+Evolution Sage
+Exotic Orchard
+Fabled Passage
+Faerie Mastermind
+Fanatic of Rhonas
+Farseek
+Fathom Mage
+Fierce Guardianship
+Flare of Cultivation
+Flooded Grove
+Forest
+Forgotten Ancient
+Giggling Skitterspike
+Glen Elendra Archmage
+Guardian Project
+Gyre Sage
+Herald of Secret Streams
+Heroic Intervention
+Heronblade Elite
+Hinterland Harbor
+Hypnotic Siren
+Incubation Druid
+Innkeeper's Talent
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kitesail Larcenist
+Kodama of the West Tree
+Legolas Greenleaf
+Llanowar Elves
+Maraleaf Pixie
+Marwyn, the Nurturer
+Mausoleum Wanderer
+Nature's Lore
+Otawara, Soaring City
+Pollywog Prodigy
+Pongify
+Quirion Beastcaller
+Rapid Hybridization
+Rejuvenating Springs
+Ripples of Potential
+Rogue's Passage
+Shifting Woodland
+Siren Stormtamer
+Skatewing Spy
+Steelbane Hydra
+Strix Serenade
+Swan Song
+The Great Henge
+The Ozolith
+Thrummingbird
+Toski, Bearer of Secrets
+Turntimber Symbiosis
+Vorinclex, Monstrous Raider
+Wave Goodbye
+Wild Beastmaster
+Yavimaya Coast
+Yavimaya, Cradle of Growth
+Zimone, Paradox Sculptor
+
+Arcane Signet
+As Foretold
+Avenger of Zendikar
+Bala Ged Recovery
+Barkchannel Pathway
+Beast Within
+Birds of Paradise
+Branching Evolution
+Bred for the Hunt
+Breeding Pool
+Bristly Bill, Spine Sower
+Captivating Cave
+Champion of Lambholt
+Command Tower
+Contentious Plan
+Counterspell
+Crawling Barrens
+Cultivate
+Dryad Arbor
+Duskshell Crawler
+Elusive Otter
+Elvish Mystic
+Essence Capture
+Evolution Sage
+Evolution Witness
+Ezuri, Stalker of Spheres
+Fanatic of Rhonas
+Fangs of Kalonia
+Fathom Mage
+Flooded Grove
+Forest
+Fyndhorn Elves
+Gwenna, Eyes of Gaea
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Hinterland Harbor
+Ilysian Caryatid
+Incubation Druid
+Inexorable Tide
+Irenicus's Vile Duplication
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama's Reach
+Lifeblood Hydra
+Llanowar Elves
+Master Biomancer
+Merfolk Skydiver
+Mesmerizing Dose
+Negate
+Ozolith, the Shattered Spire
+Quilled Greatwurm
+Quirion Beastcaller
+Radstorm
+Reject Imperfection
+Rejuvenating Springs
+Reliquary Tower
+Ripples of Potential
+Rishkar's Expertise
+Rishkar, Peema Renegade
+Serum Snare
+Simic Ascendancy
+Sol Ring
+Spark Double
+Tekuthal, Inquiry Dominus
+Tender Wildguide
+Thrummingbird
+Traverse the Outlands
+Tyrite Sanctum
+Vorel of the Hull Clade
+Vorinclex
+Vorinclex, Monstrous Raider
+Vorinclex, Voice of Hunger
+Wave Goodbye
+Wizard Class
+Yavimaya Coast
+Yisan, the Wanderer Bard
+Zimone, Paradox Sculptor
+
+An Offer You Can't Refuse
+Arcane Signet
+Bane of Progress
+Barkchannel Pathway
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Blighted Agent
+Boseiju, Who Endures
+Branching Evolution
+Breeding Pool
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Craterhoof Behemoth
+Cultivate
+Cyclonic Rift
+Defiler of Vigor
+Doubling Season
+Eternal Witness
+Evolution Sage
+Evolution Witness
+Exotic Orchard
+Fabled Passage
+Fangs of Kalonia
+Farseek
+Fathom Mage
+Finale of Devastation
+Flooded Grove
+Forest
+Forgotten Ancient
+Guardian Project
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Krosan Grip
+Llanowar Elves
+Mana Confluence
+Managorger Hydra
+Marwyn, the Nurturer
+Master Biomancer
+Misty Rainforest
+Mystical Tutor
+Natural Order
+Nature's Lore
+Neoform
+Noxious Revival
+Otawara, Soaring City
+Ozolith, the Shattered Spire
+Pir, Imaginative Rascal
+Polluted Delta
+Pongify
+Rampant Growth
+Rejuvenating Springs
+Restless Vinestalk
+Rhystic Study
+Rogue's Passage
+Sage of Hours
+Simic Ascendancy
+Sol Ring
+Swan Song
+Swiftfoot Boots
+The Great Henge
+The Ozolith
+Thrummingbird
+Toothy, Imaginary Friend
+Toski, Bearer of Secrets
+Triumph of the Hordes
+Tropical Island
+Vorinclex, Monstrous Raider
+Wave Goodbye
+Wild Beastmaster
+Windswept Heath
+Worldly Tutor
+Yavimaya Coast
+Yavimaya, Cradle of Growth
+
+Acidic Slime
+Arachnogenesis
+Arcane Signet
+Avenger of Zendikar
+Beast Whisperer
+Beast Within
+Beastmaster Ascension
+Birds of Paradise
+Blighted Agent
+Breeding Pool
+Cephalid Facetaker
+Champion of Lambholt
+Chasm Skulker
+Command Beacon
+Command Tower
+Counterspell
+Cultivate
+Cultivator of Blades
+Curse of the Swine
+Cyclonic Rift
+Deep Forest Hermit
+Evacuation
+Evolving Wilds
+Exotic Orchard
+Experimental Aviator
+Farseek
+Fathom Mage
+Fertilid
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Growth Spiral
+Gyre Sage
+Hadana's Climb
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Hornet Queen
+Incubation Druid
+Inspiring Call
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Kaseto, Orochi Archmage
+Krosan Grip
+Lightning Greaves
+Lu Xun, Scholar General
+Marang River Prowler
+Master Biomancer
+Misty Rainforest
+Mulldrifter
+Mystic Remora
+Panharmonicon
+Patagia Viper
+Prime Speaker Zegana
+Rampant Growth
+Reclamation Sage
+Rejuvenating Springs
+Rhystic Study
+Rogue's Passage
+Sage of Hours
+Sakura-Tribe Elder
+Silhana Ledgewalker
+Simic Ascendancy
+Simic Growth Chamber
+Simic Signet
+Slippery Scoundrel
+Sol Ring
+Swiftfoot Boots
+Talisman of Curiosity
+Thornwood Falls
+Thought Vessel
+Triumph of the Hordes
+Verdant Confluence
+Vineglimmer Snarl
+Whirler Rogue
+Yavimaya Coast
+Zameck Guildmage
+Zegana, Utopian Speaker
+
+Aboleth Spawn
+Alchemist's Refuge
+Ash Barrens
+Augur of Autumn
+Bane of Progress
+Beast Whisperer
+Biogenic Ooze
+Branching Evolution
+Breeding Pool
+Canoptek Scarab Swarm
+Cephalid Facetaker
+Champion of Lambholt
+Circle of Dreams Druid
+Command Tower
+Craterhoof Behemoth
+Croaking Counterpart
+Cryptolith Rite
+Cultivate
+Curse of the Swine
+Deep Forest Hermit
+Dissection Tools
+Doubling Season
+Dreamroot Cascade
+Fabled Passage
+Fade from History
+Fathom Mage
+Fblthp, Lost on the Range
+Fight Rigging
+Flooded Grove
+Forest
+Galadhrim Ambush
+Genesis Chamber
+Ghost Quarter
+Giggling Skitterspike
+Glasspool Mimic
+Growing Rites of Itlimoc
+Guardian Augmenter
+Guardian Project
+Hinterland Harbor
+Hornet Queen
+Invasion of Segovia
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Kitesail Larcenist
+Krosan Grip
+Littjara Mirrorlake
+Lonis, Cryptozoologist
+Lumbering Falls
+Marwyn, the Nurturer
+Misty Rainforest
+Mulldrifter
+Nanogene Conversion
+Negate
+Neurok Stealthsuit
+Night Soil
+Ohran Frostfang
+Opal Palace
+Oversimplify
+Path of Ancestry
+Ravenous Slime
+Rishkar's Expertise
+Rogue's Passage
+Scavenging Ooze
+Silkguard
+Simic Charm
+Siren Stormtamer
+Sol Ring
+Staff of Titania
+Sweet-Gum Recluse
+Temple of Mystery
+Tempting Licid
+Tender Wildguide
+Tendershoot Dryad
+The Reality Chip
+Thieving Skydiver
+Thornwood Falls
+Titania's Command
+Toski, Bearer of Secrets
+Vesuva
+Vineglimmer Snarl
+Walking Ballista
+Waterlogged Grove
+Whirler Rogue
+Yavimaya Coast
+
+Alchemist's Refuge
+Arcane Denial
+Arcane Signet
+Archdruid's Charm
+Awaken the Woods
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Blighted Agent
+Brainstorm
+Bramblewood Paragon
+Breeding Pool
+Bridgeworks Battle
+Canopy Cover
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Counterspell
+Cultivate
+Cultivator of Blades
+Curse of the Swine
+Cyclonic Rift
+Dryad Arbor
+Elusive Otter
+Faerie Mastermind
+Farseek
+Fathom Mage
+Fierce Guardianship
+Finale of Devastation
+Forest
+Forgotten Ancient
+Giggling Skitterspike
+Glen Elendra Archmage
+Gyre Sage
+Hedge Maze
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Ingenious Prodigy
+Inkmoth Nexus
+Innkeeper's Talent
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Marwyn, the Nurturer
+Misty Rainforest
+Muddle the Mixture
+Nature's Lore
+Pir, Imaginative Rascal
+Plaxmanta
+Pollywog Prodigy
+Rapid Hybridization
+Reclamation Sage
+Rejuvenating Springs
+Rishkar's Expertise
+Roaming Throne
+Rogue's Passage
+Sage of Hours
+Sakura-Tribe Elder
+Siren Stormtamer
+Sol Ring
+Swiftfoot Boots
+Thrummingbird
+Toothy, Imaginary Friend
+Triumph of the Hordes
+Trygon Predator
+Twitching Doll
+Walking Ballista
+Wild Beastmaster
+Wood Elves
+Worldly Tutor
+
+Alchemist's Refuge
+Ancient Tomb
+Arcane Signet
+Archdruid's Charm
+Barkchannel Pathway
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Blight Mamba
+Blighted Agent
+Boseiju, Who Endures
+Brainstorm
+Bramblewood Paragon
+Breeding Pool
+Champion of Lambholt
+City of Brass
+Command Tower
+Cyclonic Rift
+Devoted Druid
+Dreamroot Cascade
+Dryad Arbor
+Elvish Mystic
+Eternal Witness
+Evolution Sage
+Ezuri, Stalker of Spheres
+Fathom Mage
+Fellwar Stone
+Fierce Guardianship
+Finale of Devastation
+Flooded Strand
+Flux Channeler
+Force of Will
+Forest
+Gaea's Cradle
+Glen Elendra Archmage
+Glistener Elf
+Grafted Exoskeleton
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Ichorclaw Myr
+Incubation Druid
+Inexorable Tide
+Infectious Bite
+Inkmoth Nexus
+Innkeeper's Talent
+Island
+Karn's Bastion
+Mana Confluence
+Mana Drain
+Misty Rainforest
+Mox Diamond
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Nature's Lore
+Ohran Frostfang
+Oran-Rief, the Vastwood
+Otawara, Soaring City
+Phyrexian Swarmlord
+Plague Myr
+Plaxcaster Frogling
+Polluted Delta
+Pongify
+Prismatic Vista
+Prologue to Phyresis
+Rejuvenating Springs
+Rhystic Study
+Ripples of Potential
+Rogue's Passage
+Sage of Hours
+Scalding Tarn
+Sea Gate Restoration
+Simic Ascendancy
+Sol Ring
+Swan Song
+Sylvan Library
+Talisman of Curiosity
+Tekuthal, Inquiry Dominus
+Tezzeret's Gambit
+The Great Henge
+The Ozolith
+Three Visits
+Thrummingbird
+Triumph of the Hordes
+Tropical Island
+Venerated Rotpriest
+Viral Drake
+Viridian Corrupter
+Vorinclex, Monstrous Raider
+Waterlogged Grove
+Windswept Heath
+Worldly Tutor
+Yavimaya Coast
+Yavimaya, Cradle of Growth
+
+Abhorrent Oculus
+Brawn
+Brine Elemental
+Cold-Eyed Selkie
+Command Tower
+Cultivate
+Den Protector
+Devastation Tide
+Dreamroot Cascade
+Evolving Wilds
+Fathom Mage
+Fathom Seer
+Forest
+Giant Adephage
+Glitch Interpreter
+Hauntwoods Shrieker
+Hinterland Harbor
+Hunter's Talent
+Incubation Druid
+Ingenious Prodigy
+Insidious Fungus
+Island
+Kheru Spellsnatcher
+Lakeside Shack
+Longstalk Brawl
+Malevolent Hermit
+Manifest Dread
+Moldering Gym // Weight Room
+Mutational Advantage
+Myriad Landscape
+Oblivious Bookworm
+Omnivorous Flytrap
+Overgrown Zealot
+Plaxmanta
+Pollywog Prodigy
+Prime Speaker Zegana
+Primordial Mist
+Rampaging Baloths
+Rampant Growth
+Reject Imperfection
+Repulsive Mutation
+Riptide Survivor
+Rogue's Passage
+Sakura-Tribe Elder
+Scute Mob
+Secret Plans
+Seedborn Muse
+Sensei's Divining Top
+Simic Growth Chamber
+Simic Manipulator
+Simic Signet
+Spawnwrithe
+Sprouting Phytohydra
+Stay Hidden, Stay Silent
+Sylvan Caryatid
+Tatyova, Benthic Druid
+Temple of Mystery
+Terramorphic Expanse
+Thelonite Hermit
+Thornwood Falls
+Thousand Winds
+Threats Around Every Corner
+Trygon Predator
+Tuskguard Captain
+Twist Reality
+Under the Skin
+Valgavoth's Onslaught
+Vault 87: Forced Evolution
+Verdant Force
+Willbender
+Wonder
+Yavimaya Coast
+Yavimaya Elder
+
+Allosaurus Shepherd
+Ancient Tomb
+Animation Module
+Arcane Signet
+Bala Ged Recovery
+Barkchannel Pathway
+Biophagus
+Birds of Paradise
+Blighted Agent
+Boseiju, Who Endures
+Branching Evolution
+Bred for the Hunt
+Breeding Pool
+Bridgeworks Battle
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Chasm Skulker
+Chord of Calling
+City of Brass
+Cold-Eyed Selkie
+Command Tower
+Court of Garenbrig
+Cyclonic Rift
+Double Major
+Duskshell Crawler
+Elusive Otter
+Evolution Witness
+Farseek
+Fathom Mage
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Giggling Skitterspike
+Glasspool Mimic
+Glen Elendra Archmage
+Grafted Exoskeleton
+Green Sun's Zenith
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Ichorclaw Myr
+Incubation Druid
+Inkmoth Nexus
+Innkeeper's Talent
+Inspiring Call
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Mana Confluence
+Mana Drain
+Managorger Hydra
+Master Biomancer
+Misty Rainforest
+Muddle the Mixture
+Nature's Claim
+Nissa, Voice of Zendikar
+Ohran Frostfang
+Otawara, Soaring City
+Plague Myr
+Prismatic Vista
+Rapid Hybridization
+Rejuvenating Springs
+Rishkar, Peema Renegade
+Rogue's Passage
+Silkguard
+Simic Manipulator
+Skatewing Spy
+Sol Ring
+Spark Double
+Sun Quan, Lord of Wu
+Swiftfoot Boots
+Talisman of Curiosity
+The Ozolith
+Three Visits
+Thrummingbird
+Toski, Bearer of Secrets
+Triumph of the Hordes
+Tropical Island
+Verdant Catacombs
+Viral Drake
+Vivien Reid
+Vorinclex, Monstrous Raider
+Waterlogged Grove
+Worldly Tutor
+Yavimaya Coast
+Yavimaya, Cradle of Growth
+
+An Offer You Can't Refuse
+Arachnogenesis
+Arcane Denial
+Arcane Signet
+Avenger of Zendikar
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Blighted Agent
+Branching Evolution
+Bred for the Hunt
+Champion of Lambholt
+Chasm Skulker
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Cultivate
+Dreamroot Cascade
+Elvish Mystic
+Evolution Sage
+Evolution Witness
+Evolving Wilds
+Exotic Orchard
+Fathom Mage
+Flooded Grove
+Forest
+Forgotten Ancient
+Giggling Skitterspike
+Growth Spiral
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Kodama's Reach
+Krosan Grip
+Lightning Greaves
+Llanowar Elves
+Master Biomancer
+Mossborn Hydra
+Mosswort Bridge
+Negate
+Overwhelming Stampede
+Ozolith, the Shattered Spire
+Pongify
+Prime Speaker Zegana
+Rampant Growth
+Rapid Hybridization
+Reclamation Sage
+Reliquary Tower
+Repulsive Mutation
+Ripples of Potential
+Rogue's Passage
+Sage of Hours
+Sakura-Tribe Elder
+Scepter of Celebration
+Scute Swarm
+Simic Signet
+Sol Ring
+Swiftfoot Boots
+Talisman of Curiosity
+Temple of Mystery
+Thrummingbird
+Trygon Predator
+Vineglimmer Snarl
+Vorel of the Hull Clade
+Vorinclex, Monstrous Raider
+Wave Goodbye
+Wizard Class
+Yavimaya Coast
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Barkchannel Pathway
+Basking Broodscale
+Birds of Paradise
+Blighted Agent
+Branching Evolution
+Bred for the Hunt
+Cankerbloom
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Contagion Clasp
+Counterspell
+Cultivator of Blades
+Defiler of Vigor
+Devoted Druid
+Doubling Season
+Dreamtide Whale
+Duskshell Crawler
+Elvish Mystic
+Evolution Sage
+Exotic Orchard
+Fathom Mage
+Fertilid
+Forest
+Forgotten Ancient
+Fractal Harness
+Fyndhorn Elves
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Island
+Jugan Defends the Temple
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Lightning Greaves
+Llanowar Elves
+Loyal Guardian
+Mossborn Hydra
+Mutational Advantage
+Negate
+Novijen, Heart of Progress
+Ornery Tumblewagg
+Ozolith, the Shattered Spire
+Plaxcaster Frogling
+Power Fist
+Quilled Greatwurm
+Reclamation Sage
+Reliquary Tower
+Rishkar, Peema Renegade
+Sage of Hours
+Scute Swarm
+Silent Hallcreeper
+Simic Ascendancy
+Simic Signet
+Sol Ring
+Solidarity of Heroes
+Swiftfoot Boots
+Temple of Mystery
+Temple of the False God
+The Great Henge
+Thought Vessel
+Thrummingbird
+Tribute to the World Tree
+Trygon Predator
+Twenty-Toed Toad
+Unnatural Restoration
+Vigor
+Wild Beastmaster
+Yavimaya Coast
+Zimone, Paradox Sculptor
+
+Aether Gale
+Alchemist's Refuge
+Arachnogenesis
+Arcane Signet
+Ash Barrens
+Beast Whisperer
+Beast Within
+Benthic Biomancer
+Blighted Agent
+Blighted Woodland
+Branching Evolution
+Bred for the Hunt
+Brokers Hideout
+Cauldron of Souls
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Contentious Plan
+Cradle Clearcutter
+Cultivate
+Cultivator of Blades
+Devoted Druid
+Dragon Throne of Tarkir
+Dream Stalker
+Dreamroot Cascade
+Dreamtide Whale
+Elvish Mystic
+Escape Tunnel
+Eternal Witness
+Evolution Witness
+Evolving Wilds
+Exotic Orchard
+Ezuri, Stalker of Spheres
+Faerie Impostor
+Fangs of Kalonia
+Flux Channeler
+Forest
+Forgotten Ancient
+Hadana's Climb
+Herald of Secret Streams
+Heronblade Elite
+Hinterland Harbor
+Inspiring Call
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Karn's Bastion
+Kenrith's Transformation
+Khalni Ambush
+Kira, Great Glass-Spinner
+Llanowar Elves
+Magosi, the Waterveil
+Master Biomancer
+Myriad Landscape
+Nature's Lore
+Nesting Grounds
+Ornery Tumblewagg
+Ornithopter of Paradise
+Prime Speaker Zegana
+Quandrix Campus
+Reality Shift
+Reclamation Sage
+Rejuvenating Springs
+Repulsive Mutation
+Rimewood Falls
+Rishkar, Peema Renegade
+Rogue's Passage
+Sakura-Tribe Elder
+Scute Swarm
+Serum Snare
+Shrieking Drake
+Simic Growth Chamber
+Simic Manipulator
+Smell Fear
+Snap
+Sol Ring
+Tainted Observer
+Tangled Islet
+Temple of Mystery
+Thornwood Falls
+Thought Sponge
+Thrummingbird
+Vineglimmer Snarl
+Viral Drake
+Viridian Joiner
+Vorel of the Hull Clade
+Wave Goodbye
+Wild Beastmaster
+Zimone's Hypothesis
+
+Arcane Signet
+Archway of Innovation
+Avenger of Zendikar
+Bear Umbra
+Branching Evolution
+Breeding Pool
+Burgeoning
+Clock of Omens
+Colossification
+Command Tower
+Cyclonic Rift
+Daggermaw Megalodon
+Deathbloom Gardener
+Doubling Cube
+Doubling Season
+Dreamroot Cascade
+Drown in Dreams
+Enter the Enigma
+Entity Tracker
+Evolution Sage
+Extravagant Replication
+Ezuri, Stalker of Spheres
+Fabled Passage
+Fear of Failed Tests
+Flare of Denial
+Flooded Grove
+Force of Will
+Forest
+Forgotten Ancient
+Fountainport
+Freed from the Real
+Gemstone Mine
+Ghostly Flicker
+Giggling Skitterspike
+Hardened Scales
+Hedge Maze
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Island
+Kaho, Minamo Historian
+Kami of Whispered Hopes
+Kodama of the West Tree
+Koma, World-Eater
+Ledger Shredder
+Lightning Greaves
+Llanowar Elves
+Longshot Squad
+Lotus Cobra
+Mana Vault
+Manifest Dread
+Mental Misstep
+Misty Rainforest
+Monster Manual
+Mystic Snake
+Pollywog Prodigy
+Quest for Renewal
+Rally the Galadhrim
+Reflecting Pool
+Rejuvenating Springs
+Rhystic Study
+Ripples of Potential
+River's Rebuke
+Scute Swarm
+Sink into Stupor
+Skyshroud Claim
+Slavering Branchsnapper
+Sol Ring
+Sol Talisman
+Spark Double
+Spelunking
+Storm of Saruman
+Sylvan Library
+Tanazir Quandrix
+Tempt with Discovery
+The One Ring
+The Shire
+Thespian's Stage
+Tireless Provisioner
+Tribute to the World Tree
+Twist Reality
+Under the Skin
+Vineglimmer Snarl
+Waterlogged Grove
+Yavimaya Coast
+
+Alchemist's Refuge
+Ancient Tomb
+Arcane Signet
+Asceticism
+Bane of Progress
+Barkchannel Pathway
+Basking Broodscale
+Beast Whisperer
+Blighted Agent
+Botanical Sanctum
+Breeding Pool
+Bridgeworks Battle
+Chittering Dispatcher
+Coiling Oracle
+Cold-Eyed Selkie
+Collective Resistance
+Command Tower
+Counterspell
+Cultivate
+Cyclonic Rift
+Doubling Season
+Dryad Arbor
+Duskshell Crawler
+Eternal Witness
+Fabled Passage
+Fanatic of Rhonas
+Farhaven Elf
+Field of the Dead
+Flare of Cultivation
+Flooded Grove
+Forest
+Glasspool Mimic
+Glen Elendra Archmage
+Glistener Elf
+Green Sun's Zenith
+Guardian Project
+Hadana's Climb
+Hedge Maze
+Heroic Intervention
+Hinterland Harbor
+Hour of Promise
+Incubation Druid
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+March of Swirling Mist
+Marwyn, the Nurturer
+Misty Rainforest
+Mycoloth
+Mystic Snake
+Nature's Lore
+Ohran Frostfang
+Open the Way
+Overwhelming Stampede
+Panharmonicon
+Pir, Imaginative Rascal
+Planar Genesis
+Prime Speaker Zegana
+Reclamation Sage
+Rejuvenating Springs
+Reliquary Tower
+Rimewood Falls
+Scurry of Squirrels
+Scute Swarm
+Silent Hallcreeper
+Simic Manipulator
+Simic Signet
+Snow-Covered Forest
+Snow-Covered Island
+Sol Ring
+Song of the Dryads
+Spark Double
+Storm the Seedcore
+Suspicious Stowaway
+Swiftfoot Boots
+Sword of Truth and Justice
+Tanazir Quandrix
+The Great Henge
+The Ozolith
+Thrummingbird
+Toothy, Imaginary Friend
+Toski, Bearer of Secrets
+Turntimber Symbiosis
+Vineglimmer Snarl
+Walking Ballista
+Waterlogged Grove
+Wave Goodbye
+
+Arcane Signet
+Azure Beastbinder
+Beast Within
+Bioshift
+Birds of Paradise
+Blighted Woodland
+Bred for the Hunt
+Breeding Pool
+Champion of Lambholt
+Clifftop Lookout
+Cold-Eyed Selkie
+Command Tower
+Cultivate
+Cyclonic Rift
+Demolition Field
+Double Major
+Dour Port-Mage
+Dreamroot Cascade
+Elusive Otter
+Evolution Witness
+Explorer's Cache
+Fade from History
+Farseek
+Fertilid
+Forest
+Giggling Skitterspike
+Growth Spiral
+Guardian Project
+Hadana's Climb
+Harrow
+Hexdrinker
+Hinterland Harbor
+Hydroelectric Specimen
+Innkeeper's Talent
+Invisible Stalker
+Island
+Kodama of the West Tree
+Kodama's Reach
+Krosan Grip
+Leadership Vacuum
+Loyal Drake
+Maraleaf Pixie
+Mirrex
+Myriad Landscape
+Ohran Frostfang
+Ornery Tumblewagg
+Ozolith, the Shattered Spire
+Pawpatch Recruit
+Plumecreed Escort
+Pollywog Prodigy
+Quirion Beastcaller
+Rampant Growth
+Rapid Hybridization
+Reflecting Pool
+Rejuvenating Springs
+Repulsive Mutation
+Ripples of Potential
+Rogue's Passage
+Sakura-Tribe Elder
+Scavenger Grounds
+Scavenging Ooze
+Scurry of Squirrels
+Shapers' Sanctuary
+Shoreline Looter
+Silent Hallcreeper
+Silkguard
+Simic Charm
+Simic Growth Chamber
+Snakeskin Veil
+Suspicious Stowaway
+Swiftfoot Boots
+Talisman of Curiosity
+Tanglepool Bridge
+Temple of Mystery
+Tervigon
+Thrummingbird
+Toadstool Admirer
+Toski, Bearer of Secrets
+Tower Winder
+Trygon Predator
+Unnatural Restoration
+Vineglimmer Snarl
+Yavimaya Coast
+
+Alchemist's Refuge
+Arcane Signet
+Arwen, Weaver of Hope
+Beast Whisperer
+Beast Within
+Blighted Agent
+Branching Evolution
+Bred for the Hunt
+Breeding Pool
+Bridgeworks Battle
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Court of Garenbrig
+Cultivator of Blades
+Cyclonic Rift
+Dryad Arbor
+Elusive Otter
+Elvish Mystic
+Eternal Witness
+Evolution Witness
+Exotic Orchard
+Faerie Mastermind
+Fanatic of Rhonas
+Farseek
+Fathom Mage
+Flooded Grove
+Flooded Strand
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Ghost Quarter
+Green Sun's Zenith
+Guardian Project
+Gyre Sage
+Hadana's Climb
+Hardened Scales
+Hedge Maze
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Hydroelectric Specimen
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Lightning Greaves
+Llanowar Elves
+Lórien Revealed
+Mana Drain
+Marwyn, the Nurturer
+Master Biomancer
+Nature's Lore
+Nesting Grounds
+Nissa, Voice of Zendikar
+Novijen, Heart of Progress
+Oran-Rief, the Vastwood
+Polluted Delta
+Pollywog Prodigy
+Rampant Growth
+Rapid Hybridization
+Rejuvenating Springs
+Reliquary Tower
+Return of the Wildspeaker
+Rhystic Study
+Ripples of Potential
+Rishkar's Expertise
+Rishkar, Peema Renegade
+Rogue's Passage
+Sage of Hours
+Sakura-Tribe Elder
+Simic Ascendancy
+Simic Growth Chamber
+Simic Manipulator
+Sol Ring
+Swan Song
+Swiftfoot Boots
+The Ozolith
+Three Visits
+Thrummingbird
+Toski, Bearer of Secrets
+Turntimber Symbiosis
+Windswept Heath
+Wooded Foothills
+Yavimaya Coast
+Zimone, Paradox Sculptor
+
+Ancient Tomb
+Bala Ged Recovery
+Beast Within
+Bioshift
+Birds of Paradise
+Blighted Agent
+Blinkmoth Nexus
+Botanical Sanctum
+Breeding Pool
+Chasm Skulker
+Chittering Dispatcher
+Clever Impersonator
+Coiling Oracle
+Cold-Eyed Selkie
+Collector Ouphe
+Command Tower
+Curse of the Swine
+Cyclonic Rift
+Deep Forest Hermit
+Den Protector
+Disciple of Freyalise
+Dryad Arbor
+Edric, Spymaster of Trest
+Eternal Witness
+Faerie Mastermind
+Fathom Mage
+Fauna Shaman
+Flesh Duplicate
+Forest
+Fungal Sprouting
+Fyndhorn Elves
+Ghostly Pilferer
+Glasspool Mimic
+Glen Elendra Archmage
+Glistener Elf
+Green Sun's Zenith
+Gyre Sage
+Hangarback Walker
+Heroic Intervention
+Hinterland Harbor
+Hydroelectric Specimen
+Incubation Druid
+Island
+Joraga Treespeaker
+Khalni Garden
+Kitesail Larcenist
+Ledger Shredder
+Life's Legacy
+Lightning Greaves
+Llanowar Elves
+Mishra's Factory
+Misty Rainforest
+Mosswort Bridge
+Mulldrifter
+Nature's Claim
+Nature's Lore
+Omarthis, Ghostfire Initiate
+Phantasmal Image
+Phyrexian Metamorph
+Prime Speaker Zegana
+Rapid Hybridization
+Reality Shift
+Reclamation Sage
+Rejuvenating Springs
+Relic of Progenitus
+Reliquary Tower
+Rhystic Study
+Rimewood Falls
+Rishkar, Peema Renegade
+Rogue's Passage
+Sakura-Tribe Elder
+Scalding Tarn
+Scavenging Ooze
+Shifting Woodland
+Sink into Stupor
+Skullclamp
+Sol Ring
+Spark Double
+Spellskite
+Swiftfoot Boots
+Sylvan Library
+Thieving Skydiver
+Three Visits
+Traverse the Ulvenwald
+Trinket Mage
+Verdant Catacombs
+Viridian Corrupter
+Walking Ballista
+Waterlogged Grove
+Wood Elves
+Wooded Foothills
+Yavimaya Coast
+
+Arbor Elf
+Arcane Signet
+Arwen Undómiel
+Arwen, Weaver of Hope
+Biomass Mutation
+Bow of Nylea
+Bred for the Hunt
+Celeborn the Wise
+Command Tower
+Creeping Renaissance
+Dissolve
+Door of Destinies
+Elrond, Lord of Rivendell
+Elrond, Master of Healing
+Elven Farsight
+Elvish Archdruid
+Elvish Mariner
+Elvish Mystic
+Elvish Visionary
+Elvish Warmaster
+Evolution Sage
+Evolving Wilds
+Exotic Orchard
+Farhaven Elf
+Farseek
+Fathom Mage
+Fellwar Stone
+Flooded Grove
+Fog
+Forest
+Galadhrim Ambush
+Galadhrim Brigade
+Galadriel of Lothlórien
+Galadriel, Elven-Queen
+Gyre Sage
+Haldir, Lórien Lieutenant
+Hardened Scales
+Hinterland Harbor
+Incubation Druid
+Inspiring Call
+Into the Wilds
+Island
+Ivy Lane Denizen
+Joraga Warcaller
+Llanowar Reborn
+Marwyn, the Nurturer
+Master Biomancer
+Momir Vig, Simic Visionary
+Myriad Landscape
+Opt
+Oran-Rief, the Vastwood
+Path of Ancestry
+Pelt Collector
+Preordain
+Priest of Titania
+Raise the Palisade
+Reclamation Sage
+Rimewood Falls
+Ripples of Potential
+Rishkar, Peema Renegade
+Rivendell
+Sakura-Tribe Elder
+Shamanic Revelation
+Simic Ascendancy
+Simic Charm
+Simic Growth Chamber
+Simic Signet
+Sol Ring
+Solidarity of Heroes
+Swan Song
+Talisman of Curiosity
+Tangled Islet
+Temple of Mystery
+Terramorphic Expanse
+Tezzeret's Gambit
+Thassa, God of the Sea
+Thornwood Falls
+Tyvar, the Pummeler
+Urban Evolution
+Vineglimmer Snarl
+Vorel of the Hull Clade
+Windswift Slice
+Yavimaya Coast
+Zameck Guildmage
+
+Ainok Survivalist
+Arachnogenesis
+Arcane Signet
+Ash Barrens
+Augur of Autumn
+Bala Ged Recovery
+Barkchannel Pathway
+Beast Within
+Biomass Mutation
+Birds of Paradise
+Botanical Sanctum
+Breeding Pool
+Chromeshell Crab
+Command Tower
+Commander's Sphere
+Counterspell
+Cultivate
+Curator Beastie
+Deathmist Raptor
+Den Protector
+Eureka Moment
+Evolving Wilds
+Exotic Orchard
+Ezuri's Predation
+Fabled Passage
+Flooded Grove
+Forest
+Gala Greeters
+Giggling Skitterspike
+Glitch Interpreter
+Growing Dread
+Growth Spiral
+Hedge Maze
+Hinterland Harbor
+Hooded Hydra
+Icefeather Aven
+Innkeeper's Talent
+Island
+Ixidron
+Kadena's Silencer
+Kheru Spellsnatcher
+Kianne, Corrupted Memory
+Mosswort Bridge
+Nantuko Vigilante
+Negate
+Nervous Gardener
+Obscuring Aether
+Overflowing Basin
+Overgrown Zealot
+Overwhelming Stampede
+Panoptic Projektor
+Primordial Mist
+Printlifter Ooze
+Rampant Growth
+Rashmi, Eternities Crafter
+Regrowth
+Rejuvenating Springs
+Restless Vinestalk
+Rogue's Passage
+Sagu Mauler
+Salt Road Ambushers
+Scroll of Fate
+Scute Swarm
+Secret Plans
+Seedborn Muse
+Simic Growth Chamber
+Simic Signet
+Sol Ring
+Spark Double
+Stratus Dancer
+Temple of Mystery
+Temur War Shaman
+Terramorphic Expanse
+Thelonite Hermit
+They Came from the Pipes
+Thousand Winds
+Toski, Bearer of Secrets
+Trail of Mystery
+Trygon Predator
+Ugin's Mastery
+Vannifar, Evolved Enigma
+Vineglimmer Snarl
+Whisperwood Elemental
+Wilderness Reclamation
+Willbender
+Yavimaya Coast
+Zimone, Mystery Unraveler
+Zoetic Cavern
+
+Arcane Signet
+Arwen, Weaver of Hope
+Avenger of Zendikar
+Awaken the Woods
+Basking Broodscale
+Beast Whisperer
+Branching Evolution
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Consecrated Sphinx
+Contagion Engine
+Counterspell
+Court of Garenbrig
+Cultivate
+Cultivator of Blades
+Cyclonic Rift
+Delighted Halfling
+Doubling Season
+Elvish Mystic
+Eternal Witness
+Evolution Witness
+Fathom Mage
+Field of the Dead
+Fierce Guardianship
+Finale of Devastation
+Forest
+Forgotten Ancient
+Giggling Skitterspike
+Glen Elendra Archmage
+Growing Rites of Itlimoc
+Hadana's Climb
+Heroic Intervention
+Island
+Kalonian Hydra
+Kami of Whispered Hopes
+Karn's Bastion
+Khalni Garden
+Kinnan, Bonder Prodigy
+Kodama of the West Tree
+Llanowar Elves
+Llanowar Reborn
+Lonis, Cryptozoologist
+Lonis, Genetics Expert
+Mana Drain
+Marwyn, the Nurturer
+Mosswort Bridge
+Nykthos, Shrine to Nyx
+Oko, Thief of Crowns
+Pact of Negation
+Paradox Zone
+Patagia Viper
+Pir, Imaginative Rascal
+Pollywog Prodigy
+Reclamation Sage
+Rejuvenating Springs
+Reliquary Tower
+Rhystic Study
+Rogue's Passage
+Sage of Hours
+Scute Swarm
+Seedborn Muse
+Selvala, Heart of the Wilds
+Simic Signet
+Snow-Covered Forest
+Snow-Covered Island
+Sol Ring
+Springheart Nantuko
+Staff of Domination
+Swan Song
+Temple of Mystery
+Temple of the False God
+Thornwood Falls
+Thrasios, Triton Hero
+Thrummingbird
+Toothy, Imaginary Friend
+Toski, Bearer of Secrets
+Trygon Predator
+Twitching Doll
+Viridian Joiner
+Vorinclex, Monstrous Raider
+Walking Ballista
+Wave Goodbye
+Windswift Slice
+Witch's Clinic
+Zendikar Resurgent
+
+Acidic Slime
+Arcane Signet
+Bane of Progress
+Beast Whisperer
+Beast Within
+Beastmaster Ascension
+Birds of Paradise
+Blighted Woodland
+Breeding Pool
+Bristly Bill, Spine Sower
+Burgeoning
+Champion of Lambholt
+Chasm Skulker
+City of Brass
+Cold-Eyed Selkie
+Command Beacon
+Command Tower
+Cyclonic Rift
+Elvish Mystic
+Eternal Witness
+Exploration
+Fabled Passage
+Fathom Mage
+Fierce Guardianship
+Forest
+Gargoyle Flock
+Green Sun's Zenith
+Guardian Project
+Hardened Scales
+Herald of Secret Streams
+Heronblade Elite
+Hinterland Harbor
+Horizon of Progress
+Imprisoned in the Moon
+Inexorable Tide
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Karn's Bastion
+Kodama of the West Tree
+Kodama's Reach
+Llanowar Elves
+Malanthrope
+Mana Confluence
+Misty Rainforest
+Mossborn Hydra
+Mosswort Bridge
+Mulldrifter
+Mystic Snake
+Nature's Claim
+Novijen, Heart of Progress
+Ohran Frostfang
+Overwhelming Stampede
+Pest Infestation
+Pir, Imaginative Rascal
+Rapid Hybridization
+Reality Shift
+Reclamation Sage
+Reflecting Pool
+Reliquary Tower
+Repulsive Mutation
+Sage of Hours
+Scurry Oak
+Seedborn Muse
+Simic Signet
+Skatewing Spy
+Slip Out the Back
+Solemn Simulacrum
+Swiftfoot Boots
+Sylvan Caryatid
+Talisman of Curiosity
+Thought Vessel
+Three Visits
+Toothy, Imaginary Friend
+Toxicrene
+Triumph of the Hordes
+Trygon Predator
+Tuskguard Captain
+Vivien, Champion of the Wilds
+Voidslime
+Yavimaya Coast
+
+An Offer You Can't Refuse
+Arcane Signet
+Arwen, Weaver of Hope
+Beast Whisperer
+Beast Within
+Bident of Thassa
+Birds of Paradise
+Boseiju, Who Endures
+Bred for the Hunt
+Breeding Pool
+Champion of Lambholt
+Coastal Piracy
+Cold-Eyed Selkie
+Command Tower
+Concordant Crossroads
+Counterspell
+Cultivator of Blades
+Cyclonic Rift
+Defiler of Vigor
+Dionus, Elvish Archdruid
+Dreamroot Cascade
+Elven Ambush
+Elvish Archdruid
+Elvish Champion
+Elvish Mystic
+Elvish Promenade
+Elvish Warmaster
+Evolution Witness
+Ezuri's Predation
+Ezuri, Renegade Leader
+Fathom Mage
+Flooded Grove
+Forest
+Fyndhorn Elves
+Giggling Skitterspike
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Hunter's Insight
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Island
+Kami of Whispered Hopes
+Kindred Discovery
+Llanowar Elves
+Marwyn, the Nurturer
+Master Biomancer
+Overflowing Basin
+Pollywog Prodigy
+Pongify
+Primal Rage
+Quilled Greatwurm
+Quirion Elves
+Rapid Hybridization
+Reclamation Sage
+Rejuvenating Springs
+Reliquary Tower
+Rogue's Passage
+Sage of Hours
+Simic Ascendancy
+Simic Growth Chamber
+Simic Signet
+Talisman of Curiosity
+The Ozolith
+Thought Vessel
+Thrummingbird
+Trygon Predator
+Vigor
+Vineglimmer Snarl
+Viridian Joiner
+Wave Goodbye
+Yavimaya Coast
+Yavimaya, Cradle of Growth
+
+Alchemist's Refuge
+Ancient Tomb
+Arbor Elf
+Barkchannel Pathway
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Blighted Agent
+Bloom Tender
+Breeding Pool
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Beacon
+Command Tower
+Commander's Plate
+Concordant Crossroads
+Cyclonic Rift
+Delighted Halfling
+Destiny Spinner
+Devoted Druid
+Dryad Arbor
+Elvish Mystic
+Evolution Witness
+Exotic Orchard
+Field of the Dead
+Fierce Guardianship
+Flitterstep Eidolon
+Forest
+Foundation Breaker
+Fyndhorn Elves
+Glen Elendra Archmage
+Gray Harbor Merfolk
+Greater Good
+Green Sun's Zenith
+Guardian Project
+Gudul Lurker
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kinnan, Bonder Prodigy
+Kiora's Follower
+Lightning Greaves
+Llanowar Elves
+Mana Drain
+Mana Vault
+Masked Vandal
+Master Biomancer
+Maze of Ith
+Mercurial Spelldancer
+Mist-Cloaked Herald
+Misty Rainforest
+Mulldrifter
+Mystic Remora
+Nature's Claim
+Novijen, Heart of Progress
+Nykthos, Shrine to Nyx
+Oran-Rief, the Vastwood
+Pongify
+Priest of Titania
+Prismatic Vista
+Quest for Renewal
+Rapid Hybridization
+Reclamation Sage
+Rejuvenating Springs
+Rhystic Study
+Ripples of Potential
+Sage of Hours
+Shamanic Revelation
+Silent Hallcreeper
+Simic Ascendancy
+Slither Blade
+Sol Ring
+Strip Mine
+Strix Serenade
+Sword of Wealth and Power
+Sylvan Library
+The Great Henge
+The Ozolith
+Triton Shorestalker
+Triumph of the Hordes
+Tyrite Sanctum
+Wave Goodbye
+Worldly Tutor
+Yavimaya Coast
+Yavimaya Hollow
+Yavimaya, Cradle of Growth
+
+Beast Within
+Bloodspore Thrinax
+Branching Evolution
+Broodhatch Nantuko
+Caustic Caterpillar
+Chasm Skulker
+Coiling Oracle
+Cold-Eyed Selkie
+Cradle Clearcutter
+Crashing Drawbridge
+Cultivate
+Dig Through Time
+Dreamtide Whale
+Duskwatch Recruiter
+Ebony Fly
+Entish Restoration
+Esior, Wardwing Familiar
+Evolution Witness
+Fact or Fiction
+Fathom Mage
+Forest
+Fyndhorn Elves
+Gray Harbor Merfolk
+Harbinger of the Seas
+Hardened Scales
+Hindervines
+Hornet Queen
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Kenrith's Transformation
+Khalni Garden
+Kodama's Reach
+Lifecrafter's Bestiary
+Llanowar Elves
+Masked Vandal
+Myriad Landscape
+Mystic Sanctuary
+Nadir Kraken
+Neoform
+Overrun
+Rampant Growth
+Rancor
+Reality Shift
+Reclamation Sage
+Resculpt
+Return of the Wildspeaker
+Rishkar, Peema Renegade
+Shamanic Revelation
+Simic Charm
+Simic Growth Chamber
+Spore Frog
+Springbloom Druid
+Syr Faren, the Hengehammer
+Tainted Observer
+Tangled Florahedron
+Tangled Islet
+Tezzeret's Gambit
+Thieving Skydiver
+Thrummingbird
+Treasure Cruise
+Trygon Predator
+Tyvar's Stand
+Venser, Shaper Savant
+Wear Down
+Wild Growth
+Wilson, Refined Grizzly
+Wonder
+Wood Elves
+Yavimaya Coast
+
+Alchemist's Apprentice
+Arctic Merfolk
+Aspect of Mongoose
+Beast Whisperer
+Beast Within
+Bident of Thassa
+Blighted Agent
+Branching Evolution
+Bred for the Hunt
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Contentious Plan
+Cultivate
+Duskshell Crawler
+Evolution Witness
+Evolving Wilds
+Exotic Orchard
+Fangs of Kalonia
+Fathom Mage
+Flooded Grove
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Giggling Skitterspike
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Ingenious Prodigy
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Jiang Yanggu, Wildcrafter
+Kami of Whispered Hopes
+Karn's Bastion
+Lignify
+Managorger Hydra
+Maraleaf Pixie
+Master Biomancer
+Mosswort Bridge
+Mutational Advantage
+Negate
+Ornery Tumblewagg
+Oversimplify
+Overwhelming Stampede
+Panharmonicon
+Pollywog Prodigy
+Rampant Growth
+Rapid Hybridization
+Reclamation Sage
+Reject Imperfection
+Rejuvenating Springs
+Reliquary Tower
+Rhystic Study
+Rishkar, Peema Renegade
+Sage of Hours
+Sakura-Tribe Elder
+Shrieking Drake
+Simic Ascendancy
+Simic Growth Chamber
+Skatewing Spy
+Slither Blade
+Sol Ring
+Swiftfoot Boots
+Terramorphic Expanse
+Tervigon
+The Ozolith
+Thornwood Falls
+Thought Vessel
+Thrummingbird
+Trygon Predator
+Unnatural Restoration
+Vineglimmer Snarl
+Waterlogged Grove
+Wave Goodbye
+Wild Beastmaster
+Windswift Slice
+Yavimaya Coast
+
+Alchemist's Refuge
+An Offer You Can't Refuse
+Arbor Elf
+Arcane Denial
+Ash Barrens
+Ashaya, Soul of the Wild
+Beast Whisperer
+Boreal Druid
+Botanical Sanctum
+Command Tower
+Counterspell
+Decisive Denial
+Delay
+Devoted Druid
+Edric, Spymaster of Trest
+Elvish Archdruid
+Elvish Mystic
+Elvish Spirit Guide
+Elvish Warmaster
+Eternal Witness
+Exotic Orchard
+Ezuri, Renegade Leader
+Fathom Mage
+Fauna Shaman
+Finale of Revelation
+Flooded Grove
+Forest
+Fyndhorn Elves
+Guardian Project
+Gyre Sage
+Hinterland Harbor
+Immaculate Magistrate
+Incubation Druid
+Island
+Joraga Treespeaker
+Karn's Temporal Sundering
+Leaf-Crowned Visionary
+Legolas Greenleaf
+Llanowar Elves
+Lys Alana Huntmaster
+Marwyn, the Nurturer
+Miscast
+Momir Vig, Simic Visionary
+Muddle the Mixture
+Nature's Claim
+Negate
+Neoform
+Oakhame Adversary
+Overflowing Basin
+Path of Ancestry
+Priest of Titania
+Prime Speaker Vannifar
+Pull from Tomorrow
+Quirion Ranger
+Rapid Hybridization
+Rashmi, Eternities Crafter
+Reality Shift
+Realmwalker
+Reclamation Sage
+Regrowth
+Resculpt
+Return of the Wildspeaker
+Sage of Hours
+Secluded Courtyard
+Shared Summons
+Sol Ring
+Solve the Equation
+Spell Pierce
+Stubborn Denial
+Summoner's Pact
+Thousand-Year Elixir
+Unclaimed Territory
+Vigean Graftmage
+Vineglimmer Snarl
+Viridian Joiner
+Walk the Aeons
+Wirewood Channeler
+Wirewood Lodge
+Wirewood Symbiote
+Yavimaya Coast
+Yeva, Nature's Herald
+Yisan, the Wanderer Bard
+Zameck Guildmage
+
+Access Denied
+Animation Module
+Asceticism
+Awaken the Woods
+Bane of Progress
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Botanical Sanctum
+Branching Evolution
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Doubling Season
+Dreamroot Cascade
+Druid of Purification
+Elvish Mystic
+Eternal Witness
+Faerie Artisans
+Faerie Mastermind
+Fathom Mage
+Feed the Pack
+Filter Out
+Flooded Grove
+Forest
+Fyndhorn Elves
+Giggling Skitterspike
+Glen Elendra Archmage
+Greater Good
+Guardian Project
+Gyre Sage
+Herald of Secret Streams
+Hinterland Harbor
+Incubation Druid
+Innkeeper's Talent
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Khalni Garden
+Kodama of the West Tree
+Lightning Greaves
+Lumbering Falls
+Managorger Hydra
+Mossborn Hydra
+Mosswort Bridge
+Nature's Lore
+Oko, Thief of Crowns
+Oracle of Mul Daya
+Overwhelming Stampede
+Pest Infestation
+Pir, Imaginative Rascal
+Pollywog Prodigy
+Rampant Rejuvenator
+Rancor
+Rapid Hybridization
+Reclamation Sage
+Rejuvenating Springs
+Reliquary Tower
+Rishkar's Expertise
+Rogue's Passage
+Scepter of Celebration
+Scute Swarm
+Simic Growth Chamber
+Simic Manipulator
+Sol Ring
+Somberwald Sage
+Spike Weaver
+Temple of Mystery
+The Great Henge
+The Ozolith
+Three Visits
+Toothy, Imaginary Friend
+Toski, Bearer of Secrets
+Trygon Predator
+Ulvenwald Tracker
+Vineglimmer Snarl
+Voidslime
+Waterlogged Grove
+Yavimaya Coast
+Zimone, Paradox Sculptor
+
+Aether Channeler
+Augur of Autumn
+Barrin, Tolarian Archmage
+Chasm Skulker
+Chatterstorm
+Cloudkin Seer
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Devoted Druid
+Echoing Truth
+Exotic Orchard
+Experimental Augury
+Fblthp, the Lost
+Feed the Pack
+Fertilid
+Flooded Grove
+Forest
+Foundry of the Consuls
+Goldberry, River-Daughter
+Humble Naturalist
+Ice-Fang Coatl
+Ilysian Caryatid
+Incubation Druid
+Ingenious Prodigy
+Insidious Fungus
+Inspiring Call
+Intellectual Offering
+Iridescent Hornbeetle
+Island
+Jace, Arcane Strategist
+Llanowar Scout
+Lonis, Cryptozoologist
+Maraleaf Pixie
+Might of the Masses
+Monoskelion
+Moonshae Pixie
+Mulldrifter
+Mystic Snake
+Negate
+Ohran Frostfang
+Ornithopter of Paradise
+Overflowing Basin
+Owlbear Shepherd
+Paradise Druid
+Prime Speaker Zegana
+Prosperous Innkeeper
+Rashmi, Eternities Crafter
+Serum Visionary
+Shoreline Looter
+Simic Guildgate
+Simic Manipulator
+Siren Stormtamer
+Sol Ring
+Soul of the Harvest
+Squirrel Nest
+Stocking the Pantry
+Talisman of Curiosity
+Tender Wildguide
+The Surgical Bay
+Thieving Magpie
+Thornwood Falls
+Threefold Thunderhulk
+Tome Raider
+Tower Geist
+Triskelavus
+Triskelion
+Trygon Predator
+Twitching Doll
+Vineglimmer Snarl
+Vineshaper Prodigy
+Warm Welcome
+Woodland Stream
+Yavimaya Coast
+Zameck Guildmage
+Zegana, Utopian Speaker
+
+Animation Module
+Arcane Signet
+Avenger of Zendikar
+Basking Broodscale
+Beast Whisperer
+Birds of Paradise
+Blighted Woodland
+Branching Evolution
+Carnivorous Canopy
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Concordant Crossroads
+Contagion Clasp
+Counterspell
+Deepglow Skate
+Defense of the Heart
+Diamond City
+Elfsworn Giant
+Elusive Otter
+Elvish Archdruid
+Elvish Mystic
+Enduring Vitality
+Equilibrium
+Erratic Portal
+Escape Tunnel
+Etched Oracle
+Eternal Witness
+Evolution Sage
+Evolution Witness
+Evolving Wilds
+Experimental Augury
+Ezuri, Stalker of Spheres
+Fathom Mage
+Flooded Grove
+Forest
+Forgotten Ancient
+Fuel for the Cause
+Gemstone Mine
+Ghalta, Primal Hunger
+Growing Rites of Itlimoc
+Gyre Sage
+Hadana's Climb
+Hickory Woodlot
+Hinterland Harbor
+Idol of False Gods
+Immaculate Magistrate
+Incubation Druid
+Inexorable Tide
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Ivy Lane Denizen
+Jiang Yanggu, Wildcrafter
+Kami of Whispered Hopes
+Karn's Bastion
+Lifecrafter's Bestiary
+Llanowar Elves
+Maraleaf Pixie
+Marwyn, the Nurturer
+Mistbreath Elder
+Momir Vig, Simic Visionary
+Myriad Landscape
+Mystic Sanctuary
+Ornithopter of Paradise
+Path of Ancestry
+Pawpatch Recruit
+Priest of Titania
+Reclamation Sage
+Repulsive Mutation
+Rishkar, Peema Renegade
+Rogue's Passage
+Saprazzan Skerry
+Scepter of Celebration
+Season of Gathering
+Simic Growth Chamber
+Spike Feeder
+Stocking the Pantry
+Sword of Vengeance
+Tatyova, Benthic Druid
+Temple of Mystery
+Tender Wildguide
+Terramorphic Expanse
+Thrummingbird
+Unnatural Restoration
+Vineglimmer Snarl
+Vorel of the Hull Clade
+Wear Down
+Wirewood Symbiote
+
+Aether Channeler
+Arcane Signet
+Basking Broodscale
+Beast Whisperer
+Birds of Paradise
+Bonders' Enclave
+Boseiju, Who Endures
+Botanical Sanctum
+Branching Evolution
+Breeding Pool
+Bridgeworks Battle
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Cursed Windbreaker
+Disciple of Freyalise
+Doppelgang
+Doubling Season
+Dreamroot Cascade
+Duskshell Crawler
+Evolution Witness
+Evolving Wilds
+Exotic Orchard
+Fangs of Kalonia
+Farseek
+Field of Ruin
+Forest
+Forgotten Ancient
+Gaea's Gift
+Gilded Goose
+Glorious Sunrise
+Guardian Project
+Gyre Sage
+Hardened Scales
+Hedge Maze
+Hinterland Harbor
+Hydroelectric Specimen
+Incubation Druid
+Innkeeper's Talent
+Inscription of Abundance
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Karn's Bastion
+Lifecrafter's Bestiary
+Llanowar Elves
+Llanowar Reborn
+Lumbering Falls
+Managorger Hydra
+Midnight Clock
+Misty Rainforest
+Mockingbird
+Mossborn Hydra
+Mosswort Bridge
+Mulldrifter
+Negate
+Nesting Grounds
+Ornery Tumblewagg
+Overprotect
+Path of Ancestry
+Power Fist
+Pridemalkin
+Quilled Greatwurm
+Quirion Beastcaller
+Rampant Growth
+Reality Shift
+Reclamation Sage
+Rejuvenating Springs
+Reliquary Tower
+Restless Vinestalk
+Rogue's Passage
+Scavenging Ooze
+Scurry Oak
+Scurry of Squirrels
+Silent Hallcreeper
+Simic Growth Chamber
+Sink into Stupor
+Snakeskin Veil
+Sol Ring
+Solemn Simulacrum
+Springheart Nantuko
+Swiftfoot Boots
+Temple of Mystery
+Tezzeret's Gambit
+The Ozolith
+Three Visits
+Thrummingbird
+Tireless Provisioner
+Toski, Bearer of Secrets
+Zimone, Paradox Sculptor
+
+Acidic Slime
+Ainok Survivalist
+Almighty Brushwagg
+An Offer You Can't Refuse
+Beast Whisperer
+Beast Within
+Blighted Woodland
+Burnished Hart
+Chasm Skulker
+Cloudkin Seer
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Cultivate
+Cultivator of Blades
+Curse of the Swine
+Dissipate
+Druid of the Emerald Grove
+Duskshell Crawler
+Edric, Spymaster of Trest
+Elvish Visionary
+Fable of Wolf and Owl
+Fathom Mage
+Fauna Shaman
+Feed the Pack
+Fertilid
+Field of Ruin
+Fierce Empath
+Forest
+Gyre Sage
+Harmonize
+Haywire Mite
+Herald of Secret Streams
+Hinterland Harbor
+Hornet Queen
+Incubation Druid
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Khalni Garden
+Kodama's Reach
+Lazotep Plating
+Lonely Sandbar
+Lumbering Falls
+Mosswort Bridge
+Mulldrifter
+Myriad Landscape
+Mystic Snake
+Negate
+Nissa, Voice of Zendikar
+Ornery Tumblewagg
+Planewide Celebration
+Rampant Growth
+Reality Shift
+Reclamation Sage
+Reliquary Tower
+Rogue's Passage
+Sagu Mauler
+Sakura-Tribe Elder
+Scavenging Ooze
+Silhana Ledgewalker
+Simic Growth Chamber
+Simic Signet
+Slippery Karst
+Sol Ring
+Stolen by the Fae
+Talisman of Curiosity
+Temple of Mystery
+Thirsting Roots
+Tome Raider
+Trygon Predator
+Tuskguard Captain
+Verdant Force
+Whisperwood Elemental
+Wildest Dreams
+Wilson, Refined Grizzly
+Winged Coatl
+Wistful Selkie
+Yavimaya Coast
+Zoetic Cavern
+
+Aqueous Form
+Arachnogenesis
+Arcane Denial
+Arcane Signet
+Beast Whisperer
+Bident of Thassa
+Blighted Agent
+Brainstorm
+Bred for the Hunt
+Champion of Lambholt
+Chasm Skulker
+Clockspinning
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Contentious Plan
+Crystal Carapace
+Cultivate
+Duskshell Crawler
+Everflowing Chalice
+Evolution Sage
+Evolving Wilds
+Experimental Augury
+Fertilid
+Forest
+Forgotten Ancient
+Gaea's Gift
+Galadhrim Ambush
+Growth Spiral
+Hadana's Climb
+Hardened Scales
+Incubation // Incongruity
+Incubation Druid
+Inspiring Call
+Island
+Kami of Whispered Hopes
+Lonely Sandbar
+Managorger Hydra
+Master Biomancer
+Mystic Sanctuary
+Nature's Lore
+Negate
+Ohran Frostfang
+Oran-Rief, the Vastwood
+Pollenbright Druid
+Ponder
+Pridemalkin
+Ranger's Guile
+Return of the Wildspeaker
+Rishkar's Expertise
+Rishkar, Peema Renegade
+Saiba Cryptomancer
+Scale the Heights
+Scepter of Celebration
+Scrounging Bandar
+Shadow Rift
+Simic Ascendancy
+Simic Growth Chamber
+Skatewing Spy
+Smell Fear
+Snakeskin Veil
+Sol Ring
+Stealth Mission
+Tangled Islet
+Terramorphic Expanse
+Thirsting Roots
+Thrummingbird
+Tuskguard Captain
+Unsummon
+Vapor Snag
+Vorel of the Hull Clade
+Windswift Slice
+Zameck Guildmage
+
+Arcane Signet
+Basking Broodscale
+Beast Within
+Bred for the Hunt
+Champion of Lambholt
+Chasm Skulker
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Cultivate
+Cultivator of Blades
+Devoted Druid
+Elusive Otter
+Elvish Mystic
+Evolution Sage
+Evolution Witness
+Evolving Wilds
+Experimental Augury
+Ezuri, Stalker of Spheres
+Fangs of Kalonia
+Fathom Mage
+Fertilid
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Growth Spiral
+Hardened Scales
+Incubation Druid
+Ingenious Prodigy
+Inspiring Call
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Lifecrafter's Bestiary
+Llanowar Elves
+Maraleaf Pixie
+Master Biomancer
+Mulldrifter
+Negate
+Ornery Tumblewagg
+Primal Empathy
+Rampant Growth
+Reclamation Sage
+Reject Imperfection
+Repulsive Mutation
+Rishkar, Peema Renegade
+Rogue's Passage
+Sakura-Tribe Elder
+Scurry of Squirrels
+Serum Snare
+Simic Ascendancy
+Simic Growth Chamber
+Simic Manipulator
+Simic Signet
+Sol Ring
+Stocking the Pantry
+Swiftfoot Boots
+Tainted Observer
+Temple of Mystery
+Terramorphic Expanse
+Tervigon
+Tezzeret's Gambit
+Thirsting Roots
+Thornwood Falls
+Thrummingbird
+Trygon Predator
+Unnatural Restoration
+Valgavoth's Onslaught
+Vineglimmer Snarl
+Vorel of the Hull Clade
+Wild Beastmaster
+Windswift Slice
+Yavimaya Coast
+Zameck Guildmage
+
+Arcane Signet
+Arwen, Weaver of Hope
+Basking Broodscale
+Beast Whisperer
+Birds of Paradise
+Blighted Agent
+Branching Evolution
+Bred for the Hunt
+Breeding Pool
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Chasm Skulker
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Court of Garenbrig
+Cultivate
+Cultivator of Blades
+Defiler of Vigor
+Dreamtide Whale
+Elusive Otter
+Escape Tunnel
+Evolution Sage
+Evolution Witness
+Exotic Orchard
+Fabled Passage
+Faerie Artisans
+Fathom Mage
+Fertilid
+Field of Ruin
+Forest
+Forgotten Ancient
+Garruk's Uprising
+Gyre Sage
+Hangarback Walker
+Hardened Scales
+Hedge Maze
+Herald of Secret Streams
+Hinterland Harbor
+Hornet Queen
+Incubation Druid
+Ingenious Prodigy
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama's Reach
+Lakeside Shack
+Lightning Greaves
+Llanowar Elves
+Managorger Hydra
+Mindless Automaton
+Myriad Landscape
+Nature's Lore
+Negate
+Rampant Growth
+Rejuvenating Springs
+Rishkar, Peema Renegade
+Scurry of Squirrels
+Silent Hallcreeper
+Silkguard
+Simic Ascendancy
+Simic Manipulator
+Sol Ring
+Sword of Truth and Justice
+Tanazir Quandrix
+Tangled Islet
+Terramorphic Expanse
+Tezzeret's Gambit
+Thornwood Falls
+Thrummingbird
+Tribute to the World Tree
+Tuskguard Captain
+Twenty-Toed Toad
+Twitching Doll
+Vorel of the Hull Clade
+Wave Goodbye
+Wild Beastmaster
+
+Allosaurus Shepherd
+Ambush Commander
+Arcane Signet
+Ash Barrens
+Beast Whisperer
+Beast Within
+Boseiju, Who Endures
+Broken Bond
+Broken Wings
+Canopy Tactician
+Circle of Dreams Druid
+Command Tower
+Commander's Sphere
+Cyclonic Rift
+Dance of the Tumbleweeds
+Dissenter's Deliverance
+Druid of the Cowl
+Dwynen's Elite
+Dwynen, Gilt-Leaf Daen
+Eladamri, Korvecdal
+Elfsworn Giant
+Elven Ambush
+Elven Bow
+Elvish Archdruid
+Elvish Champion
+Elvish Mystic
+Elvish Promenade
+Elvish Warmaster
+Escape Tunnel
+Essence Warden
+Ezuri, Stalker of Spheres
+Fabled Passage
+Farhaven Elf
+Forest
+Freyalise, Llanowar's Fury
+Fyndhorn Elves
+Galadhrim Brigade
+Goldvein Hydra
+Hooded Hydra
+Hunting Triad
+Immaculate Magistrate
+Imperious Perfect
+Island
+Ivy Lane Denizen
+Jaheira, Friend of the Forest
+Kodama's Reach
+Leaf-Crowned Visionary
+Lifeblood Hydra
+Llanowar Elves
+Llanowar Tribe
+Lys Alana Huntmaster
+Map the Frontier
+Marwyn, the Nurturer
+Nissa, Ascended Animist
+Omen of the Hunt
+Pawpatch Formation
+Priest of Titania
+Primordial Hydra
+Promising Vein
+Rampant Growth
+Rapid Hybridization
+Reclamation Sage
+Scute Swarm
+Shire Terrace
+Silhana Ledgewalker
+Simic Cluestone
+Simic Locket
+Simic Signet
+Sol Ring
+Tajuru Blightblade
+Terramorphic Expanse
+Thornweald Archer
+Timberwatch Elf
+Unnatural Growth
+Vivien Reid
+Wellwisher
+
+Academy Ruins
+Arasta of the Endless Web
+Arcane Denial
+Arcane Signet
+Arcbound Crusher
+Arcbound Ravager
+Arcbound Reclaimer
+Arcbound Slith
+Arcbound Stinger
+Arcbound Worker
+Ashnod's Altar
+Brainstorm
+Breeding Pool
+Buried Ruin
+Chasm Skulker
+Chromatic Orrery
+Command Tower
+Crystalline Crawler
+Cultivate
+Divination
+Dragon Throne of Tarkir
+Efficient Construction
+Emry, Lurker of the Loch
+Etherium Sculptor
+Exotic Orchard
+Fathom Mage
+Forest
+Foundry Inspector
+Fungal Sprouting
+Genesis Wave
+Giggling Skitterspike
+Gingerbrute
+Greater Good
+Hangarback Walker
+Heroic Intervention
+Hinterland Harbor
+Hooded Hydra
+Iridescent Hornbeetle
+Island
+Kenrith's Transformation
+Liberator, Urza's Battlethopter
+Lux Artillery
+Machine God's Effigy
+Master Transmuter
+Mirrodin Besieged
+Misty Rainforest
+Mycosynth Wellspring
+Myr Sire
+Mystic Forge
+Palladium Myr
+Phyrexian Metamorph
+Ponder
+Rampant Growth
+Rapid Hybridization
+Reality Heist
+Return to Nature
+Reverse Engineer
+Sai, Master Thopterist
+Scrapyard Recombiner
+Simic Growth Chamber
+Simic Signet
+Sol Ring
+Steel Overseer
+Temple of Mystery
+Tezzeret's Gambit
+The Reality Chip
+Thought Monitor
+Thoughtcast
+Triskelavus
+Twitching Doll
+Vedalken Archmage
+Walking Ballista
+Wayfarer's Bauble
+Yavimaya, Cradle of Growth
+
+Acidic Slime
+Arachnogenesis
+Avenger of Zendikar
+Bane of Progress
+Beastmaster Ascension
+Bident of Thassa
+Bloodspore Thrinax
+Caller of the Claw
+Champion of Lambholt
+Chasm Skulker
+Cobra Trap
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Cyclonic Rift
+Elvish Mystic
+Eternal Witness
+Evolving Wilds
+Ezuri's Predation
+Farhaven Elf
+Fathom Mage
+Fertilid
+Forest
+Forgotten Ancient
+Gyre Sage
+High Market
+Hornet Queen
+Inspiring Call
+Island
+Kodama's Reach
+Life's Legacy
+Llanowar Elves
+Llanowar Reborn
+Mirror Match
+Mosswort Bridge
+Mulldrifter
+Mystic Snake
+Nature's Claim
+Ninja of the Deep Hours
+Novijen, Heart of Progress
+Ohran Viper
+Oran-Rief, the Vastwood
+Overrun
+Plaxcaster Frogling
+Plaxmanta
+Prime Speaker Zegana
+Rampant Growth
+Rapid Hybridization
+Reclamation Sage
+Reliquary Tower
+Renegade Krasis
+Sage of Hours
+Sakura-Tribe Elder
+Simic Growth Chamber
+Simic Guildgate
+Simic Keyrune
+Simic Manipulator
+Simic Signet
+Skullwinder
+Sol Ring
+Solemn Simulacrum
+Stingerfling Spider
+Swiftfoot Boots
+Synthetic Destiny
+Terramorphic Expanse
+Thornwood Falls
+Thought Vessel
+Trygon Predator
+Verdant Confluence
+Viridian Shaman
+Vivid Creek
+Vivid Grove
+Vorel of the Hull Clade
+Wood Elves
+Zameck Guildmage
+
+Ancient Imperiosaur
+Arachnogenesis
+Arcane Signet
+Avenger of Zendikar
+Bala Ged Recovery
+Birds of Paradise
+Blighted Agent
+Bred for the Hunt
+Burgeoning
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Craterhoof Behemoth
+Cyclonic Rift
+Death's Presence
+Dense Foliage
+Doubling Season
+Dour Port-Mage
+Esix, Fractal Bloom
+Evolution Sage
+Feed the Pack
+Fierce Guardianship
+Fog
+Forest
+Forgotten Ancient
+Gaea's Cradle
+Gaea's Gift
+Glen Elendra Archmage
+Gyre Sage
+Herald of Secret Streams
+Heroic Intervention
+Hooded Hydra
+Inspiring Call
+Invisible Stalker
+Island
+Kalonian Hydra
+Kami of Whispered Hopes
+Kessig Cagebreakers
+Krosan Grip
+Llanowar Reborn
+Mana Drain
+Managorger Hydra
+Misty Rainforest
+Mithril Coat
+Mosswort Bridge
+Murkfiend Liege
+Mycoloth
+Mystic Reflection
+Novijen, Heart of Progress
+Oran-Rief, the Vastwood
+Ozolith, the Shattered Spire
+Parallel Lives
+Rashmi, Eternities Crafter
+Reliquary Tower
+Rhystic Study
+Rivendell
+Sage of Hours
+Saryth, the Viper's Fang
+Scute Swarm
+Seedborn Muse
+Selvala, Heart of the Wilds
+Simic Growth Chamber
+Siren Stormtamer
+Sol Ring
+Solemn Simulacrum
+Swiftfoot Boots
+The Great Henge
+The Ozolith
+Thornwood Falls
+Tropical Island
+Trygon Predator
+Undergrowth Champion
+Vigor
+Viridian Joiner
+Vorel of the Hull Clade
+Vorinclex, Monstrous Raider
+Xolatoyac, the Smiling Flood
+
+Agatha's Soul Cauldron
+Alchemist's Refuge
+Animation Module
+Arachnogenesis
+Arcane Signet
+Arcbound Ravager
+Arwen, Weaver of Hope
+Ashnod's Altar
+Awaken the Woods
+Beast Within
+Boseiju, Who Endures
+Branching Evolution
+Breeding Pool
+Champion of Lambholt
+Chromatic Lantern
+Command Tower
+Croaking Counterpart
+Cultivate
+Cyclonic Rift
+Defense of the Heart
+Disallow
+Doubling Season
+Dryad Arbor
+Fabled Passage
+Fathom Mage
+Finale of Devastation
+Flare of Cultivation
+Flooded Grove
+Forest
+Forgotten Ancient
+Glen Elendra Archmage
+Goldvein Hydra
+Green Sun's Zenith
+Hardened Scales
+Herald of Secret Streams
+Hinterland Harbor
+Innkeeper's Talent
+Invasion of Ikoria
+Inventors' Fair
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Krosan Grip
+Lithoform Engine
+Luxior, Giada's Gift
+Managorger Hydra
+Misty Rainforest
+Mox Opal
+Nim Deathmantle
+Nissa, Voice of Zendikar
+Nykthos, Shrine to Nyx
+Panharmonicon
+Phyrexian Altar
+Plaza of Heroes
+Prismatic Vista
+Quilled Greatwurm
+Reliquary Tower
+Rishkar, Peema Renegade
+Sage of Hours
+Sakashima of a Thousand Faces
+Scepter of Celebration
+Shifting Woodland
+Simic Ascendancy
+Snow-Covered Forest
+Snow-Covered Island
+Sol Ring
+Spark Double
+Spike Weaver
+Strionic Resonator
+Tarrian's Soulcleaver
+Tezzeret, Artifice Master
+The Mycosynth Gardens
+The Ozolith
+Thought Vessel
+Tribute to the World Tree
+Ugin's Labyrinth
+Ulamog, the Ceaseless Hunger
+Ulamog, the Defiler
+Ulamog, the Infinite Gyre
+Urza's Saga
+Urza, Lord High Artificer
+Venser, Shaper Savant
+Vigor
+Vorinclex, Monstrous Raider
+Walking Ballista
+Worldly Tutor
+Xolatoyac, the Smiling Flood
+
+Arbor Elf
+Arwen, Weaver of Hope
+Asceticism
+Banner of Kinship
+Basilisk Collar
+Beast Whisperer
+Birds of Paradise
+Botanical Sanctum
+Branching Evolution
+Coiling Oracle
+Cold-Eyed Selkie
+Collector Ouphe
+Command Tower
+Counterspell
+Duskshell Crawler
+Edric, Spymaster of Trest
+Elvish Archdruid
+Elvish Mystic
+Elvish Warmaster
+Evolution Witness
+Exotic Orchard
+Field of Ruin
+Flooded Grove
+Forest
+Forgotten Ancient
+Galadhrim Ambush
+Galadhrim Brigade
+Ghost Vacuum
+Giggling Skitterspike
+Haldir, Lórien Lieutenant
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Inscription of Abundance
+Island
+Legolas Greenleaf
+Lifecrafter's Bestiary
+Lightning Greaves
+Llanowar Elves
+Lothlórien Blade
+Mistcaller
+Mossborn Hydra
+Mystic Confluence
+Nissa, Who Shakes the World
+Ohran Frostfang
+Oko, Thief of Crowns
+Oran-Rief Ooze
+Overflowing Basin
+Overwhelming Stampede
+Paradise Druid
+Priest of Titania
+Quilled Greatwurm
+Raise the Palisade
+Reclamation Sage
+Restless Vinestalk
+Return of the Wildspeaker
+Rishkar, Peema Renegade
+Sage of Hours
+Sakura-Tribe Elder
+Silent Hallcreeper
+Simic Ascendancy
+Slither Blade
+Sol Ring
+Song of Eärendil
+Spellskite
+Swan Song
+Swiftfoot Boots
+Temple of Mystery
+Thornwood Falls
+Toski, Bearer of Secrets
+Vineglimmer Snarl
+Vivien Reid
+Wildborn Preserver
+Windswift Slice
+Wood Elves
+Zegana, Utopian Speaker
+Zimone, Paradox Sculptor
+
+An Offer You Can't Refuse
+Arcane Denial
+Astral Cornucopia
+Bloodspore Thrinax
+Branching Evolution
+Bred for the Hunt
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Communal Brewing
+Counterspell
+Curse of the Swine
+Dreamtide Whale
+Duskshell Crawler
+Evolution Sage
+Evolution Witness
+Experiment One
+Experimental Augury
+Ezuri, Stalker of Spheres
+Fangs of Kalonia
+Fathom Mage
+Fertilid
+Flooded Grove
+Flux Channeler
+Forest
+Forgotten Ancient
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Hinterland Harbor
+Hooded Hydra
+Hydroid Krasis
+Incubation Druid
+Inexorable Tide
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Kalonian Hydra
+Kami of Whispered Hopes
+Karn's Bastion
+Koma, Cosmos Serpent
+Magistrate's Scepter
+Master Biomancer
+Negate
+Park Heights Maverick
+Ponder
+Preordain
+Reject Imperfection
+Reliquary Tower
+Ripples of Potential
+Rishkar, Peema Renegade
+Scavenging Ooze
+Scurry of Squirrels
+Silent Hallcreeper
+Simic Growth Chamber
+Simic Manipulator
+Skatewing Spy
+Solidarity of Heroes
+Spike Feeder
+Stubborn Denial
+Tekuthal, Inquiry Dominus
+Thrummingbird
+Trygon Predator
+Unnatural Restoration
+Vigor
+Vineglimmer Snarl
+Vivid Creek
+Vivid Grove
+Vorel of the Hull Clade
+Walking Ballista
+Wave Goodbye
+Wild Beastmaster
+Xolatoyac, the Smiling Flood
+Yavimaya Coast
+Zimone, Paradox Sculptor
+
+Agatha's Soul Cauldron
+Animation Module
+Arcane Signet
+Asceticism
+Avenger of Zendikar
+Beast Within
+Birds of Paradise
+Blighted Agent
+Bloom Tender
+Breeding Pool
+Champion of Lambholt
+Chord of Calling
+Chrome Mox
+Cold-Eyed Selkie
+Craterhoof Behemoth
+Cultivator of Blades
+Cyclonic Rift
+Devoted Druid
+Elusive Otter
+Elvish Mystic
+Eternal Witness
+Exotic Orchard
+Faerie Mastermind
+Fathom Mage
+Fierce Guardianship
+Finale of Devastation
+Force of Negation
+Force of Will
+Forest
+Gala Greeters
+Giggling Skitterspike
+Glen Elendra Archmage
+Guardian Project
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Inkmoth Nexus
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Kodama of the West Tree
+Ledger Shredder
+Llanowar Elves
+Mana Drain
+Marwyn, the Nurturer
+Misty Rainforest
+Polluted Delta
+Pollywog Prodigy
+Pongify
+Priest of Titania
+Reality Shift
+Reflecting Pool
+Rejuvenating Springs
+Return of the Wildspeaker
+Rhystic Study
+Rishkar, Peema Renegade
+Rogue's Passage
+Sage of Hours
+Sakura-Tribe Elder
+Seedborn Muse
+Sol Ring
+Spellskite
+Stubborn Denial
+Subtlety
+Swan Song
+Swiftfoot Boots
+Sylvan Library
+The Ozolith
+Thrummingbird
+Toski, Bearer of Secrets
+Trygon Predator
+Veil of Summer
+Verdant Catacombs
+Walking Ballista
+Waterlogged Grove
+Wild Beastmaster
+Wooded Foothills
+Yavimaya Coast
+
+An Offer You Can't Refuse
+Arasta of the Endless Web
+Arbor Elf
+Arcane Denial
+Arcane Signet
+Beast Whisperer
+Birds of Paradise
+Brainstorm
+Carnivorous Canopy
+Carpet of Flowers
+Champion of Lambholt
+Chasm Skulker
+Coiling Oracle
+Cold-Eyed Selkie
+Collector Ouphe
+Command Tower
+Contentious Plan
+Devastation Tide
+Devoted Druid
+Dispel
+Eldritch Evolution
+Elvish Archdruid
+Elvish Mystic
+Endurance
+Eternal Witness
+Evolving Wilds
+Fathom Mage
+Feed the Pack
+Finale of Devastation
+Flooded Grove
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Guardian Project
+Hinterland Harbor
+Hooded Hydra
+Hornet Queen
+Inspiring Call
+Invisible Stalker
+Island
+Jiang Yanggu, Wildcrafter
+Kami of Whispered Hopes
+Krosan Grip
+Lifecrafter's Bestiary
+Lightning Greaves
+Llanowar Elves
+Lush Oasis
+Miscast
+Nature's Claim
+Neoform
+Oakhame Adversary
+Poison Dart Frog
+Pongify
+Rapid Hybridization
+Reality Shift
+Reclamation Sage
+Repulsive Mutation
+Return of the Wildspeaker
+Rishkar, Peema Renegade
+Sage of Hours
+Sakura-Tribe Elder
+Scavenger Grounds
+Scurry Oak
+Simic Guildgate
+Simic Manipulator
+Simic Signet
+Sol Ring
+Soulless Jailer
+Spark Double
+Steady Progress
+Talisman of Curiosity
+Temple of Mystery
+Terramorphic Expanse
+Thornwood Falls
+Unnatural Restoration
+Utopia Sprawl
+Waterlogged Grove
+Wild Growth
+Windswift Slice
+Yavimaya Coast
+Yisan, the Wanderer Bard
+
+Arasta of the Endless Web
+Avenger of Zendikar
+Branching Evolution
+Breeding Pool
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Charix, the Raging Isle
+Chasm Skulker
+Coiling Oracle
+Command Tower
+Contentious Plan
+Cultivate
+Cultivator of Blades
+Divination
+Enduring Vitality
+Esix, Fractal Bloom
+Evolution Sage
+Ezuri, Stalker of Spheres
+Fathom Mage
+Feed the Pack
+Flux Channeler
+Forest
+Forgotten Ancient
+Frantic Search
+Gaea's Gift
+Garruk's Uprising
+Glimpse the Core
+Growth Spiral
+Herald of Secret Streams
+Herd Baloth
+Hooded Hydra
+Inexorable Tide
+Inspiring Call
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Jolrael, Mwonvuli Recluse
+Kami of Whispered Hopes
+Loyal Guardian
+Managorger Hydra
+Master Biomancer
+Murkfiend Liege
+Mycoloth
+Ominous Seas
+Personal Tutor
+Primal Empathy
+Quick Study
+Quirion Beastcaller
+Radical Idea
+Reliquary Tower
+Rishkar, Peema Renegade
+Sage of Hours
+Seal of the Guildpact
+Selvala's Stampede
+Shore Up
+Silent Hallcreeper
+Skyshroud Claim
+Smell Fear
+Snakeskin Veil
+Stonehoof Chieftain
+Storm the Seedcore
+Tanglepool Bridge
+Tawnos's Tinkering
+Tekuthal, Inquiry Dominus
+Tervigon
+Thriving Isle
+Tuskguard Captain
+Tyvar's Stand
+Unnatural Restoration
+Verdant Confluence
+Vorel of the Hull Clade
+Wild Beastmaster
+Wilderness Reclamation
+Yavimaya Coast
+
+Bane of Progress
+Beast Whisperer
+Bident of Thassa
+Bioshift
+Blighted Agent
+Bloodspore Thrinax
+Bred for the Hunt
+Caustic Caterpillar
+Cazur, Ruthless Stalker
+Champion of Lambholt
+Coastal Piracy
+Cold-Eyed Selkie
+Counterspell
+Crush of Tentacles
+Cultivator of Blades
+Defiler of Vigor
+Devoted Druid
+Edric, Spymaster of Trest
+Elvish Mystic
+Evolution Witness
+Fathom Mage
+Fertilid
+Flitterstep Eidolon
+Flood of Tears
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Glen Elendra Archmage
+Gyre Sage
+Herald of Secret Streams
+Heronblade Elite
+Hunter's Insight
+Ilysian Caryatid
+Incubation Druid
+Inspiring Call
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Lifecrafter's Bestiary
+Llanowar Elves
+Managorger Hydra
+Maraleaf Pixie
+Marwyn, the Nurturer
+Master Biomancer
+Mossborn Hydra
+Mutational Advantage
+Neurok Invisimancer
+Ohran Frostfang
+Oversimplify
+Overwhelming Stampede
+Prime Speaker Zegana
+Rampant Frogantua
+Reclamation Sage
+Reconnaissance Mission
+Repulsive Mutation
+Rishkar, Peema Renegade
+Scurry of Squirrels
+Stubborn Denial
+The Indomitable
+Thrummingbird
+Trailtracker Scout
+Vorel of the Hull Clade
+Wild Beastmaster
+Zameck Guildmage
+
+Arcane Signet
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Botanical Sanctum
+Branching Evolution
+Bred for the Hunt
+Breeding Pool
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Cultivate
+Cyclonic Rift
+Doubling Season
+Dreamroot Cascade
+Elvish Mystic
+Eternal Witness
+Evolution Sage
+Evolution Witness
+Fangs of Kalonia
+Fathom Mage
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Giggling Skitterspike
+Guardian Project
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Inexorable Tide
+Innkeeper's Talent
+Inspiring Call
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Lightning Greaves
+Llanowar Elves
+Mana Drain
+Managorger Hydra
+Master Biomancer
+Misty Rainforest
+Mossborn Hydra
+Negate
+Novijen, Heart of Progress
+Oran-Rief, the Vastwood
+Overwhelming Stampede
+Ozolith, the Shattered Spire
+Path of Ancestry
+Primal Empathy
+Primal Vigor
+Rampant Growth
+Rapid Hybridization
+Reclamation Sage
+Rejuvenating Springs
+Reliquary Tower
+Rishkar, Peema Renegade
+Rogue's Passage
+Sage of Hours
+Sakura-Tribe Elder
+Silent Hallcreeper
+Simic Ascendancy
+Sol Ring
+Swiftfoot Boots
+The Great Henge
+The Ozolith
+Thrummingbird
+Toski, Bearer of Secrets
+Trygon Predator
+Vorel of the Hull Clade
+Vorinclex, Monstrous Raider
+Wild Beastmaster
+Yavimaya Coast
+Yavimaya, Cradle of Growth
+Zimone, Paradox Sculptor
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Beast Within
+Bident of Thassa
+Bioshift
+Blighted Agent
+Brainstorm
+Brawn
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Deep Forest Hermit
+Disallow
+Enduring Vitality
+Eternal Witness
+Evolution Witness
+Evolutionary Leap
+Fierce Guardianship
+Forest
+Forgotten Ancient
+Gyre Sage
+Herald of Secret Streams
+Hinterland Harbor
+Hornet Queen
+Hunter's Insight
+Incubation Druid
+Island
+Kodama's Reach
+Krosan Grip
+Lazotep Plating
+Llanowar Elves
+Llanowar Reborn
+Managorger Hydra
+Marwyn, the Nurturer
+Mist-Cloaked Herald
+Mosswort Bridge
+Mycoloth
+Negate
+Novijen, Heart of Progress
+Ohran Frostfang
+Oran-Rief, the Vastwood
+Overflowing Basin
+Overrun
+Overwhelming Stampede
+Pir, Imaginative Rascal
+Prime Speaker Zegana
+Quandrix Campus
+Rampant Growth
+Rashmi, Eternities Crafter
+Reliquary Tower
+Repulsive Mutation
+Rishkar's Expertise
+Sage of Hours
+Shamanic Revelation
+Simic Ascendancy
+Simic Charm
+Slither Blade
+Snapcaster Mage
+Sol Ring
+Talrand, Sky Summoner
+Tangled Islet
+Temple of Mystery
+Terramorphic Expanse
+Thelonite Hermit
+Thornwood Falls
+Thought Vessel
+Toothy, Imaginary Friend
+Toski, Bearer of Secrets
+Triton Shorestalker
+Trygon Predator
+Vigor
+Vineglimmer Snarl
+Whirler Rogue
+Whispersilk Cloak
+Wild Beastmaster
+Wilderness Reclamation
+Wood Elves
+Yavimaya Coast
+Zegana, Utopian Speaker
+Zimone, Paradox Sculptor
+
+An Offer You Can't Refuse
+Arcane Signet
+Autumn's Veil
+Basking Broodscale
+Birds of Paradise
+Blighted Agent
+Branching Evolution
+Champion of Lambholt
+Chasm Skulker
+Circle of Dreams Druid
+Cultivate
+Decisive Denial
+Destiny Spinner
+Devoted Druid
+Doubling Season
+Dramatic Reversal
+Dreamtide Whale
+Duskshell Crawler
+Eternal Witness
+Fathom Mage
+Fellwar Stone
+Fierce Guardianship
+Final-Word Phantom
+Finale of Devastation
+Flusterstorm
+Force of Negation
+Force of Will
+Forest
+Green Sun's Zenith
+Growth Spiral
+Gyre Sage
+Hardened Scales
+Hydra Trainer
+Innkeeper's Talent
+Inspiring Call
+Invasion of Ikoria
+Invisible Stalker
+Kinnan, Bonder Prodigy
+Kodama's Reach
+Ledger Shredder
+Lightning Greaves
+Managorger Hydra
+Marwyn, the Nurturer
+Mutational Advantage
+Mystic Remora
+Mystical Tutor
+Neoform
+Open the Way
+Pollywog Prodigy
+Priest of Titania
+Primal Empathy
+Rhystic Study
+Rishkar, Peema Renegade
+Rogue's Passage
+Sage of Hours
+Seedborn Muse
+Selvala, Heart of the Wilds
+Sol Ring
+Strix Serenade
+Swan Song
+Sylvan Library
+Talisman of Curiosity
+Thada Adel, Acquisitor
+The Ozolith
+Twitching Doll
+Utopia Sprawl
+Veil of Summer
+Vexing Radgull
+Vorel of the Hull Clade
+Walking Ballista
+Wirewood Symbiote
+Worldly Tutor
+Zopandrel, Hunger Dominus
+
+Ancient Tomb
+Arcane Signet
+Beast Within
+Birds of Paradise
+Blighted Agent
+Branching Evolution
+Breeding Pool
+Bristly Bill, Spine Sower
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Court of Garenbrig
+Cultivate
+Cultivator of Blades
+Doubling Season
+Dreamroot Cascade
+Dryad Arbor
+Elusive Otter
+Elvish Mystic
+Evolution Sage
+Evolution Witness
+Fanatic of Rhonas
+Fathom Mage
+Fierce Guardianship
+Forest
+Forgotten Ancient
+Giggling Skitterspike
+Gyre Sage
+Hardened Scales
+Hedge Maze
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Kodama's Reach
+Lightning Greaves
+Llanowar Elves
+Mana Drain
+Managorger Hydra
+Master Biomancer
+Misty Rainforest
+Mossborn Hydra
+Mutational Advantage
+Nature's Lore
+Negate
+Ozolith, the Shattered Spire
+Pollywog Prodigy
+Rejuvenating Springs
+Rhystic Study
+Ripples of Potential
+Rishkar, Peema Renegade
+Rogue's Passage
+Sage of Hours
+Silent Hallcreeper
+Simic Ascendancy
+Simic Growth Chamber
+Simic Manipulator
+Sol Ring
+Swan Song
+Swiftfoot Boots
+The Great Henge
+The Ozolith
+Three Visits
+Thrummingbird
+Toski, Bearer of Secrets
+Trygon Predator
+Vorinclex, Monstrous Raider
+Walking Ballista
+Wave Goodbye
+Yavimaya Hollow
+Zimone, Paradox Sculptor
+
+Aboleth Spawn
+Alchemist's Refuge
+Arcane Denial
+Azure Beastbinder
+Bane of Progress
+Biophagus
+Botanical Sanctum
+Branching Evolution
+Bred for the Hunt
+Broken Bond
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Contagion Clasp
+Crashing Drawbridge
+Duskshell Crawler
+Elusive Otter
+Evolution Witness
+Evolving Wilds
+Exotic Orchard
+Experimental Augury
+Fangs of Kalonia
+Farseek
+Fathom Mage
+Flux Channeler
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Golden Ratio
+Growth Spiral
+Hardened Scales
+Harrow
+Hinterland Harbor
+Incubation Druid
+Ingenious Prodigy
+Inspiring Call
+Invisible Stalker
+Island
+Kalonian Hydra
+Kami of Whispered Hopes
+Karn's Bastion
+Lightning Greaves
+Llanowar Elves
+Llanowar Reborn
+Lonely Sandbar
+Lurking Predators
+Managorger Hydra
+Maraleaf Pixie
+Master Biomancer
+Mosswort Bridge
+Mulldrifter
+Mutational Advantage
+Myriad Landscape
+Mystic Snake
+Ohran Frostfang
+Oran-Rief, the Vastwood
+Overwhelming Stampede
+Path of Ancestry
+Pawpatch Recruit
+Quandrix Command
+Rampant Growth
+Reclamation Sage
+Repulsive Mutation
+Ripples of Potential
+Rishkar, Peema Renegade
+Rogue's Passage
+Scrounging Bandar
+Seedborn Muse
+Serum Snare
+Simic Growth Chamber
+Simic Manipulator
+Six
+Smell Fear
+Sol Ring
+Spire of Industry
+Temple of Mystery
+Terramorphic Expanse
+Thieving Skydiver
+Thornwood Falls
+Thriving Grove
+Thriving Isle
+Tranquil Thicket
+Trygon Predator
+Tyranid Prime
+Vineglimmer Snarl
+Wave Goodbye
+Wrap in Vigor
+
+Arbor Elf
+Arcane Signet
+Arwen Undómiel
+Arwen, Weaver of Hope
+Biomass Mutation
+Bow of Nylea
+Bred for the Hunt
+Celeborn the Wise
+Command Tower
+Creeping Renaissance
+Dissolve
+Door of Destinies
+Elrond, Lord of Rivendell
+Elrond, Master of Healing
+Elven Farsight
+Elvish Archdruid
+Elvish Mariner
+Elvish Mystic
+Elvish Visionary
+Elvish Warmaster
+Evolution Sage
+Evolving Wilds
+Exotic Orchard
+Farhaven Elf
+Farseek
+Fathom Mage
+Fellwar Stone
+Flooded Grove
+Fog
+Forest
+Galadhrim Ambush
+Galadhrim Brigade
+Galadriel of Lothlórien
+Galadriel, Elven-Queen
+Gyre Sage
+Haldir, Lórien Lieutenant
+Hinterland Harbor
+Incubation Druid
+Inspiring Call
+Into the Wilds
+Island
+Ivy Lane Denizen
+Joraga Warcaller
+Llanowar Reborn
+Marwyn, the Nurturer
+Master Biomancer
+Momir Vig, Simic Visionary
+Myriad Landscape
+Opt
+Oran-Rief, the Vastwood
+Path of Ancestry
+Pelt Collector
+Preordain
+Priest of Titania
+Raise the Palisade
+Reclamation Sage
+Rimewood Falls
+Ripples of Potential
+Rishkar, Peema Renegade
+Rivendell
+Sakura-Tribe Elder
+Shamanic Revelation
+Simic Ascendancy
+Simic Charm
+Simic Growth Chamber
+Simic Signet
+Sol Ring
+Solidarity of Heroes
+Swan Song
+Talisman of Curiosity
+Tangled Islet
+Temple of Mystery
+Terramorphic Expanse
+Tezzeret's Gambit
+Thassa, God of the Sea
+Thornwood Falls
+Tyvar, the Pummeler
+Urban Evolution
+Vineglimmer Snarl
+Vorel of the Hull Clade
+Windswift Slice
+Yavimaya Coast
+Zameck Guildmage
+
+Arcane Signet
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Blighted Agent
+Branching Evolution
+Bred for the Hunt
+Breeding Pool
+Champion of Lambholt
+Chasm Skulker
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Cultivate
+Cultivator of Blades
+Cyclonic Rift
+Don't Make a Sound
+Dreamroot Cascade
+Elusive Otter
+Enduring Vitality
+Eternal Witness
+Evolution Sage
+Evolution Witness
+Experimental Augury
+Fathom Mage
+Flooded Grove
+Forest
+Forgotten Ancient
+Garruk Wildspeaker
+Giggling Skitterspike
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Invisible Stalker
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Kodama's Reach
+Marwyn, the Nurturer
+Master Biomancer
+Moldering Gym // Weight Room
+Mutational Advantage
+Nature's Lore
+Negate
+Nissa, Voice of Zendikar
+Oran-Rief, the Vastwood
+Ozolith, the Shattered Spire
+Pollywog Prodigy
+Rampant Growth
+Rapid Hybridization
+Reclamation Sage
+Rejuvenating Springs
+Reliquary Tower
+Rishkar, Peema Renegade
+Rogue's Passage
+Sage of Hours
+Sakura-Tribe Elder
+Simic Ascendancy
+Simic Growth Chamber
+Simic Manipulator
+Simic Signet
+Sol Ring
+Swiftfoot Boots
+Temple of Mystery
+Tezzeret's Gambit
+The Ozolith
+Thrummingbird
+Trygon Predator
+Unnatural Restoration
+Vorel of the Hull Clade
+Wave Goodbye
+Yavimaya Coast
+
+Animation Module
+Arcane Signet
+Azure Beastbinder
+Barkchannel Pathway
+Beast Whisperer
+Beast Within
+Bred for the Hunt
+Breeding Pool
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Dreamroot Cascade
+Dryad Arbor
+Duskshell Crawler
+Elusive Otter
+Elvish Mystic
+Evolving Wilds
+Fabled Passage
+Farhaven Elf
+Farseek
+Flooded Grove
+Forest
+Forgotten Ancient
+Foundation Breaker
+Fyndhorn Elves
+Giggling Skitterspike
+Glen Elendra Archmage
+Gudul Lurker
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Hinterland Harbor
+Hypnotic Siren
+Incubation Druid
+Inspiring Call
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Legolas Greenleaf
+Lightning Greaves
+Llanowar Elves
+Maraleaf Pixie
+Marwyn, the Nurturer
+Mausoleum Wanderer
+Miscast
+Misty Rainforest
+Nature's Lore
+Nissa, Voice of Zendikar
+Oran-Rief, the Vastwood
+Ozolith, the Shattered Spire
+Path of Ancestry
+Pongify
+Rampant Growth
+Rapid Hybridization
+Reality Shift
+Rejuvenating Springs
+Rishkar, Peema Renegade
+Sage of Hours
+Sakura-Tribe Elder
+Scavenging Ooze
+Siren Stormtamer
+Skatewing Spy
+Slither Blade
+Sol Ring
+Spawnwrithe
+Swiftfoot Boots
+Tanazir Quandrix
+Temple of Mystery
+Three Visits
+Thrummingbird
+Toski, Bearer of Secrets
+Trygon Predator
+Ulvenwald Tracker
+Vineglimmer Snarl
+Walking Ballista
+Wave Goodbye
+Wild Beastmaster
+Wood Elves
+Yavimaya Coast
+Zimone, Paradox Sculptor
+
+An Offer You Can't Refuse
+Awakening Zone
+Bala Ged Recovery
+Beast Whisperer
+Beast Within
+Birds of Paradise
+Blighted Agent
+Bred for the Hunt
+Breeding Pool
+Champion of Lambholt
+Cold-Eyed Selkie
+Command Tower
+Contagion Clasp
+Court of Garenbrig
+Dreamroot Cascade
+Dreamtide Whale
+Dryad Arbor
+Eternal Witness
+Evolution Sage
+Evolution Witness
+Ezuri, Stalker of Spheres
+Farseek
+Fierce Guardianship
+Flooded Grove
+Forest
+Gaea's Cradle
+Giggling Skitterspike
+Guardian Project
+Gyre Sage
+Hardened Scales
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Imprisoned in the Moon
+Incubation Druid
+Inexorable Tide
+Ingenious Prodigy
+Innkeeper's Talent
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Lightning Greaves
+Maraleaf Pixie
+Marwyn, the Nurturer
+Misty Rainforest
+Mutational Advantage
+Mystic Remora
+Nature's Lore
+Overflowing Basin
+Panharmonicon
+Pollywog Prodigy
+Pongify
+Primal Empathy
+Prismatic Vista
+Rapid Hybridization
+Reclamation Sage
+Recon Craft Theta
+Rejuvenating Springs
+Repulsive Mutation
+Rhystic Study
+Simic Ascendancy
+Slip Out the Back
+Sol Ring
+Stocking the Pantry
+Swan Song
+Tainted Observer
+Tamiyo's Safekeeping
+Tekuthal, Inquiry Dominus
+The Great Henge
+Three Visits
+Thrummingbird
+Tropical Island
+Trygon Predator
+Tyvar's Stand
+Unnatural Restoration
+Yavimaya Coast
+Zimone, Paradox Sculptor
+
+Aesi, Tyrant of Gyre Strait
+Amass the Components
+Ambush Viper
+Aqueous Form
+Arcane Signet
+Assassin Den
+Atraxa's Fall
+Axebane Ferox
+Bioshift
+Blustersquall
+Borderland Ranger
+Bountiful Harvest
+Cancel
+Citanul Woodreaders
+Coastal Piracy
+Colossal Majesty
+Command Tower
+Cultivate
+Deadbridge Goliath
+Deadly Recluse
+Death's Presence
+Dispel
+Djinni Windseer
+Elrond, Master of Healing
+Encroaching Wastes
+Enter the Enigma
+Evolving Wilds
+Fertilid
+Forest
+Gale's Redirection
+Gyre Sage
+Halimar Depths
+Hope-Ender Coatl
+Ingenious Prodigy
+Island
+Koma, Cosmos Serpent
+Lorescale Coatl
+Lost Isle Calling
+Majestic Myriarch
+Merfolk Spy
+Military Intelligence
+Mind's Eye
+Mulldrifter
+Nimbus Swimmer
+Ordeal of Thassa
+Predator's Rapport
+Primordial Hydra
+Propaganda
+Reliquary Tower
+Rishkar's Expertise
+Rogue's Gloves
+Runewing
+Sapphire Drake
+Scourge of Fleets
+Scroll Thief
+Seek the Horizon
+Simic Guildgate
+Simic Signet
+Slippery Karst
+Sol Ring
+Solidarity of Heroes
+Spellbook
+Sphinx's Disciple
+Stealer of Secrets
+Tandem Lookout
+Temperamental Oozewagg
+Thassa's Emissary
+The Surgical Bay
+Thrasios, Triton Hero
+Tidepool Turtle
+Vastwood Hydra
+Viewpoint Synchronization
+Yavimaya Coast
+Zameck Guildmage
+
+Arcane Signet
+Ash Barrens
+Bane of Progress
+Bellowing Tanglewurm
+Biophagus
+Blighted Agent
+Bone Sabres
+Branching Evolution
+Case of the Trampled Garden
+Castle Vantress
+Champion of Lambholt
+Clamavus
+Cold-Eyed Selkie
+Command Tower
+Commander's Sphere
+Contagion Engine
+Contaminant Grafter
+Counterspell
+Court of Garenbrig
+Cultivate
+Danny Pink
+Death's Presence
+Doubling Season
+Dreamroot Cascade
+Elusive Krasis
+Exotic Orchard
+Expand the Sphere
+Farseek
+Fathom Mage
+Fertilid
+Flooded Grove
+Forest
+Forgotten Ancient
+Fuel for the Cause
+Glistening Sphere
+Guildpact Informant
+Gyre Sage
+Hadana's Climb
+Halimar Depths
+Hardened Scales
+Haruspex
+Herald of Secret Streams
+Hinterland Harbor
+Incubation Druid
+Inexorable Tide
+Invisible Stalker
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama's Reach
+Llanowar Reborn
+Loyal Guardian
+Master Biomancer
+Misty Rainforest
+Momir Vig, Simic Visionary
+Naturalize
+Nesting Grounds
+Neurok Invisimancer
+Novijen, Heart of Progress
+Oran-Rief, the Vastwood
+Oversimplify
+Park Heights Maverick
+Plasm Capture
+Rampant Growth
+Rampant Rejuvenator
+Rejuvenating Springs
+Rishkar, Peema Renegade
+Sage of Hours
+Simic Ascendancy
+Simic Growth Chamber
+Skyship Plunderer
+Slither Blade
+Slurrk, All-Ingesting
+Sol Ring
+Steelbane Hydra
+The Great Henge
+Thrummingbird
+Triton Shorestalker
+Trygon Predator
+Turn Aside
+Tuskguard Captain
+Vigor
+Vineglimmer Snarl
+Vorel of the Hull Clade
+Vorinclex, Monstrous Raider
+Waterlogged Grove
+Wild Beastmaster
+
+Acidic Slime
+Arachnogenesis
+Avenger of Zendikar
+Bane of Progress
+Beast Whisperer
+Beast Within
+Bident of Thassa
+Champion of Lambholt
+Chasm Skulker
+Command Beacon
+Command Tower
+Deep Forest Hermit
+Elvish Mystic
+Eternal Witness
+Evolution Witness
+Evolving Wilds
+Faerie Mastermind
+Fathom Mage
+Flooded Grove
+Force of Vigor
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Growing Rites of Itlimoc
+Guardian Project
+Hadana's Climb
+Hardened Scales
+Herald of Secret Streams
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Island
+Kami of Whispered Hopes
+Llanowar Elves
+Lonely Sandbar
+Manglehorn
+Marwyn, the Nurturer
+Mosswort Bridge
+Nadir Kraken
+Nature's Lore
+Ohran Frostfang
+Oran-Rief, the Vastwood
+Overwhelming Stampede
+Path of Ancestry
+Pest Infestation
+Pir's Whim
+Pir, Imaginative Rascal
+Plumecreed Escort
+Prime Speaker Zegana
+Quilled Greatwurm
+Rampant Growth
+Rapid Hybridization
+Reclamation Sage
+Reliquary Tower
+Return of the Wildspeaker
+Rishkar, Peema Renegade
+Rogue's Passage
+Runic Armasaur
+Sakura-Tribe Elder
+Scavenging Ooze
+Shamanic Revelation
+Simic Growth Chamber
+Simic Guildgate
+Simic Manipulator
+Skatewing Spy
+Sol Ring
+Solidarity of Heroes
+Swiftfoot Boots
+Temple of Mystery
+Tender Wildguide
+Terramorphic Expanse
+The Ozolith
+Thornwood Falls
+Thought Vessel
+Thrummingbird
+Toothy, Imaginary Friend
+Toski, Bearer of Secrets
+Tranquil Thicket
+Traverse the Outlands
+Tuskguard Captain
+Woodland Stream
+
+Command Tower
+Forest
+Hedge Maze
+Island
+Persistent Petitioners
+Quandrix Campus
+Reliquary Tower
+Rimewood Falls
+Slime Against Humanity
+Snow-Covered Forest
+Snow-Covered Island
+Tangled Islet
+Tropical Island
+
+Adrix and Nev, Twincasters
+Arachnogenesis
+Arcane Signet
+Avenger of Zendikar
+Beast Within
+Birds of Paradise
+Bred for the Hunt
+Celebrate the Harvest
+Champion of Lambholt
+Chasm Skulker
+Chatterstorm
+Coiling Oracle
+Cold-Eyed Selkie
+Colossal Majesty
+Command Tower
+Deepglow Skate
+Dreamroot Cascade
+Duskshell Crawler
+Elusive Otter
+Elvish Mystic
+Evolution Sage
+Fathom Mage
+Flooded Grove
+Flux Channeler
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Galloping Lizrog
+Golden Ratio
+Growth Spiral
+Gyre Sage
+Hardened Scales
+Hinterland Harbor
+Inspiring Call
+Iridescent Hornbeetle
+Island
+Kami of Whispered Hopes
+Karametra's Acolyte
+Koma, Cosmos Serpent
+Llanowar Elves
+Managorger Hydra
+Master Biomancer
+Master of Waves
+Mosswort Bridge
+Mutational Advantage
+Mycoloth
+Negate
+Novijen, Heart of Progress
+Ooze Flux
+Oran-Rief, the Vastwood
+Ornithopter of Paradise
+Plaxcaster Frogling
+Primal Empathy
+Primal Vigor
+Rampant Growth
+Reliquary Tower
+Repulsive Mutation
+Return to Nature
+Rishkar's Expertise
+Rishkar, Peema Renegade
+Rogue's Passage
+Scale the Heights
+Scavenging Ooze
+Scute Swarm
+Shamanic Revelation
+Silkguard
+Simic Ascendancy
+Simic Charm
+Sol Ring
+Steady Progress
+Swiftfoot Boots
+The Ozolith
+Unnatural Restoration
+Wave Goodbye
+Windswift Slice
+Yavimaya Coast
+
+An Offer You Can't Refuse
+Arcane Signet
+Basalt Monolith
+Beast Whisperer
+Birds of Paradise
+Blighted Agent
+Boseiju, Who Endures
+Bred for the Hunt
+Breeding Pool
+Champion of Lambholt
+Chasm Skulker
+Coiling Oracle
+Cold-Eyed Selkie
+Command Tower
+Counterspell
+Cultivate
+Cultivator of Blades
+Cyclonic Rift
+Doubling Season
+Dreamroot Cascade
+Elvish Mystic
+Enduring Vitality
+Eternal Witness
+Evolution Witness
+Evolving Wilds
+Exotic Orchard
+Farseek
+Fathom Mage
+Flooded Grove
+Forest
+Forgotten Ancient
+Fyndhorn Elves
+Giggling Skitterspike
+Growth Spiral
+Gyre Sage
+Hardened Scales
+Hedge Maze
+Herald of Secret Streams
+Heroic Intervention
+Hinterland Harbor
+Incubation Druid
+Innkeeper's Talent
+Inspiring Call
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kiora, the Rising Tide
+Kodama's Reach
+Koma, World-Eater
+Lightning Greaves
+Llanowar Elves
+Marwyn, the Nurturer
+Master Biomancer
+Misty Rainforest
+Mossborn Hydra
+Nature's Lore
+Negate
+Pollywog Prodigy
+Pongify
+Rampant Growth
+Rapid Hybridization
+Reclamation Sage
+Rejuvenating Springs
+Reliquary Tower
+Rhystic Study
+Ripples of Potential
+Rishkar, Peema Renegade
+Rogue's Passage
+Sage of Hours
+Sakura-Tribe Elder
+Scute Swarm
+Simic Ascendancy
+Sol Ring
+Strix Serenade
+Swan Song
+Swiftfoot Boots
+Talisman of Curiosity
+The Ozolith
+Thought Vessel
+Three Visits
+Thrummingbird
+Trygon Predator
+Vorel of the Hull Clade
+Walk-In Closet // Forgotten Cellar
+Waterlogged Grove
+Wave Goodbye
+Zimone, Paradox Sculptor
+

@@ -1,0 +1,9186 @@
+Abrade
+Ancient Tomb
+Angel's Grace
+Arcane Signet
+Archivist of Oghma
+Arena of Glory
+Arid Mesa
+Ashling, Flame Dancer
+Birgi, God of Storytelling
+Borne Upon a Wind
+Brain Freeze
+Cavern of Souls
+Cephalid Coliseum
+Chrome Mox
+City of Brass
+Clout of the Dominus
+Command Tower
+Cyclonic Rift
+Dack Fayden
+Deflecting Swat
+Dragon's Rage Channeler
+Drannith Magistrate
+Elegant Parlor
+Enlightened Tutor
+Ephemerate
+Esper Sentinel
+Exotic Orchard
+Faithless Looting
+Fellwar Stone
+Final Fortune
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Grand Abolisher
+Hallowed Fountain
+Imposter Mech
+Into the Flood Maw
+Intuition
+Jace, Wielder of Mysteries
+Jeska's Will
+Kitsa, Otterball Elite
+Lightning Bolt
+Lightning Greaves
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+Marsh Flats
+Mental Misstep
+Mindbreak Trap
+Misty Rainforest
+Mockingbird
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Plateau
+Polluted Delta
+Pollywog Prodigy
+Pyroblast
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Red Elemental Blast
+Retraction Helix
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Smothering Tithe
+Sol Ring
+Soul Partition
+Spectator Seating
+Spellseeker
+Steam Vents
+Stubborn Denial
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+The One Ring
+Touch the Spirit Realm
+Training Center
+Tundra
+Underworld Breach
+Valley Floodcaller
+Volcanic Island
+Wheel of Fortune
+Windfall
+Wooded Foothills
+
+Adeliz, the Cinder Wind
+Arcane Signet
+Azorius Signet
+Balmor, Battlemage Captain
+Bolt Bend
+Borne Upon a Wind
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Chart a Course
+Clifftop Retreat
+Command Tower
+Consider
+Coruscation Mage
+Counterspell
+Courageous Resolve
+Dovin's Veto
+Dragon Fodder
+Dragon's Rage Channeler
+Dragon-Style Twins
+Elsha of the Infinite
+Emberheart Challenger
+Expressive Iteration
+Firebrand Archer
+Firespitter Whelp
+Flame of Anor
+Gandalf's Sanction
+Generous Gift
+Glacial Fortress
+Goblin Electromancer
+Goblin Wizardry
+Guttersnipe
+Hallowed Fountain
+Harmonic Prodigy
+Island
+Izzet Signet
+Jeskai Ascendancy
+Jeskai Elder
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leonin Lightscribe
+Mistfire Adept
+Mizzix's Mastery
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Murmuring Mystic
+Narset, Enlightened Master
+Path of Ancestry
+Path to Exile
+Plains
+Ponder
+Preordain
+Prismari Command
+Ral, Crackling Wit
+Raugrin Triome
+Reliquary Tower
+Sacred Foundry
+Sea of Clouds
+Seize the Day
+Snow-Covered Island
+Snow-Covered Mountain
+Snow-Covered Plains
+Sol Ring
+Spectator Seating
+Sprite Dragon
+Steam Vents
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser Mage
+Stormchaser's Talent
+Sulfur Falls
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Third Path Iconoclast
+Training Center
+Unexpected Windfall
+Valley Floodcaller
+Veyran, Voice of Duality
+Young Pyromancer
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Signet
+Azorius Signet
+Battlefield Forge
+Boros Signet
+Brainstorm
+Call the Coppercoats
+Cascade Bluffs
+Chaos Mutation
+Chart a Course
+Clifftop Retreat
+Clowning Around
+Command Tower
+Consider
+Counterspell
+Crash Through
+Delayed Blast Fireball
+Distract the Guards
+Divergent Transformations
+Empty the Warrens
+Exotic Orchard
+Exotic Pets
+Expressive Iteration
+Forbidden Friendship
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Gitaxian Probe
+Glacial Fortress
+Invasion of Segovia
+Irenicus's Vile Duplication
+Island
+Izzet Signet
+Jeskai Ascendancy
+Jin-Gitaxias, Core Augur
+Lightning Greaves
+Mountain
+Mystic Gate
+Mystic Monastery
+Nanogene Conversion
+Nezahal, Primal Tide
+Niv-Mizzet, Parun
+Of One Mind
+Opt
+Path to Exile
+Plains
+Polymorph
+Ponder
+Port Town
+Prairie Stream
+Preordain
+Ral, Crackling Wit
+Rally at the Hornburg
+Reality Scramble
+Release the Dogs
+Rising of the Day
+Rugged Prairie
+Saheeli, Sublime Artificer
+See the Truth
+Serum Visions
+Shark Typhoon
+Shivan Reef
+Skullclamp
+Sleight of Hand
+Slip Through Space
+Sol Ring
+Sorcerer Class
+Split Up
+Sram's Expertise
+Stormchaser's Talent
+Stroke of Midnight
+Stubborn Denial
+Sulfur Falls
+Surge to Victory
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+The Apprentice's Folly
+The Locust God
+Transmogrify
+Whirlwind of Thought
+Windfall
+
+Adarkar Wastes
+Arcane Bombardment
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Garrison
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Case of the Ransacked Lab
+Chaos Warp
+Chart a Course
+Command Tower
+Consider
+Counterspell
+Crash Through
+Deserted Beach
+Dovin's Veto
+Electrostatic Infantry
+Elemental Eruption
+Elsha of the Infinite
+Enter the Enigma
+Eris, Roar of the Storm
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Ferrous Lake
+Fiery Inscription
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Glacial Fortress
+Goblin Electromancer
+Grapeshot
+Inspiring Vantage
+Island
+Izzet Boilerworks
+Izzet Signet
+Jaya, Fiery Negotiator
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leonin Lightscribe
+Lock and Load
+Midnight Clock
+Mizzix's Mastery
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Murmuring Mystic
+Mystic Monastery
+Opt
+Ovika, Enigma Goliath
+Pinnacle Monk
+Plains
+Ponder
+Pongify
+Port Town
+Prairie Stream
+Preordain
+Reliquary Tower
+Saheeli, Sublime Artificer
+Serum Visions
+Shark Typhoon
+Shivan Reef
+Snap
+Sol Ring
+Stella Lee, Wild Card
+Storm-Kiln Artist
+Stormcatch Mentor
+Sulfur Falls
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Temple of Epiphany
+Temple of Triumph
+Third Path Iconoclast
+Treasure Cruise
+Triton Wavebreaker
+Vandalblast
+Veyran, Voice of Duality
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Access Tunnel
+Adarkar Wastes
+Anax and Cymede
+Arcane Signet
+Archmage of Runes
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Bident of Thassa
+Blacksmith's Skill
+Boros Charm
+Boros Signet
+Bria, Riptide Rogue
+Burning Prophet
+Captain Ripley Vance
+Command Tower
+Defiant Strike
+Drake Hatcher
+Electric Revelation
+Enter the Enigma
+Esper Sentinel
+Fellwar Stone
+Fists of Flame
+Flawless Maneuver
+Flick a Coin
+Floodfarm Verge
+Frantic Search
+Frostboil Snarl
+Gandalf, White Rider
+Generous Gift
+Great Train Heist
+Harmonic Prodigy
+Haze of Rage
+Heartfire Immolator
+Hydroelectric Specimen
+Island
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kykar, Wind's Fury
+Legion Leadership
+Leonin Lightscribe
+Loran's Escape
+Mirrorwing Dragon
+Monastery Mentor
+Monstrous Rage
+Mountain
+Mystic Monastery
+Path of Ancestry
+Path to Exile
+Perilous Landscape
+Phalanx Leader
+Pinnacle Monk
+Plains
+Razorgrass Ambush
+Relentless Assault
+Rip Apart
+Rising of the Day
+Rogue's Passage
+Scalding Tarn
+Sea of Clouds
+Seething Anger
+Shadow Rift
+Shivan Reef
+Siege Smash
+Slickshot Show-Off
+Sol Ring
+Steam Vents
+Steel of the Godhead
+Storm of Souls
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Sudden Breakthrough
+Suppression Ray
+Swiftfoot Boots
+Swiftwater Cliffs
+Sword Coast Sailor
+Take Flight
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teleportal
+Temur Battle Rage
+Vesuvan Duplimancy
+Wayfarer's Bauble
+Whirlwind of Thought
+Wind-Scarred Crag
+Wrath of God
+Zada, Hedron Grinder
+
+Abrade
+Angelfire Ignition
+Arcane Signet
+Ash Barrens
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Charm
+Boros Garrison
+Boros Reckoner
+Boros Signet
+Brainstorm
+Cascade Bluffs
+Chain Reaction
+Command Tower
+Commander's Sphere
+Crash Through
+Curse of Opulence
+Deafening Clarion
+Deflecting Palm
+Double Vision
+Duelist's Heritage
+Enter the Enigma
+Evolving Wilds
+Exotic Orchard
+Faithless Looting
+Fellwar Stone
+Ferrous Lake
+Fiery Inscription
+Firesong and Sunspeaker
+Floodfarm Verge
+Furycalm Snarl
+Ghostly Prison
+Glimmerburst
+Heartflame Duelist
+Heroic Reinforcements
+Island
+Izzet Signet
+Jeskai Ascendancy
+Jeskai Charm
+Keeper of the Accord
+Khenra Spellspear
+Kykar, Wind's Fury
+Legion Leadership
+Lightning Bolt
+Lightning Helix
+Loran of the Third Path
+Lorehold Command
+Mind Stone
+Mob Verdict
+Mountain
+Myriad Landscape
+Mystic Monastery
+Neheb, the Eternal
+Olórin's Searing Light
+Past in Flames
+Perilous Landscape
+Plains
+Ponder
+Prisoner's Dilemma
+Rally at the Hornburg
+Reliquary Tower
+Rem Karolus, Stalwart Slayer
+Rip Apart
+Rogue's Passage
+Sacred Fire
+Sevinne's Reclamation
+Shelter
+Sheltered by Ghosts
+Shivan Reef
+Sol Ring
+Solemn Simulacrum
+Stroke of Midnight
+Sulfur Falls
+Sunforger
+Swiftblade Vindicator
+Swords to Plowshares
+Taii Wakeen, Perfect Shot
+Talisman of Conviction
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Temple of the False God
+Third Path Iconoclast
+Thought Vessel
+Thrill of Possibility
+Trouble in Pairs
+Velomachus Lorehold
+Warleader's Helix
+Whirlwind of Thought
+
+Adarkar Wastes
+Akroma's Will
+An Offer You Can't Refuse
+Arcane Bombardment
+Arcane Denial
+Arcane Signet
+Archaeomancer's Map
+Archmage Emeritus
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Birgi, God of Storytelling
+Boros Signet
+Brainstorm
+Charismatic Conqueror
+Clifftop Retreat
+Command Tower
+Crash Through
+Deserted Beach
+Desperate Ritual
+Dispel
+Elsha of the Infinite
+Exotic Orchard
+Expedite
+Faithless Looting
+Fellwar Stone
+Flawless Maneuver
+Flusterstorm
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Galadriel's Dismissal
+Glacial Fortress
+Hallowed Fountain
+Haze of Rage
+Irenicus's Vile Duplication
+Island
+Izzet Signet
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Leonin Lightscribe
+Lightning Greaves
+Miscast
+Monastery Mentor
+Mountain
+Mystic Monastery
+Narset of the Ancient Way
+Narset's Reversal
+Path of Ancestry
+Plains
+Ponder
+Port Town
+Prairie Stream
+Preordain
+Pyretic Ritual
+Reliquary Tower
+Rhystic Study
+Rogue's Passage
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sea of Clouds
+See the Truth
+Seething Song
+Shivan Reef
+Slip Through Space
+Smothering Tithe
+Snap
+Sol Ring
+Sorcerer Class
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Strike It Rich
+Stubborn Denial
+Sulfur Falls
+Sundown Pass
+Surge of Salvation
+Swan Song
+Swiftfoot Boots
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Thousand-Year Storm
+Training Center
+Veyran, Voice of Duality
+View from Above
+Warlord's Fury
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Adarkar Wastes
+Akroma's Will
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Balmor, Battlemage Captain
+Battlefield Forge
+Birgi, God of Storytelling
+Boros Charm
+Brainstorm
+Call the Coppercoats
+Cascade Bluffs
+Chaos Warp
+Charismatic Conqueror
+Clifftop Retreat
+Command Tower
+Consider
+Crash Through
+Delayed Blast Fireball
+Deserted Beach
+Elegant Parlor
+Evolving Wilds
+Exotic Orchard
+Expedite
+Expressive Iteration
+Fabled Passage
+Faithless Looting
+Farewell
+Fiery Inscription
+Filter Out
+Fists of Flame
+Flooded Strand
+Floodfarm Verge
+Frantic Search
+Galadriel's Dismissal
+Gitaxian Probe
+Glacial Fortress
+Glasspool Mimic
+Great Train Heist
+Irenicus's Vile Duplication
+Island
+Izzet Signet
+Jeska's Will
+Karlach, Fury of Avernus
+Kykar, Wind's Fury
+Leap
+Lightning Greaves
+Lórien Revealed
+Maddening Cacophony
+Mana Geyser
+Mercurial Spelldancer
+Meticulous Archive
+Monastery Mentor
+Mountain
+Myriad Landscape
+Mystic Monastery
+Perilous Landscape
+Pinnacle Monk
+Plains
+Prairie Stream
+Preordain
+Roaming Throne
+Roar of Resistance
+Sea of Clouds
+Season of Weaving
+See the Truth
+Shark Typhoon
+Shivan Reef
+Sink into Stupor
+Slip Through Space
+Smothering Tithe
+Sol Ring
+Sprite Dragon
+Storm-Kiln Artist
+Stormcarved Coast
+Sulfur Falls
+Sundering Eruption
+Surveyor's Scope
+Swiftfoot Boots
+Talisman of Conviction
+Talisman of Creativity
+Talrand, Sky Summoner
+Third Path Iconoclast
+Thought Scour
+Thundering Falls
+Time Warp
+Trouble in Pairs
+Vanquish the Horde
+Veyran, Voice of Duality
+Whirlwind of Thought
+Young Pyromancer
+
+Arcane Bombardment
+Arcane Heist
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Azorius Signet
+Balmor, Battlemage Captain
+Baral's Expertise
+Blasphemous Act
+Blaze Commando
+Boros Garrison
+Boros Signet
+Bovine Intervention
+Clifftop Retreat
+Command Tower
+Consider
+Crash Through
+Decanter of Endless Water
+Double Vision
+Elspeth, Sun's Champion
+Enter the Enigma
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Ferrous Lake
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Galvanic Iteration
+Generous Gift
+Gilded Lotus
+Glacial Fortress
+Hydroelectric Specimen
+Impulse
+Invasion of Segovia
+Island
+Izzet Boilerworks
+Izzet Signet
+Jeskai Ascendancy
+Jeskai Charm
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Legion Leadership
+Leonin Lightscribe
+Lórien Revealed
+Metallurgic Summonings
+Mountain
+Murmuring Mystic
+Myriad Landscape
+Mystic Monastery
+Opt
+Ovika, Enigma Goliath
+Path of Ancestry
+Path to Exile
+Perilous Landscape
+Plains
+Ponder
+Port Town
+Prairie Stream
+Preordain
+Prismatic Strands
+Reliquary Tower
+Run Away Together
+Saheeli, Sublime Artificer
+See the Truth
+Serum Visions
+Shark Typhoon
+Shivan Reef
+Silundi Vision
+Skycloud Expanse
+Sol Ring
+Song of Totentanz
+Sorcerer Class
+Storm of Saruman
+Stroke of Midnight
+Sulfur Falls
+Sunscorched Divide
+Swarm Intelligence
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Whirlwind of Thought
+White Sun's Twilight
+Witch Enchanter
+Young Pyromancer
+
+Akroma's Will
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Balmor, Battlemage Captain
+Blasphemous Act
+Boros Charm
+Boros Garrison
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Celestial Armor
+Clifftop Retreat
+Command Tower
+Consider
+Coruscation Mage
+Counterspell
+Crash Through
+Deserted Beach
+Elegant Parlor
+Enter the Enigma
+Expedite
+Expressive Iteration
+Faithful Mending
+Faithless Looting
+Ferrous Lake
+Flooded Strand
+Floodfarm Verge
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Glacial Fortress
+Guttersnipe
+Haze of Rage
+Hengegate Pathway
+Island
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Lightning Bolt
+Luminous Rebuke
+Monastery Mentor
+Mountain
+Myriad Landscape
+Mystic Monastery
+Mystical Tutor
+Narset of the Ancient Way
+Narset, Enlightened Master
+Needleverge Pathway
+Overpowering Attack
+Perilous Landscape
+Plains
+Ponder
+Preordain
+Ral, Crackling Wit
+Reliquary Tower
+Rite of the Dragoncaller
+Riverglide Pathway
+See the Truth
+Serum Visions
+Sevinne's Reclamation
+Shadow Rift
+Sheltered by Ghosts
+Skullclamp
+Slip Through Space
+Snap
+Sol Ring
+Split Up
+Storm-Kiln Artist
+Stormchaser's Talent
+Stormsplitter
+Stroke of Midnight
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Creativity
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Terramorphic Expanse
+Third Path Iconoclast
+Urabrask
+Vandalblast
+Veyran, Voice of Duality
+Warlord's Fury
+Whirlwind of Thought
+Windfall
+
+Agatha's Soul Cauldron
+An Offer You Can't Refuse
+Ancient Tomb
+Angel's Grace
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Banishing Knack
+Birgi, God of Storytelling
+Bloodstained Mire
+Brain Freeze
+Burning Inquiry
+Cephalid Coliseum
+Chrome Mox
+City of Brass
+Clout of the Dominus
+Command Tower
+Cyclonic Rift
+Dack Fayden
+Deflecting Swat
+Delayed Blast Fireball
+Dragon's Rage Channeler
+Drannith Magistrate
+Emry, Lurker of the Loch
+Enlightened Tutor
+Ephemerate
+Esper Sentinel
+Exotic Orchard
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Final Fortune
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Grand Abolisher
+Hallowed Fountain
+Into the Flood Maw
+Intuition
+Jeska's Will
+Jeskai Ascendancy
+Lavaspur Boots
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+Marsh Flats
+Mental Misstep
+Mindbreak Trap
+Misty Rainforest
+Mox Amber
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Plateau
+Polluted Delta
+Pollywog Prodigy
+Pull from Eternity
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Retraction Helix
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Sink into Stupor
+Smothering Tithe
+Sol Ring
+Spellseeker
+Static Prison
+Steam Vents
+Stubborn Denial
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+The One Ring
+Training Center
+Transmute Artifact
+Tundra
+Underworld Breach
+Valley Floodcaller
+Volcanic Island
+Wheel of Fortune
+Wild Research
+Windfall
+Windswept Heath
+Wooded Foothills
+
+An Offer You Can't Refuse
+Ancient Tomb
+Anger of the Gods
+Arcane Signet
+Archivist of Oghma
+Arid Mesa
+Ashling, Flame Dancer
+Birgi, God of Storytelling
+Bloodstained Mire
+Brain Freeze
+Burning Inquiry
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+Command Tower
+Counterbalance
+Crystal Vein
+Cyclonic Rift
+Deflecting Swat
+Desperate Ritual
+Dragon's Rage Channeler
+Dualcaster Mage
+Emergence Zone
+Emry, Lurker of the Loch
+Enlightened Tutor
+Esper Sentinel
+Exotic Orchard
+Fellwar Stone
+Fierce Guardianship
+Final Fortune
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Gemstone Mine
+Grinding Station
+Hallowed Fountain
+Intuition
+Island
+Jace, Wielder of Mysteries
+Jeska's Will
+Jeskai Ascendancy
+Lavaspur Boots
+Lightning Greaves
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+Marsh Flats
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Mox Amber
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Pact of Negation
+Path to Exile
+Personal Tutor
+Plateau
+Polluted Delta
+Powerbalance
+Pull from Eternity
+Red Elemental Blast
+Reflecting Pool
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sensei's Divining Top
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Smothering Tithe
+Spire of Industry
+Steam Vents
+Stubborn Denial
+Swan Song
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+The One Ring
+Thought Scour
+Transmute Artifact
+Traumatize
+Tundra
+Twinflame
+Underworld Breach
+Urza's Saga
+Volcanic Island
+Wheel of Fortune
+Wild Research
+Windfall
+Windswept Heath
+
+An Offer You Can't Refuse
+Ancient Tomb
+Angel's Grace
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Ashling, Flame Dancer
+Banishing Knack
+Bitter Reunion
+Bloodstained Mire
+Brain Freeze
+Burning Inquiry
+Cephalid Coliseum
+Chrome Mox
+City of Brass
+Clout of the Dominus
+Command Tower
+Cyclonic Rift
+Defense Grid
+Deflecting Swat
+Dragon's Rage Channeler
+Dress Down
+Enlightened Tutor
+Esper Sentinel
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Final Fortune
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Ghostfire Slice
+Grand Abolisher
+Grinding Station
+Hallowed Fountain
+Into the Flood Maw
+Intuition
+Island
+Jace, Wielder of Mysteries
+Jace, the Perfected Mind
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Lavaspur Boots
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+Mental Misstep
+Merchant Scroll
+Mindbreak Trap
+Misty Rainforest
+Mockingbird
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Otherworldly Gaze
+Pact of Negation
+Plateau
+Polluted Delta
+Pollywog Prodigy
+Pyroblast
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Red Elemental Blast
+Retraction Helix
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Spire of Industry
+Steam Vents
+Stubborn Denial
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+The One Ring
+Thundering Falls
+Training Center
+Tundra
+Underworld Breach
+Valley Floodcaller
+Volcanic Island
+Wheel of Fortune
+Windfall
+
+Aggravated Assault
+Akroma's Will
+Andúril, Flame of the West
+Arcane Bombardment
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Azorius Signet
+Balmor, Battlemage Captain
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Chrome Mox
+City of Brass
+Command Beacon
+Command Tower
+Counterspell
+Crash Through
+Cursed Totem
+Cyclonic Rift
+Deflecting Swat
+Delayed Blast Fireball
+Dragon's Rage Channeler
+Dress Down
+Eiganjo, Seat of the Empire
+Elsha of the Infinite
+Enlightened Tutor
+Esper Sentinel
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Flawless Maneuver
+Flooded Strand
+Force of Will
+Frantic Search
+Gamble
+Generous Gift
+Grand Crescendo
+Hallowed Fountain
+Invasion of Segovia
+Island
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Leonin Lightscribe
+Lightning Bolt
+Lightning Greaves
+Lotus Petal
+Mana Confluence
+Monastery Mentor
+Mountain
+Mystic Monastery
+Mystic Remora
+Nanogene Conversion
+Otawara, Soaring City
+Pact of Negation
+Path to Exile
+Phyrexian Altar
+Plains
+Plaza of Heroes
+Raugrin Triome
+Reconnaissance
+Reflecting Pool
+Roaming Throne
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+See the Truth
+Shadow Rift
+Skullclamp
+Slip Out the Back
+Smothering Tithe
+Sol Ring
+Sorcerer Class
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Surge of Salvation
+Swords to Plowshares
+Teferi's Protection
+The One Ring
+Third Path Iconoclast
+Training Center
+Veyran, Voice of Duality
+Wheel of Fortune
+Whirlwind of Thought
+Young Pyromancer
+
+Akroma's Will
+An Offer You Can't Refuse
+Ancestral Anger
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Balmor, Battlemage Captain
+Bitter Reunion
+Boros Charm
+Bria, Riptide Rogue
+Brotherhood Regalia
+Call the Coppercoats
+Chart a Course
+City of Brass
+Command Tower
+Consider
+Crash Through
+Crimson Wisps
+Cyclonic Rift
+Dance with Calamity
+Dawn's Truce
+Delayed Blast Fireball
+Deserted Beach
+Dovin's Veto
+Drake Hatcher
+Enlightened Tutor
+Enter the Enigma
+Expedite
+Fierce Guardianship
+Flooded Strand
+Gamble
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Hallowed Fountain
+Haze of Rage
+Invasion of Segovia
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Lightning Greaves
+Mana Confluence
+Minas Tirith
+Monastery Mentor
+Mountain
+Mystical Tutor
+Opt
+Otawara, Soaring City
+Path to Exile
+Perilous Landscape
+Plains
+Plaza of Heroes
+Ponder
+Preordain
+Prosperous Partnership
+Ral, Crackling Wit
+Rapid Augmenter
+Raugrin Triome
+Reflecting Pool
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea of Clouds
+See the Truth
+Sensei's Divining Top
+Shadow Rift
+Sheltered by Ghosts
+Sink into Stupor
+Skullclamp
+Slip Through Space
+Sol Ring
+Spectator Seating
+Steam Vents
+Stella Lee, Wild Card
+Storm-Kiln Artist
+Stormsplitter
+Sulfur Falls
+Sundering Eruption
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Terramorphic Expanse
+Third Path Iconoclast
+Training Center
+Underworld Breach
+Veyran, Voice of Duality
+Warlord's Fury
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Aqueous Form
+Arcane Signet
+Archmage Emeritus
+Ashling, Flame Dancer
+Azorius Chancery
+Balmor, Battlemage Captain
+Blasphemous Act
+Boros Charm
+Boros Garrison
+Bria, Riptide Rogue
+Cascade Bluffs
+Chart a Course
+Command Tower
+Consider
+Counterspell
+Crash Through
+Dawn's Truce
+Delayed Blast Fireball
+Deserted Beach
+Distortion Strike
+Dragon's Rage Channeler
+Elegant Parlor
+Enter the Enigma
+Expedite
+Expressive Iteration
+Fact or Fiction
+Faithless Looting
+Frantic Search
+Generous Gift
+Invasion of Segovia
+Irenicus's Vile Duplication
+Island
+Izzet Boilerworks
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Ledger Shredder
+Legion Leadership
+Leonin Lightscribe
+Loran's Escape
+Meticulous Archive
+Minas Tirith
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Mystic Gate
+Mystic Monastery
+Niblis of Frost
+Ojer Pakpatiq, Deepest Epoch
+Perilous Landscape
+Plains
+Plaza of Heroes
+Ponder
+Preordain
+Prismari Command
+Ral, Crackling Wit
+Raugrin Triome
+Reconnaissance Mission
+Reliquary Tower
+Response // Resurgence
+Rugged Prairie
+Saheeli, Sublime Artificer
+Sea of Clouds
+See the Truth
+Shadow Rift
+Shark Typhoon
+Sink into Stupor
+Slip Through Space
+Sol Ring
+Sorcerer Class
+Spectator Seating
+Stormcarved Coast
+Stormcatch Mentor
+Stroke of Midnight
+Supreme Verdict
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Thought Vessel
+Thrilling Discovery
+Thundering Falls
+Training Center
+Valakut Awakening
+Vandalblast
+Veyran, Voice of Duality
+Whirlwind of Thought
+Young Pyromancer
+
+Alania, Divergent Storm
+Angelfire Ignition
+Arcane Signet
+Arena of Glory
+Azorius Chancery
+Balmor, Battlemage Captain
+Boros Charm
+Bria, Riptide Rogue
+Cascade Bluffs
+Clifftop Retreat
+Command Tower
+Coruscation Mage
+Courageous Resolve
+Delayed Blast Fireball
+Drake Hatcher
+Elsha of the Infinite
+Enter the Enigma
+Exotic Orchard
+Expedite
+Fists of Flame
+Fleeting Reflection
+Flying Crane Technique
+Forger's Foundry
+Frostboil Snarl
+Gift of Estates
+Glacial Fortress
+Glamdring
+Great Train Heist
+Invasion of Segovia
+Irenicus's Vile Duplication
+Irrigated Farmland
+Island
+Izzet Boilerworks
+Jaya, Fiery Negotiator
+Jeskai Ascendancy
+Jeskai Charm
+Keldon Flamesage
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Legion Leadership
+Leonin Lightscribe
+Lorehold Command
+Lunar Insight
+Monastery Mentor
+Mountain
+Mystic Gate
+Mystic Monastery
+Narset, Enlightened Master
+Occult Epiphany
+Ojer Pakpatiq, Deepest Epoch
+Ojutai's Command
+Path of Ancestry
+Phantasmal Form
+Pinnacle Monk
+Plains
+Port Town
+Prairie Stream
+Pyretic Charge
+Ral, Crackling Wit
+Reprieve
+Sazacap's Brew
+Sea of Clouds
+See the Truth
+Seize the Day
+Shark Typhoon
+Shelter
+Show of Confidence
+Shu Yun, the Silent Tempest
+Sorcerer Class
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Sulfur Falls
+Taigam, Ojutai Master
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+The Restoration of Eiganjo
+Twinferno
+Valley Floodcaller
+Valorous Stance
+Vesuvan Duplimancy
+Veyran, Voice of Duality
+View from Above
+Warlord's Fury
+Whirlwind of Thought
+Winged Boots
+Young Pyromancer
+
+Adarkar Wastes
+Akroma's Will
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Arena of Glory
+Arid Mesa
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Birgi, God of Storytelling
+Boros Charm
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Clifftop Retreat
+Command Tower
+Consider
+Crash Through
+Deserted Beach
+Elsha of the Infinite
+Enter the Enigma
+Exotic Orchard
+Expedite
+Expressive Iteration
+Fabled Passage
+Faithless Looting
+Fellwar Stone
+Flooded Strand
+Frantic Search
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Hall of the Bandit Lord
+Hallowed Fountain
+Island
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Leonin Lightscribe
+Lightning Bolt
+Lightning Greaves
+Mass Hysteria
+Monastery Mentor
+Mountain
+Narset, Enlightened Master
+Opt
+Path to Exile
+Plains
+Ponder
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Relentless Assault
+Reliquary Tower
+Sacred Foundry
+Saheeli, Sublime Artificer
+Savage Beating
+Scalding Tarn
+Sea of Clouds
+See the Truth
+Serum Visions
+Shark Typhoon
+Shivan Reef
+Slip Through Space
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Stroke of Midnight
+Sulfur Falls
+Sundown Pass
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Training Center
+Urabrask
+Veyran, Voice of Duality
+Waves of Aggression
+Whirlwind of Thought
+Windfall
+World at War
+Young Pyromancer
+
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Austere Command
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Charm
+Boros Signet
+Brain Freeze
+Brainstorm
+Chaos Warp
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Dragon's Rage Channeler
+Elegant Parlor
+Elsha of the Infinite
+Exotic Orchard
+Expedite
+Expressive Iteration
+Fabled Passage
+Faithless Looting
+Fellwar Stone
+Fists of Flame
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Glacial Fortress
+Great Train Heist
+Haze of Rage
+Island
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Leonin Lightscribe
+Lightning Greaves
+Loran's Escape
+Mistfire Adept
+Monastery Mentor
+Mountain
+Mystic Monastery
+Nanogene Conversion
+Opt
+Path of Ancestry
+Path to Exile
+Perilous Landscape
+Plains
+Ponder
+Port Town
+Prairie Stream
+Preordain
+Reliquary Tower
+Rip Apart
+Rogue's Passage
+Saheeli, Sublime Artificer
+Savage Beating
+See the Truth
+Serum Visions
+Shadow Rift
+Shivan Reef
+Slip Out the Back
+Slip Through Space
+Snap
+Sol Ring
+Sprite Dragon
+Storm-Kiln Artist
+Stroke of Midnight
+Sulfur Falls
+Surge of Salvation
+Swiftfoot Boots
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Conviction
+Talisman of Creativity
+Talrand, Sky Summoner
+Temple of Enlightenment
+Temple of Epiphany
+Third Path Iconoclast
+Time Wipe
+Unbreakable Formation
+Veyran, Voice of Duality
+Whirlwind of Thought
+Young Pyromancer
+
+Arcane Signet
+Archmage Emeritus
+Authority of the Consuls
+Bloodstained Mire
+Bovine Intervention
+Brain Freeze
+Bria, Riptide Rogue
+Cascade Bluffs
+Clout of the Dominus
+Command Beacon
+Command Tower
+Consider
+Counterspell
+Crash Through
+Crimson Wisps
+Defiant Strike
+Eiganjo, Seat of the Empire
+Elegant Parlor
+Emberheart Challenger
+Enter the Enigma
+Esper Sentinel
+Expedite
+Faerie Mastermind
+Faithless Looting
+Fierce Guardianship
+Fists of Flame
+Flooded Strand
+Floodfarm Verge
+Get Lost
+Great Train Heist
+Hallowed Fountain
+Hanweir Battlements
+Hengegate Pathway
+Hydroblast
+Increasing Vengeance
+Island
+Izzet Signet
+Karn's Bastion
+Kellan, the Fae-Blooded
+Kykar, Wind's Fury
+Leap
+Lightning Bolt
+Lightning Greaves
+Mental Misstep
+Mental Note
+Might of the Meek
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Narset's Reversal
+Narset, Enlightened Master
+Niveous Wisps
+Path to Exile
+Perilous Landscape
+Pinnacle Monk
+Plains
+Polluted Delta
+Pongify
+Psychotic Fury
+Ral, Crackling Wit
+Raugrin Triome
+Rending Volley
+Restless Anchorage
+Sacred Foundry
+Seachrome Coast
+Shelter
+Shivan Reef
+Silver Shroud Costume
+Skullclamp
+Sokenzan, Crucible of Defiance
+Sol Ring
+Steam Vents
+Stormchaser's Talent
+Strix Serenade
+Subtlety
+Sundown Pass
+Swiftfoot Boots
+Sword of Body and Mind
+Sword of Once and Future
+Swords to Plowshares
+Talisman of Conviction
+Talrand, Sky Summoner
+Temporal Manipulation
+Third Path Iconoclast
+Thundering Falls
+Time Warp
+Training Center
+Untimely Malfunction
+Veyran, Voice of Duality
+Young Pyromancer
+
+Adarkar Wastes
+Ancient Tomb
+Arcane Signet
+Arid Mesa
+Ashling, Flame Dancer
+Brain Freeze
+Brainstorm
+Burning Inquiry
+Cascade Bluffs
+Cephalid Coliseum
+Chrome Mox
+City of Brass
+Command Tower
+Cyclonic Rift
+Dack Fayden
+Deflecting Swat
+Delayed Blast Fireball
+Dragon's Rage Channeler
+Enlightened Tutor
+Esper Sentinel
+Exotic Orchard
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Forbidden Orchard
+Force of Negation
+Force of Will
+Frantic Search
+Gamble
+Gemstone Caverns
+Gitaxian Probe
+Grand Abolisher
+Grim Monolith
+Grinding Station
+Gut Shot
+Hallowed Fountain
+Idyllic Tutor
+Imposter Mech
+Intuition
+Island
+Jace, Wielder of Mysteries
+Jace, the Perfected Mind
+Jeska's Will
+Lavinia, Azorius Renegade
+Lightning Bolt
+Lightning Greaves
+Lion's Eye Diamond
+Lotus Bloom
+Lotus Petal
+Mana Vault
+March of Swirling Mist
+Marsh Flats
+Monastery Mentor
+Mountain
+Mox Amber
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Otherworldly Gaze
+Palantír of Orthanc
+Phyrexian Metamorph
+Plains
+Ponder
+Portable Hole
+Pyroblast
+Ragavan, Nimble Pilferer
+Reflecting Pool
+Rhystic Study
+Riverglide Pathway
+Rugged Prairie
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sensei's Divining Top
+Sevinne's Reclamation
+Shivan Reef
+Smothering Tithe
+Sokenzan, Crucible of Defiance
+Sol Ring
+Soul Partition
+Spectator Seating
+Spell Snare
+Spellseeker
+Steam Vents
+Storm-Kiln Artist
+Stubborn Denial
+Sunbaked Canyon
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Traumatize
+Twinflame
+Underworld Breach
+Urza's Saga
+Windfall
+
+Adarkar Wastes
+Akroma's Will
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Charm
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Chaos Warp
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Deserted Beach
+Drake Hatcher
+Elsha of the Infinite
+Enter the Enigma
+Expedite
+Expressive Iteration
+Faithless Looting
+Ferrous Lake
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Glimmerburst
+Haze of Rage
+Hengegate Pathway
+Island
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Legion Leadership
+Leonin Lightscribe
+Lightning Bolt
+Lightning Greaves
+Lunar Insight
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Murmuring Mystic
+Mystic Gate
+Mystic Monastery
+Needleverge Pathway
+Nimbus Maze
+Opt
+Path to Exile
+Perilous Landscape
+Pinnacle Monk
+Plains
+Ponder
+Port Town
+Prairie Stream
+Preordain
+Rite of the Dragoncaller
+Riverglide Pathway
+Rugged Prairie
+Saheeli, Sublime Artificer
+See the Truth
+Serum Visions
+Sheltered by Ghosts
+Shivan Reef
+Skycloud Expanse
+Slip Through Space
+Snap
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Sulfur Falls
+Sunscorched Divide
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Third Path Iconoclast
+Thrill of Possibility
+Veyran, Voice of Duality
+Warlord's Fury
+Whirlwind of Thought
+Young Pyromancer
+
+Abraded Bluffs
+Aquatic Alchemist
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+As Foretold
+Blasphemous Act
+Bloodthirsty Adversary
+Cascade Bluffs
+Cathars' Crusade
+Command Tower
+Commander's Sphere
+Crystal Grotto
+Damning Verdict
+Dictate of Heliod
+Disdainful Stroke
+Electrostatic Field
+Epic Experiment
+Eris, Roar of the Storm
+Eroded Canyon
+Everflowing Chalice
+Evolving Wilds
+Fellwar Stone
+Final Showdown
+Fling
+Frolicking Familiar
+Frostboil Snarl
+Generous Gift
+Goblin Electromancer
+Great Train Heist
+Guttersnipe
+Haughty Djinn
+Heartflame Duelist
+Hedron Archive
+Hindering Light
+Impact Tremors
+Incinerate
+Island
+Ithilien Kingfisher
+Jeskai Ascendancy
+Kraum, Violent Cacophony
+Lightning Helix
+Lonely Arroyo
+Lotus Ring
+Meticulous Archive
+Mirage Mesa
+Mocking Sprite
+Monastery Mentor
+Mountain
+Narset of the Ancient Way
+Niv-Mizzet, Parun
+No More Lies
+Opt
+Path of Ancestry
+Plains
+Planar Outburst
+Ponder
+Pongify
+Port Town
+Prairie Stream
+Preordain
+Quick Study
+Razzle-Dazzler
+Reliquary Tower
+Restless Bivouac
+Rousing Refrain
+Shark Typhoon
+Shivan Reef
+Shock
+Slick Sequence
+Slickshot Show-Off
+Sol Ring
+Soulfire Grand Master
+Spirebluff Canal
+Steamcore Scholar
+Storm-Kiln Artist
+Sulfur Falls
+Swiftfoot Boots
+Talrand, Sky Summoner
+Temple of Epiphany
+Terramorphic Expanse
+Third Path Iconoclast
+Thunderclap Drake
+Veyran, Voice of Duality
+Whirlwind of Thought
+Winged Boots
+Young Pyromancer
+
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Charm
+Boros Signet
+Bovine Intervention
+Brainstorm
+Bria, Riptide Rogue
+Brimstone Roundup
+Capture of Jingzhou
+Case of the Ransacked Lab
+Chaos Warp
+Claim Jumper
+Command Tower
+Commander's Sphere
+Crash Through
+Deep Analysis
+Desolate Lighthouse
+Ecstatic Electromancer
+Elsha of the Infinite
+Evolving Wilds
+Exotic Orchard
+Expressive Iteration
+Faerie Mastermind
+Faithful Mending
+Flatline
+Flawless Maneuver
+Frostboil Snarl
+Furycalm Snarl
+Glacial Fortress
+Irenicus's Vile Duplication
+Island
+Jaya, Fiery Negotiator
+Jeskai Ascendancy
+Khenra Spellspear
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Lightning Greaves
+Mana Geyser
+Monastery Mentor
+Monastery Swiftspear
+Monk Class
+Mountain
+Myriad Landscape
+Path of Ancestry
+Path to Exile
+Pinnacle Monk
+Plains
+Ponder
+Preordain
+Psychic Paper
+Ral, Crackling Wit
+Relic of Legends
+Reliquary Tower
+Rhystic Study
+Rogue's Passage
+Sacred Peaks
+Salvation Swan
+Sea Gate Restoration
+Seething Song
+Sejiri Shelter
+Shivan Reef
+Skycloud Expanse
+Slick Sequence
+Slickshot Show-Off
+Snap
+Sol Ring
+Sonic Screwdriver
+Sorcerer Class
+Stormcatch Mentor
+Stroke of Midnight
+Sulfur Falls
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talrand, Sky Summoner
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Temple of the False God
+Think Twice
+Third Path Iconoclast
+Triton Wavebreaker
+Vandalblast
+Wayfarer's Bauble
+Whirlwind of Thought
+You Find Some Prisoners
+
+Adarkar Wastes
+Akroma's Will
+Ancestors' Aid
+Ancestral Anger
+Angelfire Ignition
+Arcane Bombardment
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Arena of Glory
+Beamsplitter Mage
+Bitter Reunion
+Blasphemous Act
+Boros Charm
+Cascade Bluffs
+Chandra's Ignition
+Clifftop Retreat
+Command Tower
+Counterspell
+Dawn Charm
+Deafening Clarion
+Dragon's Rage Channeler
+Dreadhorde Arcanist
+Dualcaster Mage
+Elegant Parlor
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Fellwar Stone
+Fists of Flame
+Flick a Coin
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Gift of Estates
+Glacial Fortress
+Glimpse the Impossible
+Inevitable Betrayal
+Irenicus's Vile Duplication
+Island
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Legion Leadership
+Loran's Escape
+Meticulous Archive
+Mirrorwing Dragon
+Monastery Mentor
+Mountain
+Plains
+Port Town
+Ral, Crackling Wit
+Rising of the Day
+Sacred Peaks
+See the Truth
+Sejiri Shelter
+Shelter
+Shivan Reef
+Shorikai, Genesis Engine
+Skycloud Expanse
+Slip Through Space
+Smothering Tithe
+Snap
+Sokenzan, Crucible of Defiance
+Sol Ring
+Storm-Kiln Artist
+Stormcatch Mentor
+Sudden Breakthrough
+Surge of Salvation
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Ageless Insight
+Third Path Iconoclast
+Thraben Charm
+Three Steps Ahead
+Thundering Falls
+Vesuvan Duplimancy
+Veyran, Voice of Duality
+Wear // Tear
+Whirlwind of Thought
+Windfall
+Witch's Mark
+Zada, Hedron Grinder
+
+Akroma's Will
+Angelfire Ignition
+Arcane Signet
+Arid Mesa
+Ashling, Flame Dancer
+Balmor, Battlemage Captain
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Chance for Glory
+Chaos Warp
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Cyclonic Rift
+Defiant Strike
+Dreadhorde Arcanist
+Eiganjo, Seat of the Empire
+Elsha of the Infinite
+Enter the Enigma
+Exotic Orchard
+Expedite
+Faithless Looting
+Feather, the Redeemed
+Fierce Guardianship
+Fists of Flame
+Flawless Maneuver
+Flowering of the White Tree
+Frantic Search
+Gitaxian Probe
+Island
+Jeskai Ascendancy
+Jeskai Charm
+Khenra Spellspear
+Kykar, Wind's Fury
+Leap
+Legion Leadership
+Leonin Lightscribe
+Mercadia's Downfall
+Monastery Mentor
+Mountain
+Mystic Sanctuary
+Mystical Tutor
+Ojer Pakpatiq, Deepest Epoch
+Opt
+Otawara, Soaring City
+Path to Exile
+Plains
+Plateau
+Ponder
+Pongify
+Prismari Command
+Ral, Crackling Wit
+Ral, Monsoon Mage
+Raugrin Triome
+Sacred Foundry
+Scalding Tarn
+Shadow Rift
+Siege Smash
+Slayers' Stronghold
+Slick Sequence
+Snap
+Sokenzan, Crucible of Defiance
+Steam Vents
+Stitch in Time
+Stormcatch Mentor
+Swords to Plowshares
+Talrand, Sky Summoner
+Teferi's Protection
+Temur Battle Rage
+The Royal Scions
+Third Path Iconoclast
+Thrill of Possibility
+Triton Wavebreaker
+Tundra
+Urabrask
+Veyran, Voice of Duality
+Volcanic Island
+Warleader's Call
+Wear // Tear
+Whirlwind of Thought
+Young Pyromancer
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Angelfire Ignition
+Arcane Signet
+Archmage Emeritus
+Ash Barrens
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Blazing Crescendo
+Boros Charm
+Boros Signet
+Brainstorm
+Change of Plans
+Combat Research
+Command Tower
+Counterspell
+Divine Reckoning
+Elsha of the Infinite
+Emerge Unscathed
+Exotic Orchard
+Expedite
+Expressive Iteration
+Fact or Fiction
+Faithless Looting
+Fellwar Stone
+Fists of Flame
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Gods Willing
+Guttersnipe
+Island
+Izzet Signet
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Leap
+Leonin Lightscribe
+Magus of the Wheel
+March of Swirling Mist
+Mind Stone
+Mizzix's Mastery
+Monastery Mentor
+Mountain
+Mystic Monastery
+Narset of the Ancient Way
+Negate
+Open into Wonder
+Ornithopter of Paradise
+Path to Exile
+Plains
+Pongify
+Port Town
+Prairie Stream
+Rapid Hybridization
+Reality Shift
+Rugged Prairie
+Sage of the Inward Eye
+Serum Visions
+Shadow Rift
+Shelter
+Shivan Reef
+Shore Up
+Skycloud Expanse
+Slip Through Space
+Snap
+Sol Ring
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talrand, Sky Summoner
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Third Path Iconoclast
+Whirlwind of Thought
+Windfall
+Winged Boots
+Young Pyromancer
+
+Adarkar Wastes
+Agate Assault
+Arcane Signet
+Archmage Emeritus
+Azorius Signet
+Battlefield Forge
+Brainstorm
+Burning Prophet
+Chrome Host Seedshark
+Clifftop Retreat
+Command Tower
+Consider
+Cryptic Serpent
+Cyclops Electromancer
+Daring Waverider
+Disdainful Stroke
+Distract the Guards
+Eris, Roar of the Storm
+Exalted Flamer of Tzeentch
+Expressive Iteration
+Farewell
+Firemind Vessel
+Flick a Coin
+Frantic Firebolt
+Frostboil Snarl
+Glacial Fortress
+Into the Flood Maw
+Invasion of Segovia
+Island
+Kindlespark Duo
+Kykar, Wind's Fury
+Living Lightning
+Lock and Load
+Magnus the Red
+Melek, Izzet Paragon
+Metamorphic Blast
+Mirage Mesa
+Mocking Sprite
+Moorland Haunt
+Mountain
+Mystic Monastery
+Narset of the Ancient Way
+Narset, Enlightened Master
+Negate
+Nimble Brigand
+Past in Flames
+Path of Ancestry
+Path to Exile
+Pearl of Wisdom
+Perilous Landscape
+Pink Horror
+Plains
+Ponder
+Port Town
+Prairie Stream
+Preordain
+Rapid Hybridization
+Ravenform
+Razzle-Dazzler
+Reliquary Tower
+Restless Spire
+Reverberate
+Run Away Together
+Saheeli, Sublime Artificer
+Scorching Shot
+Seize the Secrets
+Serum Visions
+Shark Typhoon
+Shivan Reef
+Slayers' Stronghold
+Slick Sequence
+Sol Ring
+Spirebluff Canal
+Storm-Kiln Artist
+Stormcatch Mentor
+Stroke of Midnight
+Sulfur Falls
+Swiftfoot Boots
+Swiftwater Cliffs
+Talisman of Conviction
+Talrand, Sky Summoner
+Tempest Angler
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Third Path Iconoclast
+Thunder Salvo
+Thundertrap Trainer
+Tzaangor Shaman
+Uncharted Haven
+Whirlwind of Thought
+Young Pyromancer
+
+Acrobatic Leap
+Adamant Will
+Angelfire Ignition
+Anger of the Gods
+Approach of the Second Sun
+Arcane Bombardment
+Arcane Signet
+Azorius Chancery
+Boros Charm
+Boros Garrison
+Bria, Riptide Rogue
+Chromatic Lantern
+Command Tower
+Crash Through
+Decanter of Endless Water
+Defiant Strike
+Deflecting Palm
+Dragon-Style Twins
+Elsha of the Infinite
+Enter the Enigma
+Fists of Flame
+Flawless Maneuver
+Flying Crane Technique
+Frantic Search
+Galadriel's Dismissal
+Gitaxian Probe
+Glacial Fortress
+Haze of Rage
+High Ground
+Homura, Human Ascendant
+Ishai, Ojutai Dragonspeaker
+Island
+Jeskai Ascendancy
+Jeskai Banner
+Jeskai Charm
+Leap
+Legion Leadership
+Lotus Path Djinn
+Mantis Rider
+Mirror Room // Fractured Realm
+Mistfire Adept
+Monastery Mentor
+Monastery Swiftspear
+Monk of the Open Hand
+Mountain
+Myriad Landscape
+Mystic Monastery
+Myth Realized
+Narset Transcendent
+Narset of the Ancient Way
+Narset, Enlightened Master
+Ojutai Exemplars
+Path of Ancestry
+Perilous Landscape
+Plains
+Prairie Stream
+Quiet Contemplation
+Raugrin Triome
+Reflections of Littjara
+Relentless Assault
+Reliquary Tower
+Response // Resurgence
+Rhystic Study
+Rune-Tail, Kitsune Ascendant
+Sage of the Inward Eye
+See the Truth
+Serene Master
+Serra Ascendant
+Shadow Rift
+Shu Yun, the Silent Tempest
+Sol Ring
+Soulfire Grand Master
+Stormcarved Coast
+Strongarm Monk
+Sundown Pass
+Sunforger
+Taigam, Ojutai Master
+Teleportal
+Temple of the False God
+Third Path Iconoclast
+Thought Vessel
+Thran Dynamo
+Thriving Heath
+Thriving Isle
+Training Center
+Veyran, Voice of Duality
+Warleader's Call
+Whirlwind of Thought
+Your Temple Is Under Attack
+
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Azorius Signet
+Balmor, Battlemage Captain
+Bloodstained Mire
+Boros Charm
+Boros Signet
+Brainstorm
+Cascade Bluffs
+Chart a Course
+Command Tower
+Consider
+Counterspell
+Crash Through
+Cyclonic Rift
+Elsha of the Infinite
+Enter the Enigma
+Exorcise
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Farewell
+Fellwar Stone
+Flooded Strand
+Frantic Search
+Generous Gift
+Hallowed Fountain
+Haze of Rage
+Island
+Izzet Signet
+Jeskai Ascendancy
+Jeskai Charm
+Kykar, Wind's Fury
+Leap
+Lórien Revealed
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Mystic Sanctuary
+Negate
+Opt
+Path to Exile
+Perilous Landscape
+Plains
+Ponder
+Preordain
+Reality Shift
+Reliquary Tower
+Rugged Prairie
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Serum Visions
+Shadow Rift
+Shelter
+Sheltered by Ghosts
+Skullclamp
+Slayers' Stronghold
+Slip Through Space
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Swiftfoot Boots
+Sword of Once and Future
+Swords to Plowshares
+Talisman of Creativity
+Talrand, Sky Summoner
+The Reality Chip
+The Wandering Rescuer
+Third Path Iconoclast
+Thought Scour
+Thrill of Possibility
+Training Center
+Vega, the Watcher
+Veyran, Voice of Duality
+Whirlwind of Thought
+Windfall
+Winged Boots
+Young Pyromancer
+
+An Offer You Can't Refuse
+Angel's Grace
+Arcane Signet
+Arid Mesa
+Blind Obedience
+Borne Upon a Wind
+Brain Freeze
+Cavern of Souls
+Cephalid Coliseum
+Chrome Mox
+City of Brass
+Command Tower
+Counterbalance
+Cyclonic Rift
+Deflecting Swat
+Delay
+Drannith Magistrate
+Emergence Zone
+Enlightened Tutor
+Esper Sentinel
+Exotic Orchard
+Fellwar Stone
+Fierce Guardianship
+Fiery Islet
+Final Fortune
+Flare of Duplication
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Frantic Search
+Gamble
+Gemstone Caverns
+Grand Abolisher
+Grinding Station
+Hallowed Fountain
+Intuition
+Island
+Jeskai Ascendancy
+Ledger Shredder
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Drain
+Marsh Flats
+Mental Misstep
+Mesmeric Orb
+Mindbreak Trap
+Misty Rainforest
+Mockingbird
+Mountain
+Mox Amber
+Mystic Remora
+Mystical Tutor
+Pact of Negation
+Plains
+Powerbalance
+Professional Face-Breaker
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Retraction Helix
+Reverberate
+Rhystic Study
+Rograkh, Son of Rohgahh
+Sacred Foundry
+Scalding Tarn
+Sensei's Divining Top
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Sink into Stupor
+Slickshot Show-Off
+Smothering Tithe
+Snap
+Sol Ring
+Spectator Seating
+Spire of Industry
+Steam Vents
+Sunbaked Canyon
+Swan Song
+Swords to Plowshares
+Talisman of Progress
+Tasha's Hideous Laughter
+Thassa's Oracle
+The One Ring
+Thought Scour
+Thundering Falls
+Tishana's Tidebinder
+Trailblazing Historian
+Training Center
+Trouble in Pairs
+Twincast
+Unauthorized Exit
+Underworld Breach
+Valley Floodcaller
+Wheel of Fortune
+Windfall
+Winds of Rebuke
+
+Akroma's Will
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Arena of Glory
+Azorius Signet
+Balmor, Battlemage Captain
+Birgi, God of Storytelling
+Blasphemous Act
+Boros Charm
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Case of the Ransacked Lab
+Clifftop Retreat
+Command Tower
+Consider
+Coruscation Mage
+Counterspell
+Crash Through
+Cyclonic Rift
+Deserted Beach
+Eiganjo, Seat of the Empire
+Elemental Eruption
+Elsha of the Infinite
+Eris, Roar of the Storm
+Expedite
+Expressive Iteration
+Fabled Passage
+Faithless Looting
+Fiery Inscription
+Flawless Maneuver
+Frantic Search
+Glacial Fortress
+Great Train Heist
+Guttersnipe
+Hallowed Fountain
+Harmonic Prodigy
+Hydroelectric Specimen
+Island
+Izzet Signet
+Kykar, Wind's Fury
+Legion Leadership
+Leonin Lightscribe
+Lightning Greaves
+Lock and Load
+Minas Tirith
+Monastery Mentor
+Monk Class
+Mountain
+Mystic Sanctuary
+Narset's Reversal
+Narset, Enlightened Master
+Niblis of Frost
+Opt
+Otawara, Soaring City
+Path of Ancestry
+Path to Exile
+Pinnacle Monk
+Plains
+Ponder
+Preordain
+Prismari Command
+Ral, Crackling Wit
+Raugrin Triome
+Rogue's Passage
+Sacred Foundry
+Sea of Clouds
+Sink into Stupor
+Slip Through Space
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser's Talent
+Sulfur Falls
+Sundering Eruption
+Sundown Pass
+Swiftfoot Boots
+Sword of Once and Future
+Swords to Plowshares
+Talrand, Sky Summoner
+Teferi's Protection
+Third Path Iconoclast
+Training Center
+Urabrask
+Veyran, Voice of Duality
+Warlord's Fury
+Whirlwind of Thought
+Young Pyromancer
+
+Akroma's Will
+An Offer You Can't Refuse
+Andúril, Flame of the West
+Arcane Signet
+Aurelia, the Law Above
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Signet
+Brimaz, King of Oreskos
+Cascade Bluffs
+Castle Embereth
+Command Tower
+Crush Contraband
+Dig Through Time
+Docent of Perfection
+Elsha of the Infinite
+Enter the Enigma
+Exalted Flamer of Tzeentch
+Expressive Iteration
+Firemind's Research
+Frantic Search
+Island
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kykar, Wind's Fury
+Leap
+Lock and Load
+Loyal Apprentice
+Military Intelligence
+Mizzix's Mastery
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Mystic Gate
+Mystic Monastery
+Niblis of Frost
+Nimbus Maze
+Niv-Mizzet, Parun
+Ovika, Enigma Goliath
+Paladin Class
+Path of Ancestry
+Path to Exile
+Plains
+Ponder
+Prairie Stream
+Preordain
+Quick Study
+Raff, Weatherlight Stalwart
+Reality Shift
+Rugged Prairie
+Rumor Gatherer
+Saheeli, Sublime Artificer
+Shadow Rift
+Shivan Reef
+Slip Through Space
+Snap
+Sprite Dragon
+Storm-Kiln Artist
+Suspend
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Third Path Iconoclast
+Treasure Cruise
+Tura Kennerüd, Skyknight
+Wayfarer's Bauble
+Wear // Tear
+Whirlwind of Thought
+Winds of Abandon
+Young Pyromancer
+
+An Offer You Can't Refuse
+Angelfire Ignition
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Authority of the Consuls
+Balmor, Battlemage Captain
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Clifftop Retreat
+Command Tower
+Counterspell
+Crackle with Power
+Crash Through
+Dawn's Truce
+Demand Answers
+Deserted Beach
+Double Vision
+Dovin's Veto
+Electrodominance
+Elsha of the Infinite
+Enlightened Tutor
+Faithless Looting
+Fiery Inscription
+Flooded Strand
+Frozen Aether
+Gamble
+Glacial Fortress
+Glamdring
+Hallowed Fountain
+Hengegate Pathway
+Idyllic Tutor
+Impact Tremors
+Island
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Lavaspur Boots
+Lotus Petal
+Mana Geyser
+Monastery Mentor
+Mountain
+Mystic Monastery
+Mystical Tutor
+Olórin's Searing Light
+Opt
+Past in Flames
+Path to Exile
+Plains
+Pongify
+Prairie Stream
+Ral, Crackling Wit
+Raugrin Triome
+Reiterate
+Relentless Assault
+Reliquary Tower
+Rite of the Dragoncaller
+Riverglide Pathway
+Sacred Foundry
+Scalding Tarn
+Seething Song
+Sevinne's Reclamation
+Sheltered by Ghosts
+Slip Through Space
+Sol Ring
+Solve the Equation
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Sulfur Falls
+Sundown Pass
+Swiftfoot Boots
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Creativity
+Third Path Iconoclast
+Thousand-Year Storm
+Thrill of Possibility
+Urza's Saga
+Velomachus Lorehold
+Veyran, Voice of Duality
+Warleader's Call
+Whirlwind of Thought
+Young Pyromancer
+
+Abrade
+Aminatou's Augury
+Arcane Signet
+Archon's Glory
+Ash Barrens
+Balmor, Battlemage Captain
+Borne Upon a Wind
+Cascading Cataracts
+Chrome Host Seedshark
+Clifftop Retreat
+Command Tower
+Commandeer
+Commander's Sphere
+Consider
+Counterspell
+Deflecting Swat
+Deserted Beach
+Dragon's Rage Channeler
+Elsha of the Infinite
+Ensnared by the Mara
+Evolving Wilds
+Exotic Orchard
+Expedite
+Faithless Looting
+Fellwar Stone
+Flame of Anor
+Flowering of the White Tree
+Frantic Search
+Frostboil Snarl
+Gamble
+Generous Gift
+Glimpse the Impossible
+Great Train Heist
+Guild Artisan
+Helm of the Host
+Into the Time Vortex
+Irenicus's Vile Duplication
+Island
+Kykar, Wind's Fury
+Laelia, the Blade Reforged
+Lightning Bolt
+Livaan, Cultist of Tiamat
+Loran's Escape
+Lórien Revealed
+Madcap Skills
+Mass Hysteria
+Minas Tirith
+Minds Aglow
+Mishra's Bauble
+Monastery Mentor
+Mountain
+Negate
+Ojer Pakpatiq, Deepest Epoch
+Path to Exile
+Pia Nalaar, Consul of Revival
+Plains
+Ponder
+Port Town
+Preordain
+Quantum Misalignment
+Quintorius Kand
+Ral, Crackling Wit
+Reliquary Tower
+Restless Spire
+Reverse the Polarity
+Rivendell
+Rogue's Passage
+Sacred Foundry
+Sapphire Medallion
+Shark Typhoon
+Shaun, Father of Synths
+Snap
+Sol Ring
+Swiftfoot Boots
+Swords to Plowshares
+Tempt with Mayhem
+Terramorphic Expanse
+Thought Vessel
+Three Steps Ahead
+Trailblazer's Boots
+Twinferno
+Vandalblast
+Wild Wasteland
+
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Arid Mesa
+Big Score
+Blasphemous Act
+Bloodstained Mire
+Brainstorm
+Brotherhood Regalia
+Cascade Bluffs
+Clout of the Dominus
+Command Tower
+Counterspell
+Crash Through
+Deserted Beach
+Dreadhorde Arcanist
+Fellwar Stone
+Flooded Strand
+Frantic Search
+Gitaxian Probe
+Hallowed Fountain
+Hengegate Pathway
+High Fae Trickster
+Invasion of Segovia
+Irenicus's Vile Duplication
+Island
+Izzet Signet
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Lightning Greaves
+Lunar Insight
+Misty Rainforest
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Nanogene Conversion
+Needleverge Pathway
+Negate
+Otawara, Soaring City
+Polluted Delta
+Ponder
+Pongify
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Reflecting Pool
+Relentless Assault
+Rhystic Study
+Riverglide Pathway
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea Gate Restoration
+Sea of Clouds
+See the Truth
+Serum Visions
+Sevinne's Reclamation
+Shadow Rift
+Shelter
+Shivan Reef
+Sink into Stupor
+Smothering Tithe
+Snap
+Sol Ring
+Sorcerer Class
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser's Talent
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Temporal Manipulation
+Third Path Iconoclast
+Thousand-Year Storm
+Thundering Falls
+Time Warp
+Training Center
+Treasure Cruise
+Unexpected Windfall
+Untimely Malfunction
+Veyran, Voice of Duality
+Whirlwind of Thought
+Winged Boots
+Wooded Foothills
+Young Pyromancer
+
+Altar of the Pantheon
+Arcane Signet
+Archmage Emeritus
+Armguard Familiar
+Balmor, Battlemage Captain
+Battlefield Forge
+Boltwave
+Bria, Riptide Rogue
+Coastal Tower
+Combat Research
+Command Tower
+Coruscation Mage
+Dawn's Truce
+Dazzling Denial
+Deduce
+Den of the Bugbear
+Disenchant
+Don't Make a Sound
+Elsha of the Infinite
+Evolving Wilds
+Flooded Strand
+Furious Bellow
+Ghitu Amplifier
+Grapeshot
+Hall of Storm Giants
+Heartfire Immolator
+Island
+Izzet Locket
+Jeskai Ascendancy
+Jeskai Charm
+Jhessian Thief
+Khenra Spellspear
+Legion Leadership
+Leyline of Resonance
+Lightning Bolt
+Lightning Strike
+Lunar Force
+March of Otherworldly Light
+Monastery Swiftspear
+Mountain
+Mystic Monastery
+Narset of the Ancient Way
+Narset, Enlightened Master
+Negate
+Ojer Pakpatiq, Deepest Epoch
+Orim's Chant
+Path of Ancestry
+Peculiar Lighthouse
+Perilous Landscape
+Plains
+Powerbalance
+Ral and the Implicit Maze
+Ral, Monsoon Mage
+Razzle-Dazzler
+Requisition Raid
+Return the Favor
+Ruby Medallion
+Rugged Prairie
+Seashell Cameo
+Seeker of the Way
+Shire Terrace
+Shore Up
+Skyline Cascade
+Sokenzan, Crucible of Defiance
+Sol Ring
+Swiftwater Cliffs
+Sword of Vengeance
+Tectonic Hazard
+Teferi's Tutelage
+Tempest Angler
+Thrill of Possibility
+Thriving Bluff
+Thriving Isle
+Trailblazer's Boots
+Tranquil Cove
+Triton Wavebreaker
+Turn Inside Out
+Twinblade Geist
+Unblinking Observer
+Violent Urge
+Warlord's Fury
+We Ride at Dawn
+Weapon Surge
+Whirlwind of Thought
+Witchstalker Frenzy
+
+Adamant Will
+Arcane Signet
+Archmage Emeritus
+Archon's Glory
+Aspirant's Ascent
+Azorius Chancery
+Azorius Signet
+Balmor, Battlemage Captain
+Behold the Multiverse
+Blessed Defiance
+Boros Garrison
+Boros Signet
+Brainstorm
+Brass's Bounty
+Bria, Riptide Rogue
+Clifftop Retreat
+Coming In Hot
+Command Tower
+Consider
+Daring Escape
+Depart the Realm
+Disruption Protocol
+Evolving Wilds
+Exotic Orchard
+Feather, the Redeemed
+Frantic Search
+Free from Flesh
+Frostboil Snarl
+Furious Bellow
+Furycalm Snarl
+Glacial Fortress
+Goblin Electromancer
+Island
+Izzet Boilerworks
+Izzet Signet
+Jeskai Ascendancy
+Kaya's Onslaught
+Khenra Spellspear
+Kindled Fury
+Leonin Lightscribe
+Lunar Frenzy
+Manaform Hellkite
+Mirrorwing Dragon
+Moment of Valor
+Monastery Mentor
+Mountain
+Mystic Monastery
+Opt
+Ovika, Enigma Goliath
+Path to Exile
+Perilous Landscape
+Plains
+Ponder
+Port Town
+Prairie Stream
+Preordain
+Prismari Command
+Pyromancer's Goggles
+Raze the Effigy
+Refuse to Yield
+Regent's Authority
+Reject
+Resculpt
+Rite of Replication
+Saw It Coming
+Sol Ring
+Spell Pierce
+Stolen Vitality
+Storm-Kiln Artist
+Stormcatch Mentor
+Stroke of Midnight
+Sulfur Falls
+Sure Strike
+Swords to Plowshares
+Syncopate
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Terramorphic Expanse
+Thought Vessel
+Veyran, Voice of Duality
+Violent Urge
+Whirling Strike
+Whirlwind of Thought
+Wings of the Cosmos
+You Come to the Gnoll Camp
+Zada, Hedron Grinder
+
+Abrade
+Adarkar Wastes
+Aqueous Form
+Arcane Signet
+Archmage Emeritus
+Artist's Talent
+As Foretold
+Battlefield Forge
+Blighted Agent
+Brainstorm
+Bria, Riptide Rogue
+Bring the Ending
+Burning Anger
+Chandra's Ignition
+Chaos Warp
+Clifftop Retreat
+Command Tower
+Consider
+Contentious Plan
+Corpse Cur
+Corrupted Conscience
+Coruscation Mage
+Crawling Chorus
+Demand Answers
+Electric Revelation
+Exotic Orchard
+Experimental Augury
+Faithless Looting
+Firebrand Archer
+Flux Channeler
+Frantic Search
+Glacial Fortress
+Goblin Electromancer
+Grafted Exoskeleton
+Grand Abolisher
+Gravitic Punch
+Guttersnipe
+Helm of Awakening
+Inexorable Tide
+Inkmoth Nexus
+Island
+Jeskai Ascendancy
+Karn's Bastion
+Kitsa, Otterball Elite
+Long-Term Plans
+Lost Leonin
+Mana Geyser
+Mountain
+Mystic Monastery
+Opt
+Past in Flames
+Path to Exile
+Plague Myr
+Plains
+Ponder
+Prairie Stream
+Priests of Norn
+Prologue to Phyresis
+Propaganda
+Radstorm
+Razor Swine
+Razortide Bridge
+Reject Imperfection
+Rogue's Passage
+Rootborn Defenses
+Serum Snare
+Shivan Reef
+Skrelv, Defector Mite
+Sol Ring
+Soul's Fire
+Steady Progress
+Stormcatch Mentor
+Swiftfoot Boots
+Swiftwater Cliffs
+Talisman of Creativity
+Tekuthal, Inquiry Dominus
+Thraben Charm
+Thrill of Possibility
+Thrummingbird
+Volt Charge
+Whirlwind of Thought
+White Sun's Twilight
+
+Akroma's Will
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Archmage Emeritus
+Arena of Glory
+Arid Mesa
+Balmor, Battlemage Captain
+Bloodstained Mire
+Boros Charm
+Brainstorm
+Chandra's Ignition
+Chrome Mox
+City of Brass
+Command Tower
+Consider
+Crash Through
+Cyclonic Rift
+Deflecting Swat
+Delayed Blast Fireball
+Dragon's Rage Channeler
+Enlightened Tutor
+Enter the Enigma
+Esper Sentinel
+Exotic Orchard
+Expedite
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Floodfarm Verge
+Flusterstorm
+Force of Negation
+Force of Will
+Frantic Search
+Gemstone Caverns
+Gitaxian Probe
+Grand Abolisher
+Hallowed Fountain
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Leap
+Ledger Shredder
+Leonin Lightscribe
+Lightning Greaves
+Lotus Petal
+Mana Confluence
+Marsh Flats
+Misty Rainforest
+Monastery Mentor
+Mountain
+Mox Diamond
+Mystic Remora
+Mystical Tutor
+Opt
+Otawara, Soaring City
+Path to Exile
+Plains
+Plateau
+Polluted Delta
+Ponder
+Preordain
+Ragavan, Nimble Pilferer
+Rhystic Study
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Serum Visions
+Shadow Rift
+Sink into Stupor
+Slip Through Space
+Smothering Tithe
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stroke of Midnight
+Swan Song
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+The One Ring
+Third Path Iconoclast
+Thought Scour
+Training Center
+Tundra
+Underworld Breach
+Veyran, Voice of Duality
+Volcanic Island
+Wheel of Fortune
+Whirlwind of Thought
+Windfall
+Windswept Heath
+Wooded Foothills
+Young Pyromancer
+
+Akroma's Will
+An Offer You Can't Refuse
+Archivist of Oghma
+Arena of Glory
+Arid Mesa
+Brain Freeze
+Careful Study
+Cavern of Souls
+City of Brass
+Command Tower
+Crucible of Worlds
+Cyclonic Rift
+Deflecting Swat
+Dragon's Rage Channeler
+Elegant Parlor
+Enlightened Tutor
+Faerie Mastermind
+Faithless Looting
+Farewell
+Fierce Guardianship
+Flawless Maneuver
+Flooded Strand
+Force of Will
+Frantic Search
+Gamble
+Gemstone Caverns
+Get Lost
+Gitaxian Probe
+Giver of Runes
+Grand Abolisher
+Hall of the Bandit Lord
+Hallowed Fountain
+Island
+Jace, Wielder of Mysteries
+Jeska's Will
+Land Tax
+Ledger Shredder
+Lightning Greaves
+Lórien Revealed
+Meticulous Archive
+Monastery Mentor
+Mother of Runes
+Mountain
+Myrel, Shield of Argive
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Nexus of Fate
+Omniscience
+Otawara, Soaring City
+Perilous Landscape
+Plains
+Plateau
+Ragavan, Nimble Pilferer
+Raugrin Triome
+Reforge the Soul
+Replenish
+Resurgent Belief
+Rhystic Study
+Rite of the Dragoncaller
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Search for Azcanta
+Serra Ascendant
+Shark Typhoon
+Silence
+Sink into Stupor
+Smothering Tithe
+Snapcaster Mage
+Sol Ring
+Spectator Seating
+Steam Vents
+Swan Song
+Swiftfoot Boots
+Swords to Plowshares
+Teferi's Protection
+Third Path Iconoclast
+Thundering Falls
+Tithe
+Training Center
+Treachery
+Tundra
+Underworld Breach
+Volcanic Island
+Waves of Aggression
+Wheel of Fate
+Wheel of Fortune
+Wheel of Misfortune
+Whirlwind of Thought
+Windfall
+Witch Enchanter
+Young Pyromancer
+
+Abbot of Keral Keep
+Alania, Divergent Storm
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Azorius Chancery
+Balmor, Battlemage Captain
+Bloodwater Entity
+Boros Charm
+Boros Garrison
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Dovin's Veto
+Elsha of the Infinite
+Enter the Enigma
+Exotic Orchard
+Expedite
+Expressive Iteration
+Fellwar Stone
+Frantic Search
+Generous Gift
+Glacial Fortress
+Glimmerburst
+Island
+Izzet Boilerworks
+Izzet Signet
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leonin Lightscribe
+Lightning Bolt
+Lightning Greaves
+Lilah, Undefeated Slickshot
+Long River's Pull
+Melek, Izzet Paragon
+Mockingbird
+Monastery Mentor
+Mountain
+Mystic Monastery
+Narset of the Ancient Way
+Negate
+Opt
+Path of Ancestry
+Path to Exile
+Perilous Landscape
+Plains
+Ponder
+Prairie Stream
+Rabid Gnaw
+Ral, Crackling Wit
+Run Away Together
+Season of Weaving
+Season of the Bold
+Shark Typhoon
+Sol Ring
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Stroke of Midnight
+Sulfur Falls
+Swarm Intelligence
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temple of Epiphany
+Third Path Iconoclast
+Thought Vessel
+Veyran, Voice of Duality
+Whirlwind of Thought
+
+Abraded Bluffs
+Arcane Signet
+Archmage Emeritus
+Ashling, Flame Dancer
+Azorius Signet
+Balmor, Battlemage Captain
+Battle Hymn
+Borne Upon a Wind
+Boros Charm
+Boros Garrison
+Boros Signet
+Brainstorm
+Brokers Hideout
+Buried Ruin
+Case of the Ransacked Lab
+Chaos Warp
+Command Tower
+Consider
+Counterspell
+Crash Through
+Decanter of Endless Water
+Don't Make a Sound
+Elsha of the Infinite
+Evolving Wilds
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Fiery Inscription
+Fists of Flame
+Flying Crane Technique
+Frantic Search
+Furycalm Snarl
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Island
+Izzet Signet
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Leap
+Leonin Lightscribe
+Lightning Bolt
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Mystic Monastery
+Mystic Sanctuary
+Opt
+Path of the Pyromancer
+Path to Exile
+Pinnacle Monk
+Plains
+Ponder
+Preordain
+Quicken
+Reprieve
+Rewind
+Saheeli, Sublime Artificer
+See the Truth
+Skycloud Expanse
+Slip Through Space
+Snap
+Sorcerer Class
+Storm-Kiln Artist
+Stormcatch Mentor
+Sundown Pass
+Sunforger
+Surge of Salvation
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Progress
+Talrand, Sky Summoner
+Temple of Enlightenment
+Temple of Triumph
+Third Path Iconoclast
+Thought Vessel
+Unbreakable Formation
+Unclaimed Territory
+Vega, the Watcher
+Veyran, Voice of Duality
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Akroma's Will
+An Offer You Can't Refuse
+Angelfire Ignition
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Bloodstained Mire
+Boros Charm
+Boros Signet
+Brainstorm
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Defiant Strike
+Deflecting Palm
+Dreadhorde Arcanist
+Elsha of the Infinite
+Empty the Warrens
+Exotic Orchard
+Expedite
+Expressive Iteration
+Fists of Flame
+Flawless Maneuver
+Flooded Strand
+Generous Gift
+Giver of Runes
+Glacial Fortress
+Hallowed Fountain
+Haze of Rage
+Hengegate Pathway
+Island
+Isochron Scepter
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Jeskai Charm
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leap
+Leonin Lightscribe
+Mind Stone
+Monastery Mentor
+Mother of Runes
+Mountain
+Mystic Monastery
+Mystic Remora
+Mystical Tutor
+Niblis of Frost
+Perilous Landscape
+Pinnacle Monk
+Plains
+Polluted Delta
+Ponder
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Relentless Assault
+Riverglide Pathway
+Rogue's Passage
+Sacred Foundry
+Savage Beating
+Scalding Tarn
+Shadow Rift
+Shivan Reef
+Sink into Stupor
+Slickshot Show-Off
+Slip Through Space
+Snap
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Sulfur Falls
+Supreme Verdict
+Swiftfoot Boots
+Swords to Plowshares
+Temur Battle Rage
+Third Path Iconoclast
+Thundering Falls
+Underworld Breach
+Untimely Malfunction
+Veyran, Voice of Duality
+Whirlwind of Thought
+Winged Boots
+Young Pyromancer
+
+Aetherflux Reservoir
+Arcane Signet
+Archmage Emeritus
+Archmage's Charm
+Azorius Signet
+Bident of Thassa
+Big Score
+Boros Charm
+Boros Signet
+Chrome Host Seedshark
+Command Tower
+Consider
+Crash Through
+Cryptic Command
+Cyclonic Rift
+Deekah, Fractal Theorist
+Demand Answers
+Elsha of the Infinite
+Exotic Orchard
+Expedite
+Fact or Fiction
+Faithless Looting
+Frantic Search
+Generous Gift
+Hexplate Wallbreaker
+Hurkyl, Master Wizard
+Inspired Tinkering
+Island
+Izzet Signet
+Jeskai Ascendancy
+Jin-Gitaxias
+Kabira Takedown
+Khenra Spellspear
+Kykar, Wind's Fury
+Lightning Bolt
+Lightning Greaves
+Manaform Hellkite
+Metallurgic Summonings
+Midnight Clock
+Monastery Mentor
+Mountain
+Mystic Confluence
+Mystic Monastery
+Ojutai's Command
+Opt
+Pirate's Pillage
+Plains
+Ponder
+Preordain
+Raugrin Triome
+Recurring Insight
+Sea Gate Restoration
+See the Truth
+Seize the Spoils
+Sejiri Shelter
+Serum Visions
+Shark Typhoon
+Shatterskull Smashing
+Shivan Reef
+Shorikai, Genesis Engine
+Shu Yun, the Silent Tempest
+Silundi Vision
+Sol Ring
+Storm-Kiln Artist
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Third Path Iconoclast
+Twinning Staff
+Unexpected Windfall
+Urabrask
+Valakut Awakening
+Warleader's Call
+Whirlwind of Thought
+World at War
+
+Aether Gale
+Aisha of Sparks and Smoke
+Alania, Divergent Storm
+Arcane Signet
+Ashling, Flame Dancer
+Balmor, Battlemage Captain
+Boros Charm
+Boros Garrison
+Chaos Warp
+Coalition Relic
+Command Tower
+Commander's Sphere
+Consider
+Counterspell
+Elemental Eruption
+Elsha of the Infinite
+Eris, Roar of the Storm
+Evolving Wilds
+Expressive Iteration
+Festival of Embers
+Fierce Guardianship
+Flame of Anor
+Generous Gift
+Gitaxian Probe
+Island
+Izzet Charm
+Jaya, Fiery Negotiator
+Jeskai Ascendancy
+Jeskai Charm
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Lilah, Undefeated Slickshot
+Lock and Load
+Mind Stone
+Mistfire Adept
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Myriad Landscape
+Mystic Monastery
+Mystical Tutor
+Narset's Reversal
+Niblis of Frost
+Opt
+Otherworldly Gaze
+Pirate's Pillage
+Plains
+Plaza of Heroes
+Pongify
+Preordain
+Prismari Campus
+Ral's Outburst
+Ral, Crackling Wit
+Relic of Legends
+Reliquary Tower
+Restless Spire
+Rionya, Fire Dancer
+Sacred Peaks
+Sea of Clouds
+See the Truth
+Shu Yun, the Silent Tempest
+Slick Sequence
+Sokenzan, Crucible of Defiance
+Sol Ring
+Stormsplitter
+Strategic Planning
+Talrand, Sky Summoner
+Teferi's Protection
+Temple of Triumph
+Terramorphic Expanse
+Thought Scour
+Thrill of Possibility
+Tibalt's Trickery
+Time Wipe
+Unbreakable Formation
+Veyran, Voice of Duality
+Wheel of Fate
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Abrade
+An Offer You Can't Refuse
+Ancient Tomb
+Anger
+Arcane Signet
+Archivist of Oghma
+Arid Mesa
+Blasphemous Act
+Bloodstained Mire
+Brain Freeze
+Burning Inquiry
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Cyclonic Rift
+Deflecting Swat
+Dovin's Veto
+Drannith Magistrate
+Dualcaster Mage
+Enlightened Tutor
+Esper Sentinel
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Gilded Drake
+Gitaxian Probe
+Grand Abolisher
+Hallowed Fountain
+Idyllic Tutor
+Imperial Recruiter
+Intuition
+Island
+Jeska's Will
+Jeweled Amulet
+Lavinia, Azorius Renegade
+Ledger Shredder
+Lightning Bolt
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+March of Swirling Mist
+Marsh Flats
+Mental Misstep
+Merchant Scroll
+Mesmeric Orb
+Mindbreak Trap
+Misty Rainforest
+Mox Amber
+Mox Diamond
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Otherworldly Gaze
+Pact of Negation
+Phyrexian Metamorph
+Plateau
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Reprieve
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Smothering Tithe
+Sol Ring
+Solve the Equation
+Spectator Seating
+Spellseeker
+Steam Vents
+Sundering Eruption
+Swan Song
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+The One Ring
+Training Center
+Traumatize
+Tundra
+Twinflame
+Underworld Breach
+Urza's Saga
+Volcanic Island
+Wheel of Fortune
+Windfall
+Windswept Heath
+Wooded Foothills
+
+Akroma's Will
+Ancestors' Aid
+Angelic Intervention
+Arcane Signet
+Archmage Emeritus
+Archon's Glory
+Arid Mesa
+Ashling, Flame Dancer
+Balmor, Battlemage Captain
+Baral and Kari Zev
+Birgi, God of Storytelling
+Boros Charm
+Bria, Riptide Rogue
+Brigone, Soldier of Meletis
+Clifftop Retreat
+Command Tower
+Crash Through
+Crimson Wisps
+Dawn's Truce
+Defiant Strike
+Delayed Blast Fireball
+Deserted Beach
+Desolate Lighthouse
+Drake Hatcher
+Dreadmaw's Ire
+Elegant Parlor
+Faithful Mending
+Faithless Looting
+Feather, the Redeemed
+Fellwar Stone
+Fight as One
+Flame of Anor
+Flooded Strand
+Frontline Heroism
+Galadriel's Dismissal
+Glacial Fortress
+Great Train Heist
+Hallowed Fountain
+Hearts on Fire
+Infuriate
+Inspiring Vantage
+Into the Fire
+Isochron Scepter
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leap
+Legion Leadership
+Leyline of Resonance
+Lightning Bolt
+Meticulous Archive
+Minas Tirith
+Monastery Mentor
+Monstrous Rage
+Murmuring Mystic
+Nimbus Maze
+Ojer Pakpatiq, Deepest Epoch
+Path to Exile
+Prismari Command
+Raugrin Triome
+Razorgrass Ambush
+Reckless Charge
+Reprieve
+Requisition Raid
+Rivendell
+Roaring Furnace // Steaming Sauna
+Sacred Foundry
+Sea Gate Restoration
+Sea of Clouds
+Seachrome Coast
+Sejiri Shelter
+Shadow Rift
+Shatterskull Smashing
+Shelter
+Slickshot Show-Off
+Slip Through Space
+Sol Ring
+Spectator Seating
+Spirebluff Canal
+Steam Vents
+Stormcarved Coast
+Stormchaser's Talent
+Sulfur Falls
+Sundown Pass
+Surge of Salvation
+Swords to Plowshares
+Temur Battle Rage
+Third Path Iconoclast
+Thought Vessel
+Thundering Falls
+Training Center
+Untimely Malfunction
+Urabrask
+Valakut Awakening
+Valgavoth's Lair
+Veyran, Voice of Duality
+Whirlwind of Thought
+Young Pyromancer
+
+Adarkar Wastes
+Akroma's Will
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Balmor, Battlemage Captain
+Birgi, God of Storytelling
+Blasphemous Act
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Chart a Course
+Command Tower
+Consider
+Counterspell
+Crash Through
+Crimson Wisps
+Cyclonic Rift
+Elsha of the Infinite
+Exotic Orchard
+Expedite
+Farewell
+Fiery Islet
+Fists of Flame
+Flooded Strand
+Frantic Search
+Generous Gift
+Gitaxian Probe
+Hallowed Fountain
+Haze of Rage
+Hengegate Pathway
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Leap
+Lightning Greaves
+Mind Stone
+Mizzix's Mastery
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Opt
+Otawara, Soaring City
+Ovika, Enigma Goliath
+Path of Ancestry
+Path to Exile
+Plains
+Ponder
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Reconnaissance Mission
+Reliquary Tower
+Rhystic Study
+Riverglide Pathway
+Rogue's Passage
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sensei's Divining Top
+Serum Visions
+Shadow Rift
+Shark Typhoon
+Shivan Reef
+Shorikai, Genesis Engine
+Skullclamp
+Slip Through Space
+Smothering Tithe
+Sokenzan, Crucible of Defiance
+Sol Ring
+Soul-Guide Lantern
+Spectacular Showdown
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Swiftfoot Boots
+Swords to Plowshares
+Talrand, Sky Summoner
+Temporal Manipulation
+Thespian's Stage
+Third Path Iconoclast
+Time Warp
+Training Center
+Urabrask
+Vandalblast
+Vesuva
+Veyran, Voice of Duality
+Whirlwind of Thought
+Young Pyromancer
+
+Akroma's Will
+Arcane Signet
+Artist's Talent
+Austere Command
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Cephalid Coliseum
+Chrome Host Seedshark
+Command Tower
+Consider
+Crash Through
+Cut Your Losses
+Deekah, Fractal Theorist
+Deranged Assistant
+Disenchant
+Dragon's Rage Channeler
+Eiganjo, Seat of the Empire
+Elegant Parlor
+Elsha of the Infinite
+Exotic Orchard
+Faithless Looting
+Fellwar Stone
+Fiery Islet
+Flooded Strand
+Frantic Search
+Gossip's Talent
+Great Train Heist
+Ground Rift
+Hallowed Fountain
+Hengegate Pathway
+Hydroelectric Specimen
+Inspiration from Beyond
+Island
+Izzet Charm
+Izzet Signet
+Jace, Vryn's Prodigy
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Legion Leadership
+Lightning Greaves
+Metallurgic Summonings
+Millikin
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Mystic Monastery
+Narset Transcendent
+Narset of the Ancient Way
+Narset's Reversal
+Narset, Enlightened Master
+Narset, Parter of Veils
+Needleverge Pathway
+Opt
+Overpowering Attack
+Ovika, Enigma Goliath
+Path to Exile
+Perilous Landscape
+Pinnacle Monk
+Plains
+Ponder
+Pongify
+Preordain
+Rapid Hybridization
+Riverglide Pathway
+Ruin Crab
+Rush of Inspiration
+Sea of Clouds
+Shark Typhoon
+Shivan Reef
+Sol Ring
+Spectator Seating
+Steam Vents
+Stormchaser's Talent
+Sunbaked Canyon
+Sundering Eruption
+Sunken Palace
+Suppression Ray
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Thought Scour
+Thundering Falls
+Trailblazer's Boots
+Training Center
+Unable to Scream
+Unwanted Remake
+Veyran, Voice of Duality
+Wayfarer's Bauble
+Whirlwind of Thought
+Windfall
+Witness Protection
+Young Pyromancer
+
+Absorb
+Arcane Signet
+Austere Command
+Baral, Chief of Compliance
+Bomat Courier
+Boros Charm
+Chandra, Dressed to Kill
+Chandra, Torch of Defiance
+Comet Storm
+Commander's Sphere
+Counterspell
+Crackling Drake
+Crash Through
+Cultivator's Caravan
+Cyclonic Rift
+Deluxe Dragster
+Djinn Illuminatus
+Empty the Warrens
+Erebor Flamesmith
+Etherium-Horn Sorcerer
+Exotic Orchard
+Expressive Iteration
+Faithless Looting
+Fiery Inscription
+Frostboil Snarl
+Furycalm Snarl
+Galvanic Iteration
+Gitaxian Probe
+Glamdring
+Goblin Electromancer
+Grapeshot
+Imposing Grandeur
+Increasing Devotion
+Island
+Izzet Charm
+Izzet Chemister
+Jeskai Ascendancy
+Kher Keep
+Knight of the White Orchid
+Kykar, Wind's Fury
+Mishra's Bauble
+Monastery Mentor
+Mountain
+Muddle the Mixture
+Mystic Monastery
+Mystic Remora
+Niv-Mizzet, Parun
+Opt
+Paradise Mantle
+Past in Flames
+Path to Exile
+Phial of Galadriel
+Pieces of the Puzzle
+Plains
+Port Town
+Prairie Stream
+Price of Progress
+Reconnaissance Mission
+Rogue's Passage
+Secure the Wastes
+Smite the Deathless
+Sol Ring
+Soul-Scar Mage
+Swords to Plowshares
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Temur Battle Rage
+The Locust God
+Thing in the Ice
+Training Center
+Underworld Breach
+Viashino Lashclaw
+Wear // Tear
+Whirlwind of Thought
+Wrath of God
+Young Pyromancer
+
+Adarkar Wastes
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Command Tower
+Counterspell
+Deflecting Palm
+Double Cleave
+Dovin's Veto
+Dragon-Style Twins
+Emberheart Challenger
+Eris, Roar of the Storm
+Evolving Wilds
+Expedite
+Fists of Flame
+Flooded Strand
+Frostboil Snarl
+Glacial Fortress
+Goblin Electromancer
+Gods Willing
+Impact Tremors
+Island
+Jeskai Ascendancy
+Jeskai Charm
+Kykar, Wind's Fury
+Legion Leadership
+Leonin Lightscribe
+Lightning Bolt
+Meticulous Archive
+Mighty Leap
+Molten Gatekeeper
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Murmuring Mystic
+Mystic Monastery
+Mystical Tutor
+Opt
+Path to Exile
+Perilous Landscape
+Plains
+Ponder
+Pongify
+Preordain
+Ral, Crackling Wit
+Ral, Monsoon Mage
+Reality Shift
+Reliquary Tower
+Rip Apart
+Sacred Foundry
+Sazacap's Brew
+Scalding Tarn
+Seeker of the Way
+Serum Visions
+Shivan Reef
+Siege Smash
+Slip Through Space
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser Mage
+Sulfur Falls
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Temple of Enlightenment
+Temple of Epiphany
+Temur Battle Rage
+Terramorphic Expanse
+Third Path Iconoclast
+Thought Vessel
+Thundering Falls
+Triton Wavebreaker
+Unbreakable Formation
+Valorous Stance
+Vandalblast
+Veyran, Voice of Duality
+Warleader's Call
+Whirlwind of Thought
+Young Pyromancer
+Zada, Hedron Grinder
+
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Balmor, Battlemage Captain
+Bloodwater Entity
+Boros Charm
+Bria, Riptide Rogue
+Burning Prophet
+Charismatic Conqueror
+Chart a Course
+City of Brass
+Clifftop Retreat
+Command Tower
+Crash Through
+Curate
+Cyclonic Rift
+Deflecting Swat
+Deserted Beach
+Dualcaster Mage
+Ecstatic Electromancer
+Eiganjo, Seat of the Empire
+Electrostatic Infantry
+Enlightened Tutor
+Eris, Roar of the Storm
+Esper Sentinel
+Exotic Orchard
+Expedite
+Expressive Iteration
+Fierce Guardianship
+Flawless Maneuver
+Flowering of the White Tree
+Frantic Search
+Get Lost
+Glacial Fortress
+Grand Abolisher
+Guttersnipe
+Hallowed Fountain
+Hengegate Pathway
+Island
+Jeskai Ascendancy
+Jeskai Charm
+Khenra Spellspear
+Mana Confluence
+Monastery Mentor
+Mountain
+Mystic Monastery
+Mystic Remora
+Needleverge Pathway
+Negate
+Otawara, Soaring City
+Path to Exile
+Plains
+Preordain
+Prismari Command
+Raugrin Triome
+Reality Shift
+Reflecting Pool
+Reliquary Tower
+Rhystic Study
+Riverglide Pathway
+Ruthless Invasion
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sea of Clouds
+See the Truth
+Shorikai, Genesis Engine
+Slip Through Space
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormwing Entity
+Sulfur Falls
+Sundown Pass
+Swan Song
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talrand, Sky Summoner
+Teferi's Protection
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+The One Ring
+Third Path Iconoclast
+Thought Vessel
+Training Center
+Twinferno
+Veyran, Voice of Duality
+Whirlwind of Thought
+Wizard Class
+Young Pyromancer
+Zhalfirin Shapecraft
+
+Accelerate
+Access Tunnel
+Ancestors' Aid
+Angelfire Ignition
+Arcane Signet
+Artist's Talent
+Ashling, Flame Dancer
+Balmor, Battlemage Captain
+Barbarian Ring
+Battlefield Forge
+Birgi, God of Storytelling
+Borne Upon a Wind
+Boros Charm
+Boros Signet
+Bria, Riptide Rogue
+Case of the Ransacked Lab
+Command Tower
+Conduit Pylons
+Cowardice
+Dovescape
+Enter the Enigma
+Exotic Orchard
+Expedite
+Eye of the Storm
+Fellwar Stone
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Giggling Skitterspike
+Glimpse the Impossible
+Goldspan Dragon
+Hall of Oracles
+Hidden Grotto
+Illuminator Virtuoso
+Isengard Unleashed
+Island
+Izzet Charm
+Jace, Wielder of Mysteries
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Knowledge Pool
+Krark, the Thumbless
+Leap
+Legion Leadership
+Leonin Lightscribe
+Livewire Lash
+Might of the Meek
+Mirrorwing Dragon
+Monastery Mentor
+Mountain
+Myriad Landscape
+Plains
+Port Town
+Possibility Storm
+Prairie Stream
+Reliquary Tower
+Requisition Raid
+Rite of the Dragoncaller
+Rogue's Passage
+Saheeli, Sublime Artificer
+Shadow Rift
+Shelter
+Skycloud Expanse
+Slayers' Stronghold
+Slip Through Space
+Spirebluff Canal
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser Drake
+Stormsplitter
+Sudden Breakthrough
+Surrakar Spellblade
+The Autonomous Furnace
+Third Path Iconoclast
+Thraben Charm
+Untimely Malfunction
+Urabrask
+Vesuvan Duplimancy
+Veyran, Voice of Duality
+Whirlwind of Thought
+Willbreaker
+Witch's Mark
+Young Pyromancer
+Zada, Hedron Grinder
+
+Adarkar Wastes
+Arcane Signet
+Arid Mesa
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Signet
+Bothersome Quasit
+Call the Coppercoats
+Candlekeep Inspiration
+Chart a Course
+Command Tower
+Compulsive Research
+Confounding Riddle
+Consider
+Council's Judgment
+Demolition Field
+Dig Through Time
+Distract the Guards
+Drag Under
+Dragon's Rage Channeler
+Escape Detection
+Exotic Orchard
+Expressive Iteration
+Fellwar Stone
+Ferrous Lake
+For the Emperor!
+Gitaxian Probe
+Glimpse the Impossible
+Hop to It
+Hordeling Outburst
+Island
+Izzet Signet
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Leonin Lightscribe
+Lórien Revealed
+Makindi Stampede
+Mercurial Spelldancer
+Minas Tirith
+Mind Stone
+Moment of Truth
+Monastery Mentor
+Mountain
+Of One Mind
+Olórin's Searing Light
+Otherworldly Gaze
+Perilous Landscape
+Pieces of the Puzzle
+Plains
+Prairie Stream
+Prismatic Lens
+Pyretic Charge
+Queen's Commission
+Radical Idea
+Raugrin Triome
+Repulse
+Sacred Foundry
+Season of the Burrow
+Secrets of the Golden City
+See the Truth
+Shivan Reef
+Silundi Vision
+Sink into Stupor
+Skycloud Expanse
+Sram's Expertise
+Start the TARDIS
+Strategic Planning
+Sundering Eruption
+Sunscorched Divide
+Surge to Victory
+Sworn Companions
+Symbol of Unsummoning
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Taunt from the Rampart
+Think Twice
+Third Path Iconoclast
+Thunderclap Drake
+Thundertrap Trainer
+Tolarian Geyser
+Treasure Cruise
+Young Pyromancer
+
+Akroma's Will
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Arena of Glory
+Arid Mesa
+Ashling, Flame Dancer
+Balmor, Battlemage Captain
+Birgi, God of Storytelling
+Bloodstained Mire
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Command Tower
+Consider
+Coruscation Mage
+Crash Through
+Crimson Wisps
+Dreadhorde Arcanist
+Elegant Parlor
+Enduring Curiosity
+Enter the Enigma
+Expedite
+Expressive Iteration
+Faithless Looting
+Fellwar Stone
+Fists of Flame
+Flooded Strand
+Forger's Foundry
+Frantic Search
+Gitaxian Probe
+Glamdring
+Glittering Stockpile
+Great Train Heist
+Hallowed Fountain
+Island
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Leap
+Legion Leadership
+Leonin Lightscribe
+Marsh Flats
+Meticulous Archive
+Might of the Meek
+Misty Rainforest
+Mizzix's Mastery
+Monastery Mentor
+Mountain
+Nanogene Conversion
+Negate
+Opt
+Otawara, Soaring City
+Perilous Landscape
+Pinnacle Monk
+Plains
+Polluted Delta
+Ponder
+Preordain
+Raugrin Triome
+Rogue's Passage
+Rush of Inspiration
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+See the Truth
+Sevinne's Reclamation
+Shadow Rift
+Shark Typhoon
+Sink into Stupor
+Skullclamp
+Slip Through Space
+Snow-Covered Island
+Snow-Covered Mountain
+Sokenzan, Crucible of Defiance
+Song of Totentanz
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormsplitter
+Stroke of Midnight
+Surge of Salvation
+Third Path Iconoclast
+Thundering Falls
+Training Center
+Treasure Cruise
+Unwind
+Valakut Awakening
+Veyran, Voice of Duality
+Wand of the Worldsoul
+Waves of Aggression
+Wayfarer's Bauble
+Whirlwind of Thought
+Windswept Heath
+Witch Enchanter
+Wooded Foothills
+Young Pyromancer
+
+Aqueous Form
+Arcane Signet
+Archmage Emeritus
+Balmor, Battlemage Captain
+Baral and Kari Zev
+Battlefield Forge
+Bulk Up
+Chromatic Lantern
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Curate
+Divine Visitation
+Dream Twist
+Elemental Eruption
+Epic Experiment
+Eris, Roar of the Storm
+Exotic Orchard
+Expedite
+Fact or Fiction
+Faithless Looting
+Fiery Islet
+Finale of Promise
+Fists of Flame
+Flying Crane Technique
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Glacial Fortress
+Island
+Izzet Charm
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Knowledge Is Power
+Leap
+Ledger Shredder
+Leonin Lightscribe
+Loran's Escape
+Magus of the Wheel
+Meticulous Archive
+Mishra's Bauble
+Mission Briefing
+Mizzix's Mastery
+Monastery Mentor
+Mountain
+Mystic Gate
+Mystic Monastery
+Negate
+Niblis of Frost
+Octavia, Living Thesis
+Ominous Seas
+Omniscience
+Ondu Inversion
+Otherworldly Gaze
+Plains
+Prairie Stream
+Razorgrass Ambush
+Reliquary Tower
+Return the Past
+Rogue's Passage
+Rugged Prairie
+Sacred Foundry
+Savage Beating
+Sejiri Shelter
+Selfless Spirit
+Sensei's Divining Top
+Shattered Perception
+Slayers' Stronghold
+Slip Through Space
+Sol Ring
+Spirebluff Canal
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Ageless Insight
+Temple of Enlightenment
+Third Path Iconoclast
+Tolarian Winds
+Trailblazer's Boots
+Unbreakable Formation
+Veyran, Voice of Duality
+Warlord's Fury
+Whirlwind of Thought
+Windfall
+Winged Boots
+Young Pyromancer
+
+Akroma's Will
+Ancient Tomb
+Arcane Signet
+Archmage Emeritus
+Arena of Glory
+Arid Mesa
+Balmor, Battlemage Captain
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Cavern of Souls
+Charismatic Conqueror
+Chrome Mox
+City of Brass
+Clifftop Retreat
+Command Tower
+Consider
+Crash Through
+Crimson Wisps
+Cyclonic Rift
+Deflecting Swat
+Delayed Blast Fireball
+Eiganjo, Seat of the Empire
+Esper Sentinel
+Expedite
+Expressive Iteration
+Fierce Guardianship
+Fists of Flame
+Flawless Maneuver
+Flooded Strand
+Force of Will
+Galadriel's Dismissal
+Gamble
+Gitaxian Probe
+Glacial Fortress
+Hallowed Fountain
+Haze of Rage
+Hengegate Pathway
+Intuition
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leap
+Mana Confluence
+Monastery Mentor
+Mountain
+Mox Amber
+Mystic Remora
+Mystical Tutor
+Needleverge Pathway
+Otawara, Soaring City
+Path to Exile
+Plains
+Ponder
+Preordain
+Prismatic Vista
+Ragavan, Nimble Pilferer
+Ral, Crackling Wit
+Raugrin Triome
+Reflecting Pool
+Reliquary Tower
+Rhystic Study
+Riverglide Pathway
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+See the Truth
+Shadow Rift
+Shelter
+Silence
+Slip Through Space
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormsplitter
+Sulfur Falls
+Swan Song
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Teferi's Protection
+Teferi, Time Raveler
+Third Path Iconoclast
+Training Center
+Underworld Breach
+Urza's Saga
+Valley Floodcaller
+Veyran, Voice of Duality
+Whirlwind of Thought
+Winged Boots
+Young Pyromancer
+
+Aetherflux Reservoir
+Arcane Signet
+Arid Mesa
+Artist's Talent
+Azorius Charm
+Battlefield Forge
+Big Score
+Blasphemous Act
+Boros Charm
+Bria, Riptide Rogue
+Cascade Bluffs
+Clifftop Retreat
+Command Tower
+Consider
+Coruscation Mage
+Crackling Drake
+Crash Through
+Cyclonic Rift
+Decanter of Endless Water
+Deflecting Swat
+Drake Hatcher
+Electrostatic Infantry
+Enlightened Tutor
+Exotic Orchard
+Expressive Iteration
+Fabled Passage
+Farewell
+Fierce Guardianship
+Fiery Inscription
+Flooded Strand
+Frantic Search
+Glacial Fortress
+Gleeful Arsonist
+Grab the Prize
+Guttersnipe
+Hallowed Fountain
+Harmonic Prodigy
+Hengegate Pathway
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kessig Flamebreather
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Lightning Bolt
+Mana Drain
+Mana Geyser
+Mistfire Adept
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Mystic Monastery
+Mystic Sanctuary
+Mystical Tutor
+Needleverge Pathway
+Of One Mind
+Otawara, Soaring City
+Otterball Antics
+Path to Exile
+Plains
+Ponder
+Preordain
+Prismari Command
+Prismatic Vista
+Raugrin Triome
+Reliquary Tower
+Resculpt
+Rhystic Study
+Rip Apart
+Riverglide Pathway
+Rugged Prairie
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sensei's Divining Top
+Shivan Reef
+Silence
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser Mage
+Stormchaser's Talent
+Stormsplitter
+Sulfur Falls
+Sundown Pass
+Teferi's Protection
+Thought Vessel
+Training Center
+Twinferno
+Underworld Breach
+Urabrask
+Veyran, Voice of Duality
+
+Arcane Signet
+Archmage Emeritus
+Ashling, Flame Dancer
+Azorius Signet
+Balmor, Battlemage Captain
+Birgi, God of Storytelling
+Blasphemous Act
+Boros Charm
+Brainstorm
+Call the Coppercoats
+Chart a Course
+Clifftop Retreat
+Clout of the Dominus
+Command Tower
+Consider
+Counterspell
+Crash Through
+Elegant Parlor
+Elemental Eruption
+Exotic Orchard
+Expedite
+Expressive Iteration
+Farewell
+Fellwar Stone
+Flooded Strand
+Frantic Search
+Furycalm Snarl
+Generous Gift
+Ghostly Pilferer
+Glacial Fortress
+Haze of Rage
+Island
+Izzet Boilerworks
+Izzet Signet
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Leonin Lightscribe
+Meticulous Archive
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Mystic Monastery
+Nanogene Conversion
+Narset, Parter of Veils
+Ojer Pakpatiq, Deepest Epoch
+Opt
+Path of Ancestry
+Path to Exile
+Permission Denied
+Plains
+Ponder
+Preordain
+Pyretic Charge
+Reliquary Tower
+Rivendell
+Saheeli, Sublime Artificer
+See the Truth
+Shadow Rift
+Shark Typhoon
+Shivan Reef
+Shorikai, Genesis Engine
+Slickshot Show-Off
+Slip Through Space
+Sol Ring
+Sorcerer Class
+Storm-Kiln Artist
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Conviction
+Talisman of Creativity
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+Terramorphic Expanse
+Third Path Iconoclast
+Thundering Falls
+Urabrask
+Veyran, Voice of Duality
+Warleader's Call
+Whirlwind of Thought
+Whispersilk Cloak
+Windfall
+World at War
+Young Pyromancer
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Banishing Knack
+Birgi, God of Storytelling
+Blind Obedience
+Brain Freeze
+Burning Inquiry
+Cephalid Coliseum
+Chrome Mox
+City of Brass
+Clout of the Dominus
+Command Tower
+Defense Grid
+Deflecting Swat
+Dragon's Rage Channeler
+Elegant Parlor
+Enlightened Tutor
+Esper Sentinel
+Exotic Orchard
+Faerie Mastermind
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Final Fortune
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Grand Abolisher
+Grinding Station
+Hallowed Fountain
+Into the Flood Maw
+Intuition
+Island
+Jeska's Will
+Jeskai Ascendancy
+Lavaspur Boots
+Lightning Bolt
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+March of Swirling Mist
+Marsh Flats
+Mental Misstep
+Merchant Scroll
+Mindbreak Trap
+Misty Rainforest
+Mockingbird
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Otherworldly Gaze
+Pact of Negation
+Plateau
+Polluted Delta
+Pollywog Prodigy
+Pyroblast
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Red Elemental Blast
+Retraction Helix
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Sink into Stupor
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Static Prison
+Steam Vents
+Stubborn Denial
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+The One Ring
+Training Center
+Transmute Artifact
+Tundra
+Underworld Breach
+Valley Floodcaller
+Volcanic Island
+Wheel of Fortune
+Windfall
+Wooded Foothills
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Charm
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Chaos Warp
+Clifftop Retreat
+Command Tower
+Compulsive Research
+Consider
+Counterspell
+Crash Through
+Cyclonic Rift
+Dovin's Veto
+Elsha of the Infinite
+Enter the Enigma
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Fellwar Stone
+Flooded Strand
+Frantic Search
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Hallowed Fountain
+Island
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Legion Leadership
+Leonin Lightscribe
+Lightning Bolt
+Monastery Mentor
+Mountain
+Mystic Gate
+Mystic Monastery
+Mystical Tutor
+Opt
+Path to Exile
+Plains
+Ponder
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Reflecting Pool
+Reliquary Tower
+Rhystic Study
+Rugged Prairie
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea of Clouds
+See the Truth
+Serum Visions
+Sheltered by Ghosts
+Shivan Reef
+Slip Through Space
+Smothering Tithe
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Stroke of Midnight
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Training Center
+Veyran, Voice of Duality
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Abrade
+Akroma's Will
+Anger
+Aqueous Form
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Artist's Talent
+Azorius Signet
+Balmor, Battlemage Captain
+Bastion Protector
+Battlefield Forge
+Birthday Escape
+Blasphemous Act
+Brainstorm
+Case of the Shifting Visage
+Cavern of Souls
+Cephalid Coliseum
+Chart a Course
+Command Tower
+Consider
+Coruscation Mage
+Counterspell
+Dauntless Dismantler
+Dawn's Truce
+Dewdrop Cure
+Dispel
+Dovin's Veto
+Dualcaster Mage
+Emberheart Challenger
+Exotic Orchard
+Fellwar Stone
+Frantic Search
+Get Lost
+Glacial Fortress
+Glimpse the Impossible
+Guttersnipe
+Hearthborn Battler
+Helping Hand
+Imposing Sovereign
+Into the Flood Maw
+Island
+Izzet Signet
+Jori En, Ruin Diver
+Lightning Greaves
+Might of the Meek
+Mind Stone
+Mirrorpool
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Mystic Monastery
+Mystic Sanctuary
+Opt
+Peek
+Pinnacle Monk
+Plains
+Ponder
+Prairie Stream
+Preordain
+Prince Imrahil the Fair
+Reiterate
+Reliquary Tower
+Rhystic Study
+Serum Visions
+Shivan Reef
+Sleight of Hand
+Snap
+Sol Ring
+Starfall Invocation
+Stormcatch Mentor
+Stormsplitter
+Stubborn Denial
+Sulfur Falls
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Progress
+Talrand, Sky Summoner
+Thought Vessel
+Vandalblast
+Young Pyromancer
+
+Academy Ruins
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Arid Mesa
+Azorius Chancery
+Azorius Signet
+Balmor, Battlemage Captain
+Blasphemous Act
+Boros Charm
+Boros Signet
+Brain Freeze
+Chaos Warp
+Chart a Course
+Command Tower
+Counterspell
+Cyclonic Rift
+Deserted Beach
+Dig Through Time
+Ephara, God of the Polis
+Excise the Imperfect
+Expressive Iteration
+Fact or Fiction
+Farewell
+Flooded Strand
+Frantic Search
+Gamble
+Gitaxian Probe
+Glacial Fortress
+Hall of Heliod's Generosity
+Hallowed Fountain
+Haze of Rage
+Hydroelectric Specimen
+Island
+Izzet Boilerworks
+Izzet Signet
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Lightning Greaves
+Meticulous Archive
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Narset, Parter of Veils
+Negate
+Ondu Inversion
+Opt
+Path to Exile
+Pinnacle Monk
+Plains
+Ponder
+Prairie Stream
+Preordain
+Purphoros, God of the Forge
+Ral, Crackling Wit
+Raugrin Triome
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea of Clouds
+Sensei's Divining Top
+Serum Visions
+Sevinne's Reclamation
+Shivan Reef
+Silundi Vision
+Sink into Stupor
+Skullclamp
+Smothering Tithe
+Sol Ring
+Soul-Guide Lantern
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormchaser's Talent
+Stormsplitter
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Teferi's Protection
+Teferi, Master of Time
+Third Path Iconoclast
+Thought Scour
+Thundering Falls
+Tragic Arrogance
+Training Center
+Underworld Breach
+Wear // Tear
+Whirlwind of Thought
+Winds of Abandon
+Witch Enchanter
+Young Pyromancer
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Signet
+Archivist of Oghma
+Arid Mesa
+Azorius Signet
+Birgi, God of Storytelling
+Bloodstained Mire
+Brainstorm
+Bria, Riptide Rogue
+Chain of Vapor
+City of Brass
+Command Tower
+Consider
+Cyclonic Rift
+Deflecting Swat
+Delayed Blast Fireball
+Dragon's Rage Channeler
+Enlightened Tutor
+Esper Sentinel
+Exotic Orchard
+Expressive Iteration
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Force of Negation
+Force of Will
+Frantic Search
+Gamble
+Gitaxian Probe
+Hallowed Fountain
+Into the Flood Maw
+Island
+Jace, Wielder of Mysteries
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Lavaspur Boots
+Lightning Bolt
+Lotus Petal
+Mana Confluence
+Mana Drain
+Marsh Flats
+Mental Misstep
+Meticulous Archive
+Mishra's Bauble
+Misty Rainforest
+Mockingbird
+Monastery Mentor
+Mountain
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Opt
+Otawara, Soaring City
+Path to Exile
+Plains
+Plateau
+Polluted Delta
+Pollywog Prodigy
+Ponder
+Preordain
+Pyroblast
+Ragavan, Nimble Pilferer
+Ral, Crackling Wit
+Raugrin Triome
+Rhystic Study
+Sacred Foundry
+Savage Beating
+Scalding Tarn
+Sea Gate Restoration
+Sea of Clouds
+Sevinne's Reclamation
+Shivan Reef
+Silence
+Sink into Stupor
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Steam Vents
+Swan Song
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+The One Ring
+Thundering Falls
+Training Center
+Underworld Breach
+Urza's Saga
+Valley Floodcaller
+Wheel of Fortune
+Windfall
+Windswept Heath
+Wooded Foothills
+
+Adarkar Wastes
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Birgi, God of Storytelling
+Bloodstained Mire
+Boros Charm
+Boros Signet
+Brain Freeze
+Brainstorm
+Bria, Riptide Rogue
+City of Brass
+Command Tower
+Consider
+Crash Through
+Cyclonic Rift
+Deflecting Swat
+Delay
+Deserted Beach
+Dig Through Time
+Dreadhorde Arcanist
+Electrolyze
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithful Mending
+Faithless Looting
+Fierce Guardianship
+Filter Out
+Fire // Ice
+Flawless Maneuver
+Flooded Strand
+Frantic Search
+Gitaxian Probe
+Hallowed Fountain
+Haze of Rage
+Island
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Leonin Lightscribe
+Lightning Bolt
+Lightning Helix
+Lotus Petal
+Mana Confluence
+Marsh Flats
+Memory Lapse
+Misty Rainforest
+Monastery Mentor
+Mountain
+Mystical Tutor
+Nanogene Conversion
+Narset's Reversal
+Opt
+Path to Exile
+Pinnacle Monk
+Plains
+Polluted Delta
+Ponder
+Preordain
+Raugrin Triome
+Reflecting Pool
+Remand
+Reprieve
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea of Clouds
+Shivan Reef
+Snap
+Snapcaster Mage
+Sol Ring
+Song of Totentanz
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormsplitter
+Sundown Pass
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Training Center
+Treasure Cruise
+Underworld Breach
+Unexpectedly Absent
+Veyran, Voice of Duality
+Whirlwind of Thought
+Windswept Heath
+Wooded Foothills
+Young Pyromancer
+
+Abrade
+Agatha's Soul Cauldron
+Amphibian Downpour
+Ancient Tomb
+Angel's Grace
+Arcane Signet
+Archivist of Oghma
+Arena of Glory
+Arid Mesa
+Ashling, Flame Dancer
+Birgi, God of Storytelling
+Borne Upon a Wind
+Brain Freeze
+Cavern of Souls
+Cephalid Coliseum
+Chain of Vapor
+Chrome Mox
+City of Brass
+Clout of the Dominus
+Command Tower
+Cyclonic Rift
+Dack Fayden
+Deflecting Swat
+Delayed Blast Fireball
+Dispel
+Dragon's Rage Channeler
+Elegant Parlor
+Enlightened Tutor
+Esper Sentinel
+Exotic Orchard
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Final Fortune
+Flusterstorm
+Forbidden Orchard
+Force of Negation
+Force of Will
+Frantic Search
+Gamble
+Gemstone Caverns
+Grand Abolisher
+Grim Monolith
+Hallowed Fountain
+High Fae Trickster
+Intuition
+Jace, Wielder of Mysteries
+Kitsa, Otterball Elite
+Lightning Bolt
+Lightning Greaves
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+Marsh Flats
+Mental Misstep
+Minamo, School at Water's Edge
+Mindbreak Trap
+Misty Rainforest
+Mockingbird
+Mox Amber
+Mox Diamond
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Path to Exile
+Phyrexian Metamorph
+Plateau
+Pull from Eternity
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Red Elemental Blast
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Smothering Tithe
+Sol Ring
+Soul Partition
+Spectator Seating
+Steam Vents
+Stubborn Denial
+Swan Song
+Swords to Plowshares
+Talisman of Progress
+The One Ring
+Touch the Spirit Realm
+Training Center
+Tundra
+Underworld Breach
+Urza's Saga
+Volcanic Island
+Wheel of Fortune
+Windfall
+
+Akroma's Will
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Arena of Glory
+Arid Mesa
+Balmor, Battlemage Captain
+Birgi, God of Storytelling
+Blasphemous Act
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Chain of Vapor
+Chrome Mox
+City of Brass
+Clifftop Retreat
+Clout of the Dominus
+Command Tower
+Consider
+Counterspell
+Crash Through
+Cyclonic Rift
+Deflecting Swat
+Deserted Beach
+Dovin's Veto
+Elegant Parlor
+Elsha of the Infinite
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Fierce Guardianship
+Fists of Flame
+Flooded Strand
+Frantic Search
+Gamble
+Gitaxian Probe
+Glacial Fortress
+Hallowed Fountain
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Leap
+Lightning Bolt
+Lightning Greaves
+Lotus Petal
+Mana Confluence
+Meticulous Archive
+Monastery Mentor
+Mountain
+Mystical Tutor
+Opt
+Otawara, Soaring City
+Path to Exile
+Plains
+Ponder
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Reflecting Pool
+Rhystic Study
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Serum Visions
+Slip Through Space
+Smothering Tithe
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Sulfur Falls
+Sundown Pass
+Swan Song
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Time Raveler
+Third Path Iconoclast
+Thrill of Possibility
+Thundering Falls
+Training Center
+Veyran, Voice of Duality
+Wear // Tear
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Arid Mesa
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Charm
+Brainstorm
+Cascade Bluffs
+Chandra, Torch of Defiance
+Chaos Warp
+City of Brass
+Command Tower
+Consider
+Counterspell
+Cryptic Command
+Demand Answers
+Dig Through Time
+Docent of Perfection
+Elspeth, Sun's Champion
+Eris, Roar of the Storm
+Exotic Orchard
+Fabled Passage
+Fact or Fiction
+Faithless Looting
+Ferrous Lake
+Fiery Islet
+Flame of Anor
+Flooded Strand
+Frantic Search
+Gandalf of the Secret Fire
+Hallowed Fountain
+Impulse
+Island
+Izzet Boilerworks
+Izzet Charm
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Lightning Bolt
+Mana Confluence
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Mystic Confluence
+Mystic Sanctuary
+Mystical Tutor
+Niv-Mizzet, Parun
+Oona's Grace
+Opt
+Ovika, Enigma Goliath
+Path to Exile
+Plains
+Plateau
+Ponder
+Preordain
+Prismari Command
+Prophetic Bolt
+Pyroblast
+Ral, Crackling Wit
+Raugrin Triome
+Reflecting Pool
+Response // Resurgence
+Risk Factor
+Riverglide Pathway
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Shark Typhoon
+Shivan Reef
+Sol Ring
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Stormchaser's Talent
+Sublime Epiphany
+Sulfur Falls
+Sunbaked Canyon
+Supreme Verdict
+Supreme Will
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Teferi's Protection
+Third Path Iconoclast
+Thousand-Year Storm
+Three Steps Ahead
+Thundering Falls
+Training Center
+Tundra
+Urabrask
+Volcanic Island
+Young Pyromancer
+Your Temple Is Under Attack
+
+Akroma's Will
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Aurelia, the Warleader
+Azorius Signet
+Balmor, Battlemage Captain
+Blasphemous Act
+Bloodstained Mire
+Brotherhood Regalia
+Cascade Bluffs
+Chaos Warp
+Command Beacon
+Command Tower
+Counterspell
+Dack Fayden
+Deep Analysis
+Delayed Blast Fireball
+Dovin's Veto
+Exotic Orchard
+Faerie Mastermind
+Faithless Looting
+Flooded Strand
+Frantic Search
+Galadriel's Dismissal
+Gamble
+Glacial Fortress
+Hall of the Bandit Lord
+Hallowed Fountain
+Hit the Mother Lode
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Legion Leadership
+Lightning Greaves
+Loran of the Third Path
+Mana Confluence
+Marsh Flats
+Minas Tirith
+Mind Stone
+Monastery Mentor
+Moraug, Fury of Akoum
+Mountain
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Ovika, Enigma Goliath
+Path to Exile
+Pinnacle Monk
+Plains
+Plateau
+Polluted Delta
+Prairie Stream
+Professional Face-Breaker
+Pyroblast
+Raugrin Triome
+Red Elemental Blast
+Reforge the Soul
+Relentless Assault
+Reliquary Tower
+Resculpt
+Rhystic Study
+Rising of the Day
+Rivendell
+Rogue's Passage
+Sacred Foundry
+Scalding Tarn
+Seize the Day
+Sejiri Shelter
+Shark Typhoon
+Smothering Tithe
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Creativity
+The One Ring
+Time Warp
+Tundra
+Untimely Malfunction
+Valakut Awakening
+Volcanic Island
+Wash Out
+Wheel of Misfortune
+Whirlwind of Thought
+Windfall
+Witch Enchanter
+World at War
+Young Pyromancer
+
+Aetherflux Reservoir
+Arcane Signet
+Archmage Emeritus
+Balmor, Battlemage Captain
+Battlefield Forge
+Birgi, God of Storytelling
+Boros Garrison
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Command Tower
+Coruscation Mage
+Counterspell
+Deserted Beach
+Elemental Eruption
+Elsha of the Infinite
+Exotic Orchard
+Expansion // Explosion
+Fact or Fiction
+Faithless Looting
+Flare of Duplication
+Flying Crane Technique
+Frantic Search
+Gandalf's Sanction
+Glacial Fortress
+Grapeshot
+Guttersnipe
+Harmonic Prodigy
+Helm of Awakening
+Invert Polarity
+Island
+Izzet Boilerworks
+Jaya, Fiery Negotiator
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Lightning Bolt
+Mind's Desire
+Mizzix's Mastery
+Monastery Mentor
+Monastery Swiftspear
+Monk Class
+Mountain
+Mystic Gate
+Mystic Monastery
+Ojer Pakpatiq, Deepest Epoch
+Olórin's Searing Light
+Opt
+Path to Exile
+Plains
+Polymorphist's Jest
+Ponder
+Preordain
+Ral, Crackling Wit
+Ral, Monsoon Mage
+Raugrin Triome
+Reflecting Pool
+Reliquary Tower
+Rite of the Dragoncaller
+Rugged Prairie
+Sea of Clouds
+See the Truth
+Sensei's Divining Top
+Shark Typhoon
+Shivan Reef
+Sink into Stupor
+Slickshot Show-Off
+Slip Through Space
+Sol Ring
+Sorcerer Class
+Spectator Seating
+Sprite Dragon
+Storm King's Thunder
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormsplitter
+Sulfur Falls
+Sundown Pass
+Swords to Plowshares
+Thousand-Year Storm
+Time Wipe
+Training Center
+Twinferno
+Urabrask
+Vedalken Orrery
+Veyran, Voice of Duality
+Whirlwind of Thought
+
+Adarkar Wastes
+Aetherflux Reservoir
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Aurelia's Fury
+Baral and Kari Zev
+Baral, Chief of Compliance
+Battlefield Forge
+Borne Upon a Wind
+Boros Charm
+Bothersome Quasit
+Cephalid Facetaker
+Chandra's Ignition
+Clifftop Retreat
+Command Beacon
+Command Tower
+Cyclonic Rift
+Deflecting Palm
+Display of Power
+Domineering Will
+Dovin's Veto
+Dreadhorde Arcanist
+Dress Down
+Festival of Embers
+Fierce Guardianship
+Flame of Anor
+Force of Negation
+Frantic Search
+Fugitive Codebreaker
+Furycalm Snarl
+Gandalf the Grey
+Glacial Fortress
+Hallowed Fountain
+Haughty Djinn
+Heartflame Duelist
+Invasion of Segovia
+Island
+Izzet Charm
+Jeska's Will
+Khenra Spellspear
+Legion's Initiative
+Lost to Legend
+Midnight Pathlighter
+Mines of Moria
+Mizzix of the Izmagnus
+Monastery Mentor
+Mountain
+Mysterious Stranger
+Mystical Tutor
+Myth Realized
+Narset's Reversal
+Needleverge Pathway
+Olórin's Searing Light
+Path to Exile
+Permission Denied
+Plains
+Port Town
+Prairie Stream
+Primal Amulet
+Raugrin Triome
+Reiterate
+Reprieve
+Restless Spire
+Rogue's Passage
+Sacred Foundry
+Scalding Viper
+Sea of Clouds
+Seachrome Coast
+Seize the Day
+Sol Ring
+Sorcerer Class
+Spectator Seating
+Stenn, Paranoid Partisan
+Stitch in Time
+Storm-Kiln Artist
+Stroke of Midnight
+Sundown Pass
+Supreme Verdict
+Swiftfoot Boots
+Take the Bait
+Talisman of Conviction
+Talisman of Creativity
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+The Council of Four
+Thrill of Possibility
+Twining Twins
+Unexpected Windfall
+
+Aisha of Sparks and Smoke
+Akroma's Will
+Arcane Signet
+Arid Mesa
+Aurelia, the Warleader
+Azorius Signet
+Balmor, Battlemage Captain
+Birgi, God of Storytelling
+Boros Charm
+Boros Signet
+Charred Foyer // Warped Space
+Chrome Host Seedshark
+Clifftop Retreat
+Command Tower
+Counterspell
+Crash Through
+Dauntless Unity
+Deserted Beach
+Dovin's Veto
+Dragon's Rage Channeler
+Electrostatic Infantry
+Elegant Parlor
+Elsha of the Infinite
+Enter the Enigma
+Flooded Strand
+Glacial Fortress
+Hallowed Fountain
+Island
+Izzet Signet
+Jaya, Fiery Negotiator
+Jeska's Will
+Jeskai Ascendancy
+Khenra Spellspear
+Lavaspur Boots
+Leonin Lightscribe
+Lotus Petal
+Mana Drain
+Manaform Hellkite
+Metallurgic Summonings
+Meticulous Archive
+Monastery Mentor
+Mountain
+Mystical Tutor
+Narset of the Ancient Way
+Narset's Reversal
+Olórin's Searing Light
+Painter's Studio // Defaced Gallery
+Plains
+Prairie Stream
+Quick Study
+Ral, Crackling Wit
+Raugrin Triome
+Relentless Assault
+Response // Resurgence
+Sacred Foundry
+Savage Beating
+Scalding Tarn
+Sea of Clouds
+Seachrome Coast
+See the Truth
+Seize the Day
+Shark Typhoon
+Shu Yun, the Silent Tempest
+Silence
+Slayers' Stronghold
+Sol Ring
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stroke of Midnight
+Sulfur Falls
+Sundown Pass
+Surge of Salvation
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Third Path Iconoclast
+Thought Vessel
+Thundering Falls
+Twinferno
+Urabrask
+Veyran, Voice of Duality
+Waves of Aggression
+Whirlwind of Thought
+World at War
+
+Akroma's Will
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Artist's Talent
+Ashling, Flame Dancer
+Azorius Charm
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Command Tower
+Coruscation Mage
+Decanter of Endless Water
+Deserted Beach
+Dragon's Rage Channeler
+Drake Hatcher
+Everybody Lives!
+Evolving Wilds
+Exalted Flamer of Tzeentch
+Exotic Orchard
+Expressive Iteration
+Fabled Passage
+Faithless Looting
+Fellwar Stone
+Fiery Inscription
+Frantic Search
+Guttersnipe
+Harmonic Prodigy
+Haystack
+Impact Tremors
+Island
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Lock and Load
+Monastery Mentor
+Mountain
+Murmuring Mystic
+Narset's Reversal
+Opt
+Path to Exile
+Perilous Landscape
+Plains
+Preordain
+Purphoros, God of the Forge
+Ral, Crackling Wit
+Ral, Monsoon Mage
+Ral, Storm Conduit
+Rapid Hybridization
+Reprieve
+River's Rebuke
+Saheeli, Sublime Artificer
+Seize the Spotlight
+Sevinne's Reclamation
+Shark Typhoon
+Shivan Reef
+Skullclamp
+Smothering Tithe
+Sol Ring
+Solve the Equation
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Sulfur Falls
+Surge of Salvation
+Swords to Plowshares
+Talisman of Creativity
+Terramorphic Expanse
+Third Path Iconoclast
+Thrill of Possibility
+Unwind
+Veyran, Voice of Duality
+Warleader's Call
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Akroma's Will
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Aura of Silence
+Balmor, Battlemage Captain
+Bitter Reunion
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Brotherhood's End
+Call the Coppercoats
+Charismatic Conqueror
+Clowning Around
+Command Tower
+Crash Through
+Crimson Wisps
+Dance with Calamity
+Demolition Field
+Dreadhorde Arcanist
+Enter the Enigma
+Exotic Orchard
+Expansion // Explosion
+Expedite
+Flame Jab
+Flooded Strand
+Forbidden Friendship
+Frantic Search
+Galadriel's Dismissal
+Gitaxian Probe
+Great Train Heist
+Hallowed Fountain
+Harmonic Prodigy
+Hengegate Pathway
+Into the Fire
+Invasion of Segovia
+Island
+Jeskai Ascendancy
+Kabira Takedown
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leap
+Legion Leadership
+Leonin Lightscribe
+Lórien Revealed
+March of Swirling Mist
+Minas Tirith
+Monastery Mentor
+Mountain
+Nanogene Conversion
+Needleverge Pathway
+Otawara, Soaring City
+Path to Exile
+Plains
+Ponder
+Preordain
+Psychotic Fury
+Rally at the Hornburg
+Raugrin Triome
+Repeal
+Rip Apart
+Riverglide Pathway
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea of Clouds
+Seal of Cleansing
+See the Truth
+Sejiri Shelter
+Shadow Rift
+Shelter
+Sink into Stupor
+Skrelv's Hive
+Slip Through Space
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Stormchaser's Talent
+Sundering Eruption
+Surge of Salvation
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Third Path Iconoclast
+Training Center
+Veyran, Voice of Duality
+Whirlwind of Thought
+Windfall
+Witch Enchanter
+World at War
+Young Pyromancer
+
+Adarkar Wastes
+Akroma's Will
+Amped Raptor
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Arid Mesa
+Azorius Signet
+Battlefield Forge
+Bitter Reunion
+Boros Charm
+Boros Signet
+City of Brass
+Claim Jumper
+Command Tower
+Consider
+Counterspell
+Crash Through
+Deep Gnome Terramancer
+Delayed Blast Fireball
+Deserted Beach
+Displacer Kitten
+Dovin's Veto
+Dragon's Rage Channeler
+Dreadhorde Arcanist
+Exotic Orchard
+Expedite
+Expressive Iteration
+Extraction Specialist
+Faerie Mastermind
+Faithless Looting
+Fear of Missing Out
+Fellwar Stone
+Fiery Islet
+Fists of Flame
+Flame of Anor
+Flooded Strand
+Frantic Search
+Ghostly Pilferer
+Glacial Fortress
+Hallowed Fountain
+Hydroelectric Specimen
+Inevitable Betrayal
+Island
+Izzet Signet
+Jeskai Ascendancy
+Jolted Awake
+Khenra Spellspear
+Ledger Shredder
+Legion Leadership
+Leonin Lightscribe
+March of Swirling Mist
+Mountain
+Nascent Metamorph
+Opt
+Otawara, Soaring City
+Path to Exile
+Phlage, Titan of Fire's Fury
+Pinnacle Monk
+Plains
+Ponder
+Professional Face-Breaker
+Ral, Monsoon Mage
+Raugrin Triome
+Razorgrass Ambush
+Sacred Foundry
+Scalding Tarn
+Sea Gate Restoration
+Sea of Clouds
+See the Truth
+Sejiri Shelter
+Sevinne's Reclamation
+Shivan Reef
+Shorikai, Genesis Engine
+Sink into Stupor
+Slip Through Space
+Snap
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Stubborn Denial
+Sunbaked Canyon
+Sundown Pass
+Swan Song
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Training Center
+Tune the Narrative
+Valakut Awakening
+Vandalblast
+View from Above
+Whirlwind of Thought
+Windfall
+Winds of Abandon
+Witch Enchanter
+Yusri, Fortune's Flame
+
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Arena of Glory
+Balmor, Battlemage Captain
+Battlefield Forge
+Bitter Reunion
+Blasphemous Act
+Boros Charm
+Boros Signet
+Brainstorm
+Chaos Warp
+Chrome Host Seedshark
+Clifftop Retreat
+Command Tower
+Commander's Sphere
+Consider
+Counterspell
+Demand Answers
+Deserted Beach
+Dig Through Time
+Dovin's Veto
+Electrostatic Infantry
+Elegant Parlor
+Emeria's Call
+Exotic Orchard
+Expedite
+Expressive Iteration
+Fact or Fiction
+Faithful Mending
+Faithless Looting
+Fellwar Stone
+Fists of Flame
+Frantic Search
+Fugitive Codebreaker
+Generous Gift
+Glacial Fortress
+Island
+Lier, Disciple of the Drowned
+Lightning Bolt
+March of Swirling Mist
+Meticulous Archive
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Mystic Gate
+Narset, Parter of Veils
+Negate
+Opt
+Path of Ancestry
+Path to Exile
+Perilous Landscape
+Pinnacle Monk
+Plains
+Preordain
+Proft's Eidetic Memory
+Ral, Crackling Wit
+Reality Shift
+Reliquary Tower
+Rising of the Day
+Rogue's Passage
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sea of Clouds
+Shark Typhoon
+Shivan Reef
+Shorikai, Genesis Engine
+Sleight of Hand
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormwing Entity
+Stroke of Midnight
+Sundown Pass
+Supreme Verdict
+Surge of Salvation
+Swiftfoot Boots
+Swords to Plowshares
+Talrand, Sky Summoner
+Third Path Iconoclast
+Thought Scour
+Thought Vessel
+Vandalblast
+Wear // Tear
+Windfall
+Young Pyromancer
+
+Akroma's Will
+An Offer You Can't Refuse
+Arcane Signet
+Archmage Emeritus
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Boros Charm
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Cyclonic Rift
+Deserted Beach
+Dovin's Veto
+Elsha of the Infinite
+Enter the Enigma
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Frantic Search
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Hallowed Fountain
+Island
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leap
+Leonin Lightscribe
+Lightning Bolt
+Lightning Greaves
+Monastery Mentor
+Mountain
+Mystic Monastery
+Mystic Remora
+Mystical Tutor
+Opt
+Otawara, Soaring City
+Path to Exile
+Pinnacle Monk
+Plains
+Ponder
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Reliquary Tower
+Rhystic Study
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sea of Clouds
+See the Truth
+Serum Visions
+Shivan Reef
+Slip Through Space
+Smothering Tithe
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Sulfur Falls
+Sundown Pass
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Training Center
+Veyran, Voice of Duality
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Alania, Divergent Storm
+All That Glitters
+Angelfire Ignition
+Arcane Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Bident of Thassa
+Big Score
+Bitter Reunion
+Bria, Riptide Rogue
+Bulk Up
+Chromatic Lantern
+City on Fire
+Command Tower
+Commander's Sphere
+Counterspell
+Deflecting Swat
+Deserted Beach
+Dragon's Rage Channeler
+Drake Hatcher
+Enduring Curiosity
+Exotic Orchard
+Expressive Iteration
+Fabled Passage
+Fact or Fiction
+Faithless Looting
+Fellwar Stone
+Fiery Emancipation
+Fists of Flame
+Flare of Denial
+Flooded Strand
+Floodfarm Verge
+Frantic Search
+Grapeshot
+Hallowed Fountain
+Hengegate Pathway
+Invasion of Segovia
+Invoke Calamity
+Irenicus's Vile Duplication
+Island
+Jeskai Ascendancy
+Kaito, Cunning Infiltrator
+Karlach, Fury of Avernus
+Kitsa, Otterball Elite
+Laelia, the Blade Reforged
+Legion Leadership
+Lightning Bolt
+Lightning Helix
+Lotus Petal
+Lunar Insight
+Mana Geyser
+Mirror Room // Fractured Realm
+Monastery Mentor
+Monstrous Rage
+Mountain
+Nanogene Conversion
+Needleverge Pathway
+Nexus of Becoming
+Omniscience
+Otawara, Soaring City
+Party Thrasher
+Path of Ancestry
+Path to Exile
+Plains
+Ponder
+Prairie Stream
+Reforge the Soul
+Rhystic Study
+Rising of the Day
+Riverglide Pathway
+Ruby Medallion
+Sacred Foundry
+Sapphire Medallion
+Sea of Clouds
+Season of Weaving
+Seasoned Pyromancer
+Shivan Reef
+Sleep
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Stormcatch Mentor
+Sundown Pass
+Swiftfoot Boots
+Swords to Plowshares
+Teferi's Protection
+Temur Battle Rage
+Third Path Iconoclast
+Training Center
+Triton Wavebreaker
+Whirlwind of Thought
+Young Pyromancer
+
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Balmor, Battlemage Captain
+Birgi, God of Storytelling
+Blasphemous Act
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Chrome Mox
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Deafening Clarion
+Dragon's Rage Channeler
+Elsha of the Infinite
+Enter the Enigma
+Evolving Wilds
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithless Looting
+Ferrous Lake
+Fists of Flame
+Flusterstorm
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Glacial Fortress
+Hallowed Fountain
+Irrigated Farmland
+Island
+Izzet Charm
+Jaya, Fiery Negotiator
+Jeskai Ascendancy
+Khenra Spellspear
+Krenko, Tin Street Kingpin
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Leonin Lightscribe
+Lightning Bolt
+Lightning Greaves
+Mizzix's Mastery
+Monastery Swiftspear
+Mountain
+Mystic Monastery
+Mystic Sanctuary
+Narset's Reversal
+Obsessive Search
+Opt
+Path to Exile
+Plains
+Ponder
+Port Town
+Preordain
+Ral, Crackling Wit
+Reliquary Tower
+Reprieve
+Rogue's Passage
+Sacred Foundry
+Sejiri Shelter
+Serum Visions
+Siege Smash
+Skullclamp
+Skycloud Expanse
+Snap
+Sol Ring
+Steam Vents
+Stormcatch Mentor
+Stormwing Entity
+Sulfur Falls
+Sunscorched Divide
+Swords to Plowshares
+Taigam, Ojutai Master
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Temple of the False God
+Terramorphic Expanse
+Third Path Iconoclast
+Thought Scour
+Thrill of Possibility
+Urabrask
+Vega, the Watcher
+Veyran, Voice of Duality
+Whirlwind of Thought
+Young Pyromancer
+
+Abrade
+Aqueous Form
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Arena of Glory
+Arid Mesa
+Azorius Chancery
+Bident of Thassa
+Boros Charm
+Boros Garrison
+Bria, Riptide Rogue
+Command Tower
+Consider
+Crash Through
+Dance with Calamity
+Demand Answers
+Elegant Parlor
+Elsha of the Infinite
+Enter the Enigma
+Exotic Orchard
+Expressive Iteration
+Fellwar Stone
+Fervor
+Fists of Flame
+Flooded Strand
+Flying Crane Technique
+Frantic Search
+Generous Gift
+Glacial Fortress
+Glamdring
+Hallowed Fountain
+Irenicus's Vile Duplication
+Island
+Izzet Boilerworks
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Leonin Lightscribe
+Lightning Greaves
+Mana Confluence
+Meticulous Archive
+Monastery Mentor
+Mountain
+Mystic Monastery
+Mystic Sanctuary
+Mystical Tutor
+Narset of the Ancient Way
+Open the Armory
+Opt
+Path to Exile
+Pinnacle Monk
+Plains
+Ponder
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Reliquary Tower
+Rising of the Day
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Seeker of the Way
+Shu Yun, the Silent Tempest
+Slayers' Stronghold
+Slip Through Space
+Sol Ring
+Spectator Seating
+Steam Vents
+Steel of the Godhead
+Storm-Kiln Artist
+Stormcatch Mentor
+Stormchaser's Talent
+Stubborn Denial
+Sulfur Falls
+Surge of Salvation
+Swiftfoot Boots
+Sword of Once and Future
+Swords to Plowshares
+Taigam's Strike
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temur Battle Rage
+Thrill of Possibility
+Thundering Falls
+Titan's Strength
+Tormenting Voice
+Tragic Arrogance
+Training Center
+Unexpected Windfall
+Valakut Awakening
+Vandalblast
+Veyran, Voice of Duality
+Whirlwind of Thought
+Windfall
+
+Ajani Goldmane
+Ajani, Caller of the Pride
+Arcane Signet
+Chandra, Fire Artisan
+Chandra, Flamecaller
+Chandra, Torch of Defiance
+Chart a Course
+Chrome Host Seedshark
+City of Brass
+Clifftop Retreat
+Command Tower
+Council's Judgment
+Dack Fayden
+Dance with Calamity
+Deploy the Gatewatch
+Disrupt Decorum
+Dovin Baan
+Dreamtide Whale
+Elspeth Tirel
+Elspeth, Sun's Champion
+Ethereal Haze
+Faithless Looting
+Flux Channeler
+Frantic Search
+Glacial Fortress
+Hallowed Fountain
+Holy Day
+Ichormoon Gauntlet
+Island
+Jace Beleren
+Jace, Unraveler of Secrets
+Jace, the Mind Sculptor
+Jaya, Fiery Negotiator
+Jeskai Ascendancy
+Lae'zel, Vlaakith's Champion
+Leori, Sparktouched Hunter
+Lightning Greaves
+Maze of Ith
+Mountain
+Mu Yanling, Sky Dancer
+Mystic Monastery
+Nahiri, the Harbinger
+Narset of the Ancient Way
+Narset, Parter of Veils
+Niko Aris
+Oath of Gideon
+Oath of Jace
+Onakke Oathkeeper
+Plains
+Prairie Stream
+Quintorius Kand
+Ral, Crackling Wit
+Raugrin Triome
+Razortide Bridge
+Restore Balance
+Rip Apart
+Saheeli, Sublime Artificer
+Sarkhan the Masterless
+See the Truth
+Shivan Reef
+Silverbluff Bridge
+Sol Ring
+Sparkshaper Visionary
+Split Up
+Stroke of Midnight
+Sulfur Falls
+Sundown Pass
+Swords to Plowshares
+Teferi, Temporal Pilgrim
+Teferi, Time Raveler
+Teferi, Who Slows the Sunset
+The Eternal Wanderer
+The Royal Scions
+The Wanderer
+Third Path Iconoclast
+Titan's Strength
+Venser, the Sojourner
+Vronos, Masked Inquisitor
+Wayfarer's Bauble
+Will Kenrith
+Zariel, Archduke of Avernus
+
+Aetherflux Reservoir
+Anim Pakal, Thousandth Moon
+Arcane Denial
+Arcane Signet
+Archivist of Oghma
+Austere Command
+Aven Mindcensor
+Birgi, God of Storytelling
+Blind Obedience
+Brainsurge
+Charismatic Conqueror
+Circular Logic
+Clever Concealment
+Clifftop Retreat
+Cloud Key
+Combat Celebrant
+Command Tower
+Counterspell
+Deceiver Exarch
+Eerie Interlude
+Elsha of the Infinite
+Enlightened Tutor
+Ephemerate
+Esper Sentinel
+Evolving Wilds
+Exotic Orchard
+Fabricate
+Farewell
+Felidar Guardian
+Frostboil Snarl
+Furycalm Snarl
+Gamble
+Ghostly Flicker
+Grand Abolisher
+Impact Tremors
+Imperial Recruiter
+Island
+Kiki-Jiki, Mirror Breaker
+Krenko, Tin Street Kingpin
+Kykar, Wind's Fury
+Lightning Greaves
+Mana Leak
+Monastery Mentor
+Mountain
+Myrel, Shield of Argive
+Mystic Monastery
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Opt
+Path of Ancestry
+Path to Exile
+Plains
+Port Town
+Power Sink
+Prairie Stream
+Purphoros, God of the Forge
+Recruiter of the Guard
+Reliquary Tower
+Reprieve
+Restoration Angel
+Return to Dust
+Rhystic Study
+Semester's End
+Sensei's Divining Top
+Sol Ring
+Solve the Equation
+Soul Warden
+Spell Pierce
+Spellseeker
+Splinter Twin
+Suture Priest
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Terramorphic Expanse
+The Grey Havens
+The Reality Chip
+Third Path Iconoclast
+Thought Vessel
+Underworld Breach
+
+Abhorrent Oculus
+Acrobatic Cheerleader
+Aegis Turtle
+Alpine Watchdog
+Aurelia, the Law Above
+Auspicious Arrival
+Brave-Kin Duo
+Burnished Hart
+Case of the Ransacked Lab
+Combat Research
+Cryptic Coat
+Daggermaw Megalodon
+Dauntless River Marshal
+Disdainful Stroke
+Dust Bowl
+Extravagant Replication
+Flowstone Infusion
+Forum Familiar
+Geist of the Moors
+Geyser Drake
+Glory Bearers
+Grab the Prize
+Hardened Escort
+High Fae Trickster
+Island
+Jeskai Charm
+Jump Scare
+Kaito, Cunning Infiltrator
+Kitnap
+Knife
+Leonin of the Lost Pride
+Magnifying Glass
+Make Your Move
+Malcolm, the Eyes
+Marvin, Murderous Mimic
+Mountain
+Museum Nightwatch
+Night Market Guard
+On the Job
+Pacifism
+Painter's Studio // Defaced Gallery
+Person of Interest
+Phantasmal Form
+Phantasmal Mount
+Plains
+Prosperity Tycoon
+Red Herring
+Samite Herbalist
+Sanitation Automaton
+Spikewheel Acrobat
+Spring Splasher
+Syncopate
+Team Pennant
+Think Twice
+Tolarian Geyser
+Tranquil Cove
+Trusty Packbeast
+Tura Kennerüd, Skyknight
+Turn Inside Out
+Unauthorized Exit
+Unsummon
+Vault Robber
+Venser, Shaper Savant
+Warleader's Call
+Witness Protection
+Zephyr Boots
+
+Adarkar Wastes
+Akroma's Will
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Balmor, Battlemage Captain
+Blasphemous Act
+Boros Charm
+Brainstorm
+Bria, Riptide Rogue
+Cascade Bluffs
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Deserted Beach
+Distortion Strike
+Electrostatic Infantry
+Elsha of the Infinite
+Enter the Enigma
+Exotic Orchard
+Expressive Iteration
+Faithless Looting
+Fellwar Stone
+Fists of Flame
+Flawless Maneuver
+Floodfarm Verge
+Frantic Search
+Galadriel's Dismissal
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Harmonic Prodigy
+Irenicus's Vile Duplication
+Island
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Leap
+Leonin Lightscribe
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Murmuring Mystic
+Mystic Gate
+Mystic Monastery
+Mystical Tutor
+Narset's Reversal
+Opt
+Path of Ancestry
+Path to Exile
+Perilous Landscape
+Plains
+Ponder
+Pongify
+Preordain
+Ral, Crackling Wit
+Rite of the Dragoncaller
+Rugged Prairie
+Sea of Clouds
+See the Truth
+Shadow Rift
+Shivan Reef
+Slickshot Show-Off
+Slip Through Space
+Snap
+Sol Ring
+Spectator Seating
+Storm-Kiln Artist
+Stormcarved Coast
+Stroke of Midnight
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Training Center
+Veyran, Voice of Duality
+Whirlwind of Thought
+Young Pyromancer
+
+Abrade
+Adarkar Wastes
+Aether Hub
+Aetherworks Marvel
+Arcane Signet
+Azorius Signet
+Battlefield Forge
+Boros Charm
+Brainstorm
+Brotherhood Regalia
+Cephalid Coliseum
+Clifftop Retreat
+Coalition Relic
+Command Tower
+Conqueror's Flail
+Consulate Surveillance
+Consulate Turret
+Decoction Module
+Deserted Beach
+Distortion Strike
+Dizzy Spell
+Dragon's Rage Channeler
+Dynavolt Tower
+Elegant Parlor
+Exotic Orchard
+Expedite
+Experimental Augury
+Expressive Iteration
+Fabrication Module
+Fact or Fiction
+Faithless Looting
+Fellwar Stone
+Floodfarm Verge
+Flux Channeler
+Frantic Search
+Galvanic Discharge
+Glacial Fortress
+Glimmer of Genius
+Guide of Souls
+Hallowed Fountain
+Imprisoned in the Moon
+Impulse
+Island
+Izzet Charm
+Izzet Generatorium
+Izzet Signet
+Jaya, Fiery Negotiator
+Jolted Awake
+Lightning Bolt
+Lightning Greaves
+Malcolm, Alluring Scoundrel
+Manifold Insights
+March of Swirling Mist
+Meticulous Archive
+Monastery Swiftspear
+Mother of Runes
+Mountain
+Needleverge Pathway
+Opt
+Overpowering Attack
+Plains
+Ponder
+Prairie Stream
+Preordain
+Raugrin Triome
+Reconnaissance
+Riverglide Pathway
+Rogue's Passage
+Roil Cartographer
+Sacred Foundry
+Saheeli, Sublime Artificer
+Sea of Clouds
+Shivan Reef
+Slip Through Space
+Snap
+Sol Ring
+Spark Double
+Spectator Seating
+Spirit Link
+Steam Vents
+Steel of the Godhead
+Storm-Kiln Artist
+Stormcarved Coast
+Strike It Rich
+Sulfur Falls
+Sundown Pass
+Supreme Verdict
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Thundering Falls
+Training Center
+Tune the Narrative
+Utter Insignificance
+Wheel of Potential
+Whirler Virtuoso
+Wrath of the Skies
+Young Pyromancer
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Azorius Chancery
+Balmor, Battlemage Captain
+Brainstorm
+Brainsurge
+Cascade Bluffs
+Chandra's Ignition
+Clifftop Retreat
+Command Tower
+Conqueror's Pledge
+Consuming Tide
+Counterspell
+Crash Through
+Cyclonic Rift
+Deflecting Swat
+Delayed Blast Fireball
+Demand Answers
+Dragon's Rage Channeler
+Dreadhorde Arcanist
+Esper Sentinel
+Exotic Orchard
+Expedite
+Faithless Looting
+Fierce Guardianship
+Fiery Islet
+Flooded Strand
+Frantic Search
+Generous Gift
+Get Lost
+Glacial Fortress
+Hallowed Fountain
+Hengegate Pathway
+Invasion of Segovia
+Irenicus's Vile Duplication
+Island
+Izzet Boilerworks
+Izzet Charm
+Jeskai Ascendancy
+Lavaspur Boots
+Ledger Shredder
+Leonin Lightscribe
+Lightning Greaves
+Lórien Revealed
+Metallurgic Summonings
+Migratory Route
+Monastery Mentor
+Mystic Remora
+Mystical Tutor
+Occult Epiphany
+Path to Exile
+Plains
+Polluted Delta
+Ponder
+Preordain
+Prismatic Vista
+Raugrin Triome
+Rhystic Study
+Rite of the Dragoncaller
+Riverglide Pathway
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea of Clouds
+Shark Typhoon
+Shivan Reef
+Silundi Vision
+Single Combat
+Sink into Stupor
+Skullclamp
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Steam Vents
+Stormcarved Coast
+Stubborn Denial
+Sulfur Falls
+Surge to Victory
+Swan Song
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temporal Manipulation
+Third Path Iconoclast
+Thrill of Possibility
+Time Warp
+Training Center
+Urza's Saga
+Valakut Awakening
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Adarkar Wastes
+An Offer You Can't Refuse
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Ashling, Flame Dancer
+Balmor, Battlemage Captain
+Battlefield Forge
+Birgi, God of Storytelling
+Brainstorm
+Command Tower
+Consider
+Crash Through
+Cursed Totem
+Cyclonic Rift
+Deserted Beach
+Eiganjo, Seat of the Empire
+Elegant Parlor
+Enduring Innocence
+Expedite
+Expressive Iteration
+Faithless Looting
+Fiery Inscription
+Flawless Maneuver
+Flusterstorm
+Fountainport
+Gamble
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Haze of Rage
+Heroic Reinforcements
+Island
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Leap
+Loran's Escape
+Lórien Revealed
+March of Swirling Mist
+Mizzix's Mastery
+Monastery Mentor
+Mountain
+Mystic Remora
+Mystical Tutor
+Nanogene Conversion
+Opt
+Otawara, Soaring City
+Pact of Negation
+Path to Exile
+Pinnacle Monk
+Plains
+Ponder
+Preordain
+Ral, Crackling Wit
+Raugrin Triome
+Reconnaissance
+Rhystic Study
+Roaming Throne
+Saheeli, Sublime Artificer
+Scroll Rack
+See the Truth
+Shadow Rift
+Shivan Reef
+Slip Through Space
+Smothering Tithe
+Sokenzan, Crucible of Defiance
+Song of Totentanz
+Sorcerer Class
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormchaser's Talent
+Strix Serenade
+Sulfur Falls
+Sundown Pass
+Swan Song
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Third Path Iconoclast
+Urabrask
+Wayfarer's Bauble
+Young Pyromancer
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Birgi, God of Storytelling
+Bitter Reunion
+Brain Freeze
+Burning Inquiry
+Chain of Vapor
+Chrome Mox
+City of Brass
+Command Tower
+Cyclonic Rift
+Deflecting Swat
+Delayed Blast Fireball
+Dispel
+Displacer Kitten
+Dragon's Rage Channeler
+Drannith Magistrate
+Dress Down
+Enlightened Tutor
+Ephemerate
+Esper Sentinel
+Exotic Orchard
+Faerie Mastermind
+Faithless Looting
+Fellwar Stone
+Fierce Guardianship
+Final Fortune
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Grand Abolisher
+Grinding Station
+Hallowed Fountain
+Imposter Mech
+Intuition
+Jeska's Will
+Last Chance
+Ledger Shredder
+Lightning Greaves
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+Mental Misstep
+Mindbreak Trap
+Misty Rainforest
+Mox Diamond
+Muddle the Mixture
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Metamorph
+Pinnacle Monk
+Plateau
+Polluted Delta
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Red Elemental Blast
+Resculpt
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Sink into Stupor
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Spellseeker
+Spire of Industry
+Steam Vents
+Strike It Rich
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+The One Ring
+Thundering Falls
+Touch the Spirit Realm
+Training Center
+Trouble in Pairs
+Tundra
+Underworld Breach
+Volcanic Island
+Wheel of Fortune
+Windfall
+Windswept Heath
+Wooded Foothills
+
+Akroma's Will
+Arcane Bombardment
+Arcane Signet
+Arena of Glory
+Arid Mesa
+Assemble the Legion
+Azorius Signet
+Balmor, Battlemage Captain
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Chaos Warp
+Chromatic Lantern
+Command Beacon
+Command Tower
+Coruscation Mage
+Crash Through
+Cryptic Command
+Cyclonic Rift
+Deflecting Swat
+Delayed Blast Fireball
+Eiganjo, Seat of the Empire
+Elegant Parlor
+Elsha of the Infinite
+Enlightened Tutor
+Expressive Iteration
+Fabled Passage
+Fact or Fiction
+Fierce Guardianship
+Firespitter Whelp
+Flawless Maneuver
+Flooded Strand
+Frantic Search
+Galadriel's Dismissal
+Gamble
+Generous Gift
+Hallowed Fountain
+Invasion of Segovia
+Island
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Kykar, Wind's Fury
+Lightning Greaves
+Meticulous Archive
+Monastery Mentor
+Mountain
+Mystic Confluence
+Mystic Monastery
+Mystic Remora
+Mystical Tutor
+Narset of the Ancient Way
+Otawara, Soaring City
+Ovika, Enigma Goliath
+Passionate Archaeologist
+Path of Ancestry
+Path to Exile
+Plains
+Plaza of Heroes
+Ponder
+Preordain
+Prismari Command
+Ral, Crackling Wit
+Raugrin Triome
+Reconnaissance
+Reverse the Polarity
+Rhystic Study
+Rogue's Passage
+Sacred Foundry
+Saheeli, Sublime Artificer
+Savage Beating
+Scalding Tarn
+Sea of Clouds
+Shark Typhoon
+Sink into Stupor
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Steam Vents
+Steel of the Godhead
+Swiftfoot Boots
+Swords to Plowshares
+Teferi's Protection
+Third Path Iconoclast
+Thundering Falls
+Training Center
+Vega, the Watcher
+Veyran, Voice of Duality
+Wasteland
+Whirlwind of Thought
+Wrath of God
+Young Pyromancer
+
+Akroma's Will
+An Offer You Can't Refuse
+Arcane Signet
+Archmage of Runes
+Arid Mesa
+Balmor, Battlemage Captain
+Boros Charm
+Boseiju, Who Shelters All
+Brainstorm
+Bria, Riptide Rogue
+City of Brass
+Command Tower
+Counterbalance
+Counterspell
+Cyclonic Rift
+Dragon's Rage Channeler
+Drake Hatcher
+Elsha of the Infinite
+Esper Sentinel
+Expressive Iteration
+Expropriate
+Fabled Passage
+Farewell
+Fierce Guardianship
+Force of Negation
+Force of Will
+Fork
+Grand Abolisher
+Hallowed Fountain
+Hengegate Pathway
+Invasion of Gobakhan
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Lightning Bolt
+Lightning Greaves
+Monastery Mentor
+Mountain
+Mox Amber
+Mystical Tutor
+Narset, Enlightened Master
+Narset, Parter of Veils
+Needleverge Pathway
+Otawara, Soaring City
+Palantír of Orthanc
+Path to Exile
+Plains
+Ponder
+Preordain
+Prismari Command
+Raugrin Triome
+Reliquary Tower
+Rhystic Study
+Riverglide Pathway
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Search for Azcanta
+Serum Visions
+Shatterskull Smashing
+Silence
+Slayers' Stronghold
+Slickshot Show-Off
+Snap
+Snapcaster Mage
+Sol Ring
+Spectator Seating
+Steam Vents
+Stella Lee, Wild Card
+Storm-Kiln Artist
+Sword of Wealth and Power
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Teferi, Time Raveler
+Temporal Manipulation
+Training Center
+Urabrask
+Valakut Awakening
+Vandalblast
+Veyran, Voice of Duality
+Wheel of Fortune
+Windfall
+Wrath of God
+Young Pyromancer
+
+Akroma's Will
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Arid Mesa
+Balmor, Battlemage Captain
+Boros Charm
+Brainstorm
+Brainsurge
+Bria, Riptide Rogue
+Chandra's Ignition
+Claim Jumper
+Clifftop Retreat
+Command Tower
+Consider
+Cyclonic Rift
+Deflecting Swat
+Delayed Blast Fireball
+Deserted Beach
+Dramatic Reversal
+Esper Sentinel
+Exalted Flamer of Tzeentch
+Fierce Guardianship
+Fists of Flame
+Flooded Strand
+Force of Will
+Frantic Search
+Generous Gift
+Gitaxian Probe
+Glacial Fortress
+Hallowed Fountain
+Island
+Isochron Scepter
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Leap
+Legion Leadership
+Leonin Lightscribe
+Lórien Revealed
+Mana Drain
+Meticulous Archive
+Monastery Mentor
+Mountain
+Mox Amber
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Otawara, Soaring City
+Path to Exile
+Perilous Landscape
+Pinnacle Monk
+Plains
+Plateau
+Ponder
+Preordain
+Prismatic Vista
+Ral, Crackling Wit
+Raugrin Triome
+Relic of Legends
+Rhystic Study
+Sacred Foundry
+Scalding Tarn
+Sea Gate Restoration
+Sea of Clouds
+Sevinne's Reclamation
+Shadow Rift
+Sink into Stupor
+Slip Through Space
+Smothering Tithe
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Sulfur Falls
+Sundown Pass
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi's Protection
+Third Path Iconoclast
+Thunderclap Drake
+Thundering Falls
+Tragic Arrogance
+Training Center
+Trouble in Pairs
+Tundra
+Unexplained Absence
+Valakut Awakening
+Veyran, Voice of Duality
+Volcanic Island
+Whirlwind of Thought
+Winged Boots
+
+An Offer You Can't Refuse
+Arcane Signet
+Arid Mesa
+Balmor, Battlemage Captain
+Big Score
+Bitter Reunion
+Boros Charm
+Bria, Riptide Rogue
+Chandra's Ignition
+Command Tower
+Crash Through
+Cyclonic Rift
+Darksteel Mutation
+Delayed Blast Fireball
+Desolate Lighthouse
+Dovin's Veto
+Dragon's Rage Channeler
+Drake Hatcher
+Eiganjo, Seat of the Empire
+Elegant Parlor
+Excise the Imperfect
+Expressive Iteration
+Faithful Mending
+Fierce Guardianship
+Fists of Flame
+Flame of Anor
+Flooded Strand
+Frantic Search
+Galadriel's Dismissal
+Geier Reach Sanitarium
+Generous Gift
+Ghostly Pilferer
+Gitaxian Probe
+Great Train Heist
+Hallowed Fountain
+Haze of Rage
+Invasion of Segovia
+Island
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Kykar, Zephyr Awakener
+Lavaspur Boots
+Leonin Lightscribe
+Lórien Revealed
+Mana Confluence
+Meticulous Archive
+Monastery Mentor
+Mountain
+Mystic Remora
+Olórin's Searing Light
+Otawara, Soaring City
+Pinnacle Monk
+Plains
+Ponder
+Preordain
+Prismari Command
+Prismatic Vista
+Raugrin Triome
+Rhystic Study
+Rising of the Day
+Rush of Inspiration
+Sacred Foundry
+Saheeli, Sublime Artificer
+Scalding Tarn
+Sea Gate Restoration
+Sea of Clouds
+See the Truth
+Shark Typhoon
+Shelter
+Sink into Stupor
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormchaser's Talent
+Sundering Eruption
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Third Path Iconoclast
+Thundering Falls
+Training Center
+Wear // Tear
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+
+Adarkar Wastes
+Arcane Signet
+Archmage Emeritus
+Arena of Glory
+Azorius Chancery
+Azorius Signet
+Balmor, Battlemage Captain
+Baral and Kari Zev
+Baral, Chief of Compliance
+Battlefield Forge
+Blasphemous Act
+Boros Charm
+Boros Garrison
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Brotherhood Regalia
+Clifftop Retreat
+Command Tower
+Consider
+Counterspell
+Crash Through
+Dragon's Rage Channeler
+Echo of Eons
+Eris, Roar of the Storm
+Exotic Orchard
+Expedite
+Expressive Iteration
+Faithful Mending
+Faithless Looting
+Fists of Flame
+Frantic Search
+Gitaxian Probe
+Glacial Fortress
+Goblin Electromancer
+Great Train Heist
+Guttersnipe
+Hallowed Fountain
+Hour of Revelation
+Island
+Izzet Boilerworks
+Izzet Signet
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Leap
+Lightning Greaves
+Magnus the Red
+Meticulous Archive
+Minas Tirith
+Mind Stone
+Monastery Mentor
+Mountain
+Mystic Monastery
+Mystic Sanctuary
+Opt
+Path to Exile
+Perilous Landscape
+Pinnacle Monk
+Plains
+Ponder
+Port Town
+Preordain
+Prismari Command
+Raugrin Triome
+Reliquary Tower
+Rising of the Day
+Rogue's Passage
+Sacred Foundry
+Sea of Clouds
+Serum Visions
+Shadow Rift
+Shivan Reef
+Shu Yun, the Silent Tempest
+Slip Through Space
+Sol Ring
+Spectator Seating
+Sprite Dragon
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser Mage
+Sulfur Falls
+Swan Song
+Swords to Plowshares
+Talisman of Creativity
+Talisman of Progress
+Third Path Iconoclast
+Thundering Falls
+Training Center
+Vandalblast
+Whirlwind of Thought
+Wing It
+Young Pyromancer
+
+Abbot of Keral Keep
+Adarkar Wastes
+All That Glitters
+Aqueous Form
+Arcane Signet
+Austere Command
+Azorius Charm
+Battlefield Forge
+Benevolent Blessing
+Birgi, God of Storytelling
+Blasphemous Act
+Bloodfire Enforcers
+Bria, Riptide Rogue
+Clifftop Retreat
+Clout of the Dominus
+Command Tower
+Desolate Lighthouse
+Dragon-Style Twins
+Eel Umbra
+Elsha of the Infinite
+Elusive Spellfist
+Enlightened Ascetic
+Ephara's Enlightenment
+Evolving Wilds
+Expressive Iteration
+Face of Divinity
+Feather of Flight
+Flood of Tears
+Flying Crane Technique
+Frostboil Snarl
+Furycalm Snarl
+Generous Gift
+Glacial Fortress
+Graceblade Artisan
+Grand Master of Flowers
+Hinata, Dawn-Crowned
+Hyena Umbra
+Invasion of Theros
+Island
+Jeskai Ascendancy
+Jeskai Charm
+Jeskai Elder
+Latulla's Orders
+Lavaspur Boots
+Leaping Master
+Leyline of Anticipation
+Mesa Enchantress
+Mistfire Adept
+Monastery Mentor
+Monastery Siege
+Monastery Swiftspear
+Monk Class
+Monk of the Open Hand
+Mountain
+Mystic Monastery
+Narset of the Ancient Way
+Narset, Enlightened Master
+Ojutai Exemplars
+Path of Ancestry
+Perilous Landscape
+Pit of Offerings
+Plains
+Prairie Stream
+Promising Vein
+Reliquary Tower
+Rip Apart
+Shimmering Wings
+Shivan Reef
+Shu Yun, the Silent Tempest
+Sol Ring
+Staggering Insight
+Sticky Fingers
+Sulfur Falls
+Swiftfoot Boots
+Swords to Plowshares
+Terramorphic Expanse
+The Archimandrite
+Third Path Iconoclast
+Thought Vessel
+Thundering Raiju
+Twinblade Blessing
+Wandering Champion
+Warrant // Warden
+Whirlwind of Thought
+Zephyr Scribe
+
+Adarkar Wastes
+Aggravated Assault
+Arcane Signet
+Arena of Glory
+Balmor, Battlemage Captain
+Baral's Expertise
+Battlefield Forge
+Boros Charm
+Bria, Riptide Rogue
+Brimstone Roundup
+Call the Coppercoats
+Cascade Bluffs
+Chasm Skulker
+Command Tower
+Connecting the Dots
+Cryptic Pursuit
+Curiosity Crafter
+Disrupt Decorum
+Docent of Perfection
+Elegant Parlor
+Eruth, Tormented Prophet
+Exotic Orchard
+Fellwar Stone
+Ferrous Lake
+Flamekin Village
+Fountainport
+Frantic Search
+Frostboil Snarl
+Gamble
+Get Lost
+Glacial Fortress
+Great Train Heist
+Grim Reaper's Sprint
+Hengegate Pathway
+Invasion of Segovia
+Irenicus's Vile Duplication
+Island
+Jeskai Ascendancy
+Karlach, Fury of Avernus
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kraum, Violent Cacophony
+Kykar, Wind's Fury
+Legion Leadership
+Leonin Lightscribe
+Lightning Greaves
+Lórien Revealed
+Mirror Room // Fractured Realm
+Mob Rule
+Monastery Mentor
+Monologue Tax
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion
+Needleverge Pathway
+Neyali, Suns' Vanguard
+Niblis of Frost
+Path to Exile
+Pinnacle Monk
+Plains
+Powerbalance
+Raugrin Triome
+Reconnaissance
+Reverse the Polarity
+Riverglide Pathway
+Roar of Resistance
+Rugged Prairie
+Savage Beating
+Sea of Clouds
+Shaun, Father of Synths
+Shivan Reef
+Skullclamp
+Sol Ring
+Spikefield Hazard
+Split Up
+Storm-Kiln Artist
+Stormchaser's Talent
+Stroke of Midnight
+Sulfur Falls
+Surge of Salvation
+Swords to Plowshares
+Talent of the Telepath
+Talisman of Conviction
+Talisman of Creativity
+Talrand, Sky Summoner
+The Tale of Tamiyo
+Third Path Iconoclast
+Thundering Falls
+Training Center
+Untimely Malfunction
+Veyran, Voice of Duality
+Warren Warleader
+Witch Enchanter
+Wizards of Thay
+Zinnia, Valley's Voice
+
+Adarkar Wastes
+Aisha of Sparks and Smoke
+Akroma's Will
+Arcane Denial
+Arcane Signet
+Arena of Glory
+Ashling, Flame Dancer
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Blasphemous Act
+Boros Signet
+Brainstorm
+Bria, Riptide Rogue
+Command Tower
+Counterspell
+Crash Through
+Deflecting Palm
+Demolition Field
+Desperate Ritual
+Dive Down
+Electrostatic Infantry
+Elsha of the Infinite
+Exotic Orchard
+Expressive Iteration
+Faithless Looting
+Farewell
+Fellwar Stone
+Flawless Maneuver
+Flusterstorm
+Forbid
+Frantic Search
+Frostboil Snarl
+Furycalm Snarl
+Grapeshot
+Guttersnipe
+Island
+Izzet Boilerworks
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Khenra Spellspear
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Land Tax
+Lightning Greaves
+Loran's Escape
+Monastery Mentor
+Monastery Swiftspear
+Mountain
+Mystic Monastery
+Path of Ancestry
+Pinnacle Monk
+Plains
+Ponder
+Port Town
+Pyretic Ritual
+Ral, Crackling Wit
+Reiterate
+Relentless Assault
+Restless Spire
+Rhystic Study
+Rogue's Passage
+See the Truth
+Seize the Day
+Shadow Rift
+Shivan Reef
+Shore Up
+Shu Yun, the Silent Tempest
+Silundi Vision
+Sink into Stupor
+Slickshot Show-Off
+Slip Through Space
+Sol Ring
+Steam Vents
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Sulfur Falls
+Surge of Salvation
+Swiftfoot Boots
+Talisman of Conviction
+Talisman of Creativity
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Triumph
+Thousand-Year Storm
+Training Center
+Triton Wavebreaker
+Underworld Breach
+Volatile Fjord
+Warlord's Fury
+
+Alchemist's Retrieval
+An Offer You Can't Refuse
+Ancient Tomb
+Angel's Grace
+Arcane Signet
+Arid Mesa
+Borne Upon a Wind
+Brain Freeze
+Burning Inquiry
+Cephalid Coliseum
+Chrome Mox
+City of Brass
+Clout of the Dominus
+Command Tower
+Crystal Vein
+Cyclonic Rift
+Deflecting Swat
+Displacer Kitten
+Dragon's Rage Channeler
+Enlightened Tutor
+Ephemerate
+Esper Sentinel
+Exotic Orchard
+Faithless Looting
+Fear of Missing Out
+Fellwar Stone
+Fierce Guardianship
+Flare of Duplication
+Flooded Strand
+Floodfarm Verge
+Flusterstorm
+Force of Negation
+Force of Will
+Gamble
+Gemstone Caverns
+Gitaxian Probe
+Grand Abolisher
+Grinding Station
+Hallowed Fountain
+Into the Flood Maw
+Intuition
+Jace, Wielder of Mysteries
+Jace, the Perfected Mind
+Ledger Shredder
+Lightning Greaves
+Lion's Eye Diamond
+Lotus Petal
+Mana Confluence
+Mana Vault
+Merchant Scroll
+Mindbreak Trap
+Misty Rainforest
+Mox Amber
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Otawara, Soaring City
+Otherworldly Gaze
+Pact of Negation
+Path to Exile
+Plateau
+Polluted Delta
+Pollywog Prodigy
+Professional Face-Breaker
+Pull from Eternity
+Ragavan, Nimble Pilferer
+Rhystic Study
+Rite of Flame
+Sacred Foundry
+Scalding Tarn
+Sevinne's Reclamation
+Silence
+Simian Spirit Guide
+Sink into Stupor
+Snow-Covered Island
+Snow-Covered Plains
+Sol Ring
+Spellseeker
+Spire of Industry
+Steam Vents
+Strike It Rich
+Stubborn Denial
+Swan Song
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Teferi, Time Raveler
+Thought Scour
+Training Grounds
+Transmute Artifact
+Tundra
+Underworld Breach
+Valley Floodcaller
+Volcanic Island
+Wheel of Fortune
+Whirlwind of Thought
+Windfall
+
+Aqueous Form
+Arcane Denial
+Arcane Signet
+Archivist of Oghma
+Balmor, Battlemage Captain
+Battlefield Forge
+Birgi, God of Storytelling
+Boros Charm
+Boros Signet
+Cascade Bluffs
+Chaos Warp
+City of Brass
+Clifftop Retreat
+Command Tower
+Conqueror's Flail
+Consecrated Sphinx
+Deserted Beach
+Dragon's Rage Channeler
+Dualcaster Mage
+Esper Sentinel
+Exotic Orchard
+Fear of Missing Out
+Fellwar Stone
+Ferrous Lake
+Forbidden Orchard
+Frantic Search
+Gamble
+Generous Gift
+Glacial Fortress
+Great Train Heist
+Grim Reaper's Sprint
+Guff Rewrites History
+Hengegate Pathway
+Hydroelectric Specimen
+Into the Roil
+Invert Polarity
+Irenicus's Vile Duplication
+Island
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Ledger Shredder
+Lightning Bolt
+Lightning Greaves
+Mana Confluence
+Mother of Runes
+Mountain
+Mystic Remora
+Negate
+Nimbus Maze
+Party Thrasher
+Path of Ancestry
+Path to Exile
+Plains
+Preordain
+Ranger-Captain of Eos
+Razorgrass Ambush
+Relentless Assault
+Rhystic Study
+Run for Your Life
+Scalding Tarn
+Sea of Clouds
+Serra Ascendant
+Sevinne's Reclamation
+Shinka, the Bloodsoaked Keep
+Shivan Reef
+Sink into Stupor
+Skycloud Expanse
+Slickshot Show-Off
+Smothering Tithe
+Sokenzan, Crucible of Defiance
+Sol Ring
+Spectator Seating
+Spellskite
+Steam Vents
+Steel of the Godhead
+Stormcarved Coast
+Sulfur Falls
+Swan Song
+Swiftfoot Boots
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Temur Battle Rage
+The One Ring
+Third Path Iconoclast
+Thought Vessel
+Thrill of Possibility
+Thundering Falls
+Tishana's Tidebinder
+Training Center
+Valakut Awakening
+Volatile Stormdrake
+Walk the Aeons
+Wear // Tear
+Whirlwind of Thought
+
+Adarkar Wastes
+Adeline, Resplendent Cathar
+Akroma's Will
+Arcane Signet
+Archmage Emeritus
+Austere Command
+Azorius Signet
+Balmor, Battlemage Captain
+Battlefield Forge
+Bitter Reunion
+Boros Charm
+Boros Signet
+Bria, Riptide Rogue
+Caretaker's Talent
+Case of the Ransacked Lab
+Cavern of Souls
+Clifftop Retreat
+Command Tower
+Consider
+Crash Through
+Deserted Beach
+Divine Visitation
+Elemental Eruption
+Eris, Roar of the Storm
+Exotic Orchard
+Fact or Fiction
+Faithless Looting
+Fellwar Stone
+Flawless Maneuver
+Flooded Strand
+Frantic Search
+Glacial Fortress
+Hallowed Fountain
+Impact Tremors
+Irenicus's Vile Duplication
+Island
+Izzet Signet
+Jeska's Will
+Jeskai Ascendancy
+Kitsa, Otterball Elite
+Kykar, Wind's Fury
+Magnus the Red
+Meticulous Archive
+Monastery Mentor
+Mondrak, Glory Dominus
+Mountain
+Mystic Monastery
+Mystic Remora
+Nanogene Conversion
+Path to Exile
+Plains
+Ral, Crackling Wit
+Rapid Augmenter
+Raugrin Triome
+Relentless Assault
+Rhystic Study
+Rogue's Passage
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
+Sevinne's Reclamation
+Shivan Reef
+Skullclamp
+Skycloud Expanse
+Smothering Tithe
+Snap
+Sol Ring
+Spectator Seating
+Steam Vents
+Storm-Kiln Artist
+Stormcarved Coast
+Stormcatch Mentor
+Stormchaser's Talent
+Stormsplitter
+Sulfur Falls
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Talrand, Sky Summoner
+Teferi, Time Raveler
+Third Path Iconoclast
+Thought Scour
+Training Center
+Veyran, Voice of Duality
+Warleader's Call
+Wayfarer's Bauble
+Whirlwind of Thought
+Windfall
+Young Pyromancer
+

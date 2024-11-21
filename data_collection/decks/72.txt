@@ -1,0 +1,4111 @@
+Bar the Gate
+Benthic Giant
+Biolume Egg
+Brinelin, the Moon Kraken
+Chasm Skulker
+Consuming Tide
+Coralhelm Guide
+Deep-Sea Terror
+Depths of Desire
+Dimir Guildgate
+Dimir Locket
+Dismal Backwater
+Drag Under
+Dreadlight Monstrosity
+Early Winter
+Elder Deep-Fiend
+Emergence Zone
+Enlightened Maniac
+Eviscerate
+Evolving Wilds
+Explorer's Scope
+Exultant Cultist
+Floodtide Serpent
+Frilled Sea Serpent
+Gearseeker Serpent
+Hall of Storm Giants
+Hard Evidence
+Hermitic Nautilus
+Hightide Hermit
+Homarid Explorer
+Honored Heirloom
+Hullbreaker Horror
+Island
+Junk Winder
+Kiora's Dambreaker
+Kraken Hatchling
+Kraken of the Straits
+Lochmere Serpent
+Mirrorshell Crab
+Monstrosity of the Lake
+Murder
+Myriad Landscape
+Nadir Kraken
+Nezahal, Primal Tide
+Opt
+Psychic Symbiont
+River Serpent
+Rot-Tide Gargantua
+Scourge of Fleets
+Screaming Swarm
+Seal of the Guildpact
+Sealock Monster
+Secret Door
+Sentinel of the Pearl Trident
+Serpentine Ambush
+Shipbreaker Kraken
+Shore Keeper
+Slinking Serpent
+Slinn Voda, the Rising Deep
+Stormkeld Prowler
+Submerged Boneyard
+Swamp
+Thassa's Bounty
+Tolarian Kraken
+Tromokratis
+Uncharted Haven
+Vexing Scuttler
+Waker of Waves
+Wall of Mist
+Warped Landscape
+Watery Grave
+
+Acquisition Octopus
+Arcane Signet
+Archetype of Imagination
+Baleful Strix
+Benthic Anomaly
+Bojuka Bog
+Brainstorm
+Breach the Multiverse
+Buried Alive
+Chart a Course
+Command Tower
+Consider
+Counterspell
+Countersquall
+Dark Ritual
+Darkwater Catacombs
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Drown in the Loch
+Drowned Catacomb
+Elder Deep-Fiend
+Everflowing Chalice
+Extract from Darkness
+Flood of Tears
+Go for the Throat
+Gyruda, Doom of Depths
+Halimar Depths
+High Tide
+Hullbreaker Horror
+Invasion of Segovia
+Island
+Kederekt Leviathan
+Kefnet's Monument
+Kozilek's Unsealing
+Likeness Looter
+Lochmere Serpent
+Marvo, Deep Operative
+Military Intelligence
+Mortuary Mire
+Myriad Landscape
+Nadir Kraken
+Negate
+Night's Whisper
+Obsessive Stitcher
+Ominous Seas
+Phyrexian Arena
+Ponder
+Pongify
+Quest for Ula's Temple
+Quicksilver Amulet
+Rogue's Passage
+Rot-Tide Gargantua
+Sapphire Medallion
+Satoru Umezawa
+Scourge of Fleets
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Sol Ring
+Solemn Simulacrum
+Stitch Together
+Stormsurge Kraken
+Stormtide Leviathan
+Sunken Hollow
+Swamp
+Tainted Isle
+Talisman of Dominance
+Temple of the False God
+The Everflowing Well
+Thought Vessel
+Tidal Terror
+Trench Behemoth
+Tromokratis
+Victimize
+Wayfarer's Bauble
+Whelming Wave
+Whispersilk Cloak
+Wonder
+Wrexial, the Risen Deep
+
+Arcane Signet
+Archetype of Imagination
+Brainstorm
+Buried Alive
+Chart a Course
+Choked Estuary
+Command Tower
+Commander's Sphere
+Dark Depths
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Dreamscape Artist
+Drowned Catacomb
+Elder Deep-Fiend
+Feed the Swarm
+Flood of Tears
+Frantic Search
+Gyruda, Doom of Depths
+Halimar Depths
+Haunted Crossroads
+Heartless Summoning
+Hullbreaker Horror
+Ice Tunnel
+Icebreaker Kraken
+Infernal Grasp
+Jalira, Master Polymorphist
+Junk Winder
+Kiora Bests the Sea God
+Kozilek's Unsealing
+Lightning Greaves
+Live or Die
+Lochmere Serpent
+Mesmerizing Benthid
+Metamorphosis Fanatic
+Military Intelligence
+Mortuary Mire
+Myriad Landscape
+Nadir Kraken
+Negate
+Ominous Seas
+Otherworldly Gaze
+Persist
+Ponder
+Quest for Ula's Temple
+Quicksilver Amulet
+Reality Shift
+Reanimate
+Restart Sequence
+Rush of Knowledge
+Scourge of Fleets
+Sea-Dasher Octopus
+Search for Azcanta
+Sepulchral Primordial
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shipwreck Marsh
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Strategic Planning
+Striped Riverwinder
+Sunken Hollow
+Swiftfoot Boots
+Temple of Deceit
+Thryx, the Sudden Storm
+Trench Behemoth
+Unmarked Grave
+Victimize
+Virtue of Persistence
+Waker of Waves
+Wayfarer's Bauble
+Whelming Wave
+Wonder
+
+Aether Gale
+Arcane Signet
+Archetype of Imagination
+Ash Barrens
+Benthic Anomaly
+Brainstorm
+Charcoal Diamond
+Coldsteel Heart
+Command Tower
+Counterspell
+Deep-Sea Kraken
+Depart the Realm
+Dimir Signet
+Even the Score
+Ever After
+Everflowing Chalice
+Evolving Wilds
+Extract from Darkness
+Fact or Fiction
+Fellwar Stone
+Gilded Lotus
+Gyruda, Doom of Depths
+Hedron Archive
+Hullbreaker Horror
+Ice Tunnel
+Icebreaker Kraken
+Imprisoned in the Moon
+In Garruk's Wake
+Island
+Liquimetal Torque
+Lochmere Serpent
+Maestros Theater
+Mesmerizing Benthid
+Mind Stone
+Monastery Siege
+Nadir Kraken
+Negate
+Nemesis of Reason
+Obscura Storefront
+Ominous Seas
+Persist
+Phyrexian Arena
+Pull from Tomorrow
+Quest for Ula's Temple
+Rain of Revelation
+Ravenform
+Read the Bones
+Sapphire Medallion
+Satoru Umezawa
+Saw It Coming
+Scourge of Fleets
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Sky Diamond
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Solemn Simulacrum
+Spawning Kraken
+Stormtide Leviathan
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Sword Coast Serpent
+Terramorphic Expanse
+Thirst for Discovery
+Thryx, the Sudden Storm
+Trench Behemoth
+Tromokratis
+Waterfront District
+Wayfarer's Bauble
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+Ancient Tomb
+Arcane Signet
+Auton Soldier
+Bloodstained Mire
+Brainstorm
+Cabal Ritual
+Callidus Assassin
+Cephalid Coliseum
+Chrome Mox
+City of Traitors
+Clever Impersonator
+Command Tower
+Crystal Vein
+Culling the Weak
+Cyclonic Rift
+Dark Ritual
+Dauthi Voidwalker
+Deadly Rollick
+Demonic Counsel
+Demonic Tutor
+Diabolic Intent
+Dimir Signet
+Displacer Kitten
+Dread Return
+Echo of Eons
+Entomb
+Evil Twin
+Fell the Profane
+Fellwar Stone
+Fierce Guardianship
+Flesh Duplicate
+Flooded Strand
+Force of Negation
+Force of Will
+Gemstone Caverns
+Grim Monolith
+Gyruda, Doom of Depths
+Imperial Seal
+Insidious Dreams
+Intuition
+Island
+Ledger Shredder
+Lim-Dûl's Vault
+Lively Dirge
+Lotus Petal
+Malevolent Hermit
+Mana Vault
+Marsh Flats
+Metamorphosis Fanatic
+Mikaeus, the Unhallowed
+Mirrorhall Mimic
+Misty Rainforest
+Mox Amber
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystic Sanctuary
+Nightmare Shepherd
+Orcish Bowmasters
+Otawara, Soaring City
+Phantasmal Image
+Phyrexian Metamorph
+Polluted Delta
+Rhystic Study
+Ripples of Undeath
+Roaming Throne
+Scalding Tarn
+Sink into Stupor
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Spark Double
+Spellskite
+Spymaster's Vault
+Stunt Double
+Sunken Hollow
+Swamp
+Tainted Pact
+Takenuma, Abandoned Mire
+Talion, the Kindly Lord
+Talisman of Dominance
+Thassa's Oracle
+Thassa, Deep-Dwelling
+The One Ring
+Three Steps Ahead
+Toxic Deluge
+Triskelion
+Undercity Sewers
+Undercover Operative
+Underground Sea
+Urza's Saga
+Vampiric Tutor
+Verdant Catacombs
+Visage Bandit
+Vizier of Many Faces
+Vohar, Vodalian Desecrator
+Volatile Stormdrake
+Volrath's Stronghold
+Watery Grave
+
+Arcane Signet
+Archon of Cruelty
+Auton Soldier
+Baleful Strix
+Beacon of Unrest
+Boggart Trawler
+Bojuka Bog
+Brainstorm
+Brainsurge
+Breach the Multiverse
+Burnished Hart
+Cabal Ritual
+Clearwater Pathway
+Command Tower
+Commander's Sphere
+Consider
+Counterspell
+Crabomination
+Curator of Destinies
+Dark Ritual
+Decanter of Endless Water
+Dread Return
+Drowned Catacomb
+Dusk Mangler
+Entomb
+Exhume
+Extract from Darkness
+Fact or Fiction
+Feed the Swarm
+Fellwar Stone
+Frantic Search
+Frost Titan
+Glasspool Mimic
+Grave Titan
+Gray Merchant of Asphodel
+High Tide
+Icebreaker Kraken
+Incarnation Technique
+Junji, the Midnight Sky
+Likeness Looter
+Liquimetal Torque
+Lord of the Void
+Mana Drain
+Massacre Wurm
+Metamorphosis Fanatic
+Meteor Golem
+Mind Stone
+Morphic Pool
+Mortuary Mire
+Noxious Gearhulk
+Obsessive Stitcher
+Otherworldly Gaze
+Persist
+Phyrexian Delver
+Phyrexian Metamorph
+Ponder
+Preordain
+Reanimate
+Rite of Replication
+Scourge of Fleets
+Shipwreck Marsh
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Sunken Hollow
+Sunken Ruins
+Talisman of Dominance
+Thirst for Discovery
+Three Steps Ahead
+Undercity Sewers
+Underground River
+Victimize
+Vohar, Vodalian Desecrator
+Watery Grave
+Whip of Erebos
+Windfall
+Witch's Cottage
+Withering Torment
+Wonder
+
+Aethersquall Ancient
+Animate Dead
+Arcane Signet
+Archon of Cruelty
+Astral Dragon
+Auton Soldier
+Bond of Revival
+Brainstorm
+Buried Alive
+Careful Study
+Choked Estuary
+Command Tower
+Counterspell
+Crabomination
+Dimir Aqueduct
+Dread Return
+Drowned Catacomb
+Elder Brain
+Entomb
+Exhume
+Fact or Fiction
+Feed the Swarm
+Fleet Swallower
+Frantic Search
+Guildless Commons
+Gyruda, Doom of Depths
+Halimar Depths
+Hedron Crab
+Hullbreaker Horror
+Icebreaker Kraken
+Incarnation Technique
+Jin-Gitaxias, Progress Tyrant
+Lightning Greaves
+Likeness Looter
+Living Death
+Mirror Box
+Morphic Pool
+Mortuary Mire
+Myriad Landscape
+Mystic Sanctuary
+No Mercy
+Noxious Gearhulk
+Obsessive Stitcher
+Otherworldly Gaze
+Persist
+Polluted Delta
+Port of Karfell
+Propaganda
+Quest for Ula's Temple
+Quicksilver Amulet
+Reanimate
+Reliquary Tower
+Restart Sequence
+Rune-Scarred Demon
+Saw in Half
+Scourge of Fleets
+Serpent of Yawning Depths
+Shadowgrange Archfiend
+Sheoldred, Whispering One
+Shipwreck Marsh
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Spawning Kraken
+Stitch Together
+Stormsurge Kraken
+Stormtide Leviathan
+Stubborn Denial
+Sunken Hollow
+Swan Song
+Swiftfoot Boots
+Takenuma, Abandoned Mire
+Temple of Deceit
+Three Steps Ahead
+Tomb Fortress
+Toxrill, the Corrosive
+Troll of Khazad-dûm
+Tromokratis
+Underground River
+Unmarked Grave
+Victimize
+Vohar, Vodalian Desecrator
+Watery Grave
+Whelming Wave
+Whispering Madness
+Windfall
+Witch's Cottage
+Wonder
+
+Acquisition Octopus
+Arcane Signet
+Archetype of Imagination
+Benthic Anomaly
+Blood on the Snow
+Bojuka Bog
+Brainstorm
+Capture Sphere
+Coiling Rebirth
+Command Tower
+Consider
+Counterspell
+Cryptic Command
+Darkslick Shores
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Guildgate
+Dimir Signet
+Discovery // Dispersal
+Dread Return
+Ever After
+Everflowing Chalice
+Evolving Wilds
+Extract from Darkness
+Feed the Swarm
+Fell the Profane
+Frantic Search
+Gyruda, Doom of Depths
+High Tide
+Hullbreaker Horror
+Icebreaker Kraken
+Idol of Oblivion
+Island
+Junk Winder
+Kraken of the Straits
+Leyline of the Void
+Lochmere Serpent
+Marvo, Deep Operative
+Mirror Room // Fractured Realm
+Myriad Landscape
+Nadir Kraken
+Octavia, Living Thesis
+One with the Multiverse
+Otherworldly Gaze
+Ponder
+Price of Fame
+Quest for Ula's Temple
+Quicksilver Amulet
+Reef Worm
+Reliquary Tower
+Restart Sequence
+Rot-Tide Gargantua
+Rush of Knowledge
+Shipbreaker Kraken
+Sink into Stupor
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Swamp
+Swiftfoot Boots
+Sword Coast Serpent
+Talisman of Dominance
+Terramorphic Expanse
+The Everflowing Well
+Thirst for Discovery
+Thryx, the Sudden Storm
+Tidal Terror
+Tolarian Kraken
+Unbreakable Bond
+Victimize
+Waker of Waves
+Waterlogged Teachings
+Wayfarer's Bauble
+Whelming Wave
+Whip of Erebos
+Wonder
+Wrexial, the Risen Deep
+
+Baleful Strix
+Benthic Anomaly
+Brainstorm
+Brinelin, the Moon Kraken
+Charix, the Raging Isle
+Clone
+Deep-Sea Kraken
+Dreamscape Artist
+Eluge, the Shoreless Sea
+Gyruda, Doom of Depths
+Hullbreaker Horror
+Inkwell Leviathan
+Island
+Isleback Spawn
+Junk Winder
+Kraken of the Straits
+Likeness Looter
+Lochmere Serpent
+Lorthos, the Tidemaker
+Marvo, Deep Operative
+Mesmerizing Benthid
+Monstrosity of the Lake
+Nadir Kraken
+Obsessive Stitcher
+Ominous Seas
+Quest for Ula's Temple
+Reef Worm
+Reflections of Littjara
+Reservoir Kraken
+River Serpent
+Satoru Umezawa
+Scourge of Fleets
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shoreline Looter
+Slinn Voda, the Rising Deep
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Swiftfoot Boots
+Sword Coast Serpent
+Thassa, God of the Sea
+The Watcher in the Water
+Thing in the Ice
+Thran Dynamo
+Thryx, the Sudden Storm
+Tidal Kraken
+Tidal Terror
+Titan of Littjara
+Tolarian Kraken
+Tolarian Terror
+Trench Behemoth
+Tromokratis
+Vesuvan Drifter
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+Acquisition Octopus
+Agility Bobblehead
+Arcane Signet
+Archetype of Imagination
+Bojuka Bog
+Bond of Revival
+Brainstorm
+Brinelin, the Moon Kraken
+Castle Vantress
+Command Tower
+Counterspell
+Darkwater Catacombs
+Deadly Rollick
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Dowsing Dagger
+Dread Return
+Drowned Catacomb
+Entomb
+Extract from Darkness
+Fact or Fiction
+Feed the Swarm
+Frantic Search
+Gyruda, Doom of Depths
+Halimar Depths
+Hullbreaker Horror
+Inkwell Leviathan
+Island
+Junk Winder
+Likeness Looter
+Marvo, Deep Operative
+Mind Stone
+Mirror Box
+Morphic Pool
+Mortuary Mire
+Myriad Landscape
+Mystic Remora
+Negate
+Nezahal, Primal Tide
+Obsessive Stitcher
+Octavia, Living Thesis
+Otherworldly Gaze
+Persist
+Ponder
+Portent
+Quest for Ula's Temple
+Quicksilver Amulet
+Rapid Hybridization
+Reflecting Pool
+Rogue's Passage
+Sakashima of a Thousand Faces
+Scion of Halaster
+Scourge of Fleets
+Sea-Dasher Octopus
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shipwreck Marsh
+Spawning Kraken
+Stitch Together
+Stormsurge Kraken
+Stormtide Leviathan
+Sunken Hollow
+Sunken Ruins
+Swamp
+Swiftfoot Boots
+Talisman of Dominance
+Temple of the False God
+The Grim Captain's Locker
+Thirst for Discovery
+Three Steps Ahead
+Thryx, the Sudden Storm
+Trench Behemoth
+Trench Gorger
+Tromokratis
+Volrath's Stronghold
+Wayfarer's Bauble
+Whelming Wave
+Windfall
+Wonder
+Wrexial, the Risen Deep
+
+Agent of Treachery
+Animate Dead
+Apprentice Necromancer
+Arcane Signet
+Archpriest of Shadows
+Basalt Monolith
+Boggart Trawler
+Bojuka Bog
+Buried Alive
+Careful Study
+Conduit Pylons
+Consider
+Counterspell
+Crashing Drawbridge
+Creeping Tar Pit
+Darkwater Catacombs
+Daze
+Disallow
+Dream Twist
+Entomb
+Faceless Haven
+Fact or Fiction
+Faerie Conclave
+Fellwar Stone
+Fortune Teller's Talent
+Frantic Search
+Geier Reach Sanitarium
+Glimpse the Unthinkable
+Gloomlake Verge
+Halimar Depths
+Hidden Grotto
+Hullbreaker Horror
+Inkmoth Nexus
+Insatiable Avarice
+Invasion of Amonkhet
+Invasion of Segovia
+Leyline of Transformation
+Likeness Looter
+Malevolent Hermit
+March of Swirling Mist
+Maskwood Nexus
+Matzalantli, the Great Door
+Metamorphosis Fanatic
+Millikin
+Mirrorshell Crab
+Mishra's Factory
+Mission Briefing
+Mutavault
+Negate
+Omen Hawker
+Ornithopter of Paradise
+Otherworldly Gaze
+Pongify
+Propaganda
+Reality Shift
+Rivendell
+River Serpent
+River's Rebuke
+Sea-Dasher Octopus
+Shoreline Looter
+Silver Myr
+Sink into Stupor
+Slip Out the Back
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Soulstone Sanctuary
+Spawning Kraken
+Stifle
+Striped Riverwinder
+Sunken Hollow
+Sunken Ruins
+Swiftfoot Boots
+Talisman of Dominance
+Temple of the False God
+Thing in the Ice
+Toxic Deluge
+Troll of Khazad-dûm
+Undercity Sewers
+Unmarked Grave
+Unwind
+Waker of Waves
+Wash Away
+Waterlogged Teachings
+Whelming Wave
+Windcaller Aven
+Withering Torment
+
+Access Tunnel
+Arcane Signet
+Archetype of Imagination
+Ash Barrens
+Benthic Anomaly
+Biblioplex Kraken
+Black Sun's Twilight
+Blinkmoth Nexus
+Bojuka Bog
+Bond of Revival
+Careful Study
+Choked Estuary
+Command Tower
+Conduit Pylons
+Contaminated Aquifer
+Counterspell
+Creeping Tar Pit
+Crush of Tentacles
+Cryptic Serpent
+Darkwater Catacombs
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Keyrune
+Eagle Vision
+Edgar's Awakening
+Elder Deep-Fiend
+Evangel of Synthesis
+Exotic Orchard
+Fade Away
+Faerie Conclave
+Fetid Pools
+Frilled Sea Serpent
+Ghost Quarter
+Ghostly Pilferer
+Gyruda, Doom of Depths
+Harbor Serpent
+Hidden Grotto
+Island
+Junk Winder
+Key to the City
+Kozilek's Unsealing
+Kraken of the Straits
+Lavaspur Boots
+Likeness Looter
+Live or Die
+Lochmere Serpent
+Looter il-Kor
+Merfolk Pupil
+Mirrorshell Crab
+Morbid Curiosity
+Myriad Landscape
+Obsessive Stitcher
+Octoprophet
+Oracle of Tragedy
+Otherworldly Gaze
+Owl Familiar
+Path of Ancestry
+Persist
+Phyrexian Delver
+Psychic Paper
+Restart Sequence
+River Serpent
+River of Tears
+Rush of Knowledge
+Scourge of Fleets
+Scrapdiver Serpent
+Sea-Dasher Octopus
+Shoreline Looter
+Sol Ring
+Stormsurge Kraken
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Sword Coast Serpent
+Tainted Indulgence
+Tainted Isle
+Temple of Deceit
+Temple of the False God
+Thieves' Tools
+Thryx, the Sudden Storm
+Tidal Terror
+Tolarian Terror
+Victimize
+Waker of Waves
+Wharf Infiltrator
+Whelming Wave
+Wonder
+Writ of Return
+
+Acquire
+Amoeboid Changeling
+An Offer You Can't Refuse
+Animate Dead
+Arcane Signet
+Black Market
+Blood Pet
+Bog Witch
+Bojuka Bog
+Brainstorm
+Brainsurge
+Buried Alive
+Charcoal Diamond
+Charix, the Raging Isle
+Choked Estuary
+Coldsteel Heart
+Command Tower
+Counterspell
+Countersquall
+Dark Depths
+Dark Ritual
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Dire Undercurrents
+Drown in the Loch
+Elder Deep-Fiend
+Evolving Wilds
+Exotic Orchard
+Extinction
+Extract from Darkness
+Fellwar Stone
+Frantic Search
+Grimoire of the Dead
+Gyruda, Doom of Depths
+High Tide
+Island
+Kozilek's Unsealing
+Likeness Looter
+Marvo, Deep Operative
+Maskwood Nexus
+Massacre Wurm
+Millikin
+Mirror Box
+Negate
+Nemesis of Reason
+Opt
+Path of Ancestry
+Pongify
+Propaganda
+Quest for Ula's Temple
+Reef Worm
+Reliquary Tower
+Rush of Knowledge
+Scion of Darkness
+Serpent of Yawning Depths
+Sol Ring
+Songs of the Damned
+Spawning Kraken
+Stormtide Leviathan
+Swamp
+Thassa, God of the Sea
+The Watcher in the Water
+Thespian's Stage
+Thirst for Discovery
+Thought Scour
+Tidal Kraken
+Unmarked Grave
+Vampire Hexmage
+Victimize
+Waker of Waves
+Whelming Wave
+Witch's Cottage
+Wrexial, the Risen Deep
+
+Ambition's Cost
+Ancient Craving
+Arcane Signet
+Ash Barrens
+Biolume Egg
+Brainstone
+Brinelin, the Moon Kraken
+Charcoal Diamond
+Charix, the Raging Isle
+Choked Estuary
+Commander's Sphere
+Dark Ritual
+Darkwater Catacombs
+Decree of Pain
+Deep Analysis
+Defabricate
+Deranged Assistant
+Dimir Keyrune
+Dimir Signet
+Disdainful Stroke
+Elder Deep-Fiend
+Ever After
+Fact or Fiction
+Fetid Pools
+Gyruda, Doom of Depths
+Hedron Archive
+Horned Loch-Whale
+Island
+Kraken Hatchling
+Kraken of the Straits
+Kraken's Eye
+Lochmere Serpent
+Marvo, Deep Operative
+Merfolk Looter
+Millikin
+Mind Stone
+Myriad Landscape
+Nadir Kraken
+Notion Rain
+Ob Nixilis, the Hate-Twisted
+Obsessive Stitcher
+Octoprophet
+Ornithopter of Paradise
+Pearl Lake Ancient
+Polluted Delta
+Price of Fame
+Prismatic Lens
+Ravenform
+Reservoir Kraken
+Rhystic Study
+River Serpent
+Rot-Tide Gargantua
+Rush of Knowledge
+Scourge of Fleets
+Shipbreaker Kraken
+Sinister Sabotage
+Sky Diamond
+Sleight of Hand
+Slinn Voda, the Rising Deep
+Sol Ring
+Stormtide Leviathan
+Striped Riverwinder
+Swamp
+Sword Coast Serpent
+Temple of Deceit
+Terramorphic Expanse
+Thirst for Discovery
+Tromokratis
+Underground Sea
+Wayfarer's Bauble
+Whelming Wave
+Wrexial, the Risen Deep
+Young Necromancer
+
+Arcane Denial
+Archmage's Charm
+Benthic Anomaly
+Bitter Triumph
+Blasphemous Edict
+Castle Locthwain
+Castle Vantress
+Clearwater Pathway
+Colossal Whale
+Consuming Tide
+Counterpoint
+Counterspell
+Creeping Tar Pit
+Cresting Mosasaurus
+Crush of Tentacles
+Cryptic Command
+Damnation
+Darkslick Shores
+Desertion
+Devastation Tide
+Dig Through Time
+Dimir Charm
+Displacement Wave
+Doom Blade
+Drown in the Loch
+Drowned Catacomb
+Elder Deep-Fiend
+Engulf the Shore
+Fact or Fiction
+Gloomlake Verge
+Gyruda, Doom of Depths
+Hero's Downfall
+Hullbreaker Horror
+Island
+Kiora Bests the Sea God
+Kiora, the Rising Tide
+Lorthos, the Tidemaker
+Lose Focus
+Mana Drain
+Mana Leak
+Marvo, Deep Operative
+Memory Deluge
+Morphic Pool
+Mystic Confluence
+Mystic Remora
+Negate
+Nezahal, Primal Tide
+Octavia, Living Thesis
+Otawara, Soaring City
+Pursued Whale
+Quest for Ula's Temple
+Reality Shift
+Reliquary Tower
+Restless Reef
+Rhystic Study
+River of Tears
+Sauron's Ransom
+Scattering Stroke
+Scourge of Fleets
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shipwreck Marsh
+Shizo, Death's Storehouse
+Spawning Kraken
+Stormtide Leviathan
+Strix Serenade
+Swamp
+Swan Song
+Takenuma, Abandoned Mire
+Temple of Deceit
+Terror
+The Watcher in the Water
+Toxic Deluge
+Tromokratis
+Undercity Sewers
+Underground River
+Urborg, Tomb of Yawgmoth
+Watery Grave
+Whelming Wave
+Withering Torment
+Wrexial, the Risen Deep
+
+An Offer You Can't Refuse
+Arcane Signet
+Benthic Anomaly
+Blood on the Snow
+Bojuka Bog
+Coiling Rebirth
+Coldsteel Heart
+Command Tower
+Consuming Tide
+Dark Depths
+Dead of Winter
+Deep-Sea Kraken
+Deepchannel Mentor
+Dimir Signet
+Dread Return
+Drown in the Loch
+Engulf the Shore
+Escape Tunnel
+Exhume
+Faceless Haven
+Fellwar Stone
+Fetid Pools
+Frantic Search
+Frost Marsh
+Frostwalk Bastion
+Graven Lore
+Gyruda, Doom of Depths
+Heartless Summoning
+Hullbreaker Horror
+Ice Tunnel
+Icebreaker Kraken
+Incarnation Technique
+Infernal Grasp
+Kiora, the Rising Tide
+Kozilek's Unsealing
+Lantern of the Lost
+Lochmere Serpent
+Malakir Rebirth
+Marit Lage's Slumber
+Memory Deluge
+Mind Stone
+Mirror Room // Fractured Realm
+Mortuary Mire
+Necromantic Selection
+Negate
+Otherworldly Gaze
+Persist
+Port of Karfell
+Quest for Ula's Temple
+Reality Shift
+Reanimate
+Replicating Ring
+Ripples of Undeath
+Rush of Knowledge
+Scourge of Fleets
+Scrying Sheets
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shimmerdrift Vale
+Sire of Stagnation
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Soothsaying
+Spawning Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swiftfoot Boots
+Talisman of Dominance
+Thespian's Stage
+Thirst for Discovery
+Three Steps Ahead
+Thryx, the Sudden Storm
+Treasure Cruise
+Undercity Sewers
+Vesuvan Drifter
+Victimize
+Waterlogged Teachings
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+Acquisition Octopus
+Arcane Signet
+Beacon of Unrest
+Benthic Anomaly
+Bident of Thassa
+Bojuka Bog
+Brinelin, the Moon Kraken
+Buried Alive
+Burnished Hart
+Careful Study
+Chart a Course
+Choked Estuary
+Clearwater Pathway
+Command Tower
+Commander's Sphere
+Consider
+Cyclonic Rift
+Darkslick Shores
+Deep-Sea Kraken
+Dimir Guildgate
+Diresight
+Dread Return
+Drowned Catacomb
+Entomb
+Exhume
+Exotic Orchard
+Frantic Search
+Gilded Lotus
+Halimar Depths
+High Tide
+Hullbreaker Horror
+Inkwell Leviathan
+Island
+Junk Winder
+Kozilek's Unsealing
+Kraken of the Straits
+Lightning Greaves
+Mana Drain
+Marvo, Deep Operative
+Matzalantli, the Great Door
+Monstrosity of the Lake
+Morphic Pool
+Mortuary Mire
+Mystic Sanctuary
+Nezahal, Primal Tide
+Nykthos, Shrine to Nyx
+Obsessive Stitcher
+Otawara, Soaring City
+Otherworldly Gaze
+Polluted Delta
+Pongify
+Pull from Tomorrow
+Quest for Ula's Temple
+Quicksilver Amulet
+Reanimate
+Restart Sequence
+Rite of Replication
+Rivendell
+Sapphire Medallion
+Satoru Umezawa
+Scourge of Fleets
+Sea-Dasher Octopus
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shipwreck Marsh
+Slinn Voda, the Rising Deep
+Sol Ring
+Solemn Simulacrum
+Strionic Resonator
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Sword Coast Serpent
+Sword of the Animist
+Talisman of Dominance
+Temple of Deceit
+Temple of the False God
+Thassa, God of the Sea
+The Grim Captain's Locker
+Thirst for Discovery
+Three Steps Ahead
+Thryx, the Sudden Storm
+Undercity Sewers
+Urborg, Tomb of Yawgmoth
+Victimize
+Virtue of Persistence
+Watery Grave
+Whelming Wave
+Windfall
+Worn Powerstone
+You Find the Villains' Lair
+
+Aboshan, Cephalid Emperor
+Arcane Denial
+Arcane Signet
+As Foretold
+Benthic Behemoth
+Blood Beckoning
+Blood Curdle
+Brainstorm
+Breaching Leviathan
+Brinelin, the Moon Kraken
+Callous Oppressor
+Catalog
+Cephalid Facetaker
+Cephalid Looter
+Cephalid Pathmage
+Charix, the Raging Isle
+Chart a Course
+Choked Estuary
+Claim the Precious
+Command Tower
+Darkwater Catacombs
+Deep-Sea Kraken
+Deepchannel Mentor
+Dimir Aqueduct
+Doom Blade
+Dreadship Reef
+Everflowing Chalice
+Feed the Swarm
+Fetid Pools
+Geier Reach Sanitarium
+Gyruda, Doom of Depths
+Hedron Archive
+Hero's Downfall
+Index
+Inkwell Leviathan
+Island
+Junk Winder
+Kefnet's Monument
+Kraken of the Straits
+Llawan, Cephalid Empress
+Marvo, Deep Operative
+Mesmerizing Benthid
+Monstrosity of the Lake
+Murder
+Mystic Meditation
+Nemesis of Reason
+Obsessive Stitcher
+Octoprophet
+Path of Ancestry
+Ponder
+Portent
+Power Word Kill
+Psychic Pickpocket
+Ravenous Chupacabra
+Reservoir Kraken
+Rot-Tide Gargantua
+Sapphire Medallion
+Seer's Lantern
+Shield Broker
+Slinn Voda, the Rising Deep
+Sol Ring
+Spy Network
+Stormsurge Kraken
+Sunken Hollow
+Swamp
+Tainted Isle
+Talisman of Dominance
+Temple of Deceit
+The Key to the Vault
+Think Tank
+Thran Dynamo
+Tocasia's Dig Site
+Tromokratis
+Whelming Wave
+Withering Torment
+Worn Powerstone
+Wrexial, the Risen Deep
+
+Acquisition Octopus
+An Offer You Can't Refuse
+Arcane Signet
+Bojuka Bog
+Brainstorm
+Brinelin, the Moon Kraken
+Burnished Hart
+Coiling Rebirth
+Crabomination
+Crush of Tentacles
+Dark Depths
+Deadly Rollick
+Deranged Assistant
+Elder Deep-Fiend
+Engulf the Shore
+Entomb
+Everflowing Chalice
+Exhume
+Extract from Darkness
+Fact or Fiction
+Feed the Serpent
+Gearseeker Serpent
+Gloomlake Verge
+Grappling Kraken
+Gyruda, Doom of Depths
+Halimar Depths
+Hedron Archive
+High Tide
+Hullbreaker Horror
+Ice Tunnel
+Icebreaker Kraken
+Irenicus's Vile Duplication
+Kiora Bests the Sea God
+Leyline of Transformation
+Live or Die
+Lorthos, the Tidemaker
+Marit Lage's Slumber
+Marvo, Deep Operative
+Massacre Wurm
+Metamorphosis Fanatic
+Meteor Golem
+Mortuary Mire
+Mulldrifter
+Myriad Landscape
+Mystic Sanctuary
+Nadir Kraken
+Octopus Umbra
+Opt
+Otherworldly Gaze
+Port of Karfell
+Preordain
+Quest for Ula's Temple
+Ravenous Chupacabra
+Read the Bones
+Reanimate
+Restless Reef
+Rogue's Passage
+Rot-Tide Gargantua
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shipwreck Marsh
+Shoal Kraken
+Sire of Seven Deaths
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Swiftfoot Boots
+Sword Coast Serpent
+Temple of Deceit
+Temple of the False God
+Thassa, God of the Sea
+Thespian's Stage
+Thran Dynamo
+Thryx, the Sudden Storm
+Toxic Deluge
+Tromokratis
+Ugin's Labyrinth
+Wash Away
+Watery Grave
+Wayfarer's Bauble
+Wonder
+Worn Powerstone
+
+Aethersnipe
+Animate Dead
+Arcane Signet
+Archetype of Imagination
+Ashiok, Dream Render
+Bitter Triumph
+Bojuka Bog
+Breach the Multiverse
+Buried Alive
+Burnished Hart
+Cabal Coffers
+Command Tower
+Command the Dreadhorde
+Counterspell
+Cyclonic Rift
+Dance of the Dead
+Dauthi Voidwalker
+Deadly Rollick
+Demonic Tutor
+Dimir Signet
+Dismember
+Entomb
+Expedition Map
+Extract from Darkness
+Fact or Fiction
+Fetid Pools
+Frantic Search
+Ghouls' Night Out
+Grappling Kraken
+Gyruda, Doom of Depths
+Heartless Summoning
+Hullbreaker Horror
+Icebreaker Kraken
+Incarnation Technique
+Kederekt Leviathan
+Kozilek's Unsealing
+Lavaspur Boots
+Lightning Greaves
+Living Death
+Malakir Rebirth
+Mana Drain
+Marsh Flats
+Marvo, Deep Operative
+Mind Stone
+Misty Rainforest
+Morphic Pool
+Mystic Sanctuary
+Mystical Tutor
+Necromancy
+Negate
+Nezahal, Primal Tide
+Noxious Gearhulk
+Reanimate
+Restless Reef
+Saw in Half
+Scalding Tarn
+Scourge of Fleets
+Sensei's Divining Top
+Serpent of Yawning Depths
+Sire of Stagnation
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Spawning Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Swiftfoot Boots
+Takenuma, Abandoned Mire
+Talisman of Dominance
+The One Ring
+Tidal Terror
+Tomb Fortress
+Toxic Deluge
+Undercity Sewers
+Urborg, Tomb of Yawgmoth
+Vampiric Tutor
+Verdant Catacombs
+Victimize
+Waker of Waves
+Watery Grave
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+Animate Dead
+Arcane Signet
+Benthic Anomaly
+Blood for Bones
+Brainstorm
+Chart a Course
+Choked Estuary
+Coiling Rebirth
+Command Tower
+Counterspell
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Dread Return
+Drowned Catacomb
+Extract from Darkness
+Feed the Swarm
+Flood of Tears
+Frantic Search
+Gyruda, Doom of Depths
+Halimar Depths
+Heartless Summoning
+High Tide
+Hullbreaker Horror
+Incarnation Technique
+Infernal Grasp
+Island
+Junk Winder
+Kozilek's Unsealing
+Likeness Looter
+Lochmere Serpent
+Marvo, Deep Operative
+Mesmerizing Benthid
+Mind Stone
+Monstrosity of the Lake
+Mortuary Mire
+Myriad Landscape
+Nadir Kraken
+Negate
+Ominous Seas
+Otherworldly Gaze
+Persist
+Ponder
+Pongify
+Quest for Ula's Temple
+Quicksilver Amulet
+Rapid Hybridization
+Restart Sequence
+Scourge of Fleets
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shipwreck Marsh
+Slinn Voda, the Rising Deep
+Sol Ring
+Spawning Kraken
+Stitch Together
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Tainted Indulgence
+Talisman of Dominance
+Temple of Deceit
+Thought Scour
+Thryx, the Sudden Storm
+Tidal Terror
+Tromokratis
+Victimize
+Wayfarer's Bauble
+Whelming Wave
+Windfall
+Wonder
+Wrexial, the Risen Deep
+
+An Offer You Can't Refuse
+Animate Dead
+Arcane Signet
+Archaeomancer
+Baleful Mastery
+Bident of Thassa
+Bojuka Bog
+Brainstorm
+Careful Study
+Chart a Course
+Choked Estuary
+Combat Research
+Command Tower
+Consuming Tide
+Counterspell
+Dark Ritual
+Decree of Pain
+Dimir Aqueduct
+Dimir Signet
+Discerning Taste
+Drowned Catacomb
+Entomb
+Faerie Seer
+Fell the Profane
+Fellwar Stone
+Frantic Search
+Glasspool Mimic
+Halimar Depths
+Hullbreaker Horror
+Ice Tunnel
+Infernal Grasp
+Island
+Jwari Disruption
+Lightning Greaves
+Likeness Looter
+Lochmere Serpent
+Malakir Rebirth
+Marvo, Deep Operative
+Mesmerizing Benthid
+Mortuary Mire
+Negate
+Night's Whisper
+Otherworldly Gaze
+Persist
+Ponder
+Quick Study
+Rapid Hybridization
+Resculpt
+Restart Sequence
+Rowan's Grim Search
+Scourge of Fleets
+Serpent of Yawning Depths
+Shizo, Death's Storehouse
+Sign in Blood
+Sol Ring
+Spawning Kraken
+Spell Pierce
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Sword Coast Serpent
+Sword of Hearth and Home
+Sword of the Animist
+Talisman of Dominance
+Temple of Deceit
+Temple of the False God
+Thassa, God of the Sea
+The Grey Havens
+Thirst for Discovery
+Thryx, the Sudden Storm
+Tolarian Terror
+Troll of Khazad-dûm
+Undercity Sewers
+Unmarked Grave
+Vesuvan Drifter
+Whelming Wave
+Windfall
+Withering Torment
+Wonder
+Wrexial, the Risen Deep
+
+Amulet of Vigor
+Arcane Adaptation
+Arcane Signet
+Archetype of Imagination
+Bident of Thassa
+Brainstorm
+Careful Study
+Castle Vantress
+Coastal Piracy
+Command Tower
+Contaminated Aquifer
+Counterspell
+Crashing Drawbridge
+Creeping Tar Pit
+Crystal Ball
+Daggermaw Megalodon
+Deep-Sea Kraken
+Deepchannel Mentor
+Faceless Haven
+Fierce Guardianship
+Firemind Vessel
+Flare of Denial
+Frantic Search
+Frost Marsh
+Gilded Lotus
+Gyruda, Doom of Depths
+Halimar Depths
+High Tide
+Hullbreaker Horror
+Ice Tunnel
+Icebreaker Kraken
+Junk Winder
+Kraken of the Straits
+Lavaspur Boots
+Levitation
+Lightning Greaves
+Lochmere Serpent
+Mesmerizing Benthid
+Mutavault
+Myriad Landscape
+Nadir Kraken
+Otherworldly Gaze
+Polluted Delta
+Quest for Ula's Temple
+Quicksilver Amulet
+Rain of Revelation
+Reconnaissance Mission
+Reliquary Tower
+Restless Reef
+Rings of Brighthearth
+Rivendell
+Scourge of Fleets
+Scroll Rack
+Sea-Dasher Octopus
+Sensei's Divining Top
+Serpent of Yawning Depths
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Sonic Screwdriver
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Strionic Resonator
+Sunken Hollow
+Swiftfoot Boots
+Sword of Hearth and Home
+Sword of the Animist
+Tainted Indulgence
+Thirst for Discovery
+Thought Vessel
+Thran Dynamo
+Thryx, the Sudden Storm
+Tidal Terror
+Trench Gorger
+Walking Atlas
+Wayfarer's Bauble
+Whelming Wave
+Withering Torment
+Wonder
+
+An Offer You Can't Refuse
+Arcane Signet
+Black Sun's Twilight
+Boggart Trawler
+Buried Alive
+Charcoal Diamond
+Choked Estuary
+Collector's Vault
+Command Tower
+Commander's Sphere
+Contaminated Aquifer
+Crashing Drawbridge
+Creeping Tar Pit
+Daggermaw Megalodon
+Darkwater Catacombs
+Dimir Aqueduct
+Dimir Signet
+Diresight
+Dread Return
+Dream Eater
+Dreamscape Artist
+Drowned Catacomb
+Engulf the Shore
+Evolving Wilds
+Fact or Fiction
+Feed the Swarm
+Fellwar Stone
+Fetid Pools
+Frantic Search
+Gyruda, Doom of Depths
+Halimar Depths
+Hullbreaker Horror
+Ice Tunnel
+Island
+Junk Winder
+Likeness Looter
+Live or Die
+Living Death
+Looter il-Kor
+Massacre Wurm
+Mesmerizing Benthid
+Mind Stone
+Mirage Mirror
+Mortuary Mire
+Myriad Landscape
+Mystic Sanctuary
+Nadir Kraken
+Negate
+Noxious Gearhulk
+Obsessive Stitcher
+Otherworldly Gaze
+Persist
+Port of Karfell
+Reality Shift
+Reanimate
+Refute
+Restart Sequence
+Rogue's Passage
+Rush of Knowledge
+Scion of Darkness
+Scourge of Fleets
+Sea-Dasher Octopus
+Shipwreck Marsh
+Sky Diamond
+Sol Ring
+Solemn Simulacrum
+Stormsurge Kraken
+Stormtide Leviathan
+Strionic Resonator
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Tainted Isle
+Talisman of Dominance
+Temple of Deceit
+Terramorphic Expanse
+Thirst for Discovery
+Underground River
+Unmarked Grave
+Victimize
+Waker of Waves
+Wayfarer's Bauble
+Whelming Wave
+Witch's Cottage
+Withering Torment
+Wonder
+
+Acquisition Octopus
+Aqueous Form
+Arcanis the Omnipotent
+Baleful Strix
+Benthic Anomaly
+Brainstorm
+Brainsurge
+Cephalid Inkmage
+Command Tower
+Crabomination
+Crashing Drawbridge
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Guildgate
+Dimir Signet
+Dismal Backwater
+Dreamscape Artist
+Drowned Catacomb
+Eaten by Piranhas
+Elder Deep-Fiend
+Energy Tap
+Exotic Orchard
+Extract from Darkness
+Feed the Swarm
+Fleet Swallower
+Frantic Search
+Halimar Depths
+Hydroelectric Specimen
+Invasion of Segovia
+Island
+Junk Winder
+Kederekt Leviathan
+Kefnet's Monument
+Kozilek's Unsealing
+Lunar Insight
+Marvo, Deep Operative
+Mesmerizing Benthid
+Myriad Landscape
+Mystery Key
+Nadir Kraken
+Negate
+Nemesis of Reason
+Obsessive Stitcher
+Opt
+Otherworldly Gaze
+Path of Ancestry
+Pull from Tomorrow
+Quest for Ula's Temple
+Quicksilver Amulet
+Reality Shift
+Reservoir Kraken
+Rogue's Passage
+Sapphire Medallion
+Scourge of Fleets
+Sea-Dasher Octopus
+Shipbreaker Kraken
+Shore Up
+Sink into Stupor
+Sire of Stagnation
+Sol Ring
+Spark Double
+Steel Sabotage
+Stormsurge Kraken
+Stormtide Leviathan
+Strionic Resonator
+Submerged Boneyard
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Tainted Isle
+Talisman of Dominance
+Temple of Deceit
+Thassa, God of the Sea
+The Key to the Vault
+Thran Dynamo
+Thriving Isle
+Thriving Moor
+Thryx, the Sudden Storm
+Trench Behemoth
+Tromokratis
+Underground River
+Victimize
+Waterlogged Teachings
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+An Offer You Can't Refuse
+Arcane Signet
+Archetype of Imagination
+Beacon of Unrest
+Benthic Anomaly
+Brainstorm
+Brinelin, the Moon Kraken
+Command Tower
+Compulsive Research
+Consider
+Contaminated Aquifer
+Counterspell
+Diresight
+Dread Return
+Drowned Catacomb
+Elder Deep-Fiend
+Engulf the Shore
+Evolving Wilds
+Faceless Haven
+Fact or Fiction
+Feed the Swarm
+Fetid Pools
+Frantic Search
+Grappling Kraken
+Gyruda, Doom of Depths
+Halimar Depths
+Hullbreaker Horror
+Ice Tunnel
+Icebreaker Kraken
+Jace, the Mind Sculptor
+Junk Winder
+Kozilek's Unsealing
+Lightning Greaves
+Likeness Looter
+Living Death
+Lochmere Serpent
+Lorthos, the Tidemaker
+Mystic Sanctuary
+Negate
+Notion Rain
+Obsessive Stitcher
+Ominous Seas
+Persist
+Phyrexian Arena
+Quest for Ula's Temple
+Reality Shift
+Reanimate
+Reservoir Kraken
+Restart Sequence
+Rivendell
+Rona, Herald of Invasion
+Scourge of Fleets
+Sea-Dasher Octopus
+Search for Azcanta
+Serpent of Yawning Depths
+Shipwreck Marsh
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Stormsurge Kraken
+Stormtide Leviathan
+Strategic Planning
+Sunken Hollow
+Swiftfoot Boots
+Tainted Indulgence
+Tainted Isle
+Talisman of Dominance
+Temple of Deceit
+Terramorphic Expanse
+Thryx, the Sudden Storm
+Underground River
+Victimize
+Vohar, Vodalian Desecrator
+Watery Grave
+Wayfarer's Bauble
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+You Find the Villains' Lair
+
+Animate Dead
+Arcane Signet
+Bojuka Bog
+Brainstorm
+Brinelin, the Moon Kraken
+Buried Alive
+Command Beacon
+Command Tower
+Counterspell
+Countersquall
+Cyclonic Rift
+Dark Ritual
+Deadly Rollick
+Deep-Sea Kraken
+Demonic Tutor
+Dimir Signet
+Drowned Catacomb
+Entomb
+Exotic Orchard
+Feed the Swarm
+Fellwar Stone
+Fierce Guardianship
+Frantic Search
+Gyruda, Doom of Depths
+Halimar Depths
+Hullbreaker Horror
+Icebreaker Kraken
+Junk Winder
+Kiora Bests the Sea God
+Lightning Greaves
+Mana Drain
+Marit Lage's Slumber
+Marvo, Deep Operative
+Mirror Box
+Monstrosity of the Lake
+Morphic Pool
+Mortuary Mire
+Myriad Landscape
+Negate
+Nykthos, Shrine to Nyx
+Ominous Seas
+Otherworldly Gaze
+Path of Ancestry
+Persist
+Ponder
+Quest for Ula's Temple
+Quicksilver Amulet
+Reanimate
+Rhystic Study
+Roaming Throne
+Rogue's Passage
+Sakashima of a Thousand Faces
+Sapphire Medallion
+Scourge of Fleets
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shipwreck Marsh
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Spark Double
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Sunken Hollow
+Swan Song
+Swiftfoot Boots
+Tainted Isle
+Talisman of Dominance
+Toxic Deluge
+Tromokratis
+Unmarked Grave
+Vampiric Tutor
+Victimize
+Virtue of Persistence
+Watery Grave
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+Animate Dead
+Apprentice Necromancer
+Arcane Signet
+Archetype of Imagination
+Bitter Triumph
+Bojuka Bog
+Bonders' Enclave
+Brainstorm
+Brainsurge
+Careful Study
+Castle Vantress
+Clearwater Pathway
+Command Tower
+Counterspell
+Dance of the Dead
+Dark Dabbling
+Dark Ritual
+Darkwater Catacombs
+Deep-Sea Kraken
+Drown in the Loch
+Drowned Catacomb
+Elder Deep-Fiend
+Entomb
+Faceless Haven
+Filter Out
+Frantic Search
+Glaring Spotlight
+Grappling Kraken
+Gyruda, Doom of Depths
+High Tide
+Hullbreaker Horror
+Icebreaker Kraken
+Junk Winder
+Levitation
+Lightning Greaves
+Lithoform Engine
+Lively Dirge
+Lochmere Serpent
+Morphic Pool
+Mystic Remora
+Nadir Kraken
+Negate
+Obsessive Stitcher
+Otawara, Soaring City
+Persist
+Polluted Delta
+Ponder
+Reanimate
+Reconnaissance Mission
+Rise of the Dark Realms
+Rivendell
+Roaming Throne
+Rogue's Passage
+Sage of Epityr
+Scourge of Fleets
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shipwreck Marsh
+Slip Out the Back
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Spark Double
+Spawning Kraken
+Stitch Together
+Stormsurge Kraken
+Stormtide Leviathan
+Strionic Resonator
+Stubborn Denial
+Sunken Hollow
+Swiftfoot Boots
+Tainted Indulgence
+Tainted Isle
+Takenuma, Abandoned Mire
+Talisman of Dominance
+Thran Dynamo
+Unmarked Grave
+Vampiric Tutor
+Victimize
+Vohar, Vodalian Desecrator
+Watery Grave
+Wayfarer's Bauble
+Whelming Wave
+Wonder
+
+Aether Gale
+Arcane Signet
+Blur
+Brainstorm
+Breaching Leviathan
+Brinelin, the Moon Kraken
+Choked Estuary
+Command Tower
+Conjurer's Closet
+Countersquall
+Dark Depths
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Drowned Catacomb
+Elder Deep-Fiend
+Engulf the Shore
+Extract from Darkness
+Fact or Fiction
+Feed the Swarm
+Frantic Search
+Gyruda, Doom of Depths
+Halimar Depths
+Helm of the Host
+Hullbreaker Horror
+Icebreaker Kraken
+In Garruk's Wake
+Infernal Grasp
+Inkwell Leviathan
+Junk Winder
+Likeness Looter
+Marvo, Deep Operative
+Mask of Avacyn
+Mirror Box
+Mortuary Mire
+Myriad Landscape
+Nadir Kraken
+Negate
+Nemesis of Reason
+Ominous Seas
+Otherworldly Gaze
+Persist
+Ponder
+Profane Tutor
+Quest for Ula's Temple
+Quicksilver Amulet
+Rot-Tide Gargantua
+Sapphire Dragon
+Satoru Umezawa
+Scourge of Fleets
+Serpent of Yawning Depths
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Soothsaying
+Spawning Kraken
+Stonespeaker Crystal
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swiftfoot Boots
+Sword Coast Serpent
+Teferi's Time Twist
+Temple of Deceit
+Thassa, God of the Sea
+Thespian's Stage
+Thryx, the Sudden Storm
+Tromokratis
+Unmarked Grave
+Victimize
+Wayfarer's Bauble
+Whelming Wave
+Windfall
+Wonder
+Wrexial, the Risen Deep
+You Find the Villains' Lair
+
+Aethersquall Ancient
+Animate Dead
+Arcane Signet
+Archetype of Imagination
+Auton Soldier
+Buried Alive
+Careful Study
+Chart a Course
+Coiling Rebirth
+Collector's Vault
+Command Tower
+Conduit Pylons
+Connive // Concoct
+Consider
+Contingency Plan
+Counterspell
+Daggermaw Megalodon
+Diplomatic Immunity
+Dragon Wings
+Engulf the Shore
+Evolving Wilds
+Extract from Darkness
+Frantic Search
+Grappling Kraken
+Gyruda, Doom of Depths
+Hidden Grotto
+Hullbreaker Horror
+Incarnation Technique
+Island
+Junk Winder
+Lightning Greaves
+Long River's Pull
+Lord of the Void
+Mesmerizing Benthid
+Nemesis of Reason
+Otherworldly Gaze
+Persist
+Price of Fame
+Reanimate
+Restart Sequence
+Rhystic Study
+Rottenmouth Viper
+Rush of Knowledge
+Satoru Umezawa
+Scourge of Fleets
+Sea-Dasher Octopus
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shore Up
+Shoreline Looter
+Slip Out the Back
+Spark Double
+Spawning Kraken
+Stern Lesson
+Stormsurge Kraken
+Stormtide Leviathan
+Strionic Resonator
+Striped Riverwinder
+Swamp
+Swiftfoot Boots
+Taigam's Scheming
+Tainted Indulgence
+Terramorphic Expanse
+The Grim Captain's Locker
+Thirst for Discovery
+Unauthorized Exit
+Undercity Sewers
+Victimize
+Waker of Waves
+Wash Away
+Whelming Wave
+
+Aether Gale
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archetype of Imagination
+Beacon of Unrest
+Brainstorm
+Breaching Leviathan
+Brinelin, the Moon Kraken
+Buried Alive
+Command Tower
+Consider
+Contaminated Aquifer
+Counterspell
+Covetous Urge
+Crush of Tentacles
+Dark Depths
+Deep-Sea Kraken
+Diabolic Tutor
+Dimir Cluestone
+Dread Return
+Elder Deep-Fiend
+Engulf the Shore
+Fact or Fiction
+Feed the Serpent
+Fellwar Stone
+Fleet Swallower
+Godhunter Octopus
+Gyruda, Doom of Depths
+Hedron Crab
+High Tide
+Hulking Metamorph
+Irenicus's Vile Duplication
+Island
+Junk Winder
+Kiora Bests the Sea God
+Kraken of the Straits
+Likeness Looter
+Military Intelligence
+Mind Stone
+Negate
+Nezahal, Primal Tide
+Oneirophage
+Reservoir Kraken
+Rot-Tide Gargantua
+Scourge of Fleets
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Sink into Stupor
+Skyclave Relic
+Slinn Voda, the Rising Deep
+Sol Ring
+Spawning Kraken
+Stonespeaker Crystal
+Stormsurge Kraken
+Stormtide Leviathan
+Strategic Planning
+Striped Riverwinder
+Summon Undead
+Swamp
+Swan Song
+Swiftfoot Boots
+Sword Coast Serpent
+Thespian's Stage
+Thran Dynamo
+Thriving Isle
+Tidal Kraken
+Tolarian Kraken
+Trench Behemoth
+Tromokratis
+Unbreakable Bond
+Victimize
+Vivid Creek
+Whelming Wave
+Witness the Future
+Wonder
+Wrexial, the Risen Deep
+
+Ancient Tomb
+Arcane Signet
+Benthic Anomaly
+Bident of Thassa
+Brainstorm
+Brinelin, the Moon Kraken
+Choked Estuary
+Clearwater Pathway
+Command Tower
+Counterspell
+Dark Depths
+Dark Ritual
+Deep-Sea Kraken
+Dimir Aqueduct
+Drowned Catacomb
+Eaten by Piranhas
+Elder Deep-Fiend
+Engulf the Shore
+Entomb
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Fierce Guardianship
+Frantic Search
+Gloomlake Verge
+Gyruda, Doom of Depths
+Heartless Summoning
+High Tide
+Hullbreaker Horror
+Icebreaker Kraken
+Inkwell Leviathan
+Invasion of Segovia
+Island
+Junk Winder
+Kefnet's Monument
+Kiora Bests the Sea God
+Lightning Greaves
+Lochmere Serpent
+Mana Drain
+Marvo, Deep Operative
+Maskwood Nexus
+Mesmerizing Benthid
+Mirror Box
+Monstrosity of the Lake
+Morphic Pool
+Mox Diamond
+Myriad Landscape
+Nadir Kraken
+Negate
+Obsessive Stitcher
+Ominous Seas
+Persist
+Polluted Delta
+Quest for Ula's Temple
+Quicksilver Amulet
+Reanimate
+Reliquary Tower
+Reservoir Kraken
+Rhystic Study
+Sapphire Medallion
+Scourge of Fleets
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shipwreck Marsh
+Slinn Voda, the Rising Deep
+Sol Ring
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Sword Coast Serpent
+Tainted Indulgence
+Tainted Isle
+Thassa, God of the Sea
+The Everflowing Well
+The One Ring
+The Watcher in the Water
+Thryx, the Sudden Storm
+Tidal Terror
+Trench Behemoth
+Tromokratis
+Underground Sea
+Victimize
+Watery Grave
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+Aetherize
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archetype of Imagination
+Basilisk Collar
+Beacon of Unrest
+Bident of Thassa
+Bojuka Bog
+Brainstorm
+Brinelin, the Moon Kraken
+Buried Alive
+Burnished Hart
+Chart a Course
+Choked Estuary
+Coiling Rebirth
+Command Tower
+Counterspell
+Darkwater Catacombs
+Dimir Aqueduct
+Dimir Signet
+Eaten by Piranhas
+Elder Deep-Fiend
+Engulf the Shore
+Fact or Fiction
+Feed the Swarm
+Frantic Search
+Grappling Kraken
+Gyruda, Doom of Depths
+Halimar Depths
+Helm of the Host
+Hidden Grotto
+Imprisoned in the Moon
+In Garruk's Wake
+Island
+Junk Winder
+Kindred Discovery
+Kozilek's Unsealing
+Kraken of the Straits
+Likeness Looter
+Lochmere Serpent
+Mesmerizing Benthid
+Military Intelligence
+Monastery Siege
+Mortuary Mire
+Myriad Landscape
+Nadir Kraken
+Negate
+Notion Rain
+Obsessive Stitcher
+Otherworldly Gaze
+Path of Ancestry
+Preordain
+Restless Reef
+Rogue's Passage
+Scourge of Fleets
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Slinn Voda, the Rising Deep
+Sol Ring
+Solemn Simulacrum
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Sword Coast Serpent
+Temple of Deceit
+Temple of the False God
+Thing in the Ice
+Thryx, the Sudden Storm
+Wash Away
+Waterlogged Teachings
+Whelming Wave
+Wonder
+You Find the Villains' Lair
+
+Animate Dead
+Bojuka Bog
+Brainstorm
+Breaching Leviathan
+Brinelin, the Moon Kraken
+Command Tower
+Counterspell
+Crush of Tentacles
+Dark Depths
+Dark Ritual
+Darkwater Catacombs
+Deep-Sea Kraken
+Dread Return
+Elder Deep-Fiend
+Extract from Darkness
+Faceless Haven
+Fact or Fiction
+Feed the Swarm
+Frantic Search
+Halimar Depths
+Hullbreaker Horror
+Icebreaker Kraken
+Inkwell Leviathan
+Junk Winder
+Kefnet's Monument
+Kiora Bests the Sea God
+Kraken of the Straits
+Lochmere Serpent
+Lorthos, the Tidemaker
+Mana Drain
+Marit Lage's Slumber
+Mesmerizing Benthid
+Military Intelligence
+Mortuary Mire
+Mystic Remora
+Nadir Kraken
+Octopus Umbra
+Ominous Seas
+Omniscience
+Otherworldly Gaze
+Path of Ancestry
+Persist
+Pongify
+Quest for Ula's Temple
+Quicksilver Amulet
+Reservoir Kraken
+Rush of Knowledge
+Scourge of Fleets
+Sea-Dasher Octopus
+Sealock Monster
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Sol Ring
+Spawning Kraken
+Stitch Together
+Stormsurge Kraken
+Stormtide Leviathan
+Strionic Resonator
+Swamp
+Sword Coast Serpent
+Sword of the Animist
+Temple of Deceit
+Temple of the False God
+Thought Vessel
+Thryx, the Sudden Storm
+Trench Behemoth
+Tromokratis
+Undercity Sewers
+Unmarked Grave
+Victimize
+Wayfarer's Bauble
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+An Offer You Can't Refuse
+Animate Dead
+Arcane Signet
+Archetype of Imagination
+Blood on the Snow
+Bojuka Bog
+Buried Alive
+Chart a Course
+Command Tower
+Counterspell
+Crush of Tentacles
+Cyclonic Rift
+Dark Ritual
+Deep-Sea Kraken
+Deepchannel Mentor
+Dimir Signet
+Dramatic Reversal
+Dreamscape Artist
+Drowned Catacomb
+Frantic Search
+Frogify
+Frost Marsh
+Gilded Lotus
+Gyruda, Doom of Depths
+Hedron Crab
+High Tide
+Hostile Negotiations
+Hullbreaker Horror
+Ice Tunnel
+Incarnation Technique
+Kiora Bests the Sea God
+Kiora, the Rising Tide
+Lightning Greaves
+Living Death
+Living End
+Marvo, Deep Operative
+Mesmeric Orb
+Metamorphosis Fanatic
+Mirror Box
+Necromancy
+Otherworldly Gaze
+Patriarch's Bidding
+Persist
+Phenax, God of Deception
+Pongify
+Quest for Ula's Temple
+Rapid Hybridization
+Reality Shift
+Reanimate
+River Serpent
+Rush of Knowledge
+Sapphire Medallion
+Serpent of Yawning Depths
+Shipwreck Marsh
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Songs of the Damned
+Spawning Kraken
+Stitch Together
+Stormsurge Kraken
+Striped Riverwinder
+Sunken Hollow
+Swan Song
+Swiftfoot Boots
+Talisman of Dominance
+Thirst for Discovery
+Tolarian Serpent
+Traumatize
+Trench Gorger
+Vesuvan Drifter
+Victimize
+Watery Grave
+Whelming Wave
+Wonder
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Benthic Anomaly
+Bojuka Bog
+Brainstorm
+Brinelin, the Moon Kraken
+Buried Alive
+Careful Study
+Chart a Course
+Choked Estuary
+Command Tower
+Commander's Sphere
+Counterspell
+Cyclonic Rift
+Dark Ritual
+Deranged Assistant
+Dimir Locket
+Dimir Signet
+Dread Return
+Dreadwing Scavenger
+Drowned Catacomb
+Entomb
+Fellwar Stone
+Frantic Search
+Gloomlake Verge
+Grappling Kraken
+Gyruda, Doom of Depths
+Hullbreaker Horror
+Incarnation Technique
+Inkwell Leviathan
+Island
+Junk Winder
+Lightning Greaves
+Likeness Looter
+Lochmere Serpent
+Merfolk Looter
+Mind Stone
+Morphic Pool
+Mortuary Mire
+Myriad Landscape
+Obsessive Stitcher
+Otherworldly Gaze
+Quicksilver Amulet
+Reanimate
+Rhystic Study
+Sapphire Medallion
+Scourge of Fleets
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shipwreck Marsh
+Shoreline Looter
+Sky Diamond
+Sol Ring
+Soul Manipulation
+Spawning Kraken
+Stormtide Leviathan
+Strategic Planning
+Strionic Resonator
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Talisman of Dominance
+Three Steps Ahead
+Tidal Terror
+Toxic Deluge
+Trench Behemoth
+Tromokratis
+Victimize
+Vohar, Vodalian Desecrator
+Watery Grave
+Wayfarer's Bauble
+Whelming Wave
+Windfall
+Wonder
+You Find the Villains' Lair
+
+Aethersquall Ancient
+Animate Dead
+Arcane Signet
+Baleful Mastery
+Beacon of Unrest
+Bond of Revival
+Brinelin, the Moon Kraken
+Burnished Hart
+Chasm Skulker
+Choked Estuary
+Command Tower
+Compulsive Research
+Consider
+Cyclonic Rift
+Dark Ritual
+Darkwater Catacombs
+Deadly Rollick
+Dimir Aqueduct
+Dimir Signet
+Drown in the Loch
+Eaten by Piranhas
+Entomb
+Evolving Wilds
+Flood of Tears
+Frantic Search
+Go for the Throat
+Gyruda, Doom of Depths
+Halimar Depths
+High Tide
+Hullbreaker Horror
+Ice Tunnel
+Invasion of Segovia
+Junk Winder
+Kefnet's Monument
+Kraken Hatchling
+Lochmere Serpent
+Mana Drain
+Marvo, Deep Operative
+Monastery Siege
+Mortuary Mire
+Myriad Landscape
+Mystic Sanctuary
+Nadir Kraken
+Nykthos, Shrine to Nyx
+Obsessive Stitcher
+Otawara, Soaring City
+Otherworldly Gaze
+Out of the Tombs
+Quest for Ula's Temple
+Reality Shift
+Reanimate
+River Serpent
+Sapphire Medallion
+Serpent of Yawning Depths
+Shimmerdrift Vale
+Shipbreaker Kraken
+Sinister Sabotage
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Spawning Kraken
+Stitch Together
+Stormsurge Kraken
+Stormtide Leviathan
+Strategic Planning
+Sunken Hollow
+Tainted Isle
+Takenuma, Abandoned Mire
+Temple of Deceit
+Terramorphic Expanse
+The Grim Captain's Locker
+Thought Scour
+Toxic Deluge
+Turn Aside
+Urborg, Tomb of Yawgmoth
+Victimize
+Witch's Cottage
+Wonder
+Wrexial, the Risen Deep
+Yawgmoth's Vile Offering
+You Find the Villains' Lair
+
+Arcane Signet
+Archetype of Imagination
+Benthic Anomaly
+Bident of Thassa
+Brainstorm
+Breaching Leviathan
+Brinelin, the Moon Kraken
+Choked Estuary
+Command Tower
+Contaminated Aquifer
+Countersquall
+Daggermaw Megalodon
+Deep-Sea Kraken
+Dimir Aqueduct
+Engulf the Shore
+Enter the Enigma
+Ever After
+Extract from Darkness
+Feed the Swarm
+Fetid Pools
+Frantic Search
+Geier Reach Sanitarium
+Gloomlake Verge
+Gyruda, Doom of Depths
+Halimar Depths
+Hullbreaker Horror
+Imprisoned in the Moon
+Infernal Grasp
+Island
+Kefnet's Monument
+Kozilek's Unsealing
+Kraken of the Straits
+Leyline of Transformation
+Lochmere Serpent
+Lorthos, the Tidemaker
+Marvo, Deep Operative
+Merfolk Looter
+Mesmerizing Benthid
+Mirror Box
+Monstrosity of the Lake
+Nadir Kraken
+Nemesis of Reason
+Nephalia Drownyard
+Obsessive Stitcher
+Ominous Seas
+Propaganda
+Quest for Ula's Temple
+Rapid Hybridization
+Reliquary Tower
+Research the Deep
+Reservoir Kraken
+Restless Reef
+Rogue's Passage
+Scourge of Fleets
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shipwreck Marsh
+Shipwreck Singer
+Slinn Voda, the Rising Deep
+Sol Ring
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Swamp
+Swiftfoot Boots
+Tainted Isle
+Talisman of Dominance
+Temple of the False God
+The Mindskinner
+The Watcher in the Water
+Thryx, the Sudden Storm
+Tidal Terror
+Trench Behemoth
+Tromokratis
+Unmarked Grave
+Waker of Waves
+Wash Away
+Waterlogged Teachings
+Wayfarer's Bauble
+Whelming Wave
+Withering Torment
+Wonder
+Wrexial, the Risen Deep
+
+Agent of Treachery
+Amphin Mutineer
+Ancient Excavation
+Animate Dead
+Arcane Denial
+Arcane Signet
+Archaeomancer
+Benthic Anomaly
+Blinkmoth Nexus
+Choked Estuary
+Clearwater Pathway
+Command Tower
+Crashing Drawbridge
+Creeping Tar Pit
+Darkwater Catacombs
+Dimir Aqueduct
+Dimir Keyrune
+Dimir Signet
+Drown in the Loch
+Duplicant
+Elder Deep-Fiend
+Fabled Passage
+Faceless Haven
+Faerie Conclave
+Frantic Search
+Geier Reach Sanitarium
+Ghostly Pilferer
+Glasspool Mimic
+Guardian Idol
+Gyruda, Doom of Depths
+Heartless Summoning
+Hive of the Eye Tyrant
+Hullbreaker Horror
+Icebreaker Kraken
+Jhessian Zombies
+Junk Winder
+Lochmere Serpent
+Malakir Rebirth
+Mana Confluence
+Merfolk Looter
+Mirage Mirror
+Mutavault
+Myriad Landscape
+Obsessive Stitcher
+Otawara, Soaring City
+Otherworldly Gaze
+Peregrine Drake
+Persist
+Port of Karfell
+Quicksilver Amulet
+Reality Shift
+Reconnaissance Mission
+Resculpt
+Rite of Replication
+Rune-Scarred Demon
+Scourge of Fleets
+Sea-Dasher Octopus
+Serpent of Yawning Depths
+Shipwreck Marsh
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Spark Double
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swiftfoot Boots
+Sword of the Animist
+Syphon Mind
+Takenuma, Abandoned Mire
+Talisman of Dominance
+Teferi, Master of Time
+The Modern Age
+Thirst for Discovery
+Troll of Khazad-dûm
+Underground River
+Unmarked Grave
+Victimize
+Waker of Waves
+Watery Grave
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+You Find the Villains' Lair
+
+Academy Ruins
+Agent of Treachery
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Adaptation
+Arcane Signet
+Auton Soldier
+Black Market Connections
+Bolas's Citadel
+Brainstorm
+Breach the Multiverse
+Cabal Coffers
+Callidus Assassin
+Choked Estuary
+Coiling Rebirth
+Command Tower
+Creeping Tar Pit
+Cyclonic Rift
+Dark Ritual
+Darkwater Catacombs
+Dreamscape Artist
+Ethereal Usher
+Exotic Orchard
+Expedition Map
+Fact or Fiction
+Feed the Swarm
+Fierce Guardianship
+Frantic Search
+Glasspool Mimic
+Gyruda, Doom of Depths
+Hall of the Bandit Lord
+Heartless Summoning
+Hoarding Broodlord
+Junk Winder
+Likeness Looter
+Malakir Rebirth
+Mana Drain
+Maskwood Nexus
+Massacre Wurm
+Metamorphosis Fanatic
+Mimic Vat
+Mirror Room // Fractured Realm
+Morphic Pool
+Mutavault
+Myriad Landscape
+Mystic Remora
+Obsessive Stitcher
+Path of Ancestry
+Polluted Delta
+Ponder
+Prismatic Vista
+Reanimate
+Reliquary Tower
+Rhystic Study
+Roaming Throne
+Runed Stalactite
+Scourge of Fleets
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shipwreck Marsh
+Sire of Stagnation
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Solemn Simulacrum
+Spawning Kraken
+Stolen Identity
+Strionic Resonator
+Striped Riverwinder
+Sunken Hollow
+Swiftfoot Boots
+Sword of Hearth and Home
+Talisman of Dominance
+Temple of Deceit
+Temple of the False God
+Thassa, Deep-Dwelling
+Thran Dynamo
+Tomb Fortress
+Trinket Mage
+Undercity Sewers
+Underground Sea
+Urborg, Tomb of Yawgmoth
+Urza's Saga
+Vesuvan Drifter
+Victimize
+Vohar, Vodalian Desecrator
+Volrath's Stronghold
+Waker of Waves
+Watery Grave
+Whelming Wave
+Whip of Erebos
+Wonder
+Writ of Return
+
+Arcane Denial
+Arcane Signet
+Archetype of Imagination
+Benthic Anomaly
+Bojuka Bog
+Brainstorm
+Brinelin, the Moon Kraken
+Chart a Course
+Choked Estuary
+Coiling Rebirth
+Command Tower
+Commander's Sphere
+Counterspell
+Deep-Sea Kraken
+Dimir Aqueduct
+Don't Make a Sound
+Dreadwing Scavenger
+Drown in the Loch
+Evolving Wilds
+Exotic Orchard
+Extract from Darkness
+Feed the Swarm
+Fellwar Stone
+Frantic Search
+Glimmerburst
+Go for the Throat
+Gyruda, Doom of Depths
+Halimar Depths
+High Fae Trickster
+High Tide
+Hullbreaker Horror
+Inkwell Leviathan
+Island
+Junk Winder
+Kiora Bests the Sea God
+Kiora, the Rising Tide
+Kozilek's Unsealing
+Likeness Looter
+Live or Die
+Lochmere Serpent
+Lorthos, the Tidemaker
+Marvo, Deep Operative
+Mesmerizing Benthid
+Monstrosity of the Lake
+Nadir Kraken
+Negate
+Nemesis of Reason
+Ominous Seas
+Path of Ancestry
+Persist
+Ponder
+Quest for Ula's Temple
+Restart Sequence
+Scourge of Fleets
+Sea-Dasher Octopus
+Shipbreaker Kraken
+Slinn Voda, the Rising Deep
+Sol Ring
+Stormsurge Kraken
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Tainted Indulgence
+Talisman of Dominance
+Temple of Deceit
+Thirst for Discovery
+Tromokratis
+Underwater Tunnel // Slimy Aquarium
+Victimize
+Whelming Wave
+Withering Torment
+Wonder
+Wrexial, the Risen Deep
+
+Animate Dead
+Arcane Denial
+Arcane Signet
+Beacon of Unrest
+Biblioplex Kraken
+Bojuka Bog
+Breaching Leviathan
+Brinelin, the Moon Kraken
+Buried Alive
+Cabal Coffers
+Charix, the Raging Isle
+Choked Estuary
+Clearwater Pathway
+Collector's Vault
+Command Tower
+Cyclonic Rift
+Damnation
+Dark Depths
+Dark Ritual
+Deadly Rollick
+Deep-Sea Kraken
+Dimir Aqueduct
+Drowned Catacomb
+Elder Deep-Fiend
+Engulf the Shore
+Exhume
+Fierce Guardianship
+Gyruda, Doom of Depths
+Halimar Depths
+Hullbreaker Horror
+Icebreaker Kraken
+Inkwell Leviathan
+Invasion of Segovia
+Irenicus's Vile Duplication
+Junk Winder
+Kiora Bests the Sea God
+Kraken of the Straits
+Lightning Greaves
+Lochmere Serpent
+Lorthos, the Tidemaker
+Marvo, Deep Operative
+Matzalantli, the Great Door
+Mesmerizing Benthid
+Mirror Box
+Morphic Pool
+Mortuary Mire
+Myriad Landscape
+Nadir Kraken
+Nemesis of Reason
+Octopus Umbra
+Ominous Seas
+Persist
+Quest for Ula's Temple
+Reanimate
+Reliquary Tower
+Reservoir Kraken
+Restless Reef
+Rhystic Study
+Rite of Replication
+Rogue's Passage
+Rot-Tide Gargantua
+Scourge of Fleets
+Sea-Dasher Octopus
+Search for Azcanta
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shipwreck Marsh
+Snow-Covered Island
+Snow-Covered Swamp
+Sol Ring
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Strionic Resonator
+Sunken Hollow
+Swan Song
+Sword of the Animist
+Temple of Deceit
+Temple of the False God
+Tidal Kraken
+Tidal Terror
+Toxic Deluge
+Trench Behemoth
+Tromokratis
+Undercity Sewers
+Underground River
+Urborg, Tomb of Yawgmoth
+Victimize
+Watery Grave
+Whelming Wave
+Wrexial, the Risen Deep
+
+Aboshan's Desire
+Acquisition Octopus
+Arcane Signet
+Blood Beckoning
+Brainstorm
+Calamitous Tide
+Carrion Grub
+Cephalid Constable
+Cephalid Facetaker
+Cephalid Retainer
+Charix, the Raging Isle
+Contingency Plan
+Death Denied
+Deep-Sea Kraken
+Deep-Sea Terror
+Defossilize
+Devourer of Memory
+Dimir Keyrune
+Diresight
+Dirgur Nemesis
+Disentomb
+Echoing Return
+Extract from Darkness
+Fact or Fiction
+Gyruda, Doom of Depths
+Hazel's Nocturne
+Island
+Live or Die
+Lochmere Serpent
+Man-o'-War
+Marvo, Deep Operative
+Memory Plunder
+Mephitic Vapors
+Mesmerizing Benthid
+Monstrosity of the Lake
+Nadir Kraken
+Nemesis of Reason
+Notion Rain
+Otherworldly Gaze
+Pearl Lake Ancient
+Pull from the Deep
+Purple-Crystal Crab
+Reservoir Kraken
+Restless Reef
+Revel Ruiner
+Rot-Tide Gargantua
+Serpentine Ambush
+Sigil of Myrkul
+Sigiled Starfish
+Sinister Sabotage
+Sinister Starfish
+Slinn Voda, the Rising Deep
+Sol Ring
+Spellgyre
+Swamp
+Thassa, God of the Sea
+The Grim Captain's Locker
+The Watcher in the Water
+Think Tank
+Thirst for Discovery
+Thought Erasure
+Tromokratis
+Whelming Wave
+Wrexial, the Risen Deep
+
+Arcane Signet
+Archetype of Imagination
+Benthic Anomaly
+Breaching Leviathan
+Brinelin, the Moon Kraken
+Charcoal Diamond
+Choked Estuary
+Coiling Rebirth
+Command Tower
+Commander's Sphere
+Contaminated Aquifer
+Daggermaw Megalodon
+Darkwater Catacombs
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Dread Return
+Elder Deep-Fiend
+Evolving Wilds
+Exotic Orchard
+Fellwar Stone
+Gyruda, Doom of Depths
+Hullbreaker Horror
+Ice Tunnel
+Inkwell Leviathan
+Island
+Junk Winder
+Kefnet's Monument
+Kiora Bests the Sea God
+Kozilek's Unsealing
+Kraken of the Straits
+Likeness Looter
+Live or Die
+Lochmere Serpent
+Lorthos, the Tidemaker
+Marvo, Deep Operative
+Mesmerizing Benthid
+Metamorphosis Fanatic
+Mirror Box
+Monstrosity of the Lake
+Myriad Landscape
+Nadir Kraken
+Nemesis of Reason
+Obsessive Stitcher
+Ominous Seas
+Path of Ancestry
+Quest for Ula's Temple
+Quicksilver Amulet
+Reservoir Kraken
+Rot-Tide Gargantua
+Scourge of Fleets
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Sky Diamond
+Slinn Voda, the Rising Deep
+Sol Ring
+Solemn Simulacrum
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Sword Coast Serpent
+Tainted Isle
+Temple of Deceit
+Temple of the False God
+Terramorphic Expanse
+The Watcher in the Water
+Thran Dynamo
+Thryx, the Sudden Storm
+Trench Behemoth
+Tromokratis
+Victimize
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+Arcane Denial
+Arcane Signet
+Archetype of Imagination
+Benthic Anomaly
+Brainstorm
+Brinelin, the Moon Kraken
+Castle Vantress
+Choked Estuary
+Command Tower
+Contingency Plan
+Counterspell
+Cyclonic Rift
+Daggermaw Megalodon
+Damnation
+Dark Depths
+Darkwater Catacombs
+Deadly Rollick
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Drowned Catacomb
+Feed the Swarm
+Fierce Guardianship
+Frantic Search
+Gyruda, Doom of Depths
+Hall of Storm Giants
+Hullbreaker Horror
+Junk Winder
+Kozilek's Unsealing
+Lightning Greaves
+Lochmere Serpent
+Lorthos, the Tidemaker
+Marvo, Deep Operative
+Mesmerizing Benthid
+Mirror Box
+Mithril Coat
+Monstrosity of the Lake
+Morphic Pool
+Mystic Remora
+Negate
+No Mercy
+Otherworldly Gaze
+Phyrexian Arena
+Polluted Delta
+Ponder
+Propaganda
+Quest for Ula's Temple
+Quicksilver Amulet
+Reliquary Tower
+Rhystic Study
+Rivendell
+Roaming Throne
+Rogue's Passage
+Sapphire Medallion
+Satoru Umezawa
+Scourge of Fleets
+Sea-Dasher Octopus
+Search for Azcanta
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shipwreck Marsh
+Slinn Voda, the Rising Deep
+Snow-Covered Island
+Sol Ring
+Spark Double
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Sunken Hollow
+Sunken Ruins
+Sword Coast Serpent
+Sword of the Animist
+Tainted Isle
+Temple of Deceit
+The Meathook Massacre
+Thought Vessel
+Thryx, the Sudden Storm
+Tidal Terror
+Toxic Deluge
+Undercity Sewers
+Underground River
+Urborg, Tomb of Yawgmoth
+Vampiric Tutor
+Watery Grave
+Whelming Wave
+Withering Torment
+Wrexial, the Risen Deep
+
+Aetherize
+An Offer You Can't Refuse
+Ancient Brass Dragon
+Arcane Adaptation
+Arcane Signet
+Archon of Cruelty
+Bojuka Bog
+Brinelin, the Moon Kraken
+Buried Alive
+Choked Estuary
+Clearwater Pathway
+Command Tower
+Cyclonic Rift
+Dark Depths
+Dark Ritual
+Deadly Rollick
+Dimir Aqueduct
+Dimir Guildgate
+Dimir Signet
+Dread Return
+Drowned Catacomb
+Entomb
+Fact or Fiction
+Feed the Swarm
+Fellwar Stone
+Gloomlake Verge
+Helm of the Host
+Hullbreaker Horror
+Island
+Kozilek's Unsealing
+Lightning Greaves
+Liliana, Death Mage
+Lord of the Void
+Malakir Rebirth
+Mana Drain
+Marvo, Deep Operative
+Maskwood Nexus
+Matzalantli, the Great Door
+Mindleech Mass
+Mirror Room // Fractured Realm
+Morphic Pool
+Mortuary Mire
+Myriad Landscape
+Negate
+Octopus Umbra
+Otawara, Soaring City
+Phyrexian Arena
+Polluted Delta
+Ponder
+Preordain
+Propaganda
+Quicksilver Amulet
+Reality Shift
+Reconnaissance Mission
+Reservoir Kraken
+Rhystic Study
+Roaming Throne
+Rogue's Passage
+Rush of Knowledge
+Scourge of Fleets
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shard of the Nightbringer
+Shipwreck Marsh
+Sol Ring
+Spawning Kraken
+Stormsurge Kraken
+Strionic Resonator
+Sunken Hollow
+Sunken Ruins
+Swamp
+Swiftfoot Boots
+Sword of Feast and Famine
+Sword of the Animist
+Tainted Isle
+Takenuma, Abandoned Mire
+Talisman of Dominance
+Temple of Deceit
+Thespian's Stage
+Three Steps Ahead
+Tromokratis
+Twilight Prophet
+Undercity Sewers
+Underground Sea
+Underwater Tunnel // Slimy Aquarium
+Urborg, Tomb of Yawgmoth
+Victimize
+Watery Grave
+Whelming Wave
+Witch's Cottage
+Withering Torment
+
+An Offer You Can't Refuse
+Animate Dead
+Arcane Signet
+Baleful Strix
+Bitter Triumph
+Bojuka Bog
+Brainstorm
+Buried Alive
+Careful Study
+Choked Estuary
+Command Tower
+Consider
+Counterspell
+Dance of the Dead
+Darkslick Shores
+Deep-Sea Kraken
+Dimir Aqueduct
+Dimir Signet
+Doomed Necromancer
+Dread Return
+Drowned Catacomb
+Eaten by Piranhas
+Entomb
+Exhume
+Extract from Darkness
+Fabled Passage
+Feed the Swarm
+Flare of Denial
+Frantic Search
+Gloomlake Verge
+Gyruda, Doom of Depths
+Hullbreaker Horror
+Imprisoned in the Moon
+Inkwell Leviathan
+Island
+Junk Winder
+Kiora, the Rising Tide
+Lier, Disciple of the Drowned
+Lightning Greaves
+Likeness Looter
+Living Death
+Lochmere Serpent
+Malakir Rebirth
+Nadir Kraken
+Nezahal, Primal Tide
+Night's Whisper
+Obsessive Stitcher
+Otherworldly Gaze
+Palantír of Orthanc
+Persist
+Polluted Delta
+Ponder
+Pongify
+Preordain
+Psychic Frog
+Quest for Ula's Temple
+Quicksilver Amulet
+Rapid Hybridization
+Reanimate
+Scourge of Fleets
+Serpent of Yawning Depths
+Shipwreck Marsh
+Sol Ring
+Spawning Kraken
+Stitch Together
+Stormsurge Kraken
+Stormtide Leviathan
+Sunken Hollow
+Swamp
+Swiftfoot Boots
+Temple of the False God
+Thassa, God of the Sea
+Tolarian Terror
+Toxic Deluge
+Tromokratis
+Underground River
+Unmarked Grave
+Victimize
+Watery Grave
+Whelming Wave
+Wonder
+Wrexial, the Risen Deep
+
+Alchemist's Retrieval
+Ancient Crab
+Arcane Artisan
+Archghoul of Thraben
+Ashiok's Adept
+Ashiok's Reaper
+Ashiok, Nightmare Muse
+Behold the Multiverse
+Blade Juggler
+Bloodcrazed Socialite
+Brine Giant
+Capture Sphere
+Case of the Stashed Skeleton
+Catapult Fodder
+Chill of the Grave
+Claim of Erebos
+Coerced to Kill
+Concealing Curtains
+Courier Bat
+Cruel Witness
+Crumbling Vestige
+Cryptic Caves
+Curse of the Swine
+Deny the Divine
+Devourer of Memory
+Diver Skaab
+Doomed Dissenter
+Dreadlight Monstrosity
+Dreadwurm
+Evolving Wilds
+Fate Unraveler
+Fear of Death
+Floodtide Serpent
+Foulmire Knight
+Geistlight Snare
+Ghostly Flicker
+Gloom Sower
+Grasp of Darkness
+Grim Physician
+Inspired Sphinx
+Island
+Kozilek's Pathfinder
+Liliana's Devotee
+Macabre Reconstruction
+Marshmist Titan
+Mind Drain
+Mire Triton
+Mischievous Catgeist
+Mogis's Favor
+Myriad Landscape
+Noxious Groodion
+Nyxborn Marauder
+Opt
+Public Thoroughfare
+Reaver Drone
+Repository Skaab
+Rot-Tide Gargantua
+Sage of the Falls
+Saw It Coming
+Scattered Thoughts
+Selhoff Entomber
+Serpentine Ambush
+Sip of Hemlock
+Skywarp Skaab
+Sleep of the Dead
+Smitten Swordmaster
+Snarling Gorehound
+Steelclad Spirit
+Swamp
+Syphon Essence
+Tales of the Ancestors
+Temple Thief
+Thirst for Discovery
+Traveler's Amulet
+Undying Malice
+Unexplained Vision
+Unhallowed Phalanx
+Vampire's Kiss
+Verity Circle
+Warden of Geometries
+Wash Away
+Wedding Invitation
+Whispering Wizard
+Wicked Guardian
+Witness the Future
+Wretched Throng
+Zulaport Chainmage
+
+Arcane Signet
+Archetype of Imagination
+Benthic Anomaly
+Brainstorm
+Brinelin, the Moon Kraken
+Burnished Hart
+Command Tower
+Contaminated Aquifer
+Cyclonic Rift
+Dark Depths
+Dark Ritual
+Deep-Sea Kraken
+Dimir Guildgate
+Dread Return
+Elder Deep-Fiend
+Extract from Darkness
+Final Parting
+Frantic Search
+Gyruda, Doom of Depths
+Halimar Depths
+High Tide
+Hullbreaker Horror
+Ice Tunnel
+Inkwell Leviathan
+Invasion of Segovia
+Island
+Junk Winder
+Kefnet's Monument
+Kozilek's Unsealing
+Kraken of the Straits
+Lightning Greaves
+Live or Die
+Marvo, Deep Operative
+Morphic Pool
+Mortuary Mire
+Myriad Landscape
+Nadir Kraken
+Navigation Orb
+Nemesis of Reason
+Nezahal, Primal Tide
+Nyx Lotus
+Ominous Seas
+Omniscience
+Opt
+Polluted Delta
+Quest for Ula's Temple
+Quicksilver Amulet
+Ravenform
+Reconnaissance Mission
+Rogue's Passage
+Rush of Knowledge
+Sapphire Medallion
+Scourge of Fleets
+Scrapdiver Serpent
+Sensei's Divining Top
+Serpent of Yawning Depths
+Shipbreaker Kraken
+Shizo, Death's Storehouse
+Slinn Voda, the Rising Deep
+Sol Ring
+Spawning Kraken
+Stormsurge Kraken
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Temple of the False God
+Thassa, God of the Sea
+The Key to the Vault
+The Watcher in the Water
+Thespian's Stage
+Thought Vessel
+Thryx, the Sudden Storm
+Tolarian Kraken
+Tromokratis
+Verity Circle
+Virtue of Persistence
+Watery Grave
+Wayfarer's Bauble
+Whelming Wave
+Windfall
+Withering Torment
+Wonder
+Wrexial, the Risen Deep
+
+Ancestral Reminiscence
+Animate Dead
+Apprentice Necromancer
+Arcane Signet
+Bond of Revival
+Careful Study
+Choked Estuary
+Command Tower
+Connive // Concoct
+Consider
+Contingency Plan
+Countersquall
+Cryptic Serpent
+Curiosity
+Cut Down
+Darkwater Catacombs
+Dawn of the Dead
+Deep Analysis
+Deep-Sea Kraken
+Deranged Assistant
+Dimir Signet
+Don't Make a Sound
+Dream Eater
+Drown in the Loch
+Exotic Orchard
+Fellwar Stone
+Frantic Search
+Ghostly Pilferer
+Gyruda, Doom of Depths
+Hagra Mauling
+Halimar Depths
+Hidden Grotto
+Island
+Junk Winder
+Jwari Disruption
+Languish
+Likeness Looter
+Lochmere Serpent
+Marvo, Deep Operative
+Midnight Clock
+Mirrorshell Crab
+Murky Sewer
+Myriad Landscape
+Otherworldly Gaze
+Persist
+Port of Karfell
+Profane Tutor
+Reanimate
+River Serpent
+Rush of Knowledge
+Scourge of Fleets
+Soul Shatter
+Spell Pierce
+Sphinx of Enlightenment
+Stitcher's Supplier
+Stormtide Leviathan
+Striped Riverwinder
+Sunken Hollow
+Swamp
+Sword Coast Serpent
+Taigam's Scheming
+Tainted Indulgence
+Talisman of Dominance
+Tidal Terror
+Tidings
+Tolarian Winds
+Treasure Cruise
+Unmarked Grave
+Vesuvan Drifter
+Waker of Waves
+Waterlogged Teachings
+Wayfarer's Bauble
+Whelming Wave
+Wizards of Thay
+Wonder
+Worn Powerstone
+Yawgmoth's Vile Offering
+

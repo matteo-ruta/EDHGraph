@@ -1,0 +1,2973 @@
+Aetherize
+Aetherspouts
+Ancient Silver Dragon
+Arcane Denial
+Beacon of Tomorrows
+Castle Vantress
+Chrome Mox
+Clone Legion
+Consecrated Sphinx
+Counterbalance
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Desertion
+Disallow
+Dismiss
+Docent of Perfection
+Expropriate
+Finale of Revelation
+Flare of Denial
+Flusterstorm
+Halimar Depths
+Hall of Storm Giants
+Hullbreaker Horror
+Illusionist's Gambit
+Insidious Will
+Jace, the Mind Sculptor
+Jin-Gitaxias
+Lonely Sandbar
+Mana Drain
+Metallurgic Summonings
+Mind's Dilation
+Mindbreak Trap
+Mox Amber
+Muddle the Mixture
+Myriad Landscape
+Mystic Confluence
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Nexus of Fate
+Omniscience
+Pact of Negation
+Phyrexian Metamorph
+Pongify
+Propaganda
+Rapid Hybridization
+Reality Shift
+Reliquary Tower
+Rewind
+Rhystic Study
+Rite of Replication
+Rivendell
+Sapphire Medallion
+Scourge of Fleets
+Sea Gate Restoration
+Search for Azcanta
+Sensei's Divining Top
+Shark Typhoon
+Sink into Stupor
+Snapcaster Mage
+Snow-Covered Island
+Sol Ring
+Sower of Temptation
+Strix Serenade
+Swan Song
+Tale's End
+Teferi, Mage of Zhalfir
+Terrain Generator
+The Magic Mirror
+Tishana's Tidebinder
+Tolaria West
+Torrential Gearhulk
+Trinket Mage
+Urza's Saga
+
+Academy Loremaster
+Aethersnatch
+Aetherspouts
+Agent of Treachery
+Alandra, Sky Dreamer
+An Offer You Can't Refuse
+Arcane Epiphany
+Blast Zone
+Blatant Thievery
+Blue Sun's Twilight
+Brazen Borrower
+Bribery
+Calculated Dismissal
+Castle Vantress
+Cavalier of Gales
+Chasm Skulker
+Cosmic Epiphany
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Day's Undoing
+Decanter of Endless Water
+Desert of the Mindful
+Desertion
+Disallow
+Disdainful Stroke
+Dissipation Field
+Ertai's Scorn
+Exclude
+Fierce Guardianship
+Gadwick, the Wizened
+God-Eternal Kefnet
+Guile
+Halimar Depths
+Haughty Djinn
+Imprisoned in the Moon
+Invoke the Winds
+Island
+Jin-Gitaxias, Progress Tyrant
+Kira, Great Glass-Spinner
+Lonely Sandbar
+Lullmage Mentor
+Mass Manipulation
+Mind Flayer
+Mind Stone
+Mu Yanling, Sky Dancer
+Mystic Sanctuary
+Mystical Dispute
+Negate
+Nezahal, Primal Tide
+Otawara, Soaring City
+Propaganda
+Psychosis Crawler
+Quick Study
+Reef Worm
+Remand
+Remote Isle
+Rewind
+Rite of Replication
+Roil Elemental
+Sift
+Sinister Sabotage
+Skyline Cascade
+Sol Ring
+Sublime Epiphany
+Tale's End
+Talrand, Sky Summoner
+The Magic Mirror
+Time Stop
+Unwind
+Wavebreak Hippocamp
+Wizard's Retort
+You Find the Villains' Lair
+
+Aetherflux Reservoir
+Arcane Signet
+Back to Basics
+Bane's Contingency
+Baral's Expertise
+Blue Sun's Zenith
+Brain Freeze
+Caged Sun
+Castle Vantress
+Counterspell
+Crawlspace
+Cyclonic Rift
+Decanter of Endless Water
+Defabricate
+Disallow
+Dismiss
+Dramatic Reversal
+Enter the Infinite
+Everflowing Chalice
+Extraplanar Lens
+Faerie Mastermind
+Fierce Guardianship
+Flusterstorm
+Force of Negation
+Force of Will
+Guile
+Harbinger of the Seas
+Haughty Djinn
+Homunculus Horde
+Hullbreaker Horror
+Insidious Will
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Laboratory Maniac
+Leveler
+Library of Leng
+Mana Drain
+Maze of Ith
+Midnight Clock
+Mirror of Fate
+Misleading Signpost
+Mystic Remora
+Mystic Sanctuary
+Mystifying Maze
+Narset, Parter of Veils
+Otawara, Soaring City
+Pact of Negation
+Paradigm Shift
+Propaganda
+Reliquary Tower
+Rewind
+Rhystic Study
+Rivendell
+Search for Azcanta
+Snap
+Snapcaster Mage
+Sol Ring
+Tale's End
+Talrand, Sky Summoner
+Teferi's Puzzle Box
+Thassa's Oracle
+The Magic Mirror
+Thought Lash
+Thought Vessel
+Unwind
+Walking Ballista
+Wavebreak Hippocamp
+Windfall
+Wizard Class
+
+An Offer You Can't Refuse
+Brainstorm
+Capture of Jingzhou
+Cavern of Souls
+Chain of Vapor
+Condescend
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Day's Undoing
+Daze
+Delay
+Dismiss
+Dispel
+Dissolve
+Essence Scatter
+Fact or Fiction
+Flusterstorm
+Foil
+Gitaxian Probe
+High Tide
+Hullbreaker Horror
+Impulse
+Into the Flood Maw
+Island
+Just the Wind
+Logic Knot
+Long-Term Plans
+Mana Drain
+Mana Leak
+Memory Lapse
+Merchant Scroll
+Mystic Confluence
+Mystic Sanctuary
+Mystical Tutor
+Nagging Thoughts
+Narset, Parter of Veils
+Negate
+Nexus of Fate
+Obsessive Search
+Opt
+Pact of Negation
+Peek
+Polymorph
+Ponder
+Pongify
+Preordain
+Proteus Staff
+Remand
+Remove Soul
+Reweave
+Sage's Dousing
+Sapphire Medallion
+Serum Visions
+Snap
+Spell Pierce
+Strip Mine
+Strix Serenade
+Swan Song
+Synthetic Destiny
+Teferi, Temporal Pilgrim
+Telepathy
+Temporal Manipulation
+Temporal Trespass
+Think Twice
+Thirst for Knowledge
+Windfall
+
+Academy Elite
+Ancient Tomb
+Annul
+Arcane Epiphany
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Arrester's Admonition
+Artificer's Epiphany
+Brainstorm
+Calculated Dismissal
+Comparative Analysis
+Counterspell
+Court of Cunning
+Cyclonic Rift
+Decanter of Endless Water
+Deduce
+Deekah, Fractal Theorist
+Defabricate
+Deny Existence
+Depart the Realm
+Devious Cover-Up
+Disallow
+Disperse
+Dream Fracture
+Elite Arcanist
+Ertai's Scorn
+Exclude
+Field Research
+Fierce Guardianship
+Force of Negation
+Force of Will
+Hall of Storm Giants
+Into the Roil
+Into the Story
+Island
+Jace's Triumph
+Jace, the Mind Sculptor
+Keep Safe
+Learn from the Past
+Leave in the Dust
+Mana Drain
+Midnight Clock
+Misleading Signpost
+Mox Amber
+Murmuring Mystic
+Mystic Sanctuary
+Negate
+Patchwork Banner
+Precognition Field
+Quick Study
+Refute
+Roaming Throne
+Sapphire Medallion
+Snapcaster Mage
+Sol Ring
+Talrand, Sky Summoner
+Teferi, Temporal Pilgrim
+Telepathy
+Thought Vessel
+Throne of Eldraine
+Treasure Cruise
+Unauthorized Exit
+Unsummon
+Unwind
+Urza's Rebuff
+Wizard's Retort
+Wizards of Thay
+
+Arcane Denial
+Archaeomancer
+Archmage Emeritus
+Bane's Contingency
+Brainstorm
+Caged Sun
+Cancel
+Castle Vantress
+Command Tower
+Counterspell
+Cyclonic Rift
+Decanter of Endless Water
+Defabricate
+Disallow
+Disdainful Stroke
+Dismiss
+Dispel
+Dissipate
+Dissolve
+Don't Make a Sound
+Eluge, the Shoreless Sea
+Ertai's Scorn
+Essence Scatter
+Exclude
+Frantic Search
+Get Out
+Geyser Drake
+Guile
+Haughty Djinn
+High Tide
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jace's Sanctum
+Jace, Wielder of Mysteries
+Jin-Gitaxias, Progress Tyrant
+Mana Drain
+Mana Leak
+Metallurgic Summonings
+Midnight Clock
+Mindsplice Apparatus
+Mocking Sprite
+Murmuring Mystic
+Mystic Confluence
+Mystic Sanctuary
+Naiad of Hidden Coves
+Narset, Parter of Veils
+Negate
+Nezahal, Primal Tide
+Omniscience
+Ponder
+Preordain
+Propaganda
+Reliquary Tower
+Rewind
+Rhystic Study
+Rivendell
+Sapphire Medallion
+Sky Diamond
+Sol Ring
+Strix Serenade
+Tale's End
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+Telepathy
+Thought Vessel
+Throne of Eldraine
+Thunderclap Drake
+Tishana's Tidebinder
+Treasure Cruise
+Triskaidekaphile
+Unwind
+Wavebreak Hippocamp
+Windfall
+Wizard Class
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archaeomancer
+Archmage Emeritus
+Archmage of Runes
+Blue Sun's Zenith
+Brainstorm
+Castle Vantress
+Counterspell
+Cyclonic Rift
+Dazzling Denial
+Decanter of Endless Water
+Disdainful Stroke
+Dispel
+Dissipate
+Dissolve
+Don't Make a Sound
+Enter the Enigma
+Fabricate
+Fact or Fiction
+Faerie Mastermind
+Fellwar Stone
+Frantic Search
+Glimmerburst
+Guile
+Harbinger of the Seas
+Haughty Djinn
+High Tide
+Island
+Jace, Wielder of Mysteries
+Lightning Greaves
+Mana Leak
+Merchant Scroll
+Midnight Clock
+Mind Stone
+Muddle the Mixture
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Opt
+Ponder
+Pongify
+Preordain
+Propaganda
+Rapid Hybridization
+Refute
+Reliquary Tower
+Rewind
+Rivendell
+Sapphire Medallion
+Saw It Coming
+Sensei's Divining Top
+Sky Diamond
+Strix Serenade
+Swan Song
+Swiftfoot Boots
+Tale's End
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+Thought Vessel
+Three Steps Ahead
+Time Warp
+Unable to Scream
+Unwind
+Wavebreak Hippocamp
+Wizard Class
+
+Annul
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Back to Basics
+Boomerang
+Change the Equation
+Chrome Mox
+Cloud of Faeries
+Counterbalance
+Curious Homunculus
+Cyclonic Rift
+Daze
+Delay
+Dispel
+Disrupt
+Dream's Grip
+Essence Scatter
+Fatestitcher
+Fellwar Stone
+Fierce Guardianship
+Flare of Denial
+Flesh Duplicate
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Frantic Search
+Gitaxian Probe
+Harbinger of the Seas
+Into the Flood Maw
+Into the Roil
+Ipnu Rivulet
+Island
+March of Swirling Mist
+Mental Misstep
+Merchant Scroll
+Minamo, School at Water's Edge
+Mind Stone
+Mindbreak Trap
+Miscast
+Misdirection
+Misty Rainforest
+Moonsnare Prototype
+Mox Amber
+Mox Diamond
+Mox Opal
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Negate
+Obsessive Search
+Otawara, Soaring City
+Pact of Negation
+Polluted Delta
+Prismatic Lens
+Reality Shift
+Remand
+Repeal
+Resculpt
+Rhystic Study
+Sink into Stupor
+Snap
+Snapback
+Sol Ring
+Springleaf Drum
+Stifle
+Swan Song
+Tale's End
+Teferi's Ageless Insight
+Thought Vessel
+Trickbind
+Unsubstantiate
+Volatile Stormdrake
+Whirlwind Denial
+Windfall
+Winds of Rebuke
+Winter Moon
+
+Aetherize
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Baral's Expertise
+Brainstorm
+Brainsurge
+Cancel
+Censor
+Cephalid Coliseum
+Consider
+Contingency Plan
+Convolute
+Counterspell
+Cryptic Command
+Daze
+Deep Analysis
+Disallow
+Dispel
+Don't Make a Sound
+Eluge, the Shoreless Sea
+Essence Scatter
+Exclude
+Failed Inspection
+Flare of Denial
+Guile
+Harbinger of the Seas
+High Tide
+Hullbreaker Horror
+Hurkyl's Recall
+Hydroblast
+Hydroelectric Specimen
+Island
+Kitnap
+Kitsa, Otterball Elite
+Lonely Sandbar
+Long-Term Plans
+Lórien Revealed
+Mana Leak
+Midnight Clock
+Mind Stone
+Murmuring Mystic
+Mystic Remora
+Otawara, Soaring City
+Polymorph
+Ponder
+Pongify
+Preordain
+Pristine Talisman
+Propaganda
+Psychic Rebuttal
+Quick Study
+Rakshasa's Disdain
+Reasonable Doubt
+Remand
+Revolutionary Rebuff
+Rewind
+Sky Diamond
+Snapback
+Sol Ring
+Spellgyre
+Spelljack
+Steel Sabotage
+Taigam's Scheming
+Tale's End
+Talrand, Sky Summoner
+Tarnation Vista
+Throne of Eldraine
+Trail of Evidence
+Treasure Cruise
+Twist Reality
+Unwind
+Winds of Rebuke
+Winter Moon
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Azami, Lady of Scrolls
+Back to Basics
+Basalt Monolith
+Blue Sun's Zenith
+Chromatic Orrery
+Chrome Mox
+Commandeer
+Delay
+Dramatic Reversal
+Dress Down
+Ertai's Scorn
+Fabricate
+Fierce Guardianship
+Flare of Denial
+Flusterstorm
+Force of Negation
+Force of Will
+Forensic Gadgeteer
+Frantic Search
+Grim Monolith
+Harbinger of the Seas
+High Tide
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Long-Term Plans
+Lotus Petal
+Mana Drain
+Mana Leak
+Mana Vault
+Memory Lapse
+Merchant Scroll
+Mind Over Matter
+Misdirection
+Mox Amber
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Negate
+Otawara, Soaring City
+Pact of Negation
+Palinchron
+Paradigm Shift
+Personal Tutor
+Rhystic Study
+Sink into Stupor
+Snapcaster Mage
+Sol Ring
+Solve the Equation
+Spellseeker
+Step Through
+Swan Song
+Tale's End
+Thassa's Oracle
+Three Steps Ahead
+Unwind
+Vedalken Aethermage
+Walking Ballista
+Wash Away
+Whir of Invention
+Winter Moon
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archaeomancer
+Archmage Emeritus
+Archmage of Runes
+Archmage's Charm
+Back to Basics
+Bag of Holding
+Basalt Monolith
+Blue Sun's Zenith
+Brainstorm
+Brainsurge
+Capsize
+Cephalid Coliseum
+Codex Shredder
+Consecrated Sphinx
+Counterspell
+Daze
+Delay
+Disdainful Stroke
+Don't Make a Sound
+Dramatic Reversal
+Essence Scatter
+Fabricate
+Fact or Fiction
+Faerie Mastermind
+Finale of Revelation
+Flusterstorm
+Frantic Search
+Guile
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Jwari Disruption
+Lórien Revealed
+Mana Leak
+Memory Lapse
+Midnight Clock
+Mind Stone
+Mirrormade
+Miscast
+Mystic Confluence
+Mystic Remora
+Mystic Sanctuary
+Narset's Reversal
+Negate
+Prismatic Lens
+Quick Study
+Reliquary Tower
+Remand
+Rewind
+Rhystic Study
+Rivendell
+Sapphire Medallion
+Sceptre of Eternal Glory
+Sea Gate Restoration
+Sensei's Divining Top
+Sink into Stupor
+Snap
+Sol Ring
+Springleaf Drum
+Strix Serenade
+Swan Song
+Tale's End
+Teferi's Ageless Insight
+Telepathy
+Thought Vessel
+Three Steps Ahead
+Tribute Mage
+Unable to Scream
+Unwind
+Wash Away
+Windfall
+
+Abjure
+Abstruse Interference
+Academy Elite
+Access Denied
+Admiral's Order
+Aether Vial
+Agatha's Soul Cauldron
+Amulet of Safekeeping
+An Offer You Can't Refuse
+Annul
+Anticognition
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Archmage's Charm
+Assert Authority
+Assimilate Essence
+Atmosphere Surgeon
+Bane's Contingency
+Bar the Gate
+Bone to Ash
+Brainstorm
+Brine Seer
+Broken Concentration
+Cancel
+Case of the Ransacked Lab
+Ceremonious Rejection
+Cerulean Drake
+Change the Equation
+Complicate
+Confound
+Consign to Memory
+Convolute
+Countermand
+Counterspell
+Cryptic Command
+Cursecatcher
+Daring Apprentice
+Deekah, Fractal Theorist
+Defabricate
+Delay
+Deny Existence
+Deny the Divine
+Didn't Say Please
+Disallow
+Disdainful Stroke
+Dispel
+Dissipate
+Dissolve
+Eluge, the Shoreless Sea
+Ertai's Scorn
+Essence Scatter
+Guile
+Haughty Djinn
+Hullbreaker Horror
+Insidious Will
+Island
+Jin-Gitaxias, Progress Tyrant
+Murmuring Mystic
+Mystic Sanctuary
+Negate
+Out of Air
+Reliquary Tower
+Rewind
+Sapphire Medallion
+Saw It Coming
+Sol Ring
+Strix Serenade
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+Thought Vessel
+Unwind
+Wavebreak Hippocamp
+Wizard's Retort
+
+Arcane Denial
+Arcane Signet
+Archaeomancer
+Archmage Emeritus
+Archmage of Runes
+Arcum's Astrolabe
+Azami, Lady of Scrolls
+Brainstorm
+Cavern of Souls
+Counterbalance
+Counterspell
+Crawlspace
+Crucible of Worlds
+Cyclonic Rift
+Defabricate
+Delay
+Delightful Discovery
+Disdainful Stroke
+Dramatic Reversal
+Ertai's Scorn
+Exclude
+Faerie Mastermind
+Fierce Guardianship
+Flooded Strand
+Force of Negation
+Force of Will
+Frantic Search
+Ghostly Flicker
+Graven Lore
+Halimar Depths
+Harbinger of the Seas
+Hullbreaker Horror
+Hydroelectric Specimen
+Impulse
+Island
+Isochron Scepter
+Laboratory Maniac
+Library of Leng
+Lonely Sandbar
+Malevolent Hermit
+Mana Drain
+Maze of Ith
+Mind Stone
+Misleading Signpost
+Misty Rainforest
+Mox Amber
+Muddle the Mixture
+Myriad Landscape
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Negate
+Nexus of Fate
+Nezahal, Primal Tide
+Paradise Mantle
+Path of Ancestry
+Polluted Delta
+Pongify
+Prismatic Vista
+Propaganda
+Pull from Tomorrow
+Quick Study
+Rapid Hybridization
+Ravenform
+Rewind
+Rhystic Study
+Sapphire Medallion
+Saw It Coming
+Scalding Tarn
+Scroll Rack
+Sea Gate Restoration
+Sensei's Divining Top
+Sky Diamond
+Snap
+Snapcaster Mage
+Snow-Covered Island
+Sol Ring
+Spellseeker
+Step Through
+The Reality Chip
+Thought Vessel
+Three Steps Ahead
+Treasure Cruise
+Triskaidekaphile
+Vedalken Aethermage
+War Room
+Wavebreak Hippocamp
+Wayfarer's Bauble
+Windfall
+
+Aetherize
+Aethersnatch
+Arcane Denial
+Arcane Epiphany
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+Bribery
+Commandeer
+Counterspell
+Curse of the Swine
+Cyclonic Rift
+Decanter of Endless Water
+Deep Analysis
+Defabricate
+Delay
+Desertion
+Dig Through Time
+Disallow
+Disdainful Stroke
+Dissipate
+Echo Storm
+Echo of Eons
+Ertai's Scorn
+Evacuation
+Faerie Mastermind
+Fierce Guardianship
+Frantic Search
+Gather Specimens
+Homunculus Horde
+Hydroelectric Specimen
+Imprisoned in the Moon
+Island
+Jace's Sanctum
+Mana Leak
+Midnight Clock
+Mox Amber
+Myriad Landscape
+Narset's Reversal
+Negate
+Otawara, Soaring City
+Pongify
+Propaganda
+Rapid Hybridization
+Reality Shift
+Reliquary Tower
+Remand
+Rewind
+Rhystic Study
+Saw It Coming
+Sea Gate Restoration
+Sink into Stupor
+Sky Diamond
+Snapcaster Mage
+Sol Ring
+Solemn Simulacrum
+Spectral Deluge
+Swan Song
+Tale's End
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+Tempted by the Oriq
+Theoretical Duplication
+Treasure Cruise
+Triskaidekaphile
+Unwind
+Urza's Saga
+War Room
+Wash Away
+Wavebreak Hippocamp
+Windfall
+Witness Protection
+
+An Offer You Can't Refuse
+Anticipate
+Arcane Denial
+Arcane Signet
+Blue Sun's Zenith
+Boomerang
+Brainstorm
+Brainsurge
+Castle Vantress
+Codex Shredder
+Consign to Memory
+Counterspell
+Curious Homunculus
+Cyclonic Rift
+Dig Through Time
+Disdainful Stroke
+Dispel
+Dramatic Reversal
+Essence Scatter
+Evacuation
+Fabricate
+Finale of Revelation
+Flare of Denial
+Force of Will
+Frantic Search
+Ghost Quarter
+Gitaxian Probe
+Horribly Awry
+Imprisoned in the Moon
+Impulse
+Island
+Isochron Scepter
+Long River's Pull
+Mana Leak
+Maze of Ith
+Mind Stone
+Mirrormade
+Muddle the Mixture
+Murmuring Mystic
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Negate
+Nexus of Fate
+Opt
+Polluted Delta
+Ponder
+Pongify
+Preordain
+Refute
+Reliquary Tower
+Rewind
+Rhystic Study
+Sapphire Medallion
+Scalding Tarn
+Serum Visions
+Sinister Sabotage
+Sol Ring
+Solve the Equation
+Soul-Guide Lantern
+Subtlety
+Swan Song
+Tasha's Hideous Laughter
+Teferi's Puzzle Box
+Telepathy
+Treasure Cruise
+Utter Insignificance
+Void Shatter
+Windfall
+Witness Protection
+
+Alhammarret's Archive
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Bane's Contingency
+Capsize
+Castle Vantress
+Consuming Tide
+Counterspell
+Cryptic Command
+Decanter of Endless Water
+Deep Analysis
+Disallow
+Disdainful Stroke
+Dismiss
+Dissipate
+Dissolve
+Engulf the Shore
+Enter the Infinite
+Ertai's Scorn
+Essence Scatter
+Evacuation
+Exclude
+Fabricate
+Flow of Knowledge
+Foil
+Force of Negation
+Frantic Search
+Gilded Lotus
+Hall of Storm Giants
+Haughty Djinn
+High Tide
+Insidious Will
+Island
+Jace, Wielder of Mysteries
+Laboratory Maniac
+Leveler
+Lonely Sandbar
+Lullmage Mentor
+Mystic Confluence
+Mystic Sanctuary
+Mystical Tutor
+Neutralize
+Otawara, Soaring City
+Propaganda
+Quick Study
+Reality Shift
+Reliquary Tower
+Remand
+Reverse the Polarity
+Rewind
+Rhystic Study
+Rivendell
+Sapphire Medallion
+Saruman's Trickery
+Saw It Coming
+Sinister Sabotage
+Snap
+Snapcaster Mage
+Sol Ring
+Strix Serenade
+Tale's End
+Teferi's Ageless Insight
+Thassa's Oracle
+Throne of Eldraine
+Treasure Cruise
+Unwind
+Wash Away
+Wavebreak Hippocamp
+You Find the Villains' Lair
+
+Academy Ruins
+Amphibian Downpour
+Arcane Denial
+Archmage's Charm
+Bag of Holding
+Baral's Expertise
+Basalt Monolith
+Blue Sun's Zenith
+Brazen Borrower
+Capsize
+Chrome Host Seedshark
+Compulsive Research
+Confounding Riddle
+Desertion
+Desynchronization
+Dig Through Time
+Disallow
+Drawn from Dreams
+Engulf the Shore
+Evacuation
+Expedition Map
+Faerie Conclave
+Faerie Mastermind
+Finale of Revelation
+Folio of Fancies
+Fountainport
+Frantic Search
+Gadwick, the Wizened
+Ghostly Flicker
+Hall of Storm Giants
+High Tide
+Horizon of Progress
+Hullbreaker Horror
+Impulse
+Island
+Kefnet the Mindful
+Kozilek's Command
+Ledger Shredder
+Maddening Cacophony
+March of Swirling Mist
+Metallurgic Summonings
+Mirrex
+Mox Amber
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Naru Meha, Master Wizard
+Negate
+Occult Epiphany
+Otawara, Soaring City
+Overlord of the Floodpits
+Polymorphist's Jest
+Pore Over the Pages
+Pull from Tomorrow
+Read the Runes
+Rings of Brighthearth
+Riptide Laboratory
+Rivendell
+Sapphire Medallion
+Silundi Vision
+Snap
+Snapcaster Mage
+Sol Ring
+Spectral Deluge
+Step Through
+Stormchaser's Talent
+Sunken Citadel
+Sunscorched Desert
+Terrain Generator
+Thirst for Discovery
+Thirst for Knowledge
+Three Steps Ahead
+Tishana's Tidebinder
+Tolaria West
+Trophy Mage
+Urza's Cave
+Vexing Bauble
+Walking Ballista
+Wayfarer's Bauble
+Wizard Class
+You Find the Villains' Lair
+
+Agent of Treachery
+Alandra, Sky Dreamer
+Annex
+Arcanis the Omnipotent
+Archmage Emeritus
+Archmage of Runes
+Archmage's Charm
+Bone to Ash
+Cancel
+Case of the Ransacked Lab
+Circular Logic
+Condescend
+Controvert
+Counterbalance
+Counterlash
+Countermand
+Counterspell
+Countervailing Winds
+Cryptic Command
+Curious Homunculus
+Decanter of Endless Water
+Desertion
+Discombobulate
+Discontinuity
+Disdainful Stroke
+Dismal Failure
+Dismiss
+Dispel
+Dissipate
+Dissolve
+Ertai, Wizard Adept
+Exclude
+Fervent Denial
+Gauntlet of Power
+Guile
+Halimar Depths
+Halt Order
+Hullbreaker Horror
+Isochron Scepter
+Jace, Unraveler of Secrets
+Jin-Gitaxias
+Jin-Gitaxias, Progress Tyrant
+Kira, Great Glass-Spinner
+Kozilek, Butcher of Truth
+Lullmage Mentor
+Mana Drain
+Minamo's Meddling
+Mind Unbound
+Narset's Reversal
+Nezahal, Primal Tide
+Nykthos, Shrine to Nyx
+Octavia, Living Thesis
+Reliquary Tower
+Rewind
+Rhystic Study
+Riptide Laboratory
+Sapphire Medallion
+Sceptre of Eternal Glory
+Smirking Spelljacker
+Snow-Covered Island
+Sol Ring
+Solemn Simulacrum
+Spelljack
+Split Decision
+Talon Gates of Madara
+Talrand, Sky Summoner
+Temple of the False God
+Throne of Eldraine
+Time Stop
+
+Academy Ruins
+Anticognition
+Apprentice Wizard
+Arcane Signet
+Archmage's Charm
+Archway of Innovation
+As Foretold
+Body of Knowledge
+Brainstorm
+Brainsurge
+Careful Consideration
+Case of the Ransacked Lab
+Consider
+Control Magic
+Counterspell
+Curious Homunculus
+Deep Analysis
+Dig Through Time
+Disallow
+Dissipation Field
+Enduring Curiosity
+Ertai, Wizard Adept
+Flow of Ideas
+Frantic Search
+Get Out
+Guile
+Island
+Jace's Sanctum
+Mana Drain
+Minamo, School at Water's Edge
+Mind Control
+Mind Stone
+Mystic Confluence
+Mystic Sanctuary
+Narset's Reversal
+Negate
+Nyx Lotus
+Oboro, Palace in the Clouds
+Octavia, Living Thesis
+Opt
+Otawara, Soaring City
+Perilous Research
+Ponder
+Pondering Mage
+Propaganda
+Psychic Corrosion
+Quick Study
+Reliquary Tower
+Rewind
+Rhystic Study
+Sapphire Medallion
+Silundi Vision
+Sink into Stupor
+Sky Diamond
+Snapcaster Mage
+Sol Ring
+Stern Dismissal
+Summary Dismissal
+Talon Gates of Madara
+Teferi's Tutelage
+Telepathy
+Theoretical Duplication
+Thought Scour
+Thought Vessel
+Three Tree City
+Twist Reality
+Unable to Scream
+Unwind
+Whispers of the Muse
+Wizard Class
+Wizard's Retort
+
+Academy Ruins
+Accorder's Shield
+Aetherflux Reservoir
+Alhammarret's Archive
+Arcane Signet
+Archway of Innovation
+Artificer's Assistant
+Artificer's Intuition
+Astral Cornucopia
+Bone Saw
+Briber's Purse
+Buried Ruin
+Cathar's Shield
+Cephalid Coliseum
+Cephalid Shrine
+Chalice of the Void
+Clown Car
+Conjurer's Bauble
+Containment Construct
+Coral Atoll
+Crystal Shard
+Crystal Skull, Isu Spyglass
+Currency Converter
+Dark Sphere
+Darksteel Citadel
+Desynchronization
+Drafna's Restoration
+Echoing Truth
+Engineered Explosives
+Everflowing Chalice
+Fabricate
+Fblthp, Lost on the Range
+Forensic Gadgeteer
+Fortune Teller's Talent
+Geistwave
+Gitaxian Probe
+Glaring Fleshraker
+Hangarback Walker
+Herbal Poultice
+Island
+Jeweled Amulet
+Lodestone Bauble
+Loyal Inventor
+Memnite
+Mirrodin Besieged
+Mishra's Bauble
+Mystic Forge
+Ornithopter
+Otawara, Soaring City
+Paradise Mantle
+Patchwork Automaton
+Phyrexian Walker
+Proft's Eidetic Memory
+Relic of Legends
+Reshape
+Run Away Together
+Sai, Master Thopterist
+Saprazzan Bailiff
+Seat of the Synod
+Sensei's Divining Top
+Shield Sphere
+Sigil of Distinction
+Snap
+Sol Ring
+Spellbook
+Spidersilk Net
+Springleaf Drum
+Stonecoil Serpent
+Teferi's Ageless Insight
+Thirst for Knowledge
+Thoughtcast
+Tormod's Crypt
+Tribute Mage
+Trinket Mage
+Unsubstantiate
+Urza's Bauble
+Vedalken Archmage
+Vexing Bauble
+Void Mirror
+Walking Ballista
+Wayfarer's Bauble
+Welding Jar
+Whir of Invention
+Zuran Orb
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Bane's Contingency
+Blink of an Eye
+Brainstorm
+Bruvac the Grandiloquent
+Cancel
+Castle Vantress
+Commander's Sphere
+Consuming Tide
+Counterspell
+Cyclonic Rift
+Dazzling Denial
+Decanter of Endless Water
+Deep Analysis
+Disdainful Stroke
+Dissipate
+Dissolve
+Divination
+Don't Make a Sound
+Exclude
+Fierce Guardianship
+Flip the Switch
+Force of Negation
+Force of Will
+Guile
+Hullbreaker Horror
+Island
+Isochron Scepter
+Lose Focus
+Maddening Cacophony
+Mana Drain
+Mana Geode
+Mana Leak
+Murmuring Mystic
+Mystic Sanctuary
+Naiad of Hidden Coves
+Negate
+Niblis of Frost
+Otawara, Soaring City
+Out of Air
+Ponder
+Precognition Field
+Preordain
+Propaganda
+Rakshasa's Disdain
+Reliquary Tower
+Rewind
+Rhystic Study
+Rivendell
+Saw It Coming
+Sinister Sabotage
+Sky Diamond
+Snapcaster Mage
+Sol Ring
+Spell Pierce
+Spell Snuff
+Statute of Denial
+Talrand, Sky Summoner
+Telepathy
+Thassa's Oracle
+Thought Reflection
+Throne of Eldraine
+Treasure Cruise
+Unwind
+Vessel of Endless Rest
+Windfall
+Windrider Wizard
+Wizard's Retort
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Back to Basics
+Bane's Contingency
+Brainstorm
+Castle Vantress
+Change the Equation
+Counterspell
+Defabricate
+Disallow
+Disdainful Stroke
+Dismiss
+Dispel
+Dissipate
+Dramatic Reversal
+Ertai's Scorn
+Essence Scatter
+Filter Out
+Foil
+Frantic Search
+Glamdring
+Guile
+Haughty Djinn
+High Tide
+Hullbreaker Horror
+Insidious Will
+Island
+Isochron Scepter
+Jace's Sanctum
+Laboratory Maniac
+Lonely Sandbar
+Malevolent Hermit
+Mana Leak
+Merchant Scroll
+Mindsplice Apparatus
+Misleading Signpost
+Mists of Lórien
+Mocking Sprite
+Murmuring Mystic
+Mystic Confluence
+Mystic Sanctuary
+Naiad of Hidden Coves
+Negate
+Neutralize
+Ponder
+Precognition Field
+Preordain
+Quick Study
+Reliquary Tower
+Rewind
+Riptide Laboratory
+Rivendell
+Saw It Coming
+Siren Stormtamer
+Sol Ring
+Solve the Equation
+Spell Pierce
+Swiftfoot Boots
+Tale's End
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+Teferi, Temporal Pilgrim
+Telepathy
+The Magic Mirror
+Treasure Cruise
+Triskaidekaphile
+Unwind
+Wash Away
+Wavebreak Hippocamp
+Wizard Class
+Wizard's Retort
+You Find the Villains' Lair
+
+Aether Spike
+Arcane Signet
+Archmage Emeritus
+Archmage of Runes
+As Foretold
+Bane's Contingency
+Brainstorm
+Broken Concentration
+Cancel
+Consuming Tide
+Copy Enchantment
+Counterspell
+Daze
+Decanter of Endless Water
+Declaration of Naught
+Dig Through Time
+Dismiss
+Displacement Wave
+Dissipate
+Dissolve
+Dream Fracture
+Ertai's Scorn
+Exclude
+Flood of Tears
+Force Spike
+Frantic Search
+Guile
+Haughty Djinn
+High Tide
+Hullbreaker Horror
+Island
+Jace's Sanctum
+Jin-Gitaxias, Progress Tyrant
+Logic Knot
+Lookout's Dispersal
+Lose Focus
+Lullmage Mentor
+Mana Leak
+Metallurgic Summonings
+Midnight Clock
+Murmuring Mystic
+Naiad of Hidden Coves
+Neutralize
+Preordain
+Rakshasa's Disdain
+Remand
+Repulse
+Sage's Dousing
+Saw It Coming
+Scatter to the Winds
+Shark Typhoon
+Sinister Sabotage
+Sink into Stupor
+Sky Diamond
+Sleep
+Sol Ring
+Spell Pierce
+Spell Snuff
+Stoic Rebuttal
+Strix Serenade
+Talrand, Sky Summoner
+Treasure Cruise
+Unsummon
+Wavebreak Hippocamp
+Whelming Wave
+Wizard's Retort
+You Find the Villains' Lair
+
+An Offer You Can't Refuse
+Ancient Tomb
+Arcane Denial
+Arcane Signet
+Archaeomancer
+Archmage Emeritus
+Blue Sun's Zenith
+Brainstorm
+Case of the Ransacked Lab
+Castle Vantress
+Chrome Mox
+Consecrated Sphinx
+Counterspell
+Cryptic Command
+Cyclonic Rift
+Decanter of Endless Water
+Disallow
+Dispel
+Don't Make a Sound
+Dramatic Reversal
+Eluge, the Shoreless Sea
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flooded Strand
+Flusterstorm
+Force of Negation
+Force of Will
+Frantic Search
+Get Out
+Gitaxian Probe
+Glen Elendra Archmage
+High Tide
+Hullbreaker Horror
+Isochron Scepter
+Jin-Gitaxias, Progress Tyrant
+Lonely Sandbar
+Mental Misstep
+Midnight Clock
+Mind Stone
+Murmuring Mystic
+Myriad Landscape
+Mystic Confluence
+Mystic Remora
+Mystic Sanctuary
+Narset's Reversal
+Narset, Parter of Veils
+Negate
+Nykthos, Shrine to Nyx
+Opt
+Otawara, Soaring City
+Polluted Delta
+Ponder
+Pongify
+Preordain
+Propaganda
+Rapid Hybridization
+Reality Shift
+Reliquary Tower
+Rewind
+Rhystic Study
+Rivendell
+Sapphire Medallion
+Scalding Tarn
+Sea Gate Restoration
+Sink into Stupor
+Sky Diamond
+Snow-Covered Island
+Sol Ring
+Strix Serenade
+Swan Song
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+Thought Vessel
+Three Steps Ahead
+Thunderclap Drake
+Treasure Cruise
+Unwind
+Urza's Saga
+War Room
+Wavebreak Hippocamp
+Windfall
+
+All Is Dust
+Arcane Denial
+Arcane Epiphany
+Arcane Laboratory
+Archmage Emeritus
+Archmage of Runes
+Beacon of Tomorrows
+Bond of Insight
+Case of the Ransacked Lab
+Castle Vantress
+Confounding Riddle
+Crawlspace
+Cryptic Command
+Curse of the Swine
+Declaration of Naught
+Demolition Field
+Dig Through Time
+Disallow
+Dissipate
+Dizzy Spell
+Drown in Dreams
+Echoing Truth
+Elite Arcanist
+Eluge, the Shoreless Sea
+Ertai's Scorn
+Evacuation
+Fabricate
+Faerie Trickery
+Fatespinner
+Filter Out
+Flare of Denial
+Ghostly Flicker
+Haughty Djinn
+Hydroelectric Specimen
+Insidious Will
+Inspiration from Beyond
+Inspiring Refrain
+Into the Story
+Island
+Isochron Scepter
+Jwari Disruption
+Malevolent Hermit
+Maze of Ith
+Merchant Scroll
+Midnight Clock
+Mission Briefing
+Modify Memory
+Muddle the Mixture
+Mystic Confluence
+Mystic Sanctuary
+Mystical Tutor
+Naru Meha, Master Wizard
+Negate
+Nexus of Fate
+Pongify
+Propaganda
+Rapid Hybridization
+Reality Shift
+Resculpt
+Rewind
+Rivendell
+Sapphire Medallion
+Scavenger Grounds
+Silundi Vision
+Sink into Stupor
+Sol Ring
+Solve the Equation
+Soul-Guide Lantern
+Spellgyre
+Step Through
+Tale's End
+Teferi's Ageless Insight
+Telepathy
+Three Steps Ahead
+Thunderclap Drake
+Treasure Cruise
+Unwind
+Winter Moon
+Wipe Away
+
+Academy Ruins
+Aether Spellbomb
+Arcane Denial
+Archmage's Charm
+Blue Sun's Zenith
+Brainstorm
+Buried Ruin
+Clever Impersonator
+Commandeer
+Consecrated Sphinx
+Consuming Tide
+Counterspell
+Cryptic Command
+Dig Through Time
+Enter the Infinite
+Evacuation
+Fabricate
+Fierce Guardianship
+Flare of Denial
+Flusterstorm
+Frantic Search
+Grindstone
+High Tide
+Hullbreaker Horror
+Hydroelectric Specimen
+Island
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Mana Drain
+Merchant Scroll
+Misdirection
+Mockingbird
+Muddle the Mixture
+Myr Retriever
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Omniscience
+Pact of Negation
+Painter's Servant
+Personal Tutor
+Phyrexian Metamorph
+Pithing Needle
+Ponder
+Pongify
+Preordain
+Propaganda
+Rapid Hybridization
+Rhystic Study
+Sapphire Medallion
+Sea Gate Restoration
+Serum Visions
+Sink into Stupor
+Snap
+Snapcaster Mage
+Sol Ring
+Solemn Simulacrum
+Solve the Equation
+Spark Double
+Spell Pierce
+Spellseeker
+Strix Serenade
+Swan Song
+Teferi's Ageless Insight
+Thought Vessel
+Tishana's Tidebinder
+Tribute Mage
+Trinket Mage
+Trophy Mage
+Volatile Stormdrake
+Wash Away
+Windfall
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Bane's Contingency
+Blue Sun's Zenith
+Brainstorm
+Castle Vantress
+Change the Equation
+Counterspell
+Decanter of Endless Water
+Disdainful Stroke
+Dismiss
+Dispel
+Dissipate
+Dissolve
+Docent of Perfection
+Ertai's Scorn
+Faerie Mastermind
+Filter Out
+Gadwick, the Wizened
+Guile
+Haughty Djinn
+Hullbreaker Horror
+Insidious Will
+Island
+Isochron Scepter
+Jace's Sanctum
+Jin-Gitaxias, Progress Tyrant
+Malevolent Hermit
+Mana Drain
+Mana Leak
+Merchant Scroll
+Mind Stone
+Mindsplice Apparatus
+Minor Misstep
+Murmuring Mystic
+Mystic Confluence
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Naiad of Hidden Coves
+Narset, Parter of Veils
+Negate
+Omniscience
+Ponder
+Preordain
+Ravenform
+Reality Shift
+Reliquary Tower
+Rewind
+Sapphire Medallion
+Saw It Coming
+Sky Diamond
+Sol Ring
+Solve the Equation
+Swan Song
+Tale's End
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+Telepathy
+Temple of the False God
+Thought Vessel
+Treasure Cruise
+Unwind
+Wandering Archaic
+Wash Away
+Wavebreak Hippocamp
+Windfall
+You Find the Villains' Lair
+
+Aetherize
+Aetherspouts
+An Offer You Can't Refuse
+Arcane Signet
+Archaeomancer
+Archmage Emeritus
+As Foretold
+Baral's Expertise
+Basalt Monolith
+Blue Sun's Zenith
+Brainstorm
+Cancel
+Counterspell
+Decanter of Endless Water
+Defabricate
+Deprive
+Desertion
+Devastation Tide
+Disallow
+Dispel
+Dissipate
+Dramatic Reversal
+Drift of Phantasms
+Eaten by Piranhas
+Exclude
+Fabricate
+Faerie Mastermind
+Fatespinner
+Gadwick, the Wizened
+Gilded Lotus
+Gitaxian Probe
+Guile
+Halimar Depths
+Hullbreaker Horror
+Inventors' Fair
+Island
+Isochron Scepter
+Jin-Gitaxias, Progress Tyrant
+Laboratory Maniac
+Mana Leak
+Mental Misstep
+Merchant Scroll
+Mind Stone
+Miscast
+Misleading Signpost
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Negate
+Neutralize
+Personal Tutor
+Propaganda
+Pull from Tomorrow
+Rapid Hybridization
+Reality Shift
+Redirect
+Reliquary Tower
+Resculpt
+Sapphire Medallion
+Sol Ring
+Solve the Equation
+Spell Pierce
+Spellseeker
+Strix Serenade
+Stroke of Genius
+Teferi's Ageless Insight
+Terrain Generator
+Thought Vessel
+Throne of Eldraine
+Tishana's Tidebinder
+Tribute Mage
+Triskaidekaphile
+Wash Away
+Wash Out
+Whir of Invention
+
+An Offer You Can't Refuse
+Arcane Denial
+Archaeomancer
+Archmage Emeritus
+Bane's Contingency
+Brainstorm
+Cancel
+Capture of Jingzhou
+Counterspell
+Cyclonic Rift
+Deep Analysis
+Delay
+Dig Through Time
+Disdainful Stroke
+Dispel
+Dissipate
+Dissolve
+Ertai's Scorn
+Essence Scatter
+Fact or Fiction
+Flooded Strand
+Flow of Knowledge
+Frantic Search
+Harbinger of the Seas
+Haughty Djinn
+High Tide
+Hullbreaker Horror
+Impulse
+Insidious Will
+Island
+Laboratory Maniac
+Lightning Greaves
+Mana Drain
+Mana Leak
+Misty Rainforest
+Mocking Sprite
+Mystic Remora
+Mystical Tutor
+Naiad of Hidden Coves
+Negate
+Opt
+Otawara, Soaring City
+Out of Air
+Polluted Delta
+Ponder
+Pongify
+Preordain
+Propaganda
+Quick Study
+Rapid Hybridization
+Reliquary Tower
+Rewind
+Rhystic Study
+Sapphire Medallion
+Saw It Coming
+Scalding Tarn
+Sensei's Divining Top
+Sol Ring
+Solve the Equation
+Spell Pierce
+Sphinx of Forgotten Lore
+Strix Serenade
+Swan Song
+Syncopate
+Talrand, Sky Summoner
+Telepathy
+Thought Vessel
+Three Steps Ahead
+Treasure Cruise
+Triskaidekaphile
+Unwind
+Wash Away
+Wizard Class
+
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Archmage Emeritus
+Bane's Contingency
+Case of the Ransacked Lab
+Castle Vantress
+Consuming Tide
+Counterspell
+Cryptic Command
+Curse of the Swine
+Cyclonic Rift
+Defabricate
+Dig Through Time
+Disallow
+Dismiss
+Dissipate
+Dissolve
+Don't Make a Sound
+Dramatic Reversal
+Eluge, the Shoreless Sea
+Ertai's Scorn
+Essence Scatter
+Exclude
+Fierce Guardianship
+Frantic Search
+Geyser Drake
+Guile
+Haughty Djinn
+High Tide
+Hullbreaker Horror
+Insidious Will
+Island
+Isochron Scepter
+Jin-Gitaxias, Progress Tyrant
+Laboratory Maniac
+Malevolent Hermit
+Mana Drain
+Mana Leak
+Metallurgic Summonings
+Midnight Clock
+Mindsplice Apparatus
+Mocking Sprite
+Murmuring Mystic
+Myriad Landscape
+Mystic Confluence
+Mystic Sanctuary
+Narset, Parter of Veils
+Negate
+Neutralize
+Otawara, Soaring City
+Pongify
+Rapid Hybridization
+Reliquary Tower
+Remand
+Rewind
+Rhystic Study
+Rise from the Tides
+Rivendell
+Sapphire Medallion
+Sol Ring
+Tale's End
+Talrand, Sky Summoner
+Teferi's Ageless Insight
+The Magic Mirror
+Thunderclap Drake
+Treasure Cruise
+Unwind
+Wavebreak Hippocamp
+Windfall
+
+Aetherize
+An Offer You Can't Refuse
+Annul
+Anticognition
+Aqueous Form
+Arcane Denial
+Archaeomancer
+Cancel
+Cloak of Invisibility
+Compulsive Research
+Counterspell
+Curiosity
+Daze
+Devious Cover-Up
+Diplomatic Immunity
+Disciple of the Ring
+Dispel
+Dissolve
+Drawn from Dreams
+Essence Capture
+Essence Scatter
+Fierce Guardianship
+Foil
+Force Spike
+Frantic Search
+Gainsay
+Guile
+Hidden Strings
+Intervene
+Invisible Stalker
+Island
+Jace's Sanctum
+Jwari Disruption
+Keep Safe
+Logic Knot
+Lose Focus
+Mana Drain
+Mana Leak
+Marchesa's Emissary
+Miscalculation
+Naiad of Hidden Coves
+Narset, Parter of Veils
+Negate
+Nullify
+Ordeal of Thassa
+Outwit
+Psychic Barrier
+Ravenform
+Rhystic Study
+Snap
+Spell Pierce
+Stealer of Secrets
+Stern Dismissal
+Stubborn Denial
+Summary Dismissal
+Swan Song
+Talrand, Sky Summoner
+Telepathy
+Triton Shorestalker
+Unsubstantiate
+Unsummon
+Unwind
+Void Snare
+Wavebreak Hippocamp
+Whirlwind Denial
+Wizard Class
+
+An Offer You Can't Refuse
+Arcane Signet
+Azami, Lady of Scrolls
+Bane's Contingency
+Beacon of Tomorrows
+Boomerang
+Brainstorm
+Capture of Jingzhou
+Counterspell
+Cyclonic Rift
+Darksteel Ingot
+Deliberate
+Displacer Kitten
+Dour Port-Mage
+Dramatic Reversal
+Emergence Zone
+Extraplanar Lens
+Faerie Mastermind
+Fellwar Stone
+Fierce Guardianship
+Flare of Denial
+Future Sight
+Ghostly Flicker
+High Tide
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Kefnet the Mindful
+Laboratory Maniac
+Lórien Revealed
+Magus of the Future
+Mana Drain
+Merchant Scroll
+Micromancer
+Mind Stone
+Mindbreak Trap
+Mox Amber
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Nexus of Fate
+Nykthos, Shrine to Nyx
+Pact of Negation
+Part the Waterveil
+Patron Wizard
+Rapid Hybridization
+Reality Shift
+Refute
+Reliquary Tower
+Remote Isle
+Resculpt
+Rewind
+Rhystic Study
+Sapphire Medallion
+Serum Snare
+Shadow of the Second Sun
+Shipwreck Dowser
+Sigil Tracer
+Sink into Stupor
+Sol Ring
+Spellseeker
+Strix Serenade
+Thassa's Oracle
+The One Ring
+The Reality Chip
+Tolaria West
+Trinket Mage
+Trophy Mage
+Unsubstantiate
+Urza's Cave
+Vedalken Orrery
+Void Shatter
+Walk the Aeons
+
+Arcane Denial
+Archaeomancer
+As Foretold
+Beacon of Tomorrows
+Brainstorm
+Caged Sun
+Call to Mind
+Counterspell
+Cryptic Command
+Curse of the Swine
+Cyclonic Rift
+Delay
+Disallow
+Disdainful Stroke
+Dismiss
+Dissipate
+Dissolve
+Enter the Infinite
+Evacuation
+Exclude
+Fabricate
+Guile
+Halimar Depths
+High Tide
+Hinder
+Island
+Isochron Scepter
+Jace's Sanctum
+Jace, the Mind Sculptor
+Laboratory Maniac
+Leyline of Anticipation
+Mana Drain
+Mana Leak
+Memory Lapse
+Merchant Scroll
+Mnemonic Wall
+Mystic Confluence
+Mystic Sanctuary
+Mystical Tutor
+Negate
+Omniscience
+Overwhelming Denial
+Palinchron
+Ponder
+Pongify
+Precognition Field
+Preordain
+Rapid Hybridization
+Reliquary Tower
+Rewind
+Rhystic Study
+Rite of Replication
+Sapphire Medallion
+Scourge of Fleets
+Sensei's Divining Top
+Sol Ring
+Spelltwine
+Sublime Epiphany
+Talrand, Sky Summoner
+Tamiyo, the Moon Sage
+Telepathy
+Temporal Trespass
+Thought Vessel
+Time Stretch
+Time Warp
+Torrential Gearhulk
+Treasure Cruise
+Void Shatter
+
+Aether Barrier
+Ancient Tomb
+Arcane Laboratory
+Arcane Signet
+Back to Basics
+Basalt Monolith
+Blue Sun's Zenith
+Braingeyser
+Caged Sun
+Capsize
+Chrome Mox
+Cursed Totem
+Cyclonic Rift
+Dig Through Time
+Disallow
+Dramatic Reversal
+Fabricate
+Fierce Guardianship
+Force of Negation
+Force of Will
+Frozen Aether
+Gilded Drake
+Grafdigger's Cage
+Grim Monolith
+High Tide
+Island
+Isochron Scepter
+Jace, Wielder of Mysteries
+Jin-Gitaxias, Progress Tyrant
+Karn, the Great Creator
+Laboratory Maniac
+Long-Term Plans
+Lotus Petal
+Mana Breach
+Mana Drain
+Mana Vault
+Mana Web
+Merchant Scroll
+Mind Over Matter
+Mindslaver
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mycosynth Lattice
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Narset, Parter of Veils
+Nykthos, Shrine to Nyx
+Pact of Negation
+Palinchron
+Pendrell Mists
+Ponder
+Pongify
+Power Artifact
+Propaganda
+Rhystic Study
+Rings of Brighthearth
+Sensei's Divining Top
+Snapcaster Mage
+Sol Ring
+Swan Song
+Tangle Wire
+Teferi, Temporal Archmage
+Temple Bell
+Thassa's Oracle
+The Chain Veil
+The Tabernacle at Pendrell Vale
+Thought Vessel
+Time Spiral
+Transmute Artifact
+Treasure Cruise
+Urza, Lord High Artificer
+Walking Ballista
+War Room
+Windfall
+
+Aboleth Spawn
+Aether Barrier
+Archaeomancer
+Archmage Emeritus
+Back to Basics
+Bane's Contingency
+Blade of Selves
+Blue Sun's Twilight
+Castle Vantress
+Commandeer
+Countermand
+Counterspell
+Cryptic Command
+Cursed Totem
+Cut Your Losses
+Didn't Say Please
+Dig Through Time
+Disallow
+Dissipate
+Dream Cache
+Engulf the Shore
+Ertai's Scorn
+Fade Away
+Faerie Artisans
+Faerie Slumber Party
+Flow of Knowledge
+Fractured Sanity
+Fraying Sanity
+Get Out
+Guile
+Haughty Djinn
+Hullbreaker Horror
+Island
+Jace, Wielder of Mysteries
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Midnight Clock
+Muddle the Mixture
+Murmuring Mystic
+Mystic Redaction
+Mystic Remora
+Mystical Tutor
+Narset, Parter of Veils
+Ponder
+Preordain
+Psychic Corrosion
+Reality Shift
+Reliquary Tower
+Remand
+Resculpt
+Rewind
+Riptide Laboratory
+Rivendell
+Sapphire Medallion
+Saw It Coming
+Shark Typhoon
+Sol Ring
+Soldevi Excavations
+Solve the Equation
+Sphinx's Tutelage
+Svyelunite Temple
+Swiftfoot Boots
+Tale's End
+Talrand, Sky Summoner
+Teferi's Tutelage
+Terisian Mindbreaker
+The Mindskinner
+Thought Collapse
+Thought Scour
+Thought Vessel
+Wash Away
+Windfall
+Wizard's Retort
+
+Aetherize
+Altar of the Brood
+An Offer You Can't Refuse
+Arcane Denial
+Archaeomancer
+Brainstorm
+Chrome Mox
+Cloud of Faeries
+Counterspell
+Cyclonic Rift
+Delay
+Devious Cover-Up
+Disallow
+Disdainful Stroke
+Displacer Kitten
+Dissipate
+Dissolve
+Dream Fracture
+Essence Scatter
+Extraplanar Lens
+Fabricate
+Fierce Guardianship
+Foil
+Force of Negation
+Force of Will
+Frantic Search
+Guile
+High Tide
+Hullbreaker Horror
+Island
+Isochron Scepter
+Jin-Gitaxias, Core Augur
+Jin-Gitaxias, Progress Tyrant
+Library of Leng
+Long-Term Plans
+Lunar Insight
+Mentor's Guidance
+Merchant Scroll
+Moonsnare Prototype
+Mox Amber
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Neutralize
+Ominous Seas
+Otawara, Soaring City
+Paradise Mantle
+Patron Wizard
+Peregrine Drake
+Polymorph
+Ponder
+Proteus Staff
+Reliquary Tower
+Rewind
+Rivendell
+Sapphire Medallion
+Saruman's Trickery
+Sensei's Divining Top
+Sol Ring
+Solve the Equation
+Spell Shrivel
+Spell Swindle
+Spell Syphon
+Sphinx of the Second Sun
+Springleaf Drum
+Strix Serenade
+Swan Song
+Talrand, Sky Summoner
+Tidespout Tyrant
+Time Reversal
+Twist Reality
+Unwind
+Urza's Saga
+Wash Away
+Wavebreak Hippocamp
+Windfall
+You Find the Villains' Lair
+
+Academy Wall
+Aether Gale
+Aether Spike
+Aetherize
+Annul
+Bane's Contingency
+Brineborn Cutthroat
+Cancel
+Complicate
+Condescend
+Confounding Riddle
+Convolute
+Countervailing Winds
+Deep Analysis
+Defabricate
+Delver of Secrets
+Deny Existence
+Depart the Realm
+Dig Through Time
+Disciple of the Ring
+Disdainful Stroke
+Dismiss
+Dispel
+Disperse
+Dissipate
+Dissolve
+Engulf the Shore
+Ertai's Scorn
+Essence Scatter
+Fact or Fiction
+Failed Fording
+Filter Out
+Flash Counter
+Foil
+Forbid
+Frogify
+Gadwick, the Wizened
+Guile
+Hinder
+Island
+Long River's Pull
+Mana Leak
+Memory Lapse
+Murmuring Mystic
+Mystic Confluence
+Naiad of Hidden Coves
+Negate
+Neutralize
+Niblis of Frost
+Octavia, Living Thesis
+Opt
+Remand
+Rewind
+Rise from the Tides
+Sister of Silence
+Spell Pierce
+Stormtide Leviathan
+Talrand, Sky Summoner
+Telepathy
+Tolarian Terror
+Treasure Cruise
+Unauthorized Exit
+Unsubstantiate
+Wavebreak Hippocamp
+Whirlwind Denial
+Whispering Wizard
+You Find the Villains' Lair
+
+Aboshan, Cephalid Emperor
+An Offer You Can't Refuse
+Arcane Signet
+Archaeomancer
+Back to Basics
+Blatant Thievery
+Boomerang
+Brainstorm
+Clone
+Cloud of Faeries
+Command Tower
+Consecrated Sphinx
+Counterspell
+Cryptoplasm
+Cyclonic Rift
+Desert of the Mindful
+Devastation Tide
+Embargo
+Faerie Mastermind
+Fierce Guardianship
+Flare of Denial
+Flooded Strand
+Flusterstorm
+Force of Will
+Frantic Search
+Gitaxian Probe
+Glasspool Mimic
+Halimar Depths
+Haughty Djinn
+Hidden Cataract
+Hullbreaker Horror
+Island
+Ledger Shredder
+Lonely Sandbar
+Long River's Pull
+Lórien Revealed
+Man-o'-War
+Mana Breach
+Mana Drain
+Mana Vault
+Miscalculation
+Mockingbird
+Mystic Sanctuary
+Mystical Tutor
+Narset's Reversal
+Narset, Parter of Veils
+Ominous Seas
+Otawara, Soaring City
+Persuasion
+Phantasmal Image
+Phyrexian Metamorph
+Piracy
+Polluted Delta
+Ponder
+Pongify
+Propaganda
+Raise the Palisade
+Ravenform
+Reliquary Tower
+Remote Isle
+Rescind
+Rhystic Study
+Silver Myr
+Sink into Stupor
+Sol Ring
+Solemn Simulacrum
+Spark Double
+Spellseeker
+Stormtide Leviathan
+Subtlety
+Swan Song
+Teferi, Mage of Zhalfir
+The One Ring
+The Phasing of Zhalfir
+The Reality Chip
+Three Steps Ahead
+Undo
+Voracious Greatshark
+Wash Out
+Windfall
+
+Aetherflux Reservoir
+Altar of the Brood
+An Offer You Can't Refuse
+Anticognition
+Anvilwrought Raptor
+Assimilate Essence
+Bone to Ash
+Brainstorm
+Burnished Hart
+Caged Sun
+Cancel
+Chimil, the Inner Sun
+Circuit Mender
+Convolute
+Deny Existence
+Didn't Say Please
+Disdainful Stroke
+Ertai's Scorn
+Essence Scatter
+Faerie Mastermind
+Faerie Vandal
+Foundry Inspector
+Fountain of Renewal
+God-Pharaoh's Statue
+Helm of the Host
+Heraldic Banner
+Hulking Metamorph
+Hypnotic Sprite
+Ichor Wellspring
+Island
+Juggernaut
+Lofty Denial
+Manalith
+Mazemind Tome
+Memory Drain
+Miscast
+Mox Amber
+Negate
+Prismite
+Reject
+Rewind
+Roaming Throne
+Ruin Crab
+Saw It Coming
+Scatter Ray
+Sinister Sabotage
+Solemn Simulacrum
+Spell Pierce
+Spell Swindle
+Spotter Thopter
+Sublime Epiphany
+Supreme Will
+Swiftfoot Boots
+Sword of Body and Mind
+Sword of Fire and Ice
+Sword of Forge and Frontier
+Sword of Once and Future
+Urza's Rebuff
+Whirlwind Denial
+Wurmcoil Engine
+
+Aetherize
+Aetherspouts
+An Offer You Can't Refuse
+Arcane Denial
+Arcane Signet
+Bane's Contingency
+Case of the Ransacked Lab
+Castle Vantress
+Consuming Tide
+Counterspell
+Cyclonic Rift
+Defabricate
+Disciple of the Ring
+Disdainful Stroke
+Dissipate
+Elminster's Simulacrum
+Ertai's Scorn
+Essence Scatter
+Exclude
+Fact or Fiction
+Faerie Mastermind
+Force of Negation
+Geistlight Snare
+Geyser Drake
+Glamdring
+Halimar Depths
+Hall of Oracles
+Hall of Storm Giants
+Haughty Djinn
+Hurkyl's Final Meditation
+Imprisoned in the Moon
+Island
+Leyline of Anticipation
+Lórien Revealed
+Malevolent Hermit
+Mana Drain
+Mocking Sprite
+Mox Amber
+Myriad Landscape
+Mystic Remora
+Mystic Sanctuary
+Negate
+Out of the Way
+Patron Wizard
+Quick Study
+Reliquary Tower
+Rewind
+Rhystic Study
+Rivendell
+Runechanter's Pike
+Sapphire Medallion
+Saruman's Trickery
+See Double
+Serum Visions
+Sinister Sabotage
+Sol Ring
+Solemn Simulacrum
+Spell Pierce
+Spellseeker
+Stern Scolding
+Strix Serenade
+Supreme Will
+Suspend
+Talrand, Sky Summoner
+Telepathy
+Temple of the False God
+The Reality Chip
+Thought Scour
+Thought Vessel
+Triskaidekaphile
+Vexing Bauble
+Wandering Archaic
+Wash Away
+Windfall
+Wrong Turn
+
