@@ -28,7 +28,7 @@ class FileManag():
             with open(RESUME_FILE_PATH, "r", encoding="utf-8") as f:
                 text = f.read()
                 if text != "":
-                    self._current_file, self._current_deck = tuple(text.split(";"))
+                    self._current_file, self._current_deck = tuple([int(value) for value in text.split(";")])
                     print(f"Resume from file {self._current_file}, deck {self._current_deck}")
                 else:
                     raise FileNotFoundError
@@ -77,7 +77,7 @@ class FileManag():
 
         if self._nodes != {}:
             with open(NODES_STORAGE_FILE, "w", encoding="utf-8") as f:
-                for card_name, number in self._edges.items():
+                for card_name, number in self._nodes.items():
                     f.write(f"{card_name}@{number}\n")
 
         if self._edges != {}:
@@ -99,6 +99,7 @@ class FileManag():
 
                 self._file = [decklist.split("\n") for decklist in plain_string.split("\n\n")]
                 self._current_file += 1
+                self._current_deck = 0
         except FileNotFoundError as e:
             print("Next file not found, seems it's already over...")
             return False
@@ -110,8 +111,9 @@ class FileManag():
     def getNextDecklist(self) -> list:
         result = []
         if self._current_deck >= len(self._file):
-            if not self._next_file():
-                result = []
+            if self._next_file():
+                result = self._file[self._current_deck]
+                self._current_deck += 1
         else:
             result = self._file[self._current_deck]
             self._current_deck += 1
@@ -122,11 +124,25 @@ class FileManag():
             yield self.getNextDecklist()
     
     def updateNodes(self, node_values: dict):
+        added = 0
+        updated = 0
         for card_name in node_values.keys():
-            # card_name not in the dict, it will be automatically created at 0 before executing the +1 instruction
-            self._nodes[card_name] += node_values[card_name]
+            if card_name not in self._nodes.keys():
+                self._nodes[card_name] = node_values[card_name]
+                added += 1
+            else:
+                self._nodes[card_name] += node_values[card_name]
+                updated += 1
+        print(f"Nodes: Added {added}; Updated {updated}")
 
     def updateEdges(self, edge_values: dict):
+        added = 0
+        updated = 0
         for card_pair in edge_values.keys():
-            # as above
-            self._edges[card_pair] += edge_values[card_pair]
+            if card_pair not in self._edges.keys():
+                self._edges[card_pair] = edge_values[card_pair]
+                added += 1
+            else:
+                self._edges[card_pair] += edge_values[card_pair]
+                updated += 1
+        print(f"Edges: Added {added}; Updated {updated}")
