@@ -1,0 +1,11 @@
+services:
+  jupyter:
+    image: tiagopeixoto/graph-tool
+    ports:
+      - "8888:8888"
+      - "6006:6006"
+    user: "user"
+    working_dir: /home/user
+    volumes:
+      - ./:/home/user/jupyter
+    command: jupyter notebook --ip 0.0.0.0
