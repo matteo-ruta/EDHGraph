@@ -23,4 +23,4 @@ Contains all the code relative to the creation of the net, from the scraping par
 - `dim_reduction.py`: gathered the information stored in `top_commaders` directory and computes a PCA + clustering as specified above. It stores the output in `input.txt`
 - `dim_reduction_model.pkl`: scikit-learn model used for the PCA + clustering part in `dim_reduction.py` NOTE: in order to get the same result, you shall put this file in the same folder of `dim_reduction.py` before run it on local!
 ## graph
-Contains the notebook 'Graph.ipynb', which contains the code for the graph creation, save and the computation of the embedding and the clustering we used for the analysis.
+Contains the notebook `Graph.ipynb`, which contains the code for the graph creation, save and the computation of the embedding and the clustering we used for the analysis.
