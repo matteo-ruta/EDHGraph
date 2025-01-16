@@ -12,7 +12,7 @@ $$p_c=\frac{d_c}{\sum_{c'}{d_{c'}}}$$
 This number represents the probability that we could get a deck for commander $c$ if we had only decks from commanders in the list in our dataset. We also choosed the total number of decks to download $M$, with $M<\sum_{c'}{d_{c'}}$, then we computed the number of decks to download for each commander using $d_c^{final}=d_c*M$
 
 ## Graph creation
-Once we had the set of decklists, we proceed to create our graph. Each node is associated to unique card, and 2 cards are linked with an edge if and only if they appeared in the same decklist at least once. Each edge is weighted with the exact amount of deckists which contains both cards. During the computation of the centralities, we exchanged these values in order to get a proper significance for our scores.
+Once we had the set of decklists, we proceed to create our graph. Each node is associated to unique card, and 2 cards are linked with an edge if and only if they appeared in the same decklist at least once. Each edge is weighted with the exact amount of deckists which contains both cards. During the computation of the centralities, we exchanged these values in order to get a proper significance for our scores. See more details in the article `add article name`.
 
 # Repository Content
 
@@ -23,4 +23,9 @@ Contains all the code relative to the creation of the net, from the scraping par
 - `dim_reduction.py`: gathered the information stored in `top_commaders` directory and computes a PCA + clustering as specified above. It stores the output in `input.txt`
 - `dim_reduction_model.pkl`: scikit-learn model used for the PCA + clustering part in `dim_reduction.py` NOTE: in order to get the same result, you shall put this file in the same folder of `dim_reduction.py` before run it on local!
 ## graph
-Contains the notebook `Graph.ipynb`, which contains the code for the graph creation, save and the computation of the embedding and the clustering we used for the analysis.
+Contains the notebooks relative to the graph assemblation and computation.
+- `Graph.ipynb`: contains the code for the graph creation, save and the computation of the embedding and the clustering we used for the analysis
+- `Graph_test.ipynb`: test notebook we used for extra plots, also for extra experiments involving local clustering coefficients
+
+# Requirments
+In the `requirments.txt` are listed the main libraries we used for the project. If you just need to run the analysis part, is sufficient to install `pandas`, `graph-tool` and `scikit-learn`. NOTE: the authors found a conflict when trying to install on the same environment both the libraries for the data scraping part and `graph-tool` using Conda. We suggest you to create two separate environment if you need both.
